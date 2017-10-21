@@ -1,4 +1,5 @@
-1
+
+ 500pr_pgnumber016  1
 
 Qual a origem mais provável do algodoeiro?
 
@@ -42,7 +43,8 @@ que exploram economicamente o algodão.
 
 16
 
-Qual a variabilidade da espécie Gossypium hirsutum?
+
+ 500pr_pgnumber017  Qual a variabilidade da espécie Gossypium hirsutum?
 
 4
 
@@ -89,7 +91,8 @@ que produzem fibra de comprimento médio e curto. A fibra curta,
 
 17
 
-por exemplo, abaixo de 30 mm (classificação comercial) é produzida
+
+ 500pr_pgnumber018  por exemplo, abaixo de 30 mm (classificação comercial) é produzida
 pelas espécies G. arboreum e G. herbaceum, que são asiáticas e
 diplóides  (n=13,  2n=26)  e  também  por  alguns  tipos  do
 G.  barbadense,  como  o  tanguis  do  Peru,  e  por  diversas  raças
@@ -132,7 +135,8 @@ do  Sudão,  além  de  tipos  Tanguis  do  Peru,  que  produzem  fibra
 
 18
 
-extralonga,  também.  São  encontrados,  ainda,  o  rim-de-boi  e  o
+
+ 500pr_pgnumber019  extralonga,  também.  São  encontrados,  ainda,  o  rim-de-boi  e  o
 quebradinho (sementes soltas, sem línter), no Brasil, cujas sementes
 têm valor medicinal, além da fibra para uso em tecidos rústicos e
 outras aplicações.
@@ -169,7 +173,7 @@ cromossomos, alotetraplóides.
 De  onde  vem  a  palavra  algodão  (português)  e  algodón
 (espanhol)?
 
-Vem do árabe al coton, da mesma forma que coton (francês),
+Vem do árabe “al coton”, da mesma forma que coton (francês),
 cotone  (italiano),  e  cotton  (inglês).  Foram  os  árabes  que,  na
 antiguidade, disseminaram os manufaturados de algodão, a arte da
 fabricação dos tecidos e o próprio algodão, como mercadores que
@@ -177,7 +181,8 @@ foram.
 
 19
 
-14
+
+ 500pr_pgnumber020  14
 
 Quando  os  portugueses  descobriram  o  Brasil,  já  havia
 algodão aqui?
@@ -202,7 +207,8 @@ originou-se, no Peru, há mais de 5.000 anos.
 
 20
 
-2 Economia do Algodão
+
+ 500pr_pgnumber021  2 Economia do Algodão
 
 Robério Ferreira dos Santos
 
@@ -210,7 +216,8 @@ Maria Auxiliadora Lemos Barros
 
 21
 
-16
+
+ 500pr_pgnumber022  16
 
 Quais os efeitos da crise que atingiu a produção de algodão,
 no  Brasil,  nas  regiões  produtoras  e  nos  sistemas  de
@@ -252,7 +259,8 @@ mudanças no sistema de produção em uso, conseguindo-se atingir,
 
 22
 
-em termos agregados, um rendimento médio de 1.729 kg/ha de
+
+ 500pr_pgnumber023  em termos agregados, um rendimento médio de 1.729 kg/ha de
 algodão em caroço, quando alcançava-se um nível de 244 kg/ha
 de  algodão  em  caroço,  em  1982/83,  com  a  tecnologia  então
 adotada.  As  perspectivas  são  de  transferência  da  produção  de
@@ -265,7 +273,7 @@ Grosso.
  Quais as perspectivas da cotonicultura no Brasil, enquanto
 atividade competitiva?
 
- É  de  crescimento.
+• É  de  crescimento.
 Conta,  para  isso,
 com  diversos  fato-
 res positivos, como:
@@ -278,7 +286,7 @@ cado,  e  os  avanços  tecnológicos  estão  melhorando  as
 características da fibra, tornando-a cada vez mais adaptada
 às exigências do consumidor.
 
- A liberação cambial cria um cenário econômico mais propí-
+• A liberação cambial cria um cenário econômico mais propí-
 cio à expansão das commodities em geral. A expansão da
 fronteira agrícola em direção ao Centro-Oeste, baseada em
 sistema de produção mecanizado, de elevado rendimento
@@ -291,7 +299,8 @@ do setor privado.
 
 23
 
-19
+
+ 500pr_pgnumber024  19
 
  Qual a geração de emprego e renda relacionada à produção
 de algodão, no Brasil?
@@ -315,12 +324,12 @@ entrega seu algodão e cujas condições de preço são acertadas entre
 as partes. No mercado central, negocia-se em fardos de algodão
 em pluma. Nesse mercado, há duas formas de negócio:
 
- O  de  entrega  direta,  realizado  entre  maquinistas
+• O  de  entrega  direta,  realizado  entre  maquinistas
 e  negociantes  da  indústria  têxtil,  e  entre  maquinistas  e
 exportadores,  sendo  esta  a  principal  modalidade  de
 comercialização, no Brasil.
 
- O de mercado a termo ou entrega futura, cuja finalidade é
+• O de mercado a termo ou entrega futura, cuja finalidade é
 propiciar,  a  qualquer  pessoa,  a  compra  ou  venda  de
 mercadoria para entrega ou recebimento, em data futura.
 
@@ -336,17 +345,18 @@ películas fotográficas, chaves para radiografia e outros.
 
 24
 
- O  caroço  do  algodão,  rico  em  óleo  (de  18%  a  25%),  é
+
+ 500pr_pgnumber025  • O  caroço  do  algodão,  rico  em  óleo  (de  18%  a  25%),  é
 utilizado  na  alimentação  humana  e  na  fabricação  de
 margarina  e  sabão.  A  torta,  subproduto  do  caroço  do
 algodão, é empregada na alimentação animal devido ao
 seu alto valor protéico (de 40% a 45% de proteína).
 
- O  tegumento  é  usado  na  fabricação  de  certos  tipos  de
+• O  tegumento  é  usado  na  fabricação  de  certos  tipos  de
 
 plástico e de borracha sintética.
 
- A fabrilha, fina penugem agarrada ao caroço, é empregada
+• A fabrilha, fina penugem agarrada ao caroço, é empregada
 
 na indústria química de plástico, raião e explosivos.
 
@@ -381,7 +391,8 @@ Benin (136 mil t).
 
 25
 
-24
+
+ 500pr_pgnumber026  24
 
 Qual o volume mundialmente importado e os principais
 países importadores de algodão?
@@ -428,7 +439,8 @@ beneficiamento na fazenda.
 
 26
 
-A segunda consiste na cobrança ao produtor de uma tarifa
+
+ 500pr_pgnumber027  A segunda consiste na cobrança ao produtor de uma tarifa
 sobre a operação de descaroçamento, pelas empresas comerciais
 ou cooperativas, dedicadas ao beneficiamento, ficando a semente
 e a fibra com o produtor.
@@ -473,7 +485,8 @@ que se caracteriza por uma grande heterogeneidade dos ramos e
 
 27
 
-elevado grau de atomicidade das firmas, particularmente as do ramo
+
+ 500pr_pgnumber028  elevado grau de atomicidade das firmas, particularmente as do ramo
 de vestuário.
 
 30
@@ -517,7 +530,8 @@ que já contempla a depreciação.
 
 28
 
-34
+
+ 500pr_pgnumber029  34
 
 O que é custo social?
 
@@ -560,7 +574,8 @@ Quixeramobim, e Baixo Jaguaribe, em Limoeiro do Norte, estima-
 
 29
 
-ram-se,  em  novembro  de  2001,  custos  médios  de  produção  do
+
+ 500pr_pgnumber030  ram-se,  em  novembro  de  2001,  custos  médios  de  produção  do
 algodão herbáceo de sequeiro, com valores de, respectivamente,
 R$ 672,05/ha e R$ 806,21/ha.
 
@@ -603,7 +618,8 @@ pequeno agricultor, é notória a importância da pequena propriedade
 
 30
 
-rural para o desenvolvimento da economia brasileira. Ela atua como
+
+ 500pr_pgnumber031  rural para o desenvolvimento da economia brasileira. Ela atua como
 geradora de grande número de produtos para o mercado interno e
 o de exportação, e de emprego a baixo custo social. A agricultura
 familiar responde com maior eficiência e rapidez aos incentivos
@@ -645,7 +661,8 @@ deve-se  procurar  descobrir  quem  tem  interesse  em  comprar  a
 
 31
 
-produção, já que muita gente produz, mas perde a produção porque
+
+ 500pr_pgnumber032  produção, já que muita gente produz, mas perde a produção porque
 não planejou a venda. Um pré-contrato pode ser assinado com o
 comprador interessado que fizer a melhor proposta. O conjunto de
 produtores precisa garantir que a produção a ser vendida terá a
@@ -668,14 +685,16 @@ serem comprados.
 
 32
 
-3 Cultivares do Algodoeiro
+
+ 500pr_pgnumber033  3 Cultivares do Algodoeiro
 
 Eleusio Curvelo Freire
 Luiz Paulo de Carvalho
 
 33
 
-41
+
+ 500pr_pgnumber034  41
 
 Como os melhoristas avaliam as melhores cultivares a serem
 plantadas em cada região produtora do Brasil?
@@ -696,7 +715,7 @@ que devem ser consideradas no lançamento da nova cultivar.
 42
 
 Qual  a  diferença  entre  uma  cultivar  melhorada,  uma
-variedade local e as sementes de boca de máquina?
+variedade local e as sementes de “boca de máquina”?
 
 Cultivar  melhorada  é
 aquela que foi obtida por meio
@@ -718,7 +737,8 @@ distribuição  aos  produtores,
 
 34
 
-obedecendo a legislação vigente no estado e no País para cada
+
+ 500pr_pgnumber035  obedecendo a legislação vigente no estado e no País para cada
 tipo de semente a ser fornecida aos usuários.
 
 As variedades locais são tipos de algodoeiro preservados pelos
@@ -731,7 +751,7 @@ grande escala. Suas sementes, normalmente, são produzidas sem
 controle da fiscalização prevista na legislação, originando plantas
 desuniformes e menos produtivas.
 
-As  sementes  de  boca  de  máquina  são  constituídas  por
+As  sementes  de  “boca  de  máquina”  são  constituídas  por
 caroços oriundos do beneficiamento do algodão, que, em vez de
 serem  utilizadas  para  esmagamento,  são  adquiridas  por
 comerciantes,  que  as  distribuem  aos  produtores  menos
@@ -761,7 +781,8 @@ Uma  cultivar  em  degeneração  normalmente  se  caracteriza
 
 35
 
-por  perda  de  resistência  a  doenças,  quando  anteriormente
+
+ 500pr_pgnumber036  por  perda  de  resistência  a  doenças,  quando  anteriormente
 considerada como resistente, bem como pela desuniformidade no
 porte,  na  precocidade,  na  produtividade  das  plantas  e  nas
 características tecnológicas de fibras.
@@ -775,15 +796,15 @@ Podem  ser  utilizadas  várias  metodologias,  incluindo  as
 
 seguintes:
 
- Preservação da semente original em câmara fria, para uso,
+• Preservação da semente original em câmara fria, para uso,
 a  cada  ano,  de  uma  pequena  quantidade,  para  fins  de
 renovação da semente a ser produzida.
 
- Uso de um dos métodos de seleção massal para obter uma
+• Uso de um dos métodos de seleção massal para obter uma
 certa quantidade de sementes colhida no meio do campo,
 para a formação do novo campo de semente original.
 
- Uso do método da seleção individual com teste de progênie
+• Uso do método da seleção individual com teste de progênie
 para recompor a semente original da cultivar, a cada três
 anos, após o lançamento.
 
@@ -809,10 +830,11 @@ Cultivares do Ministério da Agricultura, Pecuária e Abastecimento.
 
 36
 
-No Serviço Nacional de Proteção de Cultivares é efetuada a proteção
+
+ 500pr_pgnumber037  No Serviço Nacional de Proteção de Cultivares é efetuada a proteção
 das cultivares por seus obtentores, visando a cobrança de royalties
 futuros. Junto a esse Serviço funciona, também, o Registro Nacional
-de Cultivares  RNC , onde devem ser registradas todas as cultivares
+de Cultivares – RNC –, onde devem ser registradas todas as cultivares
 a  serem  multiplicadas  e  plantadas,  no  Brasil,  visando  sua
 comercialização e plantio em cada safra agrícola.
 
@@ -839,7 +861,7 @@ O que significa VCU?
 É o valor de cultivo e uso de uma cultivar, a ser determinado
 por meio de pesquisas específicas, devendo ser comprovado pelo
 SNPC/RNC  para  fins  de  registro  no  Ministério  da  Agricultura,
-Pecuária e Abastecimento  Mapa. Considera-se que uma cultivar
+Pecuária e Abastecimento – Mapa. Considera-se que uma cultivar
 possui VCU suficiente para seu registro, quando a mesma apresenta
 produtividade média de 5% acima da testemunha comercial, ou
 produtividade equivalente, porém com características tecnológicas
@@ -854,7 +876,8 @@ Cultivar  protegida  é  a  que  possui  certificado  de  proteção
 
 37
 
-expedido  pelo  SNPC/Mapa,  por  solicitação  de  seus  obtentores,
+
+ 500pr_pgnumber038  expedido  pelo  SNPC/Mapa,  por  solicitação  de  seus  obtentores,
 visando à proteção dos direitos do obtentor para sua exploração
 futura.  As  sementes  das  cultivares  protegidas  só  podem  ser
 produzidas e comercializadas pelo obtentor ou por seus licenciados
@@ -871,7 +894,8 @@ a seguir:
 
 38
 
-O que significa cultivar Registrada?
+
+ 500pr_pgnumber039  O que significa cultivar Registrada?
 
 52
 
@@ -921,11 +945,14 @@ algodoeiro anual, com ciclo de 3 anos.
 
 39
 
-40
+
+ 500pr_pgnumber040  40
 
-41
+
+ 500pr_pgnumber041  41
 
-56
+
+ 500pr_pgnumber042  56
 
 Quais as cultivares de algodoeiro colorido disponíveis no
 Brasil?
@@ -947,11 +974,11 @@ cultivares  conduzidos  pela  Embrapa,  as  cultivares  de  melhor
 desempenho agronômico e tecnológico, no cerrado, atualmente
 são as seguintes:
 
- Grandes produtores: CNPA ITA 90, BRS IPÊ, BRS SUCUPIRA,
+• Grandes produtores: CNPA ITA 90, BRS IPÊ, BRS SUCUPIRA,
 BRS  AROEIRA,  BRS  CEDRO,  DELTAOPAL,  COODETEC
 407, STONEVILLE 474, FIBERMAX 966 e BRS JATOBA.
 
- Agricultores  familiares:  BRS  AROEIRA,  BRS  ITAÚBA,
+• Agricultores  familiares:  BRS  AROEIRA,  BRS  ITAÚBA,
 
 BRS FACUAL.
 
@@ -960,8 +987,8 @@ BRS FACUAL.
 Quais as cultivares de algodoeiro de melhor desempenho,
 para plantio nas regiões Sul e Sudeste do Brasil?
 
- Região Sul: IPR 94, IPR 95, IPR 96.
- Região  Sudeste:  IAC  23,  IAC  24,  EPAMIG  PRECOCE  1,
+• Região Sul: IPR 94, IPR 95, IPR 96.
+• Região  Sudeste:  IAC  23,  IAC  24,  EPAMIG  PRECOCE  1,
 
 EPAMIG ALVA, EPAMIG LIÇA.
 
@@ -971,16 +998,17 @@ Quais as cultivares de algodoeiro de melhor desempenho,
 para plantio no Nordeste e Norte do Brasil?
 
 Região Nordeste
- Áreas  de  Cerrado:  DELTAOPAL,  BRS  SUCUPIRA,  CNPA
+• Áreas  de  Cerrado:  DELTAOPAL,  BRS  SUCUPIRA,  CNPA
 ITA 90, BRS AROEIRA, BRS IPÊ, BRS CEDRO, BRS JATOBÁ.
 
 42
 
- Áreas do Semi-Árido: CNPA 7H, BRS 8H, BRS PRECOCE 3,
+
+ 500pr_pgnumber043  • Áreas do Semi-Árido: CNPA 7H, BRS 8H, BRS PRECOCE 3,
 
 BRS 200 MARROM , BRS 201, CNPA 7MH.
 
- Áreas irrigadas: CNPA ITA 90, ACALA SM 3, DELTAOPAL,
+• Áreas irrigadas: CNPA ITA 90, ACALA SM 3, DELTAOPAL,
 
 BRS ACALA, BRS CEDRO.
 
@@ -999,7 +1027,8 @@ encontram-se na Tabela 3, a seguir.
 
 43
 
-61
+
+ 500pr_pgnumber044  61
 
 Quais as cultivares de fibra longa disponíveis no Brasil?
 
@@ -1043,7 +1072,8 @@ bem  como  um  custo  de  pro-
 
 44
 
-dução mais baixo, devido à dispensa do uso de fungicidas para o
+
+ 500pr_pgnumber045  dução mais baixo, devido à dispensa do uso de fungicidas para o
 controle das doenças da parte aérea, redução no uso de inseticidas
 para  o  controle  dos  pulgões,  como  vetores  de  viroses  e  de
 nematicidas e para o controle do complexo fusarium-nematóide.
@@ -1056,8 +1086,8 @@ sementes de cultivares desenvolvidas em outros países?
 A solicitação de importação deve ser requerida à Embrapa
 Recursos  Genéticos  e  Biotecnologia,  que,  após  verificar  a
 inexistência  de  restrição  fitossanitária,  encaminhará  parecer
-favorável ao Ministério da Agricultura, Pecuária e Abastecimento 
-Mapa , que liberará a importação das sementes.
+favorável ao Ministério da Agricultura, Pecuária e Abastecimento –
+Mapa –, que liberará a importação das sementes.
 
 65
 
@@ -1066,7 +1096,7 @@ e/ou no mundo, para fins de pesquisa?
 
 As  sementes  devem  ser  solicitadas  diretamente  à  Embrapa
 Recursos  Genéticos  e  Biotecnologia.  Parque  Estação
-Biológica    PqEB,  Av.  W5  Norte  (final),  Caixa  Postal  02372,
+Biológica  –  PqEB,  Av.  W5  Norte  (final),  Caixa  Postal  02372,
 CEP 70770-900, Fone: (61) 448-4700, Fax: (61) 340-3624, E-mail:
 sin@cenargen.embrapa.br.
 
@@ -1081,7 +1111,9 @@ brasileiro, para fins de pesquisa ou comerciais.
 
 45
 
-4 Manejo Cultural
+
+ 500pr_pgnumber046  
+ 500pr_pgnumber047  4 Manejo Cultural
 
 do Algodoeiro
 
@@ -1093,7 +1125,8 @@ Laudemiro Baldoíno da Nóbrega
 
 José Wellingthon dos Santos
 
-66
+
+ 500pr_pgnumber048  66
 
 Qual  o  método  mais  recomendado  de  semeadura  do
 algodão?
@@ -1135,7 +1168,8 @@ de plantas.
 
 48
 
-Quais as recomendações quanto ao uso do desbaste?
+
+ 500pr_pgnumber049  Quais as recomendações quanto ao uso do desbaste?
 
 69
 
@@ -1181,7 +1215,8 @@ acarretar problemas com pragas, com reflexos no rendimento.
 
 49
 
-72
+
+ 500pr_pgnumber050  72
 
 Qual a melhor época de plantio para o norte de Minas e a
 Região Nordeste?
@@ -1225,7 +1260,8 @@ o tamanho da área disponível para cada planta na referida lavoura.
 
 50
 
-Qual a definição de arranjo de plantas num algodoal?
+
+ 500pr_pgnumber051  Qual a definição de arranjo de plantas num algodoal?
 
 75
 
@@ -1271,7 +1307,8 @@ disponibilidade de água no solo; e a fertilidade do solo.
 
 51
 
-78
+
+ 500pr_pgnumber052  78
 
 Como  a  cultivar  interfere  na  população  ótima  de  uma
 lavoura?
@@ -1318,7 +1355,8 @@ ao estresse hídrico, ou veranicos, como é o caso do Semi-Árido
 
 52
 
-nordestino,  recomenda-se,  por  exemplo,  o  uso  de  níveis
+
+ 500pr_pgnumber053  nordestino,  recomenda-se,  por  exemplo,  o  uso  de  níveis
 populacionais menores, dentro da faixa ótima de 50 mil a 100 mil
 plantas/ha. Nessas circunstâncias, recomenda-se uma população
 de  50  mil  plantas/ha,  no  espaçamento  de  1,0  x  0,20  m,
@@ -1363,7 +1401,8 @@ Acontece  que  a  lavoura,  nessa  circuns-
 
 53
 
-tância, fica sujeita a um período chuvoso mais curto e ao ataque
+
+ 500pr_pgnumber054  tância, fica sujeita a um período chuvoso mais curto e ao ataque
 mais intenso de pragas como a lagarta-rosada (Platyedra gossypiella),
 percevejos,  bicudo  (Anthonomus  grandis),  etc.  Outro  aspecto
 associado ao plantio tardio é a possível coincidência da colheita
@@ -1403,7 +1442,8 @@ de fevereiro a meados de março.
 
 54
 
-86
+
+ 500pr_pgnumber055  86
 
 Para as áreas de floresta tropical e equatorial do Centro-
 Oeste  e  do  Norte,  qual  o  melhor  período  de  plantio  do
@@ -1447,7 +1487,8 @@ desenvolvimento de uma lavoura de algodão em qualquer estágio
 
 55
 
-de  seu  desenvolvimento.
+
+ 500pr_pgnumber056  de  seu  desenvolvimento.
 A  época  mais  crítica  para  o
 algodoeiro, no entanto, situa-se
 no período da floração, isto é,
@@ -1480,7 +1521,8 @@ uso do espaçamento de 1,0 x 0,10 m a 1,0 x 0,05 m.
 
 56
 
-5 Melhoramento e
+
+ 500pr_pgnumber057  5 Melhoramento e
 
 Biotecnologia do Algodoeiro
 
@@ -1491,7 +1533,8 @@ Julita Maria Frota Chagas Carvalho
 
 57
 
-Qual o objetivo do melhoramento do algodoeiro?
+
+ 500pr_pgnumber058  Qual o objetivo do melhoramento do algodoeiro?
 
 91
 
@@ -1536,7 +1579,8 @@ em parceria com a Fundação BA e a Empresa Baiana de Desen-
 
 58
 
-volvimento  Agrícola    EBDA,  desenvolve  um  programa  de
+
+ 500pr_pgnumber059  volvimento  Agrícola  –  EBDA,  desenvolve  um  programa  de
 melhoramento  do  algodão  para  as  condições  do  cerrado.  Nos
 estados da Paraíba (Campina Grande e Patos), Rio Grande do Norte
 (Touros) e Ceará (Missão Velha e Barbalha), a Embrapa possui vários
@@ -1552,7 +1596,7 @@ existentes no Sul do Brasil?
 
 No Estado do Paraná existe programa de melhoramento do
 algodoeiro,  sob  a  responsabilidade  do  Instituto  Agronômico  do
-Paraná  Iapar  e com base em Londrina-PR, com o objetivo de
+Paraná – Iapar – e com base em Londrina-PR, com o objetivo de
 desenvolver  cultivares  de  algodoeiro  anual  de  fibra  média,
 resistentes  a  doenças,  especialmente  ao  complexo  fusarium-
 nematóide,  bacteriose,  manchas-de-estenfilium  e  ramulose.
@@ -1568,7 +1612,7 @@ Em São Paulo, o IAC, com base em Campinas, SP, possui o
 programa de mais longa duração do Brasil, com o objetivo de desenvolver
 cultivares de algodoeiro de fibra média e com resistência múltipla a
 doenças. Em Minas Gerais, a Empresa de Pesquisa Agropecuária de
-Minas Gerais  Epamig  possui um programa de melhoramento, baseado
+Minas Gerais – Epamig – possui um programa de melhoramento, baseado
 em Uberaba, MG, com o objetivo de desenvolver cultivares para as
 condições do Cerrado e do norte de Minas Gerais. A Universidade Federal
 de Uberlândia e a Embrapa Algodão também possuem programas de
@@ -1578,7 +1622,8 @@ de Minas Gerais.
 
 59
 
-96
+
+ 500pr_pgnumber060  96
 
  Quais os critérios de seleção praticados para o atendimento
 das indústrias têxteis?
@@ -1626,16 +1671,17 @@ são:
 
 60
 
- A introdução e aclimatação de novas cultivares.
- A seleção genealógica aplicada em populações segregantes
+
+ 500pr_pgnumber061  • A introdução e aclimatação de novas cultivares.
+• A seleção genealógica aplicada em populações segregantes
 
 oriundas de cruzamentos biparentais ou múltiplos.
 
- A seleção recorrente aplicada em cruzamentos múltiplos
+• A seleção recorrente aplicada em cruzamentos múltiplos
 
 seguida de seleção genealógica.
 
- A seleção massal para manutenção das características das
+• A seleção massal para manutenção das características das
 
 cultivares já lançadas.
 
@@ -1672,7 +1718,8 @@ geneticamente.
 
 61
 
- Iniciou-se, também, um programa de melhoramento visando
+
+ 500pr_pgnumber062   Iniciou-se, também, um programa de melhoramento visando
 a obtenção de cultivares de algodoeiro herbáceo de fibras coloridas,
 adaptadas ao Nordeste, por meio de cruzamentos com materiais
 de G. hirsutum detentores de genes para cor verde e marrom. Existem
@@ -1711,7 +1758,8 @@ governamental de alto alcance socioeconômico.
 
 62
 
-Existem espécies selvagens de algodoeiro, no Brasil?
+
+ 500pr_pgnumber063  Existem espécies selvagens de algodoeiro, no Brasil?
 
 103
 
@@ -1753,7 +1801,8 @@ algodoeiro mocó CNPA 3M.
 
 63
 
-106
+
+ 500pr_pgnumber064  106
 
 O que se entende por biotecnologia do algodoeiro?
 
@@ -1776,10 +1825,10 @@ um gene que segrega em classes fenotípicas discretas e permite a
 distinção  de  indivíduos  geneticamente  diferentes.  Há  quatro
 categorias de marcadores genéticos:
 
-  Morfológicos.
-  Citológicos.
-  Bioquímicos.
-  Moleculares.
+•  Morfológicos.
+•  Citológicos.
+•  Bioquímicos.
+•  Moleculares.
 Os  marcadores  bioquímicos  e  moleculares  são  os  mais
 importantes.Os  bioquímicos  exploram  a  variação  nos  produtos
 gênicos, e nesse campo, os mais difundidos no melhoramento são
@@ -1788,21 +1837,22 @@ variação do DNA, uma vez que regiões cromossômicas de diferentes
 genótipos  não  têm  a  mesma  seqüência  de  bases.  Os  mais
 importantes são:
 
- Polimorfismo no comprimento de fragmentos de restrição
+• Polimorfismo no comprimento de fragmentos de restrição
 
 (RFLP).
 
 (AFLP).
 
- Polimorfismo de DNA amplificado ao acaso (RAPD).
- Polimorfismo de comprimento e fragmentos amplificados
+• Polimorfismo de DNA amplificado ao acaso (RAPD).
+• Polimorfismo de comprimento e fragmentos amplificados
 
- Seqüências simples repetidas (SSR).
+• Seqüências simples repetidas (SSR).
   Muitas  vezes  não  se  faz  distinção  entre  os  marcadores
 
 64
 
-bioquímicos  e  os  moleculares,  descrevendo-os  indistintamente
+
+ 500pr_pgnumber065  bioquímicos  e  os  moleculares,  descrevendo-os  indistintamente
 como  marcadores  moleculares.  No  algodoeiro,  eles  têm  sido
 utilizados  para  a  identificação  de  regiões  específicas  nos
 cromossomos responsáveis por caracteres agronômicos e de fibra,
@@ -1845,7 +1895,8 @@ safra 1996/1997, com uma área de 800 mil ha, o que representava
 
 65
 
-2,9% da área total, no mundo, plantada com transgênicos de todas
+
+ 500pr_pgnumber066  2,9% da área total, no mundo, plantada com transgênicos de todas
 as  culturas,  incluindo  o  algodão.  Na  safra  2000/2001,  foram
 plantados 5,3 milhões ha com algodão transgênico, no mundo, o
 que  representa  12%  da  área  total  com  transgênicos  de  todas  as
@@ -1861,7 +1912,7 @@ transgênicas.
 No Brasil, já são cultivados algodões transgênicos?
 
 Não.  Até  2002,  tinham  sido  autorizadas  pela  Comissão
-Técnica Nacional de Biossegurança  CTNBio  apenas pesquisas
+Técnica Nacional de Biossegurança – CTNBio – apenas pesquisas
 sob condições controladas com algodões transgênicos, das quais
 algumas sob condições de campo, nos estados de Goiás, Minas
 Gerais e Mato Grosso.
@@ -1888,7 +1939,8 @@ rosada  (Pectinophora  gossypiella)  e  das  maçãs  (Heliothis  spp.).
 
 66
 
-Essas  cultivares,  porém,  não
+
+ 500pr_pgnumber067  Essas  cultivares,  porém,  não
 conferem resistência à lagarta
 Spodoptera  frugiperda,  co-
 nhecida  como  lagarta-do-
@@ -1929,7 +1981,8 @@ onde podem ser plantados os algodões transgênicos, preservando
 
 67
 
-as regiões de ocorrência dos algodões selvagens e asselvajados já
+
+ 500pr_pgnumber068  as regiões de ocorrência dos algodões selvagens e asselvajados já
 identificados. A Embrapa preparou uma proposta de zoneamento
 para análise e parecer da CTNBio, a quem cabe decidir sobre o
 assunto.
@@ -1974,7 +2027,8 @@ incluem técnicas de cultura de tecidos.
 
 68
 
-6 Doenças do Algodoeiro
+
+ 500pr_pgnumber069  6 Doenças do Algodoeiro
 
 Alderi Emídio de Araújo
 
@@ -1982,7 +2036,8 @@ Augusto César Pereira Goulart
 
 69
 
-117
+
+ 500pr_pgnumber070  117
 
 Existe diferença entre Ramulose e Ramulária?
 
@@ -2020,12 +2075,13 @@ pela  ação  da  chuva  e  do
 orvalho,  quando  a  umidade
 relativa  é  elevada.  O  vento
 pode  transportar  pequenas
-gotas  dágua,  com  conídios  em  suspensão,  para  a  superfície  de
+gotas  d’água,  com  conídios  em  suspensão,  para  a  superfície  de
 órgãos de outras plantas.
 
 70
 
-Quando não há pluviosidade e a umidade relativa encontra-
+
+ 500pr_pgnumber071  Quando não há pluviosidade e a umidade relativa encontra-
 se baixa, a mucilagem que envolve os conídios perde umidade e se
 torna uma massa endurecida na superfície do órgão afetado. Com
 a  formação  de  orvalho  e  pela  ação  da  chuva,  essa  massa  é
@@ -2065,7 +2121,8 @@ produção de sementes.
 
 71
 
-121
+
+ 500pr_pgnumber072  121
 
  Quais são as principais causas do apodrecimento de maçãs?
 
@@ -2108,7 +2165,8 @@ os índices de apodrecimento de frutos.
 
 72
 
-122
+
+ 500pr_pgnumber073  122
 
 É recomendável o controle químico do apodrecimento de
 maçãs?
@@ -2153,7 +2211,8 @@ controle biológico utilizando-se
 
 73
 
-o fungo Trichoderma harzianum. Entretanto o método é ainda restrito
+
+ 500pr_pgnumber074  o fungo Trichoderma harzianum. Entretanto o método é ainda restrito
 a pequenas áreas. Normalmente, os solos com maior teor de matéria
 orgânica são menos favoráveis à ocorrência da murcha-de-fusarium,
 pois favorecem o desenvolvimento de antagonistas, aumentando a
@@ -2195,7 +2254,8 @@ algodão em regime de sequeiro já houve incidência de mofo-branco.
 
 74
 
-regiões afetadas para regiões onde a doença ainda não ocorreu,
+
+ 500pr_pgnumber075  regiões afetadas para regiões onde a doença ainda não ocorreu,
 visando evitar a disseminação de inóculo a longas distâncias.
 
 128
@@ -2238,7 +2298,8 @@ infestação de áreas isentas do patógeno.
 
 75
 
-131
+
+ 500pr_pgnumber076  131
 
 O plantio direto pode aumentar o índice de doenças no
 algodoeiro?
@@ -2283,7 +2344,8 @@ sua capacidade infectiva por até 16 horas sob condições de ausência
 
 76
 
-de molhamento foliar, o que normalmente não ocorre com a maioria
+
+ 500pr_pgnumber077  de molhamento foliar, o que normalmente não ocorre com a maioria
 das  espécies  fitopatogênicas.  Esse  intervalo  permite  que  o  tubo
 germinativo complete o processo de infecção quando ocorre orvalho
 à noite. Nesse caso, noites frias seguidas de dias secos favorecem a
@@ -2315,31 +2377,32 @@ Existem várias hipóteses que podem explicar esse fenômeno.
 
 Entre as hipóteses prováveis podem ser levantadas as seguintes:
 
-  Existência de grande volume de inóculo inicial na região
+•  Existência de grande volume de inóculo inicial na região
 ou na área cultivada, permitindo que a epidemia se iniciasse
 rapidamente e se expandisse com uma taxa de crescimento
 elevada, reduzindo a eficiência do produto aplicado.
 
-  A primeira pulverização pode ter sido tardia e, somada ao
+•  A primeira pulverização pode ter sido tardia e, somada ao
 primeiro  fator  mencionado,  perdeu  ainda  mais  sua
 eficiência, tendo em vista que a aplicação tardia já resulta
 em menor nível de controle.
 
-  Lavagem do produto da superfície foliar pela ação da chuva,
+•  Lavagem do produto da superfície foliar pela ação da chuva,
 
 se esta ocorreu logo após a aplicação.
 
 77
 
- Uso  de  cultivar  de  alta  suscetibilidade,  favorecendo  o
+
+ 500pr_pgnumber078  • Uso  de  cultivar  de  alta  suscetibilidade,  favorecendo  o
 
 incremento mais significativo da doença.
 
- Plantio muito adensado induzindo sombreamento excessivo
+• Plantio muito adensado induzindo sombreamento excessivo
 no baixeiro e reduzindo a cobertura do fungicida nessa área
 da planta, por onde a doença normalmente tem início.
 
- Aplicação sucessiva do mesmo princípio ativo de fungicida
+• Aplicação sucessiva do mesmo princípio ativo de fungicida
 
 induzindo resistência na população do patógeno.
 
@@ -2381,7 +2444,8 @@ ação do patógeno. A resistência admite vários graus e se expressa
 
 78
 
-de diferentes formas como imunidade, redução do tamanho das
+
+ 500pr_pgnumber079  de diferentes formas como imunidade, redução do tamanho das
 lesões,  redução  da  capacidade  de  multiplicação  do  patógeno,
 aumento do período de incubação (fazendo com que a doença seja
 mais tardia), redução do número de gerações do patógeno em um
@@ -2419,9 +2483,10 @@ tombamento são:
 
 79
 
- Uso de sementes sadias.
- Época adequada de semeadura.
- Tratamento químico das sementes.
+
+ 500pr_pgnumber080  • Uso de sementes sadias.
+• Época adequada de semeadura.
+• Tratamento químico das sementes.
 Dentre as práticas de controle recomendadas, a última é a
 mais empregada, tendo em vista sua eficácia na eliminação dos
 patógenos transportados pelas sementes, a proteção das plântulas
@@ -2443,24 +2508,27 @@ Fonte: Goulart, 1998.
 
 80
 
-141
+
+ 500pr_pgnumber081  141
 
 Quando o tratamento de sementes é recomendado?
 
 O tratamento de sementes é recomendado:
- Quando as sementes estiverem contaminadas por fungos
+• Quando as sementes estiverem contaminadas por fungos
 identificados pelo teste de sanidade de sementes. Quando
 as condições de semeadura forem adversas, sobretudo em
 solos frios e úmidos, condições ideais para ocorrência de
 tombamento.
 
- Quando  se  fizer  o  cultivo  em  áreas  com  histórico  de
+• Quando  se  fizer  o  cultivo  em  áreas  com  histórico  de
 
 ocorrência de tombamento.
 
 81
 
-7 Controle de Plantas
+
+ 500pr_pgnumber082  
+ 500pr_pgnumber083  7 Controle de Plantas
 
 Daninhas na Cultura
 do Algodão
@@ -2471,12 +2539,13 @@ Demóstenes Marcos Pedrosa de Azevedo
 
 Laudemiro Baldoíno da Nóbrega
 
-142
+
+ 500pr_pgnumber084  142
 
- O que significa interferência das plantas daninhas sobre
+ O que significa “interferência” das plantas daninhas sobre
 o algodoeiro?
 
-O termo interferência significa o somatório dos processos
+O termo “interferência” significa o somatório dos processos
 envolvidos  na  competição  pelo  substrato  ecológico  (água,  luz,
 nutrientes,  CO2,  etc.)  entre  as  plantas  daninhas  e  a  cultura
 considerada, no caso, o algodão. Um dos processos envolvidos na
@@ -2497,7 +2566,7 @@ Atualmente, mais do que uma preferência, há a necessidade
 de se usar mais de um herbicida, seja em mistura, seja combinados,
 em todas as culturas. Praticamente nenhum dos produtos existentes,
 recomendados e registrados no Ministério da Agricultura, Pecuária
-e Abastecimento  Mapa  controla todas as espécies de plantas
+e Abastecimento – Mapa – controla todas as espécies de plantas
 daninhas que ocorrem nos campos de algodão. A maioria controla
 apenas  determinado  grupo  de  plantas  daninhas,  como  os
 latifolicidas,  que  só  matam  plantas  daninhas  dicotiledôneas
@@ -2515,7 +2584,8 @@ emergência tanto das plantas daninhas como da cultura, ou diuron
 
 84
 
-+ paraquat, para aplicação de pós-emergência dirigida.
+
+ 500pr_pgnumber085  + paraquat, para aplicação de pós-emergência dirigida.
 
 Ao passo que a combinação de herbicidas é a aplicação, em
 épocas diferentes, de produtos (dois ou mais) com princípios ativos
@@ -2561,28 +2631,29 @@ uma das mais importantes a que se refere à época de aplicação.
 
 85
 
-Essa  classificação  baseia-se  no
+
+ 500pr_pgnumber086  Essa  classificação  baseia-se  no
 aspeto  oportuno  ou  não  da
 aplicação do produto em relação
 ao  estágio  de  desenvolvimento
 da cultura do algodão e/ou das
 plantas  daninhas,  e  envolve  as
 seguintes modalidades:
-  De  pré-plantio,  no  qual  o
+•  De  pré-plantio,  no  qual  o
 produto  é  aplicado  antes  do
 plantio da cultura, com o objetivo de eliminar ou reduzir a
 população de plantas daninhas, como é o caso do uso, no
 plantio direto, do glyphosate ou o paraquat, herbicidas não
 seletivos.
 
- De pré-plantio incorporado, que envolve a aplicação de
+• De pré-plantio incorporado, que envolve a aplicação de
 produtos de elevada pressão de vapor, muito voláteis, que
 devem ser incorporados ao solo na profundidade de 5,0 a
 10,0  cm,  antes  do  plantio  da  cultura,  com  o  solo  pre-
 viamente  preparado,  a  exemplo  do  uso  do  graminicida
 trifluralina, em formulação convencional.
 
- De  pré-emergência  da  cultura  do  algodão  e  das  plantas
+• De  pré-emergência  da  cultura  do  algodão  e  das  plantas
 daninhas,  que  consiste  no  plantio  da  cultura  e  posterior
 aplicação do herbicida, ou da mistura de produtos, antes
 da  emergência  das  plântulas  da  cultura  e  das  plantas
@@ -2592,7 +2663,7 @@ ativação do produto, sendo os mais utilizados os seguintes
 herbicidas:  diuron,  alachlor,  pendimethalin,  oxidiazon,
 metalachlor, etc.
 
- De  pós-emergência,  ou  a  aplicação  de  produtos  após  a
+• De  pós-emergência,  ou  a  aplicação  de  produtos  após  a
 germinação da cultura e das plantas daninhas. Quando se
 usa um produto não-seletivo que, por isso, não pode entrar
 em contato com a cultura, a aplicação deve der dirigida,
@@ -2601,10 +2672,11 @@ dos bicos do pulverizador. Os herbicidas mais usados, nessa
 
 86
 
-modalidade,  são  paraquat,  MSMA,  Oxyfluorfen  e
+
+ 500pr_pgnumber087  modalidade,  são  paraquat,  MSMA,  Oxyfluorfen  e
 diuron+surfactante.
 
- De  pós-emergência  total,  com  produtos  de  elevada
+• De  pós-emergência  total,  com  produtos  de  elevada
 seletividade, aplicados em cobertura total tanto da cultura
 como das plantas daninhas. Os produtos mais aplicados
 são o Quizalofop e o sethoxydim, graminicidas de elevada
@@ -2623,60 +2695,61 @@ ao tóxico), e para proteger-se dos efeitos desses produtos, que podem
 ser de elevada toxicidade, recomendam-se as seguintes medidas
 preventivas:
 
- Ler com atenção as instruções do rótulo antes de abrir a
+• Ler com atenção as instruções do rótulo antes de abrir a
 embalagem,  verificando  as  particularidades,  a  classe
 toxicológica e o antídoto (neutralizante) necessário.
 
- Não armazenar agrotóxicos com outros insumos agrícolas,
+• Não armazenar agrotóxicos com outros insumos agrícolas,
 
 em especial fertilizantes, bebidas e alimentos.
 
- Não colocar herbicidas em embalagens de leite, refrigerantes
+• Não colocar herbicidas em embalagens de leite, refrigerantes
 
 ou similares, para evitar o risco de uso indevido.
 
- Ao  transportar  o  produto,  identificar  com  clareza  a
+• Ao  transportar  o  produto,  identificar  com  clareza  a
 
 embalagem.
 
 Em relação ao uso, devem ser observados os seguintes
 aspectos:
- Ler e procurar entender as instruções do rótulo dos produtos:
+• Ler e procurar entender as instruções do rótulo dos produtos:
 não derramar o produto, nunca comer, beber e nem fumar
 durante o manuseio dos herbicidas.
 
- Colocar o produto no pulverizador, devidamente calibrado,
+• Colocar o produto no pulverizador, devidamente calibrado,
 
 em lugar seguro, bem ventilado.
 
 87
 
- Aplicar sempre a favor do vento e quando este estiver com
+
+ 500pr_pgnumber088  • Aplicar sempre a favor do vento e quando este estiver com
 
 baixa velocidade.
 
- Sempre usar os equipamentos de proteção (máscaras, luvas,
+• Sempre usar os equipamentos de proteção (máscaras, luvas,
 macacão,  botas  especiais,  etc.);  usar  sempre  camisa  de
 manga comprida e não lavar o pulverizador em córregos
 ou nascentes.
 
- Ao  terminar  a  pulverização,  tomar  um  banho  de  corpo
+• Ao  terminar  a  pulverização,  tomar  um  banho  de  corpo
 inteiro com bastante água e sabão, nunca usar a boca nem
 os dedos (unhas) para desentupir bicos e mangueiras.
 
- Após  o  uso,  o  pulverizador  deve  ser  submetido  a  uma
+• Após  o  uso,  o  pulverizador  deve  ser  submetido  a  uma
 
 limpeza geral.
 
- Deve-se ter pulverizadores próprios para herbicidas evitando
+• Deve-se ter pulverizadores próprios para herbicidas evitando
 usar os que foram empregados com herbicidas hormonais,
 como o 2,4,5-T, na cultura do algodão.
 
- Deve-se dar destino adequado às embalagens para evitar
+• Deve-se dar destino adequado às embalagens para evitar
 que  sejam  usadas  pela  população  para  colocar  água  e
 alimentos.
 
- Todo herbicida deve ser considerado produto tóxico.
+• Todo herbicida deve ser considerado produto tóxico.
 
 147
 
@@ -2701,7 +2774,8 @@ o  rendimento  da  colheita,  mas  principalmente  a  qualidade  do
 
 88
 
-produto, destacando-se o capim-colchão (Digitaria sanguinalis (L.)
+
+ 500pr_pgnumber089  produto, destacando-se o capim-colchão (Digitaria sanguinalis (L.)
 Scop.), o capim-carrapicho (Cenchrus echinatus L.) e o picão-preto
 (Bidens fubosa L.). O caruru-de-espinho (Amaranthus spinosus L.),
 por exemplo, retarda a colheita porque, antes de iniciar essa operação,
@@ -2715,7 +2789,7 @@ Uma planta qualquer, cultivada ou não, é considerada daninha
 se  ela  estiver  influindo  negativamente  em  determinada  atitude
 humana, ou seja, no conceito de planta infestante ou daninha está
 implícito o princípio de indesejabilidade. Várias definições foram
-propostas  para  a  expressão  planta  daninha,  como  planta  que
+propostas  para  a  expressão  “planta  daninha”,  como  planta  que
 ocorre onde não é desejada, planta que interfere nos objetivos do
 homem em determinada situação, planta fora do lugar, planta com
 valor negativo e planta cujos benefícios para o homem ainda não
@@ -2745,13 +2819,14 @@ dicotiledôneas.
 
 89
 
-Outras  características  são  ciclo  de  vida  semelhante  ao  da
+
+ 500pr_pgnumber090  Outras  características  são  ciclo  de  vida  semelhante  ao  da
 cultura,  plasticidade  populacional,  germinação  desuniforme
 (mecanismo de sobrevivência em função da dormência), produção
 de inibidores (efeitos alelopáticos ou teletóxicos) e produção de
 grande número de sementes.
 
-Outro grupo de plantas daninhas são as chamadas comuns,
+Outro grupo de plantas daninhas são as chamadas “comuns”,
 que não possuem habilidade de crescer ou sobreviver em condições
 adversas,  pois  sofreram  a  pressão  de  seleção  do  homem.  Na
 realidade são plantas úteis, cultivadas, porém ocorrem num dado
@@ -2786,7 +2861,8 @@ proporção correta por unidade de área.
 
 90
 
-  A  calibração  é  uma  operação  simples,  porém  de  suma
+
+ 500pr_pgnumber091    A  calibração  é  uma  operação  simples,  porém  de  suma
 importância  para  o  sucesso  da  pulverização  com  defensivos
 agrícolas. Para o uso de herbicidas, recomenda-se a vazão da calda
 de 250 a 500 L/ha.
@@ -2830,14 +2906,15 @@ classificadas em dois tipos:
 
 91
 
- Dominantes,  ou  aquelas  que,  em  determinada  área,
+
+ 500pr_pgnumber092  • Dominantes,  ou  aquelas  que,  em  determinada  área,
 possuem  maior  densidade  populacional  (número  de
 espécimes por unidade de área) e/ou maior fitomassa. Nas
 dominantes, também são levados em consideração outros
 aspectos , como sociabilidade e densidade populacional,
 além da agressividade e nocividade às culturas.
 
- Subdominantes,  ou  dominantes  em  potencial,  ou  seja,
+• Subdominantes,  ou  dominantes  em  potencial,  ou  seja,
 qualquer distúrbio natural ou não (ação do homem, como
 o  uso  de  um  herbicida  específico  para  um  determinado
 grupo de plantas daninhas) pode liberar a subdominante
@@ -2848,10 +2925,10 @@ que a dominante.
 
 153
 
-O  que  significa  período  crítico  de  competição  ou
-interferência das plantas daninhas na cultura do algodoeiro
-ou período de convivência do algodoeiro com as plantas
-daninhas, como dizem alguns autores?
+O  que  significa  “período  crítico  de  competição  ou
+interferência das plantas daninhas na cultura do algodoeiro”
+ou “período de convivência do algodoeiro com as plantas
+daninhas”, como dizem alguns autores?
 
 O  algodoeiro  herbá-
 ceo  é  uma  planta  muito
@@ -2866,14 +2943,15 @@ O período crítico é aquele
 em que a cultura deve ser
 mantida livre da competição causada pelas plantas daninhas, seja
 via  controle  mecânico,  químico,  biológico  ou  integrado.  Alguns
-autores chamam esse período de intervalo total de prevenção da
-interferência, sendo que após esse período, a própria cultura, por
+autores chamam esse período de “intervalo total de prevenção da
+interferência”, sendo que após esse período, a própria cultura, por
 meio do sombreamento e de outros mecanismos, controla e impede
 o crescimento das plantas daninhas.
 
 92
 
-O período crítico de competição entre as plantas daninhas e
+
+ 500pr_pgnumber093  O período crítico de competição entre as plantas daninhas e
 o  algodoeiro  herbáceo  varia  em  sua  amplitude  e  estágios  de
 desenvolvimento da cultura, em função de diversos fatores como
 espécies de plantas daninhas, densidade populacional de cada uma
@@ -2910,12 +2988,13 @@ la completamente livre de plantas daninhas.
 Quais as vantagens do controle químico de plantas daninhas
 em relação aos demais métodos de controle?
 
- Esse método de controle, hoje o mais utilizado nos países
+• Esse método de controle, hoje o mais utilizado nos países
 desenvolvidos,  é  realizado  com  o  uso  de  herbicidas,
 
 93
 
-definidos do ponto de vista agronômico como substâncias
+
+ 500pr_pgnumber094  definidos do ponto de vista agronômico como substâncias
 químicas  que,  aplicadas  às  plantas  daninhas  em
 concentrações  convenientes,  provocam  sua  morte  ou
 eliminam sua parte aérea, livrando a cultura da competição
@@ -2925,15 +3004,15 @@ de  plantas  daninhas,  como:  eliminação  da  maioria  das
 plantas daninhas, reduzindo ou eliminando a competição
 com a cultura, especialmente no período crítico.
 
- Controle das plantas daninhas em épocas chuvosas quando,
+• Controle das plantas daninhas em épocas chuvosas quando,
 dependendo do tipo de solo, o controle mecânico é difícil,
 senão impossível.
 
- Redução  dos  cultivos,  ou  mesmo  sua  eliminação,
+• Redução  dos  cultivos,  ou  mesmo  sua  eliminação,
 
 diminuindo ou evitando danos às raízes da cultura.
 
- Melhor distribuição de mão-de-obra da empresa agrícola,
+• Melhor distribuição de mão-de-obra da empresa agrícola,
 
 liberando-a dos trabalhos de cultivo.
 
@@ -2956,14 +3035,15 @@ para a aquisição dos produtos, como ocorre no Nordeste brasileiro.
 
 156
 
- O que significa o termo alelopatia e qual sua importância
+ O que significa o termo “alelopatia” e qual sua importância
 para a cotonicultura?
 
 Alelopatia significa o somatório dos efeitos danosos que uma
 
 94
 
-determinada espécie de planta daninha causa em outras espécies,
+
+ 500pr_pgnumber095  determinada espécie de planta daninha causa em outras espécies,
 via liberação de substâncias pelas raízes e/ou parte aérea, sendo
 também  denominado  de  teletoxicidade.  Por  exemplo,  a  tiririca
 (Cyperus rotundus L.) é fortemente alelopática para o algodoeiro e
@@ -3005,7 +3085,8 @@ juntos.
 
 95
 
-159
+
+ 500pr_pgnumber096  159
 
 O que significa o método preventivo de combate às plantas
 daninhas  e  qual  sua  importância  no  contexto  geral  da
@@ -3024,7 +3105,7 @@ importação de sementes agrícolas contaminadas por dissemínulos
 preventivo funcione é necessário que sejam observados os seguintes
 aspectos:
 
-  Limpeza cuidadosa das máquinas e implementos agrícolas.
+•  Limpeza cuidadosa das máquinas e implementos agrícolas.
 Antes de qualquer atividade como preparo do solo, cultivos,
 aplicações de defensivos, devem ser lavadas e pulverizadas
 com óleo queimado todas as partes das máquinas, inclusive
@@ -3033,7 +3114,7 @@ muitas vezes, basta uma semente viável, ou outro tipo de
 diásporo,  como  um  segmento  rizomático  ou  um
 tuberculóide da tiririca, para infestar uma grande área.
 
- Usar sementes certificadas, pois elas são supervisionadas
+• Usar sementes certificadas, pois elas são supervisionadas
 pelos órgãos oficiais e vêm com certificado de pureza, o
 que garante que, praticamente, não há sementes de plantas
 daninhas como contaminantes. Quando uma determinada
@@ -3047,19 +3128,20 @@ cultura  dentro  das  recomendações  técnicas,  elevada
 
 96
 
-produtividade  e  boa  qualidade  do  produto,  em  termos
+
+ 500pr_pgnumber097  produtividade  e  boa  qualidade  do  produto,  em  termos
 intrínsecos  (características  tecnológicas  da  fibra:
 comprimento, resistência, finura, maturidade, elongamento,
 uniformidade  de  comprimento)  e  extrínsecos  (livre  de
 contaminantes, como sementes de plantas daninhas).
 
- Só  utilizar  adubos  orgânicos,  como  esterco  de  curral,
+• Só  utilizar  adubos  orgânicos,  como  esterco  de  curral,
 completamente fermentados, pois, somente assim, ele estará
 isento de sementes viáveis de plantas daninhas. Para que
 as sementes das plantas daninhas que existem no esterco
 sejam destruídas, é necessário um período de três a quatro
 meses de fermentação. Manter os canais de irrigação e as
-bordas dos reservatórios dágua sempre limpos, ou seja, sem
+bordas dos reservatórios d’água sempre limpos, ou seja, sem
 a  presença  de  plantas  daninhas,  pois  a  água  é  um  dos
 principais agentes de disseminação das plantas infestantes.
 Muitas espécies consideradas daninhas apresentam frutos
@@ -3074,9 +3156,9 @@ No Nordeste brasileiro, uma área significativa dos perímetros
 irrigados e beiras de rio, de solos ricos, aluvionais, está infestada
 pela  tiririca.  A  razão  maior  é  a  falta  de  prevenção  no  uso  de
 máquinas e equipamentos, bem como de limpeza de canais e bordas
-dos reservatórios dágua.
+dos reservatórios d’água.
 
- Não deixar que os animais se locomovam de áreas infestadas
+• Não deixar que os animais se locomovam de áreas infestadas
 para  áreas  não  infestadas  por  plantas  daninhas,
 especialmente as perenes de difícil combate. O problema
 é  que  os  animais,  especialmente  os  ruminantes,  comem
@@ -3087,7 +3169,8 @@ estabelecer uma planta daninha onde não existia.
 
 97
 
-160
+
+ 500pr_pgnumber098  160
 
 Dos métodos físicos de controle das plantas daninhas, qual
 o mais utilizado na atualidade?
@@ -3096,7 +3179,7 @@ O  controle  físico  de  plantas  daninhas  engloba  diversas
 modalidades, como a inundação de áreas antes do plantio para
 destruir as sementes e outros propágulos dessas plantas, e o uso do
 fogo  a  altas  temperaturas,  por  volta  de  1.000°C,  via  aplicações
-dirigidas com bicos especiais, tipo queimadores que, na realidade,
+dirigidas com bicos especiais, tipo “queimadores” que, na realidade,
 são  quase  maçaricos.  As  plantas  daninhas  são  mortas  instan-
 taneamente  via  coagulação  do  protoplasma  das  células,  com
 completa  desnaturação  protéica  e  desorganização  celular.  Esse
@@ -3129,7 +3212,8 @@ alternativas de controle.
 
 98
 
-162
+
+ 500pr_pgnumber099  162
 
 Como o preparo do solo pode ser considerado um método
 de controle de plantas daninhas?
@@ -3160,7 +3244,7 @@ de  plantas  daninhas  é  bastante  satisfatório,  bem  superior  ao
 alcançado com o uso da grade aradora, por exemplo, que, além de
 não controlar as plantas daninhas, aumenta a erosão do solo e reduz
 a  infiltração  da  água,  devido  ao  surgimento  de  uma  camada
-compactada, conhecida como pé-de-grade.
+compactada, conhecida como “pé-de-grade”.
 
 163
 
@@ -3173,7 +3257,8 @@ na cotonicultura, inclusive no Brasil, nas regiões Nordeste, Sul e
 
 99
 
-Sudeste. O importante no uso da enxada é a profundidade do corte,
+
+ 500pr_pgnumber100  Sudeste. O importante no uso da enxada é a profundidade do corte,
 que deve ser o mais superficial possível, no máximo até 3,0 cm,
 para não danificar as raízes do algodoeiro. Para conseguir a limpa
 superficial, o produtor deve iniciá-la logo que as plantas daninhas
@@ -3214,7 +3299,8 @@ retoque com enxada, dentro das fileiras.
 
 100
 
-Vários  tipos  de  cultivadores  estão  hoje  disponíveis  para  o
+
+ 500pr_pgnumber101  Vários  tipos  de  cultivadores  estão  hoje  disponíveis  para  o
 cotonicultor:  cultivador  de  cinco  enxadas,  gradinha  de  dentes,
 cultivador bico-de-pato, cultivador asa-de-andorinha e a meia-lua.
 Os dois primeiros, com algumas modificações, podem ser utilizados
@@ -3257,7 +3343,8 @@ de  plantas  definidos,  de  cultivares  adaptadas  ao  sistema,  de
 
 101
 
-adubação  correta,  quando  necessária,  envolvendo  época,
+
+ 500pr_pgnumber102  adubação  correta,  quando  necessária,  envolvendo  época,
 quantidade, modo e localização dos fertilizantes, além de vantagens
 como  maior  uso  da  terra,  redução  dos  riscos  decorrentes  de
 problemas climáticos, melhor utilização do capital e melhor controle
@@ -3285,7 +3372,8 @@ daninhas persistentes.
 
 102
 
-8 Uso de Reguladores de
+
+ 500pr_pgnumber103  8 Uso de Reguladores de
 
 Crescimento, Desfolhantes
 e Dessecantes na Cultura
@@ -3301,14 +3389,15 @@ José Wellingthon dos Santos
 
 103
 
-168
+
+ 500pr_pgnumber104  168
 
 O  que  pode  ser  feito  quando  o  algodoeiro  cresce
 excessivamente?
 
 O  algodoeiro  é  uma  planta  perene.  Em  seu  genoma  estão
-presentes  os  genes  responsáveis  pelo  caráter  crescimento
-indeterminado. Mesmo adaptado ao cultivo anual, o algodoeiro
+presentes  os  genes  responsáveis  pelo  caráter  “crescimento
+indeterminado”. Mesmo adaptado ao cultivo anual, o algodoeiro
 pode  voltar  a  expressar  esse  caráter  desde  que  as  condições
 edafoclimáticas sejam favoráveis.
 
@@ -3345,7 +3434,8 @@ de crescimento são, portanto, inibidores do alongamento celular.
 
 104
 
-171
+
+ 500pr_pgnumber105  171
 
 Quais os produtos disponíveis no mercado brasileiro, as
 doses comerciais e a época inicial de aplicação?
@@ -3356,17 +3446,17 @@ cloreto de mepiquat (pix), cloreto de chloromequat (tuval) e cloreto
 de clorocolina (cycocel).
 
 As doses e época de aplicação recomendadas são:
- Cloreto de mepiquat (pix), 1 L/ha do produto comercial 
+• Cloreto de mepiquat (pix), 1 L/ha do produto comercial –
 
 em planta com 60 cm de altura.
 
- Cloreto de chlormequat (tuval), 1 L/ha do produto comercial
+• Cloreto de chlormequat (tuval), 1 L/ha do produto comercial
 
- em planta com 60 cm de altura.
+– em planta com 60 cm de altura.
 
- Cloreto  de  clorocolina  (cycocel),  0,5  L/ha  do  produto
+• Cloreto  de  clorocolina  (cycocel),  0,5  L/ha  do  produto
 
-comercial  em planta com 1 m de altura.
+comercial – em planta com 1 m de altura.
 
 172
 
@@ -3394,7 +3484,8 @@ danificados e o número de folhas na época da colheita. Aumentam
 
 105
 
-o  espessamento  das  folhas  e  a  coloração  verde,  bem  como  a
+
+ 500pr_pgnumber106  o  espessamento  das  folhas  e  a  coloração  verde,  bem  como  a
 retenção de frutos nas primeiras posições dos ramos produtivos, o
 peso do capulho e o peso de 100 sementes.
 
@@ -3417,36 +3508,37 @@ devem ser levados em consideração para obtenção de maior
 eficiência?
 
 Devem ser considerados os seguintes aspectos:
- População de plantas: os efeitos são mais evidenciados em
+• População de plantas: os efeitos são mais evidenciados em
 
 condições de altas populações.
 
- Cultivar: em cultivares de porte elevado e ciclo longo, são
+• Cultivar: em cultivares de porte elevado e ciclo longo, são
 mais evidentes os efeitos dos reguladores de crescimento.
- Época  de  semeadura:  em  semeaduras  tardias,  verifica-se
+• Época  de  semeadura:  em  semeaduras  tardias,  verifica-se
 maior  percentual  de  redução  da  altura  das  plantas  e
 incremento de produção.
 
- Temperatura:  a  maior  eficiência  é  alcançada  quando  a
+• Temperatura:  a  maior  eficiência  é  alcançada  quando  a
 temperatura diurna está em torno de 30°C e a noturna, de
 20°C.
 
- Forma de aplicação: o parcelamento da dose recomendada
+• Forma de aplicação: o parcelamento da dose recomendada
 
 tem efeitos mais pronunciados sobre a altura da planta.
 
- Época de aplicação: a aplicação precoce pode reduzir o
+• Época de aplicação: a aplicação precoce pode reduzir o
 
 rendimento e a qualidade da fibra do algodão.
 
- Dose: doses baixas podem não produzir o efeito esperado,
+• Dose: doses baixas podem não produzir o efeito esperado,
 
 106
 
-e doses altas podem reduzir a produção e a qualidade do
+
+ 500pr_pgnumber107  e doses altas podem reduzir a produção e a qualidade do
 produto.
 
- Adubação nitrogenada e solos de elevada fertilidade natural:
+• Adubação nitrogenada e solos de elevada fertilidade natural:
 o  uso  de  doses  elevadas  de  nitrogênio  pode  provocar
 crescimento  excessivo  do  algodoeiro,  tornando-se
 imprescindível o uso de regulador de crescimento, nessas
@@ -3469,10 +3561,10 @@ sugerido um programa de
 quatro  aplicações  de
 cloreto de mepiquat (pix a 1,0 litro/ha):
 
- 10% da dose recomendada - 100 mL/ha.
- 20% da dose recomendada - 200 mL/ha.
- 30% da dose recomendada - 300 mL/ha.
- 40% da dose recomendada - 400 mL/ha.
+• 10% da dose recomendada - 100 mL/ha.
+• 20% da dose recomendada - 200 mL/ha.
+• 30% da dose recomendada - 300 mL/ha.
+• 40% da dose recomendada - 400 mL/ha.
 A primeira parcela deve ser realizada entre o aparecimento
 dos  primeiros  botões  florais  e  as  primeiras  flores  ou  quando  as
 plantas atingirem de 60 a 80 cm de altura. A segunda parcela pode
@@ -3480,7 +3572,8 @@ ser aplicada uma semana após a primeira, e assim sucessivamente.
 
 107
 
-177
+
+ 500pr_pgnumber108  177
 
 Em  que  condições  não  se  deve  aplicar  regulador  de
 crescimento?
@@ -3524,14 +3617,15 @@ e  abrigo  para  pragas  como  a  lagarta-rosada  (Pectinophora
 
 108
 
-gossypiella,  Saund.,  1844),  para  o  bicudo-do-algodoeiro
+
+ 500pr_pgnumber109  gossypiella,  Saund.,  1844),  para  o  bicudo-do-algodoeiro
 (Anthonomus  grandis,  Boheman,  1843)  e  meio  de  cultura  para
 agentes responsáveis por doenças.
 
 180
 
 O que fazer para controlar o crescimento e a emissão de
-estruturas frutíferas após a produção em grandes lavouras
+estruturas frutíferas “após a produção” em grandes lavouras
 de algodão?
 
 Recomenda-se  o  uso  de  desfolhantes,  maturadores  ou
@@ -3547,11 +3641,11 @@ A desfolha no algodoeiro é um processo natural que ocorre
 quando  essas  estruturas  se  tornam  fisiologicamente  maduras.
 A  queda  das  folhas  (abscisão)  resulta  de  atividades  de  células
 especiais da base do pecíolo que a fixa à haste central do caule ou
-dos ramos vegetativos e frutíferos. Essa área é denominada camada
-de abscisão. A desfolha pode ser causada por geadas, doenças,
+dos ramos vegetativos e frutíferos. Essa área é denominada “camada
+de abscisão”. A desfolha pode ser causada por geadas, doenças,
 estresse hídrico e deficiência mineral. O fenômeno de desfolha, no
 entanto,  pode  ser  induzido,  artificialmente,  com  o  emprego  de
-desfolhantes.
+“desfolhantes”.
 
 182
 
@@ -3568,33 +3662,34 @@ de folha.
 
 109
 
-183
+
+ 500pr_pgnumber110  183
 
 Quais  são  os  benefícios  da  desfolha  artificial  feita  com
 desfolhantes?
 
 Os principais benefícios são:
 
- Eliminação  da  prin-
+• Eliminação  da  prin-
 cipal fonte de impurezas
 da  fibra  do  algodão  por
 ocasião da colheita.
- Prevenção  contra  o
+• Prevenção  contra  o
 apodrecimento de maçãs.
- Redução  da  fonte  de
+• Redução  da  fonte  de
 alimentação  para  a  dia-
 pausa do bicudo.
 
- Mais rápida e eficiente operação de colheita.
- Mais rápida abertura e secagem de capulhos, permitindo
+• Mais rápida e eficiente operação de colheita.
+• Mais rápida abertura e secagem de capulhos, permitindo
 
 colheita mais precoce.
 
- Colhedores  manuais  preferem  trabalhar  em  algodoal
+• Colhedores  manuais  preferem  trabalhar  em  algodoal
 
 desfolhado.
 
- Menos problemas na colheita mecânica.
+• Menos problemas na colheita mecânica.
 
 184
 
@@ -3605,20 +3700,21 @@ Os principais produtos disponíveis no mercado e registrados
 como desfolhantes para a cultura do algodoeiro são: o thidiazuron,
 o bromoxymil e o fósforo tritioato de S,S,S-tributil.
 
- Thidiazuron, na dose de 62,5 a 100 g/ha de princípio ativo
+• Thidiazuron, na dose de 62,5 a 100 g/ha de princípio ativo
 (p. a.), deve ser aplicado em plantas com 60% a 70% de
 capulhos abertos e o restante fisiologicamente maduros.
 
- Bromoximil, na dose de 232 g/ha do princípio ativo (p.a.),
+• Bromoximil, na dose de 232 g/ha do princípio ativo (p.a.),
 deve ser aplicado com 60% de capulhos abertos e os demais
 fisiologicamente maduros.
 
- Fósforo  tritioato  de  .S,S,S-tributil,  nas  doses  de  720  g/ha
+• Fósforo  tritioato  de  .S,S,S-tributil,  nas  doses  de  720  g/ha
 (p.a.)  para  plantas  pequenas  de  até  1  m  de  altura;
 
 110
 
-1.080 g/ha (p.a.) para plantas com altura média de 1,5 m e
+
+ 500pr_pgnumber111  1.080 g/ha (p.a.) para plantas com altura média de 1,5 m e
 1.440 g/ha (p.a.) para plantas grandes de mais de 1,5 m de
 altura.  Esses  produtos  devem  ser  aplicados  quando  60%
 das maçãs estiverem abertas e as demais maduras.
@@ -3661,7 +3757,8 @@ planta.  Elevado  teor  de  umidade  tanto  na  planta  como  no  ar  é
 
 111
 
-necessário para uma boa desfolha. Não aplicar desfolhantes em
+
+ 500pr_pgnumber112  necessário para uma boa desfolha. Não aplicar desfolhantes em
 lavouras sob estresse hídrico. Os resultados serão precários.
 
 187
@@ -3704,7 +3801,8 @@ máquinas e a capacidade de colheita.
 
 112
 
-190
+
+ 500pr_pgnumber113  190
 
 Que  são  maturadores  e  qual  o  produto  mais  usado  na
 cultura do algodoeiro?
@@ -3724,13 +3822,13 @@ maduras.  A  dose  recomendada  é  de  1,5  a  2,5  L/ha  do  produto
 comercial.  Recomenda-se  aplicar  o  produto  baseando-se  na
 temperatura média da data de aplicação.
 
- Temperatura mais elevada que 30ºC, aplicar 1,5 litros pc
+• Temperatura mais elevada que 30ºC, aplicar 1,5 litros pc
 
 ou produto comercial/ha.
 
- Temperatura entre 25°C e 30ºC, aplicar 2,0 L pc/ha.
- Temperatura entre 22°C e 25ºC, aplicar 2,5 L pc/ha.
- Temperatura inferior a 22ºC, não se deve aplicar o produto.
+• Temperatura entre 25°C e 30ºC, aplicar 2,0 L pc/ha.
+• Temperatura entre 22°C e 25ºC, aplicar 2,5 L pc/ha.
+• Temperatura inferior a 22ºC, não se deve aplicar o produto.
 
 191
 
@@ -3745,27 +3843,29 @@ redundando na obtenção de produto com alto grau de impurezas.
 
 113
 
-192
+
+ 500pr_pgnumber114  192
 
 Que produtos podem ser utilizados como dessecantes em
 algodoeiro?
 
- Glyphosate, na dose de 360 a 720 g/ha do princípio ativo,
+• Glyphosate, na dose de 360 a 720 g/ha do princípio ativo,
 plantas com 70% a 80% de capulhos abertos e o restante
 fisiologicamente maduro.
 
- Paraquat, na dose de 200 a 500 g/ha do princípio ativo,
+• Paraquat, na dose de 200 a 500 g/ha do princípio ativo,
 quando  70%  dos  frutos  estiverem  abertos  e  o  restante
 fisiologicamente maduro.
 
- Glufosinato de Amônio, na dose de 100 g/ha do princípio
+• Glufosinato de Amônio, na dose de 100 g/ha do princípio
 ativo + 0,2% v/v de Hoefix + 62,5 g//ha do pc ou produto
 comercial quando 50% das maçãs estiverem abertas e as
 demais fisiologicamente maduras.
 
 114
 
-9 Sistema de Plantio
+
+ 500pr_pgnumber115  9 Sistema de Plantio
 
 Direto do Algodoeiro
 
@@ -3775,7 +3875,8 @@ Geraldo Augusto de Melo Filho
 
 115
 
-193
+
+ 500pr_pgnumber116  193
 
 É possível o cultivo do algodoeiro no sistema de plantio
 direto (SPD)?
@@ -3819,28 +3920,29 @@ milho-algodão.
 
 116
 
-As principais vantagens dessa seqüência são:
- Aproveitamento  do  efeito  residual  da  adubação  do
+
+ 500pr_pgnumber117  As principais vantagens dessa seqüência são:
+• Aproveitamento  do  efeito  residual  da  adubação  do
 
 algodoeiro pela soja.
 
- Por ter um crescimento inicial relativamente rápido, a soja
+• Por ter um crescimento inicial relativamente rápido, a soja
 auxilia  no  controle  da  brotação  do  algodoeiro  da  safra
 anterior.
 
- A baixa intensidade de luz, decorrente do fechamento das
+• A baixa intensidade de luz, decorrente do fechamento das
 
 entrelinhas da soja, inibe o crescimento do algodoeiro.
 
- Herbicidas utilizados para o controle de plantas daninhas
+• Herbicidas utilizados para o controle de plantas daninhas
 na cultura da soja também auxiliam no controle da rebrota
 do algodoeiro.
 
- O milho é beneficiado pelo nitrogênio fixado pelas bactérias
+• O milho é beneficiado pelo nitrogênio fixado pelas bactérias
 
 que se estabelecem na cultura da soja.
 
- No cultivo de milho após o algodão, o espaçamento entre
+• No cultivo de milho após o algodão, o espaçamento entre
 as linhas do milho favorece alta percentagem de rebrota do
 algodoeiro.
 
@@ -3868,7 +3970,8 @@ implica  difícil  decomposição.  Mas,  esse  material  deve  ser
 
 117
 
-considerado dentro do sistema de produção, isto quer dizer que
+
+ 500pr_pgnumber118  considerado dentro do sistema de produção, isto quer dizer que
 ele deve ser aproveitado.
 
 197
@@ -3876,12 +3979,12 @@ ele deve ser aproveitado.
 Quais as vantagens do cultivo do algodoeiro no SPD?
 
  As vantagens são as seguintes:
- Menor dependência do clima.
- Menor desgaste de máquinas e equipamentos.
- Maior agilidade na utilização do tempo.
- Redução dos problemas provocados pela erosão.
- Maior estabilidade de produção.
- Menor custo de produção.
+• Menor dependência do clima.
+• Menor desgaste de máquinas e equipamentos.
+• Maior agilidade na utilização do tempo.
+• Redução dos problemas provocados pela erosão.
+• Maior estabilidade de produção.
+• Menor custo de produção.
 
 198
 
@@ -3914,20 +4017,21 @@ assistência técnica. Antes da implantação do sistema
 
 118
 
- Adequar  o  solo  (rompimento  de  camada  compactada,
+
+ 500pr_pgnumber119  • Adequar  o  solo  (rompimento  de  camada  compactada,
 
 eliminação do alumínio, correção de fósforo e potássio).
 
- Programar o cultivo de espécies vegetais para produção de
+• Programar o cultivo de espécies vegetais para produção de
 
 palha.
 
- Adquirir semeadoras específicas, mesmo que adaptadas.
- Programar  e  desenvolver  um  esquema  de  rotação  de
+• Adquirir semeadoras específicas, mesmo que adaptadas.
+• Programar  e  desenvolver  um  esquema  de  rotação  de
 
 culturas.
 
- Eliminar plantas daninhas de difícil controle.
+• Eliminar plantas daninhas de difícil controle.
 
 201
 
@@ -3964,7 +4068,8 @@ conservação dos terraços.
 
 119
 
-204
+
+ 500pr_pgnumber120  204
 
 O custo de produção de algodão no SPD é menor do que
 no SC?
@@ -3991,7 +4096,7 @@ cultivares de algodão utilizadas no SC podem ser utilizadas no SPD.
 206
 
 A dose de adubo nitrogenado depende
-do sistema utilizado  SPD ou SC?
+do sistema utilizado – SPD ou SC?
 
 Não. De acordo com o conhecimento atual, a dose de adubo
 utilizada não depende do sistema utilizado. Em áreas anteriormente
@@ -4011,7 +4116,8 @@ primeiros botões florais.
 
 120
 
-208
+
+ 500pr_pgnumber121  208
 
 O crescimento e desenvolvimento do algodoeiro é diferente,
 no SPD?
@@ -4057,7 +4163,8 @@ do sistema, principalmente em solos com altos teores de alumínio
 
 121
 
-e presença de camada compactada. O algodoeiro é uma espécie
+
+ 500pr_pgnumber122  e presença de camada compactada. O algodoeiro é uma espécie
 extremamente sensível à presença de alumínio tóxico e à deficiência
 de oxigênio causada pela compactação, além desta última constituir
 um impedimento ao crescimento do sistema radicular.
@@ -4093,7 +4200,8 @@ rotação de culturas e a semeadura sobre palha.
 
 122
 
-10 Pragas do Algodoeiro
+
+ 500pr_pgnumber123  10 Pragas do Algodoeiro
 
 Carlos Alberto Domingues da Silva
 
@@ -4105,7 +4213,8 @@ Napoleão Esberard de Macêdo Beltrão
 
 123
 
-215
+
+ 500pr_pgnumber124  215
 
 Como  deve  ser  utilizado  o  Tubo  Mata  Bicudo  e  qual  o
 Programa de Manejo recomendado?
@@ -4149,7 +4258,8 @@ raças de elevada capacidade para atacar e matar o bicudo, podendo
 
 124
 
-ser usado em pulverizações, infectando larvas, pupas e adultos do
+
+ 500pr_pgnumber125  ser usado em pulverizações, infectando larvas, pupas e adultos do
 referido inseto. Ao todo, já foram catalogadas cerca de 42 espécies
 de insetos e ácaros que podem parasitar o bicudo.
 
@@ -4176,16 +4286,16 @@ e a redução dos impactos negativos no ambiente bem como dos
 custos de controle.
 
 Entre as práticas mais importantes destacam-se:
- Plantio uniforme por município ou região fisiográfica, não
+• Plantio uniforme por município ou região fisiográfica, não
 podendo o período de plantio ser superior a 30 dias, para
 evitar migrações de adultos de um campo mais velho para
 um mais novo.
 
- Catação e destruição dos botões florais atacados e caídos
+• Catação e destruição dos botões florais atacados e caídos
 
 ao solo.
 
- Destruição dos restos culturais, ao final do ciclo, logo após
+• Destruição dos restos culturais, ao final do ciclo, logo após
 a colheita, a fim de quebrar o ciclo da praga, e deixar o
 campo sem algodão, principal alimento do inseto, durante
 90 dias, pelo menos.
@@ -4196,7 +4306,8 @@ o manejo cultural adequado e bem feito.
 
 125
 
-219
+
+ 500pr_pgnumber126  219
 
 O  que  significa  controle  etológico  dos  insetos  na
 cotonicultura?
@@ -4240,7 +4351,8 @@ persicae  Sulzer,  1776),  as  moscas-brancas  (Bemisia  argentifolli
 
 126
 
-Bellows  &  Perring,  Bemisia  tabaci
+
+ 500pr_pgnumber127  Bellows  &  Perring,  Bemisia  tabaci
 Gennadius,  1889),  o  curuquerê
 (Alabama argillacea Hübner, 1818), o
 besouro-amarelo 
@@ -4273,18 +4385,19 @@ As principais estratégias de controle de pragas do algodoeiro,
 
 no Brasil, são:
 
- Manipulação de cultivar.
- Controle biológico por parasitas, parasitóides, predadores
+• Manipulação de cultivar.
+• Controle biológico por parasitas, parasitóides, predadores
 
 e patógenos.
 
- Controle cultural.
- Controle climático.
- Controle químico.
+• Controle cultural.
+• Controle climático.
+• Controle químico.
 
 127
 
-225
+
+ 500pr_pgnumber128  225
 
 Por que, como e quando se deve fazer a amostragem de
 pragas, na cultura do algodoeiro ?
@@ -4330,7 +4443,8 @@ virose.
 
 128
 
-228
+
+ 500pr_pgnumber129  228
 
 Qual a importância da utilização de cultivares de algodão
 com ciclo curto de frutificação?
@@ -4354,7 +4468,8 @@ ocasionam elevada mortalidade dos inimigos naturais das pragas,
 
 129
 
-principalmente  de  pulgões  e  ácaros.
+
+ 500pr_pgnumber130  principalmente  de  pulgões  e  ácaros.
 Na  ausência  desses  inimigos  naturais,
 ocorre aumento considerável na densidade
 populacional  dessas  pragas,  havendo
@@ -4377,38 +4492,39 @@ Quais os principais hospedeiros alternativos do bicudo-do-
 algodoeiro?
 
 Os principais hospedeiros alternativos do bicudo são:
- Thespesia populea: conhecida como Algodão do Pará.
+• Thespesia populea: conhecida como ”Algodão do Pará”.
 Por ter sido encontrada no Estado do Pará, essa planta é
 considerada ornamental e pode chegar até 10 ou 15 m de
 altura.
 
- Thespesia polpunoides: é cultivada no jardim do Instituto
+• Thespesia polpunoides: é cultivada no jardim do Instituto
 
 Agronômico de Campinas São Paulo.
 
- Cienfuegosia  glabrafolia:  é  nativa  do  Mato  Grosso,  foi
+• Cienfuegosia  glabrafolia:  é  nativa  do  Mato  Grosso,  foi
 encontrada em apenas duas localidades no mundo, uma
 delas em Cuiabá.
 
- Cienfuegosia affinis: tem ocorrência principalmente em São
+• Cienfuegosia affinis: tem ocorrência principalmente em São
 
 Paulo e no Paraná.
 
- Cienfuegoisa heterophylla: é encontrada no Município de
+• Cienfuegoisa heterophylla: é encontrada no Município de
 
 Jacobina, BA, Piauí e Ceará.
 
- Cienfuegosia sulfuria: é encontrada no Mato Grosso do Sul
+• Cienfuegosia sulfuria: é encontrada no Mato Grosso do Sul
 na  fronteira  com  o  Paraguai.  Ocorre  também  no  Texas,
 Estados Unidos.
 
 130
 
- Hibinscus pernumbincus: ocorre no Rio de Janeiro e Rio
+
+ 500pr_pgnumber131  • Hibinscus pernumbincus: ocorre no Rio de Janeiro e Rio
 
 Grande do Norte.
 
- Gossypuim caicoense: ocorre nos estados da Bahia e Rio
+• Gossypuim caicoense: ocorre nos estados da Bahia e Rio
 
 Grande do Norte.
 
@@ -4450,11 +4566,12 @@ algodoeiro?
 Ocorre dois tipos de danos, o direto ao cultivo, provocado
 tanto pelo inseto adulto como pelas ninfas, que se estabelecem em
 colônias na face inferior das folhas, onde sugam a seiva da planta.
-Altas infestações da praga definham as plantas, liberando a mela
+Altas infestações da praga definham as plantas, liberando a “mela”
 
 131
 
-(complexo  de  açúcares)  que  contamina  as  fibras,  tornando-as
+
+ 500pr_pgnumber132  (complexo  de  açúcares)  que  contamina  as  fibras,  tornando-as
 pegajosas, e reduzindo seu nível de aceitação no mercado. Esse
 processo é seguido pela queda das folhas, das estruturas frutíferas e
 da redução drástica na produção.
@@ -4470,28 +4587,28 @@ Que medidas de controle cultural são recomendadas para
 a mosca-branca, no algodoeiro?
 
 As medidas mais importantes são as seguintes:
- Eliminar ervas-daninhas dentro do plantio e nos arredores.
- Instalar armadilhas amarelas untadas com óleo de motor
+• Eliminar ervas-daninhas dentro do plantio e nos arredores.
+• Instalar armadilhas amarelas untadas com óleo de motor
 (não queimado), vaselina ou cola, de 25 x 50 cm, fixadas
 em haste de madeira, distribuídas a cada 500 m2, visando o
 monitoramento de populações de adultos.
 
- Remover e destruir plantas infectadas por vírus.
- Não abandonar a cultura, caso altas densidades
+• Remover e destruir plantas infectadas por vírus.
+• Não abandonar a cultura, caso altas densidades
 
 populacionais  do  inseto  forem  detectadas,  pois  servirão
 como  focos  para  infestar  as  plantações  próximas,
 ocasionando aumento dos danos.
 
- Destruir os restos culturais imediatamente após a colheita,
+• Destruir os restos culturais imediatamente após a colheita,
 
 para evitar a sobrevivência da praga.
 
- Realizar rotação de cultura, quando possível, com milho
+• Realizar rotação de cultura, quando possível, com milho
 
 ou outra gramínea.
 
- Plantar gergelim, como cultura armadilha, 10 dias antes do
+• Plantar gergelim, como cultura armadilha, 10 dias antes do
 cultivo  de  algodão,  nas  bordaduras,  utilizando  de  3  a  5
 fileiras  para  áreas  pequenas  (até  5  ha)  e  10  fileiras  para
 áreas maiores (a partir de 10 ha) e realizar as pulverizações
@@ -4499,7 +4616,8 @@ no interior das bordaduras, espaçadas de 8 dias.
 
 132
 
-237
+
+ 500pr_pgnumber133  237
 
 Quais os principais inimigos naturais da mosca-branca na
 cultura  do  algodoeiro  e  como  podem  ser  utilizados  no
@@ -4541,7 +4659,8 @@ tipo de controle mais empregado, é necessário utilizar produtos
 
 133
 
-seletivos  para  permitir  a  atuação  dos  inimigos  naturais,  pois  no
+
+ 500pr_pgnumber134  seletivos  para  permitir  a  atuação  dos  inimigos  naturais,  pois  no
 agroecossistema algodoeiro não existe só a mosca-branca, portanto
 a utilização de produtos de amplo espectro acarretaria desequilíbrios
 biológicos.
@@ -4550,12 +4669,13 @@ Atualmente, existe uma gama de produtos para controle da
 mosca-branca  devidamente  registrados.  Os  reguladores  como
 Buprofezin e Pyriproxyfen só atingem as ninfas. Pode-se, também,
 controlar as ninfas com detergentes neutros (180 a 250 mL/20 L
-dágua), os quais devem ser intercalados com os inseticidas ou óleos
+d’água), os quais devem ser intercalados com os inseticidas ou óleos
 (0,5% a 0,8%).
 
 134
 
-11 Correção e Adubação
+
+ 500pr_pgnumber135  11 Correção e Adubação
 
 do Solo na Cultura
 do Algodão
@@ -4568,7 +4688,8 @@ Gilvan Barbosa Ferreira
 
 135
 
-239
+
+ 500pr_pgnumber136  239
 
 É  verdade  que  a  cultura  do  algodoeiro  é  uma  das  mais
 esgotantes do solo?
@@ -4603,7 +4724,7 @@ solo, são muito aceitáveis pois, além de controlarem a erosão do
 solo  e  as  perdas  de  nutrientes,  mantêm  e/ou  melhoram  a
 produtividade  do  solo.  Em  muitos  solos,  a  matéria  orgânica
 humificada do horizonte superficial é o principal fator responsável
-pela capacidade de troca de cátions (CTC), verdadeira despensa
+pela ”capacidade de troca de cátions” (CTC), verdadeira despensa
 de  nutrientes,  que  podem  ser  colocados  progressivamente  à
 disposição  dos  cultivos.  Logo,  pode-se  deduzir  que  a  matéria
 orgânica tem papel fundamental na ciclagem e manutenção dos
@@ -4611,7 +4732,8 @@ nutrientes, evitando as perdas por lixiviação.
 
 136
 
-Os resíduos dos cultivos deixados na superfície pelos sistemas
+
+ 500pr_pgnumber137  Os resíduos dos cultivos deixados na superfície pelos sistemas
 de  plantio  direto  e/ou  semidireto  oferecem  a  melhor  forma  de
 restaurar  a  produtividade  dos  solos  agrícolas  degradados.  Outra
 vantagem promovida pelos resíduos é o aumento da infiltração de
@@ -4654,7 +4776,8 @@ processo  de  análise  química  do  solo  para  fins  de  fertilidade  e
 
 137
 
-recomendação de calagem e adubação. Por essa razão, as amostras
+
+ 500pr_pgnumber138  recomendação de calagem e adubação. Por essa razão, as amostras
 coletadas devem ser representativas da área a ser cultivada. Para
 isso, a área a ser amostrada deve ser dividida em talhões de até
 20  ha,  homogêneos  quanto  à  topografia,  cor  e  textura  do  solo,
@@ -4673,7 +4796,7 @@ Em áreas sob cultivo convencional, as amostras de solo devem
 ser coletadas nas camadas de 0 a 20 cm e de 20 a 40 cm. No SPD,
 durante os três primeiros anos, segue-se o mesmo procedimento
 que o convencional., A partir do quarto ano, é recomendável retirar
-amostras nas camadas de 0 a  10 cm, de 10 a 20 cm e de 20 a
+amostras nas camadas de 0 a – 10 cm, de 10 a 20 cm e de 20 a
 40 cm de profundidade.
 
 Quanto à época de amostragem, é conveniente retirar amostras
@@ -4697,7 +4820,8 @@ complementar à análise do solo e nunca substituta. Quando usada
 
 138
 
-em conjunto com os resultados de análise do solo e o histórico de
+
+ 500pr_pgnumber139  em conjunto com os resultados de análise do solo e o histórico de
 uso  da  área,  permite  acompanhar  o  equilíbrio  nutricional  das
 culturas, tendo-se a recomendação de adubação mais consistente.
 A  época  correta  de  amostragem  é  durante  o  período  do
@@ -4728,21 +4852,22 @@ No caso do algodoeiro, a acidez do solo causa grande prejuízo ao
 desenvolvimento das plantas, limitando seu rendimento. A acidez
 do solo provoca também:
 
- Redução  da  disponibilidade  de  fósforo  (P)  e  molibdênio
+• Redução  da  disponibilidade  de  fósforo  (P)  e  molibdênio
 
 (Mo).
 
- Diminuição da atividade e do número de microrganismos
+• Diminuição da atividade e do número de microrganismos
 
 responsáveis pela decomposição da matéria orgânica.
 
- Liberação de nitrogênio (N), enxofre (S), fósforo (P), boro
+• Liberação de nitrogênio (N), enxofre (S), fósforo (P), boro
 
 (B) e molibdênio (Mo).
 
 139
 
-245
+
+ 500pr_pgnumber140  245
 
  O que são corretivos da acidez do solo e quais os benefícios
 da calagem para a cultura do algodoeiro?
@@ -4778,7 +4903,7 @@ conhecida como necessidade de calagem (NC), é estabelecida com
 base na análise do solo (camada de 0 a 20 cm), a partir da qual se
 aplica  um  critério  técnico  de  recomendação.  Os  critérios  de
 recomendação da NC utilizados para o algodoeiro, no Brasil, são:
-Método da saturação por bases  Visa a elevação da saturação
+Método da saturação por bases – Visa a elevação da saturação
 por bases do solo a um valor desejado, normalmente de 60% a
 70%. O cálculo é feito usando a expressão:
 
@@ -4787,14 +4912,15 @@ NC = necessidade de calcário
 
 140
 
-CTC (cmolc/dm3) = capacidade de troca de cátions do solo a
+
+ 500pr_pgnumber141  CTC (cmolc/dm3) = capacidade de troca de cátions do solo a
 pH 7,0 (Ca2++Mg2++K++H++Al3+)
 V2 = percentagem de saturação por bases recomendada para
 a cultura (60-70%)
 V1  =  percentagem  de  saturação  por  bases  atual  do  solo,
 calculada pela fórmula: 100 x SB/CTC
 SB = soma de bases trocáveis (Ca2++Mg2++ K+, em cmolc/dm3)
- Método da neutralização do alumínio trocável  Objetiva a
+ Método da neutralização do alumínio trocável – Objetiva a
 neutralização do alumínio trocável e também a elevação dos teores
 de cálcio e magnésio a 2,0 cmolc/dm3, conforme as expressões:
 
@@ -4833,7 +4959,8 @@ seguida de gradagem e aração e, logo após, aplica-se o restante do
 
 141
 
-calcário, incorporando-o com grade niveladora. Vale salientar que
+
+ 500pr_pgnumber142  calcário, incorporando-o com grade niveladora. Vale salientar que
 a dose de calcário é recomendada para a correção de uma camada
 de  solo  com  20  cm  de  espessura.  No  caso  da  correção  para  o
 algodoeiro, é conveniente que a incorporação seja o mais profunda
@@ -4844,7 +4971,7 @@ camada a ser corrigida e a seu grau de acidez.
 
 Como efetuar a calagem no SPD ?
 
-O  próprio  nome  plantio  direto  indica  cultivo  sem
+O  próprio  nome  “plantio  direto”  indica  cultivo  sem
 revolvimento do solo, por isso não teria sentido revolver o solo
 para incorporar qualquer corretivo num sistema de plantio direto
 já estabelecido. No entanto, antes de iniciar a implantação do SPD,
@@ -4857,8 +4984,8 @@ quando  necessário,  corrigi-lo  com  aplicação,  na  superfície  sem
 incorporação, de metade da necessidade de calcário calculada pelo
 método de saturação de bases, até os seguintes limites:
 
- 2,5 t/ha para solos argilosos.
- 2,0 t/ha para solos argilo-arenosos e arenosos.
+• 2,5 t/ha para solos argilosos.
+• 2,0 t/ha para solos argilo-arenosos e arenosos.
 
 249
 
@@ -4876,7 +5003,8 @@ de cátions) for inferior a 13%.
 
 142
 
-250
+
+ 500pr_pgnumber143  250
 
 A calagem tem algum efeito negativo para o algodoeiro?
 
@@ -4885,17 +5013,17 @@ adequados, a calagem não é prejudicial. Porém, em doses elevadas
 (acima de 3 t/ha), a calagem pode acarretar queda de produtividade,
 nas seguintes situações:
 
- Em solos ácidos, arenosos e pobres em nutrientes, ocorre
+• Em solos ácidos, arenosos e pobres em nutrientes, ocorre
 maior absorção de nutrientes do solo pelas plantas, podendo
 ocorrer  deficiências,  principalmente  de  K,  caso  este  não
 seja fornecido na adubação.
 
- A  calagem  aumenta  o  pH  do  solo,  reduzindo  a
+• A  calagem  aumenta  o  pH  do  solo,  reduzindo  a
 disponibilidade de zinco, cobre, ferro, manganês e boro,
 podendo ocorrer deficiências. No caso do algodoeiro, maior
 atenção deve ser dada ao boro.
 
- Como o cálculo da quantidade de calcário é efetuado para
+• Como o cálculo da quantidade de calcário é efetuado para
 a camada de 0 a 20 cm, a incorporação a uma profundidade
 inferior, ou a aplicação da mesma quantidade na superfície
 do  solo,  causa  supercalagem  na  camada  efetivamente
@@ -4910,23 +5038,24 @@ O solo volta a ficar ácido porque os fatores que causam a
 
 acidez continuam atuando ao longo do tempo, por exemplo:
 
- Perdas de bases (Ca, Mg e K) por lixiviação, que  aumenta
+• Perdas de bases (Ca, Mg e K) por lixiviação, que  aumenta
 na presença dos ânions sulfato, cloreto e nitrato fornecidos
 nas adubações, com conseqüente redução do pH.
 
- Utilização de adubos nitrogenados, como sulfato de amônio
+• Utilização de adubos nitrogenados, como sulfato de amônio
 
 e uréia, que acidificam o solo.
 
- Processo  de  nitrificação  (transformação  de  amônio  em
+• Processo  de  nitrificação  (transformação  de  amônio  em
 nitrato) que ocorre após a mineralização do nitrogênio da
 matéria orgânica, cuja reação provoca acidificação do solo.
 
- Extração de cátions (Ca, Mg, K) pelas culturas.
+• Extração de cátions (Ca, Mg, K) pelas culturas.
 
 143
 
-252
+
+ 500pr_pgnumber144  252
 
 Por que se aplica gesso agrícola em solos ácidos? Em que
 situação  essa  prática  é  recomendada  e  que  quantidade
@@ -4942,7 +5071,7 @@ camadas subsuperficiais. Com isso, cria-se condições químicas mais
 favoráveis para o aprofundamento do sistema radicular, permitindo
 a exploração de maior volume de solo e maior absorção de água e
 nutrientes pelas plantas. Assim, as plantas ficam mais resistentes à
-deficiência hídrica e mineral durante a ocorrência de veranicos,
+deficiência hídrica e mineral durante a ocorrência de ”veranicos”,
 como os que freqüentemente ocorrem nas regiões de Cerrado e
 Semi-Árido.
 
@@ -4956,30 +5085,31 @@ pela fórmula:
 QG (kg/ha) = 50 x %argila
 Ou ainda:
 
- Solos arenosos (< 15% de argila) até 700 kg/ha
- Solos de textura média (de 15 a 35% de argila)até 1.200/ha
- Solos argilosos (de 35 a 60% de argila)até 2.200 kg/ha
- Solos muito argilosos (> 60% de argila)até 3.200
+• Solos arenosos (< 15% de argila) —————até 700 kg/ha
+• Solos de textura média (de 15 a 35% de argila)—até 1.200/ha
+• Solos argilosos (de 35 a 60% de argila)———até 2.200 kg/ha
+• Solos muito argilosos (> 60% de argila)—————até 3.200
 
 144
 
-Para  o  algodoeiro,  sugere-se  a  observação  das  seguintes
+
+ 500pr_pgnumber145  Para  o  algodoeiro,  sugere-se  a  observação  das  seguintes
 
 condições:
 
- Em solos argilosos com baixos teores de potássio, a gessagem
+• Em solos argilosos com baixos teores de potássio, a gessagem
 pode  ser  efetuada  desde  que  seja  feita  adubação  com
 potássio.
 
- Em solos argilosos com teores médios ou altos de potássio,
+• Em solos argilosos com teores médios ou altos de potássio,
 
 o gesso pode ser usado sem restrições.
 
- O gesso pode ser usado como fonte de enxofre e, nesse
+• O gesso pode ser usado como fonte de enxofre e, nesse
 caso, a quantidade deve ser calculada para fornecer de 20
 a 30 kg/ha desse nutriente.
 
- Em solos arenosos e com baixos teores de potássio, o gesso
+• Em solos arenosos e com baixos teores de potássio, o gesso
 não deve ser usado porque promove perda de potássio por
 lixiviação.
 
@@ -4998,13 +5128,13 @@ Existem três tipos de solos
 
 salinos:
 
- Solos  salinos  com
+• Solos  salinos  com
 elevada  concentração
 de sais solúveis e baixa
 percentagem  de  sódio
 trocável.
 
- Solos sódicos com baixa concentração de sais e elevada
+• Solos sódicos com baixa concentração de sais e elevada
 saturação por sódio. Solos salino-sódicos que reúnem as
 características  dos  dois  primeiros,  ou  seja,  tanto  a
 concentração salina como a percentagem de sódio trocável
@@ -5012,7 +5142,8 @@ são elevadas.
 
 145
 
-254
+
+ 500pr_pgnumber146  254
 
 Como  se  formam  os  solos  salinos  e  sódicos  e  que
 propriedades químicas são usadas para avaliar a salinização?
@@ -5046,13 +5177,14 @@ seguintes formas:
 
 146
 
- Pela elevada concentração de sais na solução do solo, que
+
+ 500pr_pgnumber147  • Pela elevada concentração de sais na solução do solo, que
 aumenta  a  pressão  osmótica  do  meio,  reduzindo  a
 disponibilidade de água para a planta.
 
- Pela presença de componentes como carbonato de sódio e
+• Pela presença de componentes como carbonato de sódio e
 altos teores de boro que prejudicam diretamente as plantas.
- Pelo pH elevado (acima de 8,5) nos solos sódicos ou salino-
+• Pelo pH elevado (acima de 8,5) nos solos sódicos ou salino-
 sódicos, que reduz a disponibilidade de micronutrientes;
 além disso, o alto teor de sódio trocável causa dispersão de
 argila, com destruição da estrutura do solo, dificultando o
@@ -5090,7 +5222,8 @@ fatores determinam a resposta das culturas à adubação, como a
 
 147
 
-dinâmica  dos  nutrientes  no  solo,  o  histórico  de  uso  da  área
+
+ 500pr_pgnumber148  dinâmica  dos  nutrientes  no  solo,  o  histórico  de  uso  da  área
 (principalmente, cultura anterior, correções e adubações aplicadas)
 e a disponibilidade de água, entre outros. O fósforo, por exemplo,
 embora seja o macronutriente menos absorvido pelo algodoeiro, é
@@ -5102,24 +5235,24 @@ sua fixação no solo, especialmente nas regiões de Cerrado.
 Quais são as recomendações para a adubação do algodoeiro
 com macronutrientes?
 
- O fósforo e o potássio são recomendados em função da
+• O fósforo e o potássio são recomendados em função da
 análise do solo, com base nas tabelas de recomendação de
 adubação de cada estado ou região.
 
- A recomendação de nitrogênio é baseada na produtividade
+• A recomendação de nitrogênio é baseada na produtividade
 esperada e no potencial de resposta da cultura associado
 ao histórico de uso da área.
 
- Não se espera resposta à adubação potássica quando o teor
+• Não se espera resposta à adubação potássica quando o teor
 de potássio no solo for superior a 2,5 mmolc/dm3 ou quando
 a relação (Ca+ Mg)/K < 20.
 
- As  adubações  com  nitrogênio  e  potássio  devem  ser
+• As  adubações  com  nitrogênio  e  potássio  devem  ser
 parceladas, aplicando parte no plantio e parte em uma ou
 duas coberturas, dependendo da dose e do tipo de solo.
 Devem  ser  aplicadas,  preferencialmente,  antes  do
 aparecimento da primeira flor (até 60-65 dias após o plantio).
- O enxofre, assim como o nitrogênio, não é recomendado
+• O enxofre, assim como o nitrogênio, não é recomendado
 pela análise do solo. Nos casos em que se espera resposta a
 esse nutriente, a aplicação de 25 a 30 kg/ha, e de gesso,
 tem sido suficiente para o algodoeiro.
@@ -5131,7 +5264,8 @@ enxofre.
 
 148
 
-258
+
+ 500pr_pgnumber149  258
 
 Qual  é  a  recomendação  para  adubação  de  plantio  e  de
 cobertura e por que a adubação com nitrogênio e potássio
@@ -5150,22 +5284,22 @@ cobertura com N e K (se necessário) deve ser feita cerca de 20 a 30
 dias após a primeira.
 
 Os resultados de pesquisas recentes têm indicado que:
- A aplicação de nitrogênio em cobertura em doses acima de
+• A aplicação de nitrogênio em cobertura em doses acima de
 
 120 kg/ha não é econômica.
 
- As  aplicações  tardias  de  nitrogênio  (após  80  dias  da
+• As  aplicações  tardias  de  nitrogênio  (após  80  dias  da
 emergência)  promovem  o  crescimento  vegetativo,  o
 prolongamento do ciclo da cultura, o aumento da queda
 de botões florais e o aumento da intensidade de ataques
 de  pragas  e  doenças,  sem  que  ocorra  aumento  da  pro-
 dutividade.
 
- Respostas  a  doses  elevadas  de  nitrogênio  em  cobertura
+• Respostas  a  doses  elevadas  de  nitrogênio  em  cobertura
 (acima de 140 kg/ha) estão associadas à compactação do
 solo e/ou à presença de nematóides.
 
- A adubação com N e K deve ser parcelada nas adubações
+• A adubação com N e K deve ser parcelada nas adubações
 de plantio e de cobertura porque o parcelamento aumenta
 a eficiência da adubação ao assegurar o fornecimento desses
 nutrientes na fase de maior absorção pelas plantas e evita
@@ -5177,7 +5311,8 @@ uma vez que o cloreto de potássio tem elevado índice salino.
 
 149
 
-259
+
+ 500pr_pgnumber150  259
 
  Qual a recomendação de adubação com micronutrientes
 e qual o modo de aplicação mais eficiente (pulverização
@@ -5219,20 +5354,21 @@ dos micronutrientes sem causar toxicidade.
 Quais  são  os  principais  sintomas  de  deficiências  de
 macronutrientes no algodoeiro?
 
-Nitrogênio    Redução  do  crescimento  vegetativo  e
+Nitrogênio  –  Redução  do  crescimento  vegetativo  e
 
 150
 
-amarelecimento  uniforme  da  planta.  Os  sintomas  são  mais
+
+ 500pr_pgnumber151  amarelecimento  uniforme  da  planta.  Os  sintomas  são  mais
 acentuados  nas  folhas  mais  velhas,  nas  quais  surgem  manchas
 avermelhadas  ou  pardas,  que  secam  provocando  sua  queda
 prematura.  As  plantas  apresentam-se  pouco  desenvolvidas,  com
 número reduzido de ramos vegetativos e botões florais.
 
-Fósforo    Atraso  no  desenvolvimento  da  planta.  As  folhas
+Fósforo  –  Atraso  no  desenvolvimento  da  planta.  As  folhas
 apresentam coloração verde-escura-intensa e manchas ferruginosas
 no limbo. Esses sintomas são difíceis de serem detectados no campo.
-Potássio    Amarelecimento  das  margens  das  folhas  mais
+Potássio  –  Amarelecimento  das  margens  das  folhas  mais
 velhas,  que  avança  entre  as  nervuras.  Com  o  agravamento  da
 deficiência,  a  superfície  das  folhas  passa  para  uma  coloração
 bronzeada. A clorose se desloca gradualmente para as folhas mais
@@ -5240,19 +5376,19 @@ novas e as mais velhas morrem e caem, provocando a maturação
 prematura dos frutos e causando prejuízo na produtividade e na
 qualidade do produto.
 
-Cálcio  Sintomas de deficiência de cálcio são difíceis de ser
+Cálcio – Sintomas de deficiência de cálcio são difíceis de ser
 encontrados no campo. Sob condições severas de deficiência, o
 sistema radicular é prejudicado, o crescimento é paralisado e ocorre
 murchamento e queda das folhas. As folhas que não caem tornam-
 se avermelhadas.
 
-Magnésio    O  sintoma  bem  característico  é  a  clorose
+Magnésio  –  O  sintoma  bem  característico  é  a  clorose
 internerval  das  folhas  mais  velhas,  que  evolui  para  a  coloração
 vermelho-púrpura, formando um contraste nítido com o verde das
 nervuras.  As  folhas  deficientes  e  as  maçãs  se  desprendem  com
 facilidade.
 
-Enxofre  Clorose do ponteiro, caracterizado pela coloração
+Enxofre – Clorose do ponteiro, caracterizado pela coloração
 verde-limão, típica, que atinge as folhas mais velhas, causando sua
 queda prematura.
 
@@ -5267,7 +5403,8 @@ deficiência  de  nitrogênio  com  pulverizações  de  uréia  na
 
 151
 
-concentração de 0,5 kg de N/ha, por aplicação. A uréia apropriada
+
+ 500pr_pgnumber152  concentração de 0,5 kg de N/ha, por aplicação. A uréia apropriada
 para aplicação foliar deve conter menos que 0,3 % de biureto, ao
 passo que a uréia comumente usada no solo pode conter até 1,5%
 desse  composto.  A  uréia  animal  não  deve  ser  utilizada  para
@@ -5282,42 +5419,43 @@ florescimento, na dose de 4,5 kg/ha de K em cada aplicação.
 Quais  são  os  principais  sintomas  de  deficiências  de
 micronutrientes no algodoeiro?
 
-Boro  O algodoeiro é uma das plantas mais exigentes em
+Boro – O algodoeiro é uma das plantas mais exigentes em
 
 Boro. Os principais sintomas de deficiência são:
 
- Folhas novas amareladas e enrugadas, contrastando com o
+• Folhas novas amareladas e enrugadas, contrastando com o
 
 verde normal das folhas mais velhas.
 
- Flores defeituosas e aumento da queda de botões florais e
+• Flores defeituosas e aumento da queda de botões florais e
 dos frutos, que apresentam escurecimento interno, na base.
 
- Aparecimento de anéis verde-escuros nos pecíolos.
- Superbrotamento  e  morte  dos  ponteiros,  quando  a
+• Aparecimento de anéis verde-escuros nos pecíolos.
+• Superbrotamento  e  morte  dos  ponteiros,  quando  a
 
 deficiência é muito severa.
 
-Zinco    Clorose  internerval  nas  folhas  novas,  que  se
+Zinco  –  Clorose  internerval  nas  folhas  novas,  que  se
 apresentam com as bordas voltadas para cima e lóbulos alongados
-no formato de dedos.
+no formato de “dedos”.
 
-Manganês  Clorose internerval das folhas novas dos ponteiros,
+Manganês – Clorose internerval das folhas novas dos ponteiros,
 
 contrastando com o verde das nervuras.
 
-Cobre  as folhas novas apresentam nervuras tortas e salientes.
+Cobre – as folhas novas apresentam nervuras tortas e salientes.
 
 São sintomas de difícil ocorrência no campo.
 
-Ferro  Sintomas semelhantes aos da deficiência do manganês.
+Ferro – Sintomas semelhantes aos da deficiência do manganês.
 Não se espera deficiência de ferro no Brasil, a não ser em condições
 de elevada disponibilidade de manganês, devido ao antagonismo
 entre eles, ou em solos alcalinos.
 
 152
 
-263
+
+ 500pr_pgnumber153  263
 
 Como  corrigir  a  deficiência  de  boro,  mais  freqüente  na
 época da floração?
@@ -5330,7 +5468,9 @@ que o bórax e o ácido bórico são os mais utilizados.
 
 153
 
-12 Colheita do Algodão
+
+ 500pr_pgnumber154  
+ 500pr_pgnumber155  12 Colheita do Algodão
 
 Napoleão Esberard de Macêdo Beltrão
 
@@ -5338,7 +5478,8 @@ Demóstenes Marcos Pedrosa de Azevedo
 
 Laudemiro Baldoíno da Nóbrega
 
-264
+
+ 500pr_pgnumber156  264
 
 Que cuidados deve-se ter na colheita manual e qual seu
 rendimento?
@@ -5374,7 +5515,7 @@ São vários, e envolvem o ambiente (clima e solos), o manejo
 cultural (adubação, espaçamento e densidade de plantio, e época
 de plantio), a cultivar (porte, tamanho do capulho, deiscência dos
 frutos, aderência dos frutos, altura dos primeiros ramos frutíferos,
-arquitetura  do  dossel)  e  manejo  de  pragas,  doenças  e  plantas
+“arquitetura”  do  dossel)  e  manejo  de  pragas,  doenças  e  plantas
 daninhas.  Cada  um  desses  fatores  pode  influenciar  a  colheita
 (rendimento, qualidade do produto e eficiência.
 
@@ -5388,7 +5529,8 @@ umidade  relativa  do  ar,  precipitação  pluvial  (quantidade,
 
 156
 
-distribuição e intensidade), radiação solar e outros fatores, exercem
+
+ 500pr_pgnumber157  distribuição e intensidade), radiação solar e outros fatores, exercem
 influência direta sobre a colheita, isto é, os frutos só se abrem se
 houver radiação solar na medida certa. Assim, a radiação solar é o
 componente físico externo indispensável para a abertura dos frutos
@@ -5431,7 +5573,8 @@ a intervalos de 5 a 10 dias.
 
 157
 
-O algodão do baixeiro ou da saia do algodoeiro deve ser
+
+ 500pr_pgnumber158  O algodão do “baixeiro” ou da “saia” do algodoeiro deve ser
 colhido à parte por causa da maior sujeira, bem como a produção
 do ponteiro (parte de cima), no caso de plantas que crescem muito.
   Frutos  não  totalmente  abertos  e  os  doentes  devem  ser
@@ -5439,7 +5582,7 @@ descartados,  pois  reduzem  o  tipo  do  produto  e  prejudicam  a
 qualidade global da fibra produzida.
 
 Os  frutos  doentes  ou  praguejados  apresentam  fibras
-manchadas e sementes chochas e são conhecidos como carimã.
+manchadas e sementes chochas e são conhecidos como “carimã”.
 
 268
 
@@ -5464,18 +5607,19 @@ Quais  os  tipos  de  colheitadeira  existentes  e  qual  o  mais
 utilizado na cultura do algodão?
 
 Existem  dois  tipos  básicos  de  colheitadeira  de  algodão,
-considerando o princípio da colheita: fusos spindles rotativos e
-os do tipo arrancadores stripper. No primeiro caso, o mais usado
+considerando o princípio da colheita: fusos “spindles” rotativos e
+os do tipo arrancadores “stripper”. No primeiro caso, o mais usado
 atualmente, porque produz um algodão de tipo melhor, o algodão
 é retirado dos capulhos completamente abertos, por fusos rotativos.
-No caso dos arrancadores, a colheita é feita por meio de raspagem
+No caso dos “arrancadores”, a colheita é feita por meio de raspagem
 das  plantas  entre  dois  discos  rotativos,  fazendo  um  serviço
 semelhante à rapa manual, e exige um sistema de pré-limpeza antes
 do beneficiamento do produto. A colheitadeira de fusos, que pode
 
 158
 
-ser de duas a cinco linhas, é bem mais cara do que a de arranca.
+
+ 500pr_pgnumber159  ser de duas a cinco linhas, é bem mais cara do que a de “arranca”.
 Esta última é pouco usada no Brasil e produz algodão de tipo inferior
 ao da colheita mecânica com máquina de fusos.
 
@@ -5486,9 +5630,9 @@ processo de colheita?
 
 Basicamente existem dois tipos: de fusos cilíndricos e de fusos
 cônicos.  Os  componentes  principais  da  colheitadeira  de  fusos
-rotativos  são  cabeça  colhedora,  transportador  pneumático,
+rotativos  são  “cabeça  colhedora”,  transportador  pneumático,
 caçamba  depósito  e  mecanismo  de  descarga,  sendo  o  mais
-importante a cabeça colhedora.
+importante a “cabeça colhedora”.
 
 Os órgãos ativos são fusos cônicos ou cilíndricos, colocados
 em  barras  e  em  número  variável,  dependendo  do  tamanho  da
@@ -5508,49 +5652,50 @@ algodão, vários fatores de-
 vem ser observados, desta-
 cando-se os seguintes:
 
- Declividade  do
+• Declividade  do
 terreno  inferior  a
 12%, sendo o ideal
 inferior a 6%.
 
- Adequação do terreno, livre de impedimentos como tocos,
+• Adequação do terreno, livre de impedimentos como tocos,
 
 pedras grandes, depressões, etc.
 
- Algodoal com os frutos totalmente abertos e, de preferência,
+• Algodoal com os frutos totalmente abertos e, de preferência,
 
 desfolhado quimicamente.
 
 159
 
- Capacitação dos operadores da colheitadeira.
- Máquina em perfeito estado de funcionamento e regulada
+
+ 500pr_pgnumber160  • Capacitação dos operadores da colheitadeira.
+• Máquina em perfeito estado de funcionamento e regulada
 para as condições de trabalho, admitindo-se perdas de até
 6,0%.
 
- Máquina  com  sistema  de  contenção  de  incêndios  em
+• Máquina  com  sistema  de  contenção  de  incêndios  em
 
 condições de uso.
 
- O  espaçamento  deve  estar  dentro  da  bitola  da  máquina
+• O  espaçamento  deve  estar  dentro  da  bitola  da  máquina
 (1,0 m para a de duas fileiras, quando não regulada), de
 0,81 m a 0,91 m para as de quatro fileiras e de 0,76 m a
 1,65 m para as de cinco fileiras, mais modernas.
 
- Evitar linhas de plantio curtas, linhas mortas nos terraços e
+• Evitar linhas de plantio curtas, linhas mortas nos terraços e
 
 linhas fora de nível.
 
- As plantas devem ter altura uniforme de 1,60 m, no máximo,
+• As plantas devem ter altura uniforme de 1,60 m, no máximo,
 
 obtida com o uso de reguladores de crescimento.
 
- As  cultivares  plantadas  devem  ser  adaptadas  à  colheita
+• As  cultivares  plantadas  devem  ser  adaptadas  à  colheita
 mecânica,  apresentar  capulhos  bem  abertos,  porém  sem
 tendência a cair com o vento e que apresentem maturação
 uniforme.
 
- A cultura deve estar desfolhada.
+• A cultura deve estar desfolhada.
 
 272
 
@@ -5571,7 +5716,8 @@ médio  de  700  a  1.000  arrobas/dia.  Uma  colheitadeira  de  duas
 
 160
 
-linhas colhe o equivalente a 250 homens e as maiores a até 600
+
+ 500pr_pgnumber161  linhas colhe o equivalente a 250 homens e as maiores a até 600
 homens, dependendo das condições de operação, velocidade (3 a
 5 km/ha), uniformidade e limpeza do campo ( sem plantas daninhas).
 
@@ -5581,15 +5727,15 @@ homens, dependendo das condições de operação, velocidade (3 a
 algodão?
 
 Existem três tipos de perdas:
- A primeira ocorre antes da colheita, e é causada por ventos
+• A primeira ocorre antes da colheita, e é causada por ventos
 ou  outros  fatores,  que  derrubam  o  algodão  no  chão,
 impedindo que seja apanhado pela máquina.
 
- A segunda é constituída pelo algodão que a máquina deixa
+• A segunda é constituída pelo algodão que a máquina deixa
 
 na planta.
 
- A terceira ocorre durante a colheita e é representada pelo
+• A terceira ocorre durante a colheita e é representada pelo
 algodão  que  cai  no  chão  e  a  máquina  não  consegue
 recolher.
 
@@ -5603,11 +5749,11 @@ Nem  sempre.  O  algodão  colhido  à  mão,  dentro  das
 recomendações técnicas, é de melhor tipo (de meio a um ponto
 em relação ao tipo) do que o algodão colhido à máquina, também
 com  todo  rigor,  pois  não  necessita  de  pré-limpeza,  podendo
-apresentar menor quantidade de neps ou nodosidades na fibra e
+apresentar menor quantidade de “neps” ou nodosidades na fibra e
 menor índice de fibras curtas e de fibras flutuantes.
 
 Em Londrina, PR, os pesquisadores do Instituto Agronômico
-do Paraná  Iapar  realizaram um estudo detalhado sobre os dois
+do Paraná – Iapar – realizaram um estudo detalhado sobre os dois
 tipos  de  colheita,  tendo  verificado  o  seguinte:  o  rendimento  da
 colheita manual foi de 87,4% contra 86,8% do da mecânica, com
 4,9% de queda natural no primeiro caso e de 3,6% no segundo.
@@ -5617,7 +5763,8 @@ na colheita mecânica e de 5% a 6% na manual.
 
 161
 
-As  características  intrínsecas  da  fibra  (comprimento,
+
+ 500pr_pgnumber162  As  características  intrínsecas  da  fibra  (comprimento,
 uniformidade  do  comprimento,  finura,  resistência  e  maturidade)
 não foram alteradas pelos tipos de colheita, o que mostra que, se
 for bem conduzida, a colheita mecânica não traz problemas para a
@@ -5657,11 +5804,12 @@ Que características deve ter uma cultivar adaptada para a
 colheita mecânica?
 
 Uma cultivar adaptada para a colheita mecânica, em especial
-para a colheita com máquinas do tipo spindles ou de fusos, deve
+para a colheita com máquinas do tipo “spindles” ou de fusos, deve
 
 162
 
-possuir ramos plagiotrópicos
+
+ 500pr_pgnumber163  possuir ramos plagiotrópicos
 (inclinados),  folhas  de  pre-
 ferência  pequenas,  frutos
 bem distribuídos nas plantas,
@@ -5681,7 +5829,7 @@ sementes).
 mecânica?
 
 Para que o algodão colhido seja o mais limpo possível, sem
-as chamadas nódoas verdes provocadas pelo contato das fibras
+as chamadas “nódoas verdes” provocadas pelo contato das fibras
 com  as  folhas  trituradas  pela  colheitadeira,  é  necessário  fazer  o
 desfolhamento  da  cultura,  um  pouco  antes  da  colheita,  quando
 cerca de 60% dos frutos já estiverem abertos.
@@ -5699,12 +5847,13 @@ Que características deve ter uma cultivar adaptada para a
 colheita manual?
 
 Para  que  o  rendimento  dos  colhedores  de  algodão  seja
-máximo sem perda de qualidade  o máximo de rendimento varia
-de 40 a 90 kg/dia/pessoa  a cultivar deve ter frutos (capulhos) de
+máximo sem perda de qualidade – o máximo de rendimento varia
+de 40 a 90 kg/dia/pessoa – a cultivar deve ter frutos (capulhos) de
 
 163
 
-tamanho médio a grande, variando entre 6 e 8 g, redondos, sem
+
+ 500pr_pgnumber164  tamanho médio a grande, variando entre 6 e 8 g, redondos, sem
 ápices afilados, de preferência com quatro lojas e que, ao abrir,
 não percam as fibras.
 
@@ -5713,8 +5862,8 @@ não percam as fibras.
 Como o espaçamento entre as fileiras pode interferir na
 qualidade do algodão e no rendimento da própria colheita?
 
-Se o espaçamento entre as fileiras for muito estreito  inferior
-a 0,60 m  pode haver tendência ao apodrecimento de frutos em
+Se o espaçamento entre as fileiras for muito estreito – inferior
+a 0,60 m – pode haver tendência ao apodrecimento de frutos em
 cultivo de sequeiro, nos anos mais chuvosos, em decorrência da
 baixa luminosidade no interior do dossel da cultura e deficiência
 de  aeração  (vento),  provocando  baixa  produtividade  e  redução
@@ -5746,7 +5895,8 @@ folhas.
 
 164
 
-13 Beneficiamento
+
+ 500pr_pgnumber165  13 Beneficiamento
 
 do Algodão
 
@@ -5756,7 +5906,8 @@ João Cecílio Farias de Santana
 
 165
 
-282
+
+ 500pr_pgnumber166  282
 
 Em que consiste o beneficiamento do algodão?
 
@@ -5805,7 +5956,8 @@ com limites máximos de 8% e mínimo de 6,5%. Algodões com
 
 166
 
-mais  de  10%  de  umidade
+
+ 500pr_pgnumber167  mais  de  10%  de  umidade
 correm o risco de fermentar,
 dificultam  o  trabalho  dos
 dispositivos  de  limpeza  dos
@@ -5822,8 +5974,8 @@ fica  sujeito  a  deságio  quando  a  umidade  ultrapassa  12%,
 estabelecido como limite.
 
 O  algodão  muito  seco  também  dificulta  o  trabalho  de
-beneficiamento, pois pode produzir grande quantidade de novelo
-ou piolho, isto é, pequenos enrodilhados de fibras que ocorrem
+beneficiamento, pois pode produzir grande quantidade de “novelo
+ou piolho”, isto é, pequenos enrodilhados de fibras que ocorrem
 durante o descaroçamento, principalmente quando o algodão estiver
 muito  seco,  reduzir  a  capacidade  operacional  das  máquinas,
 dificultar  o  enfardamento,  por  exigir  mais  trabalho  para  o
@@ -5848,7 +6000,8 @@ beneficiamento e fibra de baixa qualidade.
 
 167
 
-288
+
+ 500pr_pgnumber168  288
 
 As pragas que atacam o algodão interferem
 no beneficiamento?
@@ -5893,7 +6046,8 @@ seqüencialmente, beneficiam o algodão em caroço por meio de
 
 168
 
-operações  de  transporte,  pré-limpeza,  secagem,  limpeza,
+
+ 500pr_pgnumber169  operações  de  transporte,  pré-limpeza,  secagem,  limpeza,
 descaroçamento,  limpeza  da  fibra,  prensagem  e  enfardamento.
 A sincronia operacional desses equipamentos deve ser perfeita para
 que  não  haja  deficiência  em  alguma  das  fases  do  processo  de
@@ -5908,7 +6062,7 @@ instalação.
 do algodão?
 
 Os  fardões  de  algodão  em  caroço  são  desmanchados  em
-equipamentos  denominados  piranhas,  controlados  por
+equipamentos  denominados  “piranhas”,  controlados  por
 computador: os fardões são desfeitos por eixos batedores, que levam
 o algodão para uma rosca sem fim, que o conduz a uma esteira e
 daí, até o sistema de sucção.
@@ -5919,41 +6073,42 @@ Quais  são  os  principais  componentes  do  processo  de
 beneficiamento, numa usina moderna?
 
 Os principais componentes são:
- Piranha para desmanchar os fardos.
- Sistema de secagem com caixa de ar quente.
- Catador de pesados para a retirada de impurezas grandes.
- Queimador a gás para a produção de calor.
- Válvula separadora para separar o algodão do fluxo de ar.
- Batedor inclinado ou horizontal para espadanar e flocular
+• Piranha para desmanchar os fardos.
+• Sistema de secagem com caixa de ar quente.
+• Catador de pesados para a retirada de impurezas grandes.
+• Queimador a gás para a produção de calor.
+• Válvula separadora para separar o algodão do fluxo de ar.
+• Batedor inclinado ou horizontal para espadanar e flocular
 
 o algodão facilitando a retirada das impurezas.
 
- Limpador extrator para a retirada das impurezas menores.
- Rosca distribuidora e controladora do fluxo do algodão em
+• Limpador extrator para a retirada das impurezas menores.
+• Rosca distribuidora e controladora do fluxo do algodão em
 
 caroço.
 
- Alimentador  e  extrator,  que  limpam  e  alimentam  os
+• Alimentador  e  extrator,  que  limpam  e  alimentam  os
 
 descaroçadores.
 
 169
 
- Descaroçadores de serra.
- Roscas sem fim para a condução de sementes e cascas.
- Limpador de fibra a jato de ar para a retirada de impurezas.
- Limpador  de  fibra  com  serrilhas  espiraladas  e  barras
+
+ 500pr_pgnumber170  • Descaroçadores de serra.
+• Roscas sem fim para a condução de sementes e cascas.
+• Limpador de fibra a jato de ar para a retirada de impurezas.
+• Limpador  de  fibra  com  serrilhas  espiraladas  e  barras
 limpadoras para a extração de pequenas partículas de folhas,
 piolhos, folhas verdes e capins.
 
- Condensador de plumas para agregar a fibra em forma de
+• Condensador de plumas para agregar a fibra em forma de
 
 manta.
 
- Bica de descida da pluma do condensador para o calcador.
- Sistema de umidificação da fibra.
- Calcador e prensa hidráulica para a produção do fardo.
- Armazenamento dos fardos.
+• Bica de descida da pluma do condensador para o calcador.
+• Sistema de umidificação da fibra.
+• Calcador e prensa hidráulica para a produção do fardo.
+• Armazenamento dos fardos.
 
 293
 
@@ -5986,7 +6141,8 @@ Síria  e  Uganda.  Ao  passo  que  o  descaroçador  de  serra,  o  mais
 
 170
 
-utilizado no mundo, destina-se ao descaroçamento de algodão de
+
+ 500pr_pgnumber171  utilizado no mundo, destina-se ao descaroçamento de algodão de
 fibra média e curta, os mais cultivados no mundo e da preferência
 da indústria têxtil.
 
@@ -6029,7 +6185,8 @@ fibra  da  semente.  As  serras  são  simples  discos  dentados,  cujo
 
 171
 
-diâmetro varia de 12 a 18 polegadas, fixos a intervalos regulares
+
+ 500pr_pgnumber172  diâmetro varia de 12 a 18 polegadas, fixos a intervalos regulares
 sobre um eixo.
 
 Os modelos mais comuns possuem entre 90 e 200 serras, que
@@ -6075,7 +6232,8 @@ eventualmente, sua quebra. A perda de aspereza do rolo descaroçador
 
 172
 
-ou seu desgaste pelo uso intensivo pode ser corrigido refazendo os
+
+ 500pr_pgnumber173  ou seu desgaste pelo uso intensivo pode ser corrigido refazendo os
 sulcos superficiais. Quando essa correção é impossível, os rolos
 precisam ser substituídos.
 
@@ -6121,7 +6279,8 @@ produção com a venda da pluma para a indústria têxtil e a do caroço
 
 173
 
-ou  semente  para  terceiros.  A  área  mínima  que  compensa  o
+
+ 500pr_pgnumber174  ou  semente  para  terceiros.  A  área  mínima  que  compensa  o
 investimento é de 600 ha utilizando um descaroçador de 90 serras.
 
 304
@@ -6165,7 +6324,8 @@ aço. O número de amarrações varia de acordo com densidade do
 
 174
 
-fardo, mas, geralmente, em fardos de
+
+ 500pr_pgnumber175  fardo, mas, geralmente, em fardos de
 média  densidade,  o  número  de
 amarrações situa-se entre 6 e 7.
 
@@ -6186,7 +6346,9 @@ consumo.
 
 175
 
-14 Produção de
+
+ 500pr_pgnumber176  
+ 500pr_pgnumber177  14 Produção de
 
 Sementes do Algodão
 
@@ -6194,7 +6356,8 @@ Vicente de Paula Queiroga
 
 Napoleão Esberard de Macêdo Beltrão
 
-307
+
+ 500pr_pgnumber178  307
 
 O  produtor  pode  produzir  sementes  fiscalizadas  de
 algodão?
@@ -6220,23 +6383,23 @@ mulários-modelo fornecidos pela
 Delegacia Federal de Agricultura
 de cada estado, como:
 
- Pedido  de  credenciamento  para
+• Pedido  de  credenciamento  para
 produção  de  sementes  fiscaliza-
 das.
 
- Memorial  descritivo  da  Unidade  de  Beneficiamento  do
+• Memorial  descritivo  da  Unidade  de  Beneficiamento  do
 
- Projeto técnico para produção de sementes com croqui dos
+• Projeto técnico para produção de sementes com croqui dos
 
 Algodão.
 
 campos de produção.
 
- Anotação  de  Responsabilidade  Técnica  (ART)  do
+• Anotação  de  Responsabilidade  Técnica  (ART)  do
 responsável técnico, no CREA (único documento fornecido
 pelo CREA).
 
- Termo de Compromisso de Responsabilidade Técnica.
+• Termo de Compromisso de Responsabilidade Técnica.
 
 309
 
@@ -6247,7 +6410,8 @@ autógama, em razão de cada flor possuir os dois tipos de gametas:
 
 178
 
-masculino e feminino. Entretanto, a taxa de cruzamento natural
+
+ 500pr_pgnumber179  masculino e feminino. Entretanto, a taxa de cruzamento natural
 dos  campos  de  algodão  pode  ser  grandemente  influenciada  pela
 população  de  insetos  transportadores  de  pólen,  podendo  alcançar
 valores intermediários entre a autogamia e a alogamia (acima de 60%).
@@ -6257,12 +6421,12 @@ valores intermediários entre a autogamia e a alogamia (acima de 60%).
 Que métodos são empregados para determinar a taxa de
 polinização cruzada no algodoeiro?
 
- Marcador Genético
+• Marcador Genético
 A  metodologia  adotada  consiste  em  intercalar  plantas  da
 
 cultivar
 
- Empire Glandless (com o gene sem gossipol), cujo caráter
+ “Empire Glandless” (com o gene sem gossipol), cujo caráter
 funcionará como marcador genético entre plantas de algodoeiro
 com glândulas de gossipol normais, para mensuração da taxa de
 alogamia em diversos locais, que se deseja estudar.
@@ -6273,7 +6437,7 @@ presença  ou  ausência  de  glândulas  de  gossipol,  esses  capulhos
 permitem que se chegue a uma estimativa da taxa de polinização
 cruzada.
 
- Azul de Metileno
+• Azul de Metileno
 As  observações  da  taxa  de  dispersão  natural  dos  insetos
 polinizadores  podem  ser  realizadas  nas  fileiras  distanciadas  a
 intervalos  de  10  a  20  m,  segundo  a  percentagem  de  flores
@@ -6285,13 +6449,14 @@ com comprimento de até 100 m.
 
 Na parte da tarde e nas filas subseqüentes de mesmo com-
 primento,  devem  ser  observadas  e  contadas  todas  as  flores
-manchadas de metileno, em cada fileira, mediante borrifadas dágua
+manchadas de metileno, em cada fileira, mediante borrifadas d’água
 provocadas pelo nebulizador, até a distância de 120 m em relação
 à primeira fila.
 
 179
 
-311
+
+ 500pr_pgnumber180  311
 
 Por que se recomenda isolar os campos de produção de
 sementes de algodão?
@@ -6301,10 +6466,10 @@ para evitar a polinização cruzada e misturas varietais. Recomenda-
 se, assim, um afastamento mínimo dos campos plantados de algodão
 de acordo com as seguintes situações:
 
- Campos com cultivares diferentes de algodão herbáceo:
+• Campos com cultivares diferentes de algodão herbáceo:
  - sem cortina vegetal - 100 m;
  - com cortina vegetal - 50 m;
- Campos com algodão herbáceo e com algodão arbóreo:
+• Campos com algodão herbáceo e com algodão arbóreo:
  - sem cortina vegetal - 500 m;
  - com cortina vegetal - 100 m;
 
@@ -6314,7 +6479,7 @@ O que são inspeções de campo? Existem outros tipos de
 inspeção?
 
 Inspeções  de  campo  consistem  em  avaliações  feitas  por
-técnicos da Delegacia Federal de Agricultura  DFA  nos campos
+técnicos da Delegacia Federal de Agricultura – DFA – nos campos
 de  produção  de  sementes  em  suas  diversas  fases  (pré-floração,
 floração, pré-colheita e colheita), ou seja , durante todo o ciclo da
 cultura,  a  fim  de  verificar  aspectos  relacionados  à  presença  de
@@ -6339,7 +6504,8 @@ da cultivar em evidência. Uma vez constatada a presença de plantas
 
 180
 
-atípicas  no  campo  de  produção  de  sementes,  e  sendo  época
+
+ 500pr_pgnumber181  atípicas  no  campo  de  produção  de  sementes,  e  sendo  época
 favorável  à  identificação  visual,  é  recomendada  a  operação  de
 roguing em cada fileira plantada.
 
@@ -6384,7 +6550,8 @@ e transportado para a usina de
 
 181
 
-beneficiamento. Essa preocupação com a colheita do algodão deve-se
+
+ 500pr_pgnumber182  beneficiamento. Essa preocupação com a colheita do algodão deve-se
 ao fato de que é comum, na Região Nordeste, o agricultor entregar
 algodão  em  rama  nas  usinas  de  beneficiamento  de  algodão,  com
 umidade superior a 13%.
@@ -6423,7 +6590,8 @@ naturalmente, quebrando, assim, a dormência.
 
 182
 
-319
+
+ 500pr_pgnumber183  319
 
 Como o algodão em rama, colhido manualmente, deve ser
 ensacado e armazenado, a fim de garantir melhor qualidade
@@ -6468,7 +6636,8 @@ em condições seguras, que consiste na soma da umidade relativa
 
 183
 
-do ar (em percentagem) e da temperatura (em graus centígrados)
+
+ 500pr_pgnumber184  do ar (em percentagem) e da temperatura (em graus centígrados)
 do ambiente, no qual se fará o armazenamento das sementes por
 mais de 2 anos, que deve ser, no máximo, igual a 55,5.
 
@@ -6516,7 +6685,8 @@ a  Nota  Fiscal  de  compra  da  cultivar  e  a  quantidade  correta
 
 184
 
-comercializada,  o  Atestado  de  Garantia  da  Semente  (  fornecido
+
+ 500pr_pgnumber185  comercializada,  o  Atestado  de  Garantia  da  Semente  (  fornecido
 pelo produtor de sementes) e o Boletim de Análise (fornecido por
 um laboratório credenciado pelo Ministério da Agricultura).
 
@@ -6533,17 +6703,17 @@ se trata de grande volume de sementes a ser comercializado.
 Quais são as características da semente de qualidade?
 
 As principais características da semente de qualidade são:
- Pureza  Genética    Refere-se  à  constituição  genética  da
+• Pureza  Genética  –  Refere-se  à  constituição  genética  da
 semente, que se manifesta no comportamento da planta,
 como potencial produtivo, ciclo, resistência, arquitetura da
 planta, etc.
 
- Pureza Física  Refere-se à ausência de contaminação do
+• Pureza Física – Refere-se à ausência de contaminação do
 lote por materiais estranhos, ou impurezas, como sementes
 quebradas,  sementes  chochas,  pedras,  restos  vegetais,
 partículas de solo, etc.
 
- Qualidade  Fisiológica    É  a  capacidade  potencial  da
+• Qualidade  Fisiológica  –  É  a  capacidade  potencial  da
 semente em gerar uma planta nova, perfeita e vigorosa, sob
 condições favoráveis. Há duas maneiras básicas de aferir-
 se  a  qualidade  fisiológica  da  semente:  pelo  seu  poder
@@ -6554,12 +6724,13 @@ indica  a  habilidade  da  planta  em  resistir  a  estresses
 ambientais  e  sua  capacidade  de  manter  a  viabilidade
 durante o armazenamento.
 
- Sanidade  Condição da semente de estar livre de patógeno
+• Sanidade – Condição da semente de estar livre de patógeno
 ou dentro dos padrões mínimos aceitáveis. Alguns patógenos
 
 185
 
-transmitidos pela semente podem influenciar negativamente
+
+ 500pr_pgnumber186  transmitidos pela semente podem influenciar negativamente
 a emergência e vigor das plântulas, ocasionando drásticas
 reduções no rendimento da planta de algodão.
 
@@ -6584,17 +6755,17 @@ Quais as principais classes de sementes reconhecidas no
 programa de produção de sementes de algodão da Região
 Nordeste?
 
- Sementes  Genéticas    São  as  sementes  diretamente
+• Sementes  Genéticas  –  São  as  sementes  diretamente
 produzidas e controladas sob a supervisão do melhorista
 responsável ou da instituição obtentora por melhoramento
 genético, após vários anos, da espécie em evidência.
 
- Sementes  Básicas    São  as  sementes  oriundas  da
+• Sementes  Básicas  –  São  as  sementes  oriundas  da
 multiplicação  genética.  A  classe  de  semente  básica  é
 destinada  principalmente  para  uso  de  produtores  de
 sementes fiscalizadas, e não para a distribuição geral.
 
- Sementes Fiscalizadas  São as sementes que resultam da
+• Sementes Fiscalizadas – São as sementes que resultam da
 multiplicação da semente básica, criada e manipulada de
 tal  forma  que  lhe  permita  manter  a  identidade  e  pureza
 genética. A classe de sementes fiscalizadas é destinada à
@@ -6603,7 +6774,8 @@ sementes comerciais.
 
 186
 
-329
+
+ 500pr_pgnumber187  329
 
 Quais as principais empresas obtentoras de cultivares de
 algodão e suas respectivas cultivares?
@@ -6612,22 +6784,23 @@ Essas empresas estão listadas na Tabela 7, a seguir.
 
 187
 
-330
+
+ 500pr_pgnumber188  330
 
 Como produzir algodão orgânico?
 
 A produção de algodão orgânico, também conhecido como
 
-algodão ecológico, enfrenta as seguintes dificuldades:
+“algodão ecológico”, enfrenta as seguintes dificuldades:
 
- Em primeiro lugar, é preciso estabelecer uma parceria com
+• Em primeiro lugar, é preciso estabelecer uma parceria com
 uma empresa têxtil, do Brasil ou do exterior, que trabalha
 com esse produto. É preciso, também, articular-se com uma
 fiação particular de pequeno porte para processamento do
 fio de algodão orgânico, a fim de evitar o comprometimento
 do material orgânico.
 
- Deve-se escolher uma região árida do Nordeste ( ex: região
+• Deve-se escolher uma região árida do Nordeste ( ex: região
 do  Seridó  Paraibano),  de  baixa  incidência  de  doenças  e
 pragas, principalmente do bicudo. A alta temperatura da
 região árida funciona como um controle natural do bicudo,
@@ -6635,7 +6808,7 @@ em virtude do contato do solo quente com o botão floral,
 que cai da planta com a larva do bicudo em seu interior,
 matando a larva.
 
- Como há insuficiência de água na região árida do Nordeste,
+• Como há insuficiência de água na região árida do Nordeste,
 é  preciso  obter  a  colaboração  do  governo  com  uma
 associação  de  pequenos  agricultores  para  viabilizar  o
 projeto, devendo cada agricultor ter em sua propriedade:
@@ -6644,9 +6817,9 @@ gotejamento  (irrigação  de  salvamento)  para  atender
 1  ha  de  algodão,  devendo  o  sistema  estar  adaptado  ao
 espaçamento da cultura.
 
- Sobre o algodão orgânico incide o custo de certificação do
+• Sobre o algodão orgânico incide o custo de certificação do
 produto junto a um órgão como o Instituto Biodinâmico de
-Desenvolvimento  Rural    IBID  ,  de  Botucatu,  SP,  que
+Desenvolvimento  Rural  –  IBID  –,  de  Botucatu,  SP,  que
 implica um pagamento adicional sobre o algodão orgânico,
 da seguinte forma:
 
@@ -6660,15 +6833,16 @@ convencional.
 
 188
 
-O  cultivo  do  algodoeiro  orgânico,  tanto  arbóreo  quanto
+
+ 500pr_pgnumber189  O  cultivo  do  algodoeiro  orgânico,  tanto  arbóreo  quanto
 herbáceo, deve ser conduzido na base de técnicas agroecológicas
 que, em resumo, são as seguintes:
 
- Adubação  com  esterco  de  gado,  complementada  com
+• Adubação  com  esterco  de  gado,  complementada  com
 adubações  foliares  à  base  de  biofertilizante  especial,
 preparado pelos próprios agricultores.
 
- Manejo  de  pragas  na  base  de  catação  de  botões  florais
+• Manejo  de  pragas  na  base  de  catação  de  botões  florais
 afetados pelo bicudo, fazendo-se o monitoramento desse
 inseto  com  armadilhas  de  feromônio  e  com  o  uso  de
 Trichogramma spp., para o controle do curuquerê e outros
@@ -6678,7 +6852,7 @@ pulverizações com extrato de folhas de Nim (Azadirachta
 indica), ou outras soluções: água mais urina de gado, água
 com fumo de rolo , etc.
 
- Aplicação de inseticidas biológicos como Dipel e Bactur
+• Aplicação de inseticidas biológicos como Dipel e Bactur
 PM, ambos à base de Bacillus thuringiensis, para o controle
 de lagartas.
 
@@ -6688,14 +6862,17 @@ ecológico pode ser 15% inferior ao algodão convencional.
 
 189
 
-15 Irrigação do Algodoeiro
+
+ 500pr_pgnumber190  
+ 500pr_pgnumber191  15 Irrigação do Algodoeiro
 
 José Renato Cortez Bezerra
 Maria José da Silva e Luz
 
 Luiz Carlos Silva
 
-Como deve ser semeado o algodoeiro irrigado?
+
+ 500pr_pgnumber192  Como deve ser semeado o algodoeiro irrigado?
 
 331
 
@@ -6743,7 +6920,8 @@ cultivo  e  dos  tipos  de  máquinas  existentes  na  propriedade.
 
 192
 
-Atualmente, recomendam-se espaçamentos que variam de 0,70 x
+
+ 500pr_pgnumber193  Atualmente, recomendam-se espaçamentos que variam de 0,70 x
 0,20 m a 1,00 x 0,20 m, deixando-se duas plantas por cova. Quando
 o plantio é feito em fileira simples, utiliza-se o mesmo espaçamento
 entre as fileiras e uma densidade de plantio de 8 a 12 plantas/m.
@@ -6788,8 +6966,9 @@ aspersão,  deve-se  preparar  a  solução  do  adubo  num  recipiente
 
 193
 
-auxiliar,  como  uma  caixa
-dágua, de modo que o adubo
+
+ 500pr_pgnumber194  auxiliar,  como  uma  caixa
+d’água, de modo que o adubo
 fique completamente dissol-
 vido.  Após  a  dissolução  do
 sal, o sistema é ligado com o
@@ -6822,7 +7001,7 @@ de  fertilizantes,  cuja  função  é  injetar  os  fertilizantes  e  produtos
 químicos  nas  linhas  do  sistema  de  irrigação.  Os  principais
 equipamentos são:
 
- O tanque de fertilizante e os injetores (o tubo Venturi, o
+• O tanque de fertilizante e os injetores (o tubo Venturi, o
 tubo de Pitot, também chamado de vaquinha), que, embora
 sejam  mais  fáceis  de  serem  construídos  e  mais  baratos,
 apresentam  menor  precisão  de  aplicação  de  adubos
@@ -6830,11 +7009,12 @@ químicos e menor mobilidade que a bomba injetora.
 
 194
 
- As bombas injetoras que, apesar de serem o tipo mais caro
+
+ 500pr_pgnumber195  • As bombas injetoras que, apesar de serem o tipo mais caro
 de injetor, apresentam a maior precisão de aplicação de
 adubos químicos e maior mobilidade.
 
- O sistema que utiliza a sucção da bomba de irrigação, que
+• O sistema que utiliza a sucção da bomba de irrigação, que
 é a maneira mais barata e simples de injeção de fertilizantes.
 
 338
@@ -6873,7 +7053,8 @@ implantação do sistema. Outra vantagem é que a distribuição de
 
 195
 
-340
+
+ 500pr_pgnumber196  340
 
 Qual  a  classe  ou  tipo  de  água  ideal  para  a  irrigação  do
 algodoeiro?
@@ -6922,9 +7103,10 @@ poços de observação (piezômetros), que permitem saber a altura
 
 196
 
-em  que  o  nível  do  lençol  freático  se  encontra,  ou  mesmo  pela
+
+ 500pr_pgnumber197  em  que  o  nível  do  lençol  freático  se  encontra,  ou  mesmo  pela
 perfuração  de  um  buraco  com  um  trado  ou  outro  acessório
-perfurante. Se o lençol dágua estiver a apenas 1,00 m da superfície
+perfurante. Se o lençol d’água estiver a apenas 1,00 m da superfície
 do solo, já pode ser problemático para o algodoeiro.
 
 345
@@ -6964,7 +7146,8 @@ ao solo, o que torna a recuperação mais demorada e cara.
 
 197
 
-Como deve ser feita a lavagem do solo salino?
+
+ 500pr_pgnumber198  Como deve ser feita a lavagem do solo salino?
 
 348
 
@@ -7008,7 +7191,8 @@ capilar ascendente da água pode alcançar o sistema radicular das
 
 198
 
-plantas que absorverá a água, deixando os sais concentrados no
+
+ 500pr_pgnumber199  plantas que absorverá a água, deixando os sais concentrados no
 perfil do solo.
 
 Deve-se  evitar,  também,  aplicação  de  água  em  pequenos
@@ -7051,7 +7235,8 @@ Deve-se fazer a colheita após a saída do sol, para evitar colher os
 
 199
 
-capulhos molhados pelo orvalho, o que pode prejudicar a qualidade
+
+ 500pr_pgnumber200  capulhos molhados pelo orvalho, o que pode prejudicar a qualidade
 da fibra.
 
 352
@@ -7094,7 +7279,8 @@ de água durante o ano, etc.) e do potencial agrícola, de mercado,
 
 200
 
-geoeconômico e socioeconômico (disponibilidade de energia, vias
+
+ 500pr_pgnumber201  geoeconômico e socioeconômico (disponibilidade de energia, vias
 de acesso, facilidade de escoamento da produção, disponibilidade
 de mão-de-obra, existência de indústrias), entre outros.
 
@@ -7127,7 +7313,9 @@ salina, as irrigações devem ser mais freqüentes.
 
 201
 
-16 Pós-Colheita e
+
+ 500pr_pgnumber202  
+ 500pr_pgnumber203  16 Pós-Colheita e
 
 Armazenamento
 do Algodão
@@ -7138,7 +7326,8 @@ Francisco de Assis Cardoso de Almeida
 
 José Cláudio da Silva Santana
 
-355
+
+ 500pr_pgnumber204  355
 
 Qual o objetivo do tratamento pós-colheita do algodão em
 caroço?
@@ -7185,7 +7374,8 @@ adaptadas  às  condições  edafoclimáticas  das  diferentes  regiões  e
 
 204
 
-com boas características tecnológicas de fibra, os profissionais da
+
+ 500pr_pgnumber205  com boas características tecnológicas de fibra, os profissionais da
 tecnologia pós-colheita, ligados à cotonicultura, realizam pesquisas
 direcionadas à obtenção de resultados que proporcionem ao setor
 de beneficiamento e armazenamento do algodão condições para
@@ -7197,8 +7387,8 @@ micamente viável.
 Existem  resultados  de  estudos  sobre  armazenamento  de
 fibra de algodão, no Brasil?
 
-A Embrapa Algodão e a Universidade Federal da Paraíba 
-UFPB  realizaram pesquisa com o objetivo de avaliar a influência
+A Embrapa Algodão e a Universidade Federal da Paraíba –
+UFPB – realizaram pesquisa com o objetivo de avaliar a influência
 do ambiente sobre as principais características intrínsecas da fibra
 do algodão das cultivares CNPA-7H e BRS 187 8H, armazenadas
 durante 21 meses em dois municípios da Paraíba (Patos e Campina
@@ -7206,16 +7396,16 @@ Grande),  e  obter  informações  técnicas  para  orientar  o  setor  de
 armazenamento de fibra de algodão.
 
 Essa pesquisa chegou às seguintes conclusões:
- O  grau  de  amarelamento  tende  a  aumentar  e  o  grau  de
+• O  grau  de  amarelamento  tende  a  aumentar  e  o  grau  de
 reflexão  a  diminuir,  à  medida  que  aumenta  o  tempo  de
 armazenamento.
 
- Houve influência do tempo de armazenamento sobre o tipo
+• Houve influência do tempo de armazenamento sobre o tipo
 da fibra de algodão, que fica mais amarelada com o tempo
 de armazenamento, podendo reduzir o tipo do algodão,
 depois de nove meses.
 
- Entre  o  9º  e  o  18º  mês  de  armazenamento,  a  fibra  do
+• Entre  o  9º  e  o  18º  mês  de  armazenamento,  a  fibra  do
 algodão passou da cor branca para ligeiramente amarela, e
 aos 21 meses tornou-se creme.
 
@@ -7230,12 +7420,13 @@ precauções:
 
 205
 
- Colher o algodão com tempo seco.
- Uma  vez  colhido,  o  algodão  deve  ser  imediatamente
+
+ 500pr_pgnumber206  • Colher o algodão com tempo seco.
+• Uma  vez  colhido,  o  algodão  deve  ser  imediatamente
 
 secado.
 
- Fazer, em seguida, o descaroçamento, o enfardamento em
+• Fazer, em seguida, o descaroçamento, o enfardamento em
 
 pluma e o armazenamento.
 
@@ -7271,14 +7462,15 @@ celular, em seu interior.
 
 Como deve ser a iluminação do armazém?
 
-A  iluminação  deve  ser  natural,  através  de  domos  ou
+A  iluminação  deve  ser  natural,  através  de  “domos”  ou
 zimbórios  (vidraças  nas  partes  mais  elevadas  do  armazém,  sem
 entrada  para  o  vento)  e  os  depósitos  devem  dispor  de  rede  de
 hidrantes e extintores de água. É fundamental que a indústria têxtil
 
 206
 
-conte, em seus quadros, com uma equipe da brigada de incêndio,
+
+ 500pr_pgnumber207  conte, em seus quadros, com uma equipe da “brigada de incêndio”,
 pois  é  estritamente  necessário  que  haja  pessoal  treinado,
 preferencialmente pelo corpo de bombeiros, para atuar em situações
 de risco.
@@ -7324,7 +7516,8 @@ pilhas de seis fardos, de modo a permitir acesso fácil a todas as
 
 207
 
-faces da pilha, numa eventual necessidade.
+
+ 500pr_pgnumber208  faces da pilha, numa eventual necessidade.
 
 As  pilhas  de  seis  fardos  são  dispostas  ao  longo  do  layout,
 amarradas  uma  à  outra  com  dois  fardos  intermediários,  a  uma
@@ -7350,7 +7543,7 @@ Qual  a  umidade  e  temperatura  mínimas  da  semente  de
 algodão para a armazenagem?
 
 As sementes de algodão (Gossypium spp.) pertencem ao grupo
-das chamadas sementes ortodoxas, para as quais o período de
+das chamadas “sementes ortodoxas”, para as quais o período de
 viabilidade é inversamente proporcional à temperatura e ao teor
 de umidade. Nessas sementes, o conteúdo de umidade pode ser
 reduzido a valores de 3% a 5%, não havendo limite mínimo para a
@@ -7370,7 +7563,8 @@ fatores  que  influenciam  a  capacidade  de  germinação.  Sementes
 
 208
 
-mais vigorosas são as que têm embrião plenamente desenvolvido,
+
+ 500pr_pgnumber209  mais vigorosas são as que têm embrião plenamente desenvolvido,
 que  permanecem  razoavelmente  secas  no  campo  e  que  são
 armazenadas em lugares relativamente frescos e secos até o plantio.
 Por  essas  razões,  é  essencial  que  as  sementes  tenham  teores  de
@@ -7414,13 +7608,14 @@ umidade  em  ambientes  que  provocam  efeitos  nocivos  a
 
 209
 
-temperaturas elevadas deve ser feita levando em conta que:
+
+ 500pr_pgnumber210  temperaturas elevadas deve ser feita levando em conta que:
 
- Para cada 1% de queda no teor de umidade da semente,
+• Para cada 1% de queda no teor de umidade da semente,
 dobra-se o tempo de conservação sem perda de germinação
 (para sementes com teor de umidade entre 5% e 14%).
 
- Para  cada  quebra  de  5%  na  temperatura  ambiente  do
+• Para  cada  quebra  de  5%  na  temperatura  ambiente  do
 armazém (válido para temperaturas entre 0ºC e 50°C), o
 período de conservação das sementes também dobra.
 
@@ -7454,20 +7649,21 @@ colheita, beneficiamento e armazenamento?
 algodão  antes  das  operações  de  colheita,  beneficiamento  e
 armazenamento, porque:
 
- O baixo teor de umidade é um dos principais elementos
+• O baixo teor de umidade é um dos principais elementos
 para  a  conservação  das  sementes  de  algodão  durante  o
 período de armazenamento.
 
 210
 
- Teor  de  umidade  das  sementes  de  algodão  acima  do
+
+ 500pr_pgnumber211  • Teor  de  umidade  das  sementes  de  algodão  acima  do
 recomendado  favorece  o  desenvolvimento  de  mi-
 crorganismos patogênicos que as estragam e as depreciam.
- Sementes úmidas deterioram-se com facilidade e em poucos
+• Sementes úmidas deterioram-se com facilidade e em poucos
 
 dias.
 
- Sementes limpas e bem secas conservam-se por períodos
+• Sementes limpas e bem secas conservam-se por períodos
 muito mais longos de armazenamento, sem alteração de
 sua qualidade inicial.
 
@@ -7481,29 +7677,29 @@ Os principais pontos a serem considerados no processo de
 
 conservação das sementes durante o armazenamento são:
 
- A  qualidade  da  semente  não  é  melhorada  no  arma-
+• A  qualidade  da  semente  não  é  melhorada  no  arma-
 
 zenamento.
 
- A umidade da semente e a temperatura são os fatores mais
+• A umidade da semente e a temperatura são os fatores mais
 
 importantes.
 
- A umidade é mais importante do que a temperatura.
- Condições frias e secas são ideais para o armazenamento.
- Sementes imaturas, deterioradas e danificadas não suportam
+• A umidade é mais importante do que a temperatura.
+• Condições frias e secas são ideais para o armazenamento.
+• Sementes imaturas, deterioradas e danificadas não suportam
 
 condições de armazenamento.
 
- O  armazenamento,  em  condições  herméticas,  requer
+• O  armazenamento,  em  condições  herméticas,  requer
 
 umidade de 4% a 9%.
 
- A  longevidade  da  semente  é  mais  uma  característica  da
+• A  longevidade  da  semente  é  mais  uma  característica  da
 
 espécie.
 
- A embalagem é importante no processo de conservação.
+• A embalagem é importante no processo de conservação.
 
 376
 
@@ -7515,7 +7711,8 @@ isso implica um escalonamento na maturação das sementes, isto é,
 
 211
 
-as sementes das primeiras flores amadurecem bem antes que as
+
+ 500pr_pgnumber212  as sementes das primeiras flores amadurecem bem antes que as
 das  floradas  posteriores.  Em  razão  dessa  desuniformidade  de
 maturação,  retarda-se  a  colheita  até  que  as  últimas  sementes
 cheguem a um teor de maturação adequado.
@@ -7528,7 +7725,8 @@ mais difícil produzir sementes.
 
 212
 
-17 Fibras do Algodão
+
+ 500pr_pgnumber213  17 Fibras do Algodão
 
 João Cecílio Farias de Santana
 José Cláudio da Silva Santana
@@ -7537,7 +7735,8 @@ Napoleão Esberard de Macêdo Beltrão
 
 213
 
-Qual a importância das proteínas da fibra do algodão?
+
+ 500pr_pgnumber214  Qual a importância das proteínas da fibra do algodão?
 
 377
 
@@ -7554,21 +7753,21 @@ Ao se analisar a fibra de algodão ao microscópio, observam-
 se quatro partes bem definidas: cutícula, parede primária, parede
 secundária e lúmen.
 
-  A  cutícula  é  a  parte  mais  externa  da  fibra,  composta  de
+•  A  cutícula  é  a  parte  mais  externa  da  fibra,  composta  de
 pectinas, gomas, ceras e óleo, cuja função é proteger a fibra após a
 abertura  do  capulho,  durante  o  armazenamento  e  na  fase  de
 industrialização.
 
- A parede primária posiciona-se logo abaixo da cutícula,
+• A parede primária posiciona-se logo abaixo da cutícula,
 
 delimitando o comprimento e a finura da fibra.
 
-  A  parede  secundária  localiza-se  logo  abaixo  da  parede
+•  A  parede  secundária  localiza-se  logo  abaixo  da  parede
 primária, cujo principal constituinte é a celulose, responsável por
 mais de 90% do peso total da fibra, determinando sua maturidade
 e resistência.
 
- O lúmen é o canal central existente na parte interior da
+• O lúmen é o canal central existente na parte interior da
 fibra, onde se encontram os resíduos protoplasmáticos de natureza
 protéica.
 
@@ -7578,18 +7777,19 @@ Quais  as  características  físicas  da  fibra  de  algodão
 consideradas ideais pela indústria têxtil?
 
 São as seguintes:
- Comprimento comercial da fibraVariando de 30 a 40 mm
- Uniformidade da fibra (UR)45/46%
- Resistência da fibra> 26 gf/tex
- Alongamento da fibra> 7,0%
- Finura (micronaire)3,6/4,2 mg/in
+• Comprimento comercial da fibraVariando de 30 a 40 mm
+• Uniformidade da fibra (UR)45/46%
+• Resistência da fibra> 26 gf/tex
+• Alongamento da fibra> 7,0%
+• Finura (micronaire)3,6/4,2 mg/in
 
 214
 
- Maturidade da fibra75/84%
- Grau de reflectância (Rd)> 70%
- Grau de amarelamento (+b)< 10,0
- Índice de fiabilidade (CSP)2000/2500
+
+ 500pr_pgnumber215  • Maturidade da fibra75/84%
+• Grau de reflectância (Rd)> 70%
+• Grau de amarelamento (+b)< 10,0
+• Índice de fiabilidade (CSP)2000/2500
 
 380
 
@@ -7601,16 +7801,16 @@ das  características  físicas  da
 fibra de algodão é obtido com
 os seguintes equipamentos:
 
- HVI  (High  Volume
+• HVI  (High  Volume
 Instruments)  denomi-
 nado  equipamento  de
 alto volume de testes.
 
- AFIS (Advanced Fiber Information) equipamento avançado
+• AFIS (Advanced Fiber Information) equipamento avançado
 
 de análise de fibras.
 
- Rapid Test, Finurímetro, Maturímetro e outros.
+• Rapid Test, Finurímetro, Maturímetro e outros.
 
 381
 
@@ -7638,7 +7838,8 @@ das fibras distribuídas ao acaso.
 
 215
 
-384
+
+ 500pr_pgnumber216  384
 
 O que é Upper Quartile Lenght (U.Q.L)?
 
@@ -7657,7 +7858,7 @@ ou seja:
 
 SL50%
 
-UR =  x 100
+UR = —————— x 100
 
 SL2,5%
 
@@ -7671,7 +7872,7 @@ UHM x 100, isto é:
 
  SL50%
 
-UR =  x 100
+UR = —————— x 100
 
  UHM
 
@@ -7693,7 +7894,8 @@ comprimento livre entre pinças de 1/8 de polegada ou 3,2 mm.
 
 216
 
-A  resistência  das  fibras  é
+
+ 500pr_pgnumber217  A  resistência  das  fibras  é
 definida pela parede secundária da
 fibra,  ou  seja,  pela  quantidade  de
 celulose depositada em seu interior.
@@ -7739,7 +7941,8 @@ de escoamento de um fluido compressível (ar) por um recipiente
 
 217
 
-com massa determinada de fibras. O resultado é dado em  µg/in
+
+ 500pr_pgnumber218  com massa determinada de fibras. O resultado é dado em  µg/in
 (micrograma/polegada) que corresponde à finura da fibra.
 
 393
@@ -7786,7 +7989,8 @@ durante os processos têxteis.
 
 218
 
-398
+
+ 500pr_pgnumber219  398
 
 O que são Naps?
 
@@ -7827,12 +8031,15 @@ fibras de algodão desuniformes e de má qualidade.
 
 219
 
-18 Fiação do Algodão
+
+ 500pr_pgnumber220  
+ 500pr_pgnumber221  18 Fiação do Algodão
 
 Maurício José Rivero Wanderley
 Maria do Socorro Nogueira Lima
 
-O que é título de um fio?
+
+ 500pr_pgnumber222  O que é título de um fio?
 
 402
 
@@ -7845,12 +8052,12 @@ determinar seu valor comercial.
 Quais são os grupos de titulação?
 
 Os grupos de titulação são os seguintes:
- Grupo  indireto  ou  sistema  inglês    Conhecido  por  peso
+• Grupo  indireto  ou  sistema  inglês  –  Conhecido  por  peso
 constante e comprimento variável, ou seja, o título é dado
 pela  quantidade  de  determinados  comprimentos  de  fio,
 necessários para se obter determinado peso.
 
- Grupo direto  Conhecido por comprimento constante e
+• Grupo direto – Conhecido por comprimento constante e
 peso variável, isto é, o título é dado pela quantidade de
 peso para um determinado comprimento de fio.
 
@@ -7879,7 +8086,8 @@ diversos materiais fibrosos, sejam de origem natural ou química
 
 222
 
-O que significa ACOE 4/1?
+
+ 500pr_pgnumber223  O que significa ACOE 4/1?
 
 407
 
@@ -7933,7 +8141,8 @@ torções contidas no fio.
 
 223
 
-De que se compõe um fio elástico?
+
+ 500pr_pgnumber224  De que se compõe um fio elástico?
 
 413
 
@@ -7985,7 +8194,8 @@ apresenta isoladamente, isto é, sob a forma de um único fio.
 
 224
 
-O que é titulação de produtos retorcidos?
+
+ 500pr_pgnumber225  O que é titulação de produtos retorcidos?
 
 419
 
@@ -8036,7 +8246,8 @@ fabrico de tecidos. Esses fios são geralmente de títulos inferiores a
 
 225
 
-425
+
+ 500pr_pgnumber226  425
 
 Com relação à aparência do fio, que defeitos podem ser
 detectados em análises de laboratório?
@@ -8065,13 +8276,15 @@ curtas.
 
 226
 
-19 Química do Algodoeiro
+
+ 500pr_pgnumber227  19 Química do Algodoeiro
 
 Rosa Maria Mendes Freire
 
 227
 
-428
+
+ 500pr_pgnumber228  428
 
 Quais são os constituintes da semente de algodão após o
 beneficiamento?
@@ -8116,7 +8329,8 @@ bastante  importante  por  ser  excelente  fonte  de  fibra  de  alta
 
 228
 
-palatabilidade para ruminantes, com real capacidade de estimular
+
+ 500pr_pgnumber229  palatabilidade para ruminantes, com real capacidade de estimular
 a ruminação.
 
 432
@@ -8127,8 +8341,8 @@ Podem  ser  fornecidas  puras  ou  em  mistura  com  rações,  e
 apresentam  de  44%  a  48%  de  fibra  bruta.  Podem,  ainda,  ser
 adicionadas à torta, porém o teor de fibra bruta da mistura não
 pode exceder a 25%, conforme determina a Divisão de Fiscalização
-de Alimentos para Animais  Difisa , do Ministério da Agricultura,
-Pecuária e Abastecimento  Mapa.
+de Alimentos para Animais – Difisa –, do Ministério da Agricultura,
+Pecuária e Abastecimento – Mapa.
 
 433
 
@@ -8175,7 +8389,8 @@ Resíduos de elaboração        5,9%
 
 229
 
-436
+
+ 500pr_pgnumber230  436
 
 Qual  a  percentagem  de  proteína  na  amêndoa,  e  qual  a
 composição protéica da semente de algodão?
@@ -8195,7 +8410,8 @@ Essa composição pode ser vista na Tabela 8, a seguir.
 
 230
 
-438
+
+ 500pr_pgnumber231  438
 
 Qual  a  percentagem  de  óleo  na  amêndoa  e  quais  os
 principais ácidos graxos encontrados no óleo?
@@ -8264,7 +8480,8 @@ margarinas  e  manteigas  vegetais  diversas.  O  óleo  resfriado  em
 
 231
 
-câmaras especiais é separado em duas partes: uma líquida, utilizada
+
+ 500pr_pgnumber232  câmaras especiais é separado em duas partes: uma líquida, utilizada
 como  óleo  de  cozinha  e  composto  para  salada,  e  outra  sólida,
 empregada no preparo de manteigas e gorduras vegetais utilizadas
 na indústria de confeitaria.
@@ -8310,7 +8527,8 @@ desenvolvidos visando obter cultivares glandless, ou seja, livres de
 
 232
 
-gossipol, para ampliar o uso da torta e do farelo na alimentação
+
+ 500pr_pgnumber233  gossipol, para ampliar o uso da torta e do farelo na alimentação
 humana, sem restrições.
 
 445
@@ -8345,7 +8563,8 @@ apenas 200 mg/kg, não se devendo fornecer caroço de algodão a
 
 233
 
-bezerros abaixo dessa faixa etária. Para touros, também, não são
+
+ 500pr_pgnumber234  bezerros abaixo dessa faixa etária. Para touros, também, não são
 recomendados  os  subprodutos  do  algodão,  uma  vez  que  esses
 animais  são  dez  vezes  mais  suscetíveis  que  as  vacas,  podendo,
 inclusive, apresentar repentina queda na produção de sêmen.
@@ -8355,15 +8574,15 @@ inclusive, apresentar repentina queda na produção de sêmen.
 Quais são as fases resumidas do processamento industrial
 do caroço de algodão?
 
- Limpeza (para eliminar as impurezas).
- Deslintamento (retirada do línter).
- Descascamento (retirada da casca).
- Moagem (para facilitar o cozimento).
- Cozimento (para eliminar a umidade e facilitar a extração
+• Limpeza (para eliminar as impurezas).
+• Deslintamento (retirada do línter).
+• Descascamento (retirada da casca).
+• Moagem (para facilitar o cozimento).
+• Cozimento (para eliminar a umidade e facilitar a extração
 
 do óleo).
 
- Extração (para a retirada do óleo).
+• Extração (para a retirada do óleo).
 
 449
 
@@ -8399,7 +8618,8 @@ Potássio (K)
 
 234
 
-452
+
+ 500pr_pgnumber235  452
 
 O que significa farelo de algodão tipo 50?
 
@@ -8433,7 +8653,8 @@ Proteína bruta
 
 235
 
-0,9%
+
+ 500pr_pgnumber236  0,9%
  Substâncias pécticas
 1,2%
  Cinzas
@@ -8447,7 +8668,8 @@ Proteína bruta
 
 236
 
-De que é formada a celulose e como varia seu teor na fibra?
+
+ 500pr_pgnumber237  De que é formada a celulose e como varia seu teor na fibra?
 
 456
 
@@ -8470,14 +8692,17 @@ se rápida hidratação da fibra.
 
 237
 
-20
+
+ 500pr_pgnumber238  
+ 500pr_pgnumber239  20
 
 Algodão Colorido
 no Brasil e no Mundo
 
 Napoleão Esberard de Macêdo Beltrão
 
-458
+
+ 500pr_pgnumber240  458
 
 Quais são as perspectivas do algodão colorido no Brasil?
 
@@ -8519,7 +8744,8 @@ alguns genes no lócus Lc.
 
 240
 
-460
+
+ 500pr_pgnumber241  460
 
 As espécies silvestres de algodão também podem apresentar
 tipos possuidores de fibra de cor?
@@ -8561,7 +8787,8 @@ nos vales dos rios Piranhas (região de Catolé do Rocha, PB) e Piancó
 
 241
 
-462
+
+ 500pr_pgnumber242  462
 
 O que é a cultivar BRS 200 Marrom e seu significado para
 o algodão colorido, no Brasil?
@@ -8606,14 +8833,15 @@ cultivar CNPA 7H, com a incorporação do gene dominante Lg por
 
 242
 
-cor verde proveniente da cultivar Ankansas Green, via cruzamentos
+
+ 500pr_pgnumber243  cor verde proveniente da cultivar Ankansas Green, via cruzamentos
 e retrocruzamentos. A cultivar BRS Verde tem ciclo médio (de 120
 a  140  dias),  produz  fibras  de  comprimento  médio  e  tem
 produtividade semelhante à da CNPA 7H, variando entre 1.200 e
 5.000  kg/ha  de  algodão  em  caroço,  dependendo  do  sistema  de
 cultivo (sequeiro ou irrigado), dos insumos e do tratamento dado à
 cultura. Os pesquisadores da Embrapa e de outros órgãos, como o
-Instituto Agronômico de Campinas  IAC , estão trabalhando para
+Instituto Agronômico de Campinas – IAC –, estão trabalhando para
 obter  outras  cultivares  de  algodão  de  fibra  de  cor,  com  novas
 características  e  novas  cores  como  a  vermelha,  cor-de-bronze  e
 outras.
@@ -8645,7 +8873,8 @@ teste a cultivar BRS 200 Marrom.
 
 243
 
-O algodão colorido brasileiro é transgênico?
+
+ 500pr_pgnumber244  O algodão colorido brasileiro é transgênico?
 
 466
 
@@ -8688,7 +8917,8 @@ mais ao bicudo por mecanismos de escape, decorrentes da floração
 
 244
 
-e frutificação precoces, que lhes permitem escapar, na maioria dos
+
+ 500pr_pgnumber245  e frutificação precoces, que lhes permitem escapar, na maioria dos
 casos, de elevadas populações do bicudo.
 
 468
@@ -8728,7 +8958,8 @@ porte alto.
 
 245
 
-469
+
+ 500pr_pgnumber246  469
 
 Que medidas devem ser tomadas no descaroçamento do
 algodão de fibra colorida para evitar contaminação física
@@ -8770,7 +9001,8 @@ evitando material de plástico e de outras fibras, como juta, sisal, etc.,
 
 246
 
-que são contaminantes e prejudicam muito a qualidade da fibra,
+
+ 500pr_pgnumber247  que são contaminantes e prejudicam muito a qualidade da fibra,
 depreciando o preço do produto.
 
 471
@@ -8814,7 +9046,8 @@ ser aplicados com base na amostragem de cada praga e de acordo
 
 247
 
-com os métodos, manejo e dosagens recomendados pelos órgãos
+
+ 500pr_pgnumber248  com os métodos, manejo e dosagens recomendados pelos órgãos
 de Pesquisa e de Desenvolvimento, públicos e privados.
 
 Cada praga tem seu nível de controle e de dano (caso as ações,
@@ -8853,15 +9086,16 @@ A fibra da BRS 200 Marrom tem as seguintes características
 
 tecnológicas:
 
- Finura (microneire), índice de 3,7.
- Resistência média de 25 gf/fex.
- Comprimento no HVI, média de 29 (2,5% mm).
- Uniformidade do comprimento no HVI, média de 48%.
+• Finura (microneire), índice de 3,7.
+• Resistência média de 25 gf/fex.
+• Comprimento no HVI, média de 29 (2,5% mm).
+• Uniformidade do comprimento no HVI, média de 48%.
 
 248
 
- Taxa de elongação, média de 7,5%.
- Fiabilidade acima de 2000.
+
+ 500pr_pgnumber249  • Taxa de elongação, média de 7,5%.
+• Fiabilidade acima de 2000.
  Trata-se, portanto, de uma fibra de boa qualidade, da qual
 originam-se fios de excelente qualidade, que podem ser processados
 nas  modernas  fiações  de  sistema  de  cabo  aberto  ou  Open  End.
@@ -8902,7 +9136,8 @@ que devem ser controladas convenientemente.
 
 249
 
-475
+
+ 500pr_pgnumber250  475
 
 Como  deve  ser  feito  o  manejo  pós-colheita  do  algodão
 colorido BRS 200 Marrom?
@@ -8917,12 +9152,12 @@ tório  de  práticas  desti-
 nadas a reduzir as pragas durante o ano agrícola seguinte e permitir
 que  a  cultura  expresse  o  máximo  possível  do  seu  potencial  de
 produção. Entre as práticas recomendadas destacam-se as seguintes:
-Eliminação  dos  restos  culturais  logo  depois  da  última
+•Eliminação  dos  restos  culturais  logo  depois  da  última
 colheita, introduzindo o gado no algodoal para se alimentar desses
 restos culturais fazendo, assim, uma limpeza e controle biológico
 das pragas, em especial do bicudo.
 
-Poda  do  algodoal  antes  do  início  das  chuvas,  durante  o
+•Poda  do  algodoal  antes  do  início  das  chuvas,  durante  o
 repouso fisiológico das plantas: ao final do primeiro ano, podar as
 plantas a uma altura de 20 a 25 cm, com corte em bisel (bico de
 gaita) e, ao final do segundo ano, podar os ramos vegetativos e tirar
@@ -8944,7 +9179,8 @@ população de 40.000 plantas/ha.
 
 250
 
-Para produtores com áreas maiores que 6,0 ha, recomenda-se
+
+ 500pr_pgnumber251  Para produtores com áreas maiores que 6,0 ha, recomenda-se
 o espaçamento de 1,0 m x 0,3 m, com 2 plantas por cova, ou de 3
 a 4 plantas por metro linear, no caso de plantio a máquina.
 
@@ -8986,7 +9222,8 @@ Em cada município, porém, o intervalo de plantio entre os
 
 251
 
-produtores não deve ultrapassar 25 dias, a fim de evitar problemas
+
+ 500pr_pgnumber252  produtores não deve ultrapassar 25 dias, a fim de evitar problemas
 de pragas, em especial o bicudo, e o aumento dos riscos decorrentes
 de períodos secos mais prolongados (veranicos).
 
@@ -8999,7 +9236,7 @@ nas áreas zoneadas para esse tipo de algodão?
 Para  pequenos  produtores,  recomenda-se  fazer  de  2  a  3
 capinas com cultivador a tração animal, regulado superficialmente
 para aprofundar no máximo 3,0 cm, a fim de não danificar as raízes
-do algodoeiro. Em seguida, deve-se fazer o retoque com a enxada,
+do algodoeiro. Em seguida, deve-se fazer o ”retoque” com a enxada,
 dentro das fileiras.
 
 Produtores com áreas maiores, superior a 6,0 ha, e às voltas
@@ -9026,7 +9263,8 @@ pelos fabricantes.
 
 252
 
-480
+
+ 500pr_pgnumber253  480
 
 Que tipos de fios podem ser obtidos da fibra do algodão
 colorido BRS 200 Marrom?
@@ -9065,43 +9303,44 @@ Esse  plano  pode  ser  elaborado  de  acordo  com  a  seguintes
 
 etapas:
 
- Treinamento dos agentes de extensão da região de produção
+• Treinamento dos agentes de extensão da região de produção
 e  dos  produtores  a  serem  envolvidos,  restringindo  a
 participação aos associados ou cooperados.
 
 253
 
- Articulação prévia com o mercado comprador da fibra e da
+
+ 500pr_pgnumber254  • Articulação prévia com o mercado comprador da fibra e da
 semente  (caroço),  com  a  possibilidade  de  ágio  de,  pelo
 menos,  30%  sobre  o  preço  do  algodão  em  caroço  a  ser
 pago aos produtores e de 40%, pelo menos, sobre o preço
 da fibra, a ser vendida à indústria têxtil.
 
- Criar  condições  para  que  cada  comunidade  tenha  uma
+• Criar  condições  para  que  cada  comunidade  tenha  uma
 unidade de beneficiamento (descaroçador de 50 serras +
 prensa  hidráulica  +  armazenagem)  para  verticalizar  a
 produção e ter a semente pura para os novos plantios, desde
 que seja obedecido o isolamento dos campos, via distância
 e/ou barreiras vegetais.
 
- Envolvimento dos diversos órgãos do estado, do município
+• Envolvimento dos diversos órgãos do estado, do município
 e da Federação para participação ativa e efetiva no projeto.
- Acompanhamento dos produtores por agentes da extensão
+• Acompanhamento dos produtores por agentes da extensão
 
 rural, envolvendo estado (Ematers) e municípios.
 
- Na  impossibilidade  de  aquisição  de  um  conjunto  de
+• Na  impossibilidade  de  aquisição  de  um  conjunto  de
 beneficiamento  por  comunidade,  articular,  planejar  e
 efetivar  a  possibilidade  do  beneficiamento  em  usinas
 tradicionais, desde que as máquinas e o ambiente sejam
 submetidos a rigorosa limpeza, antes de receber os lotes de
 algodão colorido.
 
- Aquisição de fundos para o marketing e a propaganda do
+• Aquisição de fundos para o marketing e a propaganda do
 
 algodão colorido no País e no exterior.
 
- Estimular os trabalhos de P&D com o algodão de outras
+• Estimular os trabalhos de P&D com o algodão de outras
 cores  (verde,  azul,  violeta,  caqui,  rosa,  etc.)  em  cultivos
 tradicional e orgânico.
 
@@ -9115,7 +9354,8 @@ qualidade intrínseca da fibra.
 
 254
 
-482
+
+ 500pr_pgnumber255  482
 
 Há diferenças entre o custo de produção do algodão de
 fibra branca e o de fibra de cor?
@@ -9163,7 +9403,8 @@ de  corantes  é  grande.  Como  a  fase  de  tingimento  é  eliminada,
 
 255
 
-ecomoniza-se  cerca  de  150  litros  de
+
+ 500pr_pgnumber256  ecomoniza-se  cerca  de  150  litros  de
 água por quilo de fibra .
 
 Nos  Estados  Unidos,  estima-se
@@ -9204,13 +9445,16 @@ G. darwinii e G. tomentosum.
 
 256
 
-Algumas tonalidades e até a cor em si, como o verde, por
+
+ 500pr_pgnumber257  Algumas tonalidades e até a cor em si, como o verde, por
 exemplo, recebem muita influência do ambiente, em especial da
 luz solar e do restante do espectro da radiação solar.
 
 257
 
-21
+
+ 500pr_pgnumber258  
+ 500pr_pgnumber259  21
 
 Estatística Experimental
 na Cultura do Algodão
@@ -9223,7 +9467,8 @@ Demóstenes Marcos Pedrosa de Azevedo
 
 Jeane Ferreira Jerônimo
 
-487
+
+ 500pr_pgnumber260  487
 
 Quais  os  delineamentos  experimentais  mais  usados  na
 cultura do algodão?
@@ -9232,9 +9477,9 @@ Os delineamentos experimentais utilizados nos experimentos
 com a cultura do algodão são distribuídos em três categorias, de
 acordo com as fases da experimentação:
 
- Experimentos preliminares.
- Experimentos críticos.
- Experimentos  demonstrativos  (unidades  de  intervenção
+• Experimentos preliminares.
+• Experimentos críticos.
+• Experimentos  demonstrativos  (unidades  de  intervenção
 
 técnica e teste de ajuste).
 
@@ -9270,7 +9515,8 @@ depende, fundamentalmente, dos seguintes aspectos: a natureza
 
 260
 
-dos  ensaios    preliminares,  críticos  ou  demonstrativos  ,  a
+
+ 500pr_pgnumber261  dos  ensaios  –  preliminares,  críticos  ou  demonstrativos  –,  a
 variabilidade do solo, o manejo experimental, a cultura, o tipo de
 tratamento e delineamento, a mão-de-obra disponível e o bom senso
 do  pesquisador.  As  parcelas  são  retangulares  e  as  dimensões
@@ -9293,7 +9539,8 @@ seguir.
 
 261
 
-490
+
+ 500pr_pgnumber262  490
 
 Qual o propósito da bordadura nos ensaios de campo com
 a cultura do algodão?
@@ -9340,7 +9587,8 @@ considerar o bom senso do investigador pois, comumente, depara-se
 
 262
 
-com situações em que uma diferença, por exemplo, de 400 kg/ha,
+
+ 500pr_pgnumber263  com situações em que uma diferença, por exemplo, de 400 kg/ha,
 entre médias de produtividade de duas cultivares de algodão, seja
 não significativa a 5% de probabilidade pelo teste de Tukey. Sob o
 aspecto econômico, isso pode implicar em perda de recursos. Sendo
@@ -9349,8 +9597,8 @@ sociais e científicos na tomada de decisão.
 
 494
 
-O  termo  delineamento  experimental  em  parcela
-subdividida, utilizado por alguns pesquisadores, é correto?
+O  termo  “delineamento  experimental  em  parcela
+subdividida”, utilizado por alguns pesquisadores, é correto?
 
 Não. Os experimentos em parcelas subdivididas podem ser
 executados  em  qualquer  delineamento  experimental,  como
@@ -9384,7 +9632,8 @@ de 50 kg de P2O5 por ha. A escolha adequada desse limite deve
 
 263
 
-basear-se na análise química do solo, onde o experimento vai ser
+
+ 500pr_pgnumber264  basear-se na análise química do solo, onde o experimento vai ser
 instalado.
 
 497
@@ -9393,7 +9642,7 @@ Quando se usa o teste lsd, com número de tratamentos maior
 ou igual a 3, e deseja-se comparar a maior média com a
 menor , o que acontece com o nível de significância ?
 
-Quando se utiliza o teste de comparações múltiplas lsd para
+Quando se utiliza o teste de comparações múltiplas “lsd” para
 um conjunto de 3, 6, 10 e 20 médias de tratamentos, e o interesse
 é comparar a maior média com a menor, o valor observado de t
 excederá o nível tabelado a 5% em 13%, 40%, 60% e 90% dos
@@ -9428,7 +9677,8 @@ entre  dois  ou  mais  fatores  estudados,  é  muito  importante  na
 
 264
 
-investigação  de  um  problema  de  pesquisa.  Uma  aplicação
+
+ 500pr_pgnumber265  investigação  de  um  problema  de  pesquisa.  Uma  aplicação
 importante  do  estudo  das  interações  ocorre  nos  ensaios  de
 melhoramento  de  plantas,  em  que  o  pesquisador  instala  os
 experimentos em vários locais, por diversos anos, e as interações
@@ -9454,7 +9704,8 @@ grande para ser detectada com o tamanho da amostra utilizada.
 
 265
 
-Mais alguma pergunta?
+
+ 500pr_pgnumber266  Mais alguma pergunta?
 
 Caso tenha mais alguma pergunta, preencha o
 
@@ -9464,19 +9715,23 @@ Clique no link para acessar o formulário:
 
   http://mais500p500r.sct.embrapa.br/view/form.php?id=90000001
 
+•••
 
-
-Conheça outros títulos da Coleção 
+
+ 500pr_pgnumber267  Conheça outros títulos da Coleção 
 
 500 Perguntas 500 Respostas
 
 Visite o site no seguinte endereço:
  www.embrapa.br/mais500p500r
 
+•••
 
-
-Impressão e acabamento
+
+ 500pr_pgnumber268  Impressão e acabamento
 
 Embrapa Informação Tecnológica
 
-
+
+ 500pr_pgnumber269  
+ 500pr_pgnumber270  

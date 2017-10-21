@@ -1,3 +1,4 @@
 pdfminer.six
 fuzzywyuzzy
 python-Levenshtein?
+pickle
