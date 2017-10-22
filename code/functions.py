@@ -30,9 +30,9 @@ def getText(pdfname, filename): #Função que extrai o texto do pdf, usando os p
             pass
         else:
             if pagenumber >= 100:
-                retstr.write("\n 500pr_pgnumber" + str(pagenumber) +"  ")
+                retstr.write("\n 500pr_pgnumber" + str(pagenumber) +"\n")
             else:
-                retstr.write("\n 500pr_pgnumber0" + str(pagenumber) +"  ")
+                retstr.write("\n 500pr_pgnumber0" + str(pagenumber) +"\n")
             interpreter.process_page(page)
 
 
@@ -56,21 +56,30 @@ def getAnswers(filename): #Função que separa as perguntas e respostas do texto
 
     file = open(filepath,"r")#Abre o arquivo de texto
     file = file.read()
-    rgx = re.compile('(?<=\.)[^.]*$') #Compilação do regex a ser utilizado no loop
+    rgx = re.compile('(?<=\.)[^.]*$')  # Compilação do regex a ser utilizado no loop
+    rgxPage = re.compile('(?<=500pr_pgnumber)\w{3}')
+
 
     for i in range(0,507):#até 507; Total de iterações necessárias para pegar todas as perguntas e respostas
         splitString = file.split("?")[i]
         respostas.append(splitString) #As duas listas recebem a mesma string separadas no "?"
         perguntas.append(splitString)
+        paginas.append(splitString)
 
         respostas[i] = re.sub(rgx,'', respostas[i]) #Porém uma pega o regex sem a pergunta(a resposta)
         perguntas[i] = rgx.findall(perguntas[i]) #e a outra pega o regex que só dá match na pergunta(a pergunta)
+        paginas[i] = rgxPage.findall(splitString)
 
     perguntas[0] = "Qual a origem mais provável do algodoeiro" #Por motivos específicos, o código não consegue pegar a primeira pergunta, então temos que colocá-la manualmente
     respostas.pop(0) #Pelo mesmo motivo, a primeira resposta é nula, então apagamos ela manualmente
 
+    for i in range(0,len(paginas)):
+        if not bool(paginas[i]):
+            paginas[i] = lastTrue
+        else:
+            lastTrue = paginas[i]
 
-    conjunto = [perguntas,respostas]
+    conjunto = [perguntas,respostas,paginas]
     filename = filename.replace("txt","procTxt")
     filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/" + filename + ".txt"
     with open(filepath, 'wb') as fp:
@@ -83,6 +92,7 @@ def run(filename):
 
     perguntas = lista[0]
     respostas = lista[1]
+    paginas = lista[2]
     bestMatchIndex = 0
     bestRatio = 0
 

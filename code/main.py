@@ -3,7 +3,7 @@ from code.functions import *
 
 #COMPILAÇÃO DO TEXTO E DAS PERGUNTAS:
 #getText("500pr","500pr_txt_algodao")
-#getAnswers("500pr_txt_algodao")
+getAnswers("500pr_txt_algodao")
 
 #RODAR PROGRAMA:
-run("500pr_procTxt_algodao")
+#run("500pr_procTxt_algodao")
