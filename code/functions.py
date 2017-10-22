@@ -99,7 +99,7 @@ def run(filename):
     while True:
         perguntaUser = input("Digite a sua pergunta: ")
         for index, pergunta in enumerate(perguntas):
-            ratio = fuzz.ratio(perguntaUser, pergunta)
+            ratio = checkRatio(perguntaUser, pergunta)
             if ratio > bestRatio:
                 bestMatchIndex = index
                 bestRatio = ratio
@@ -107,8 +107,18 @@ def run(filename):
         print("\nPergunta relacionada: "+ str(perguntas[bestMatchIndex]) +
           "\nResposta relacionada: " + respostas[bestMatchIndex])
         print("\nProximidade da pergunta: " + str(bestRatio))
+        print("Página(s) em que a pergunta se encontra: "+str(paginas[bestMatchIndex]))
+
+        bestMatchIndex = 0
+        bestRatio = 0
 
 
-def checkRatio(perguntaUser):
-    pass
+def checkRatio(str1, str2):
+    bestRatio = 0
+    ratios = [fuzz.ratio(str1, str2), fuzz.partial_ratio(str1, str2), fuzz.token_sort_ratio(str1, str2),
+              fuzz.token_set_ratio(str1, str2)]
+    for ratio in ratios:
+        if ratio > bestRatio:
+            bestRatio = ratio
+    return ratio
 
