@@ -63,7 +63,7 @@ def getAnswers(filename): #Função que separa as perguntas e respostas do texto
     for i in range(0,507):#até 507; Total de iterações necessárias para pegar todas as perguntas e respostas
         splitString = file.split("?")[i]
         respostas.append(splitString) #As duas listas recebem a mesma string separadas no "?"
-        perguntas.append(splitString)
+        perguntas.append(" ".join(splitString.split())) #Retira grande parte do espaço em branco e desnecessário da string perguntas
         paginas.append(splitString)
 
         respostas[i] = re.sub(rgx,'', respostas[i]) #Porém uma pega o regex sem a pergunta(a resposta)
@@ -85,8 +85,8 @@ def getAnswers(filename): #Função que separa as perguntas e respostas do texto
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
 
-def run(filename):
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/" + filename + ".txt"
+def run(perguntaUser, livro):
+    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/500pr_procTxt_"+ livro + ".txt"
     with open(filepath, 'rb') as file:
         lista = pickle.load(file)
 
@@ -96,22 +96,24 @@ def run(filename):
     bestMatchIndex = 0
     bestRatio = 0
 
-    while True:
-        perguntaUser = input("Digite a sua pergunta: ")
-        for index, pergunta in enumerate(perguntas):
-            ratio = checkRatio(perguntaUser, pergunta)
-            if ratio > bestRatio:
-                bestMatchIndex = index
-                bestRatio = ratio
+    for index, pergunta in enumerate(perguntas):
+        ratio = checkRatio(perguntaUser, pergunta)
+        if ratio > bestRatio:
+            bestMatchIndex = index
+            bestRatio = ratio
 
-        print("\nPergunta relacionada: "+ str(perguntas[bestMatchIndex]) +
-          "\nResposta relacionada: " + respostas[bestMatchIndex])
-        print("\nProximidade da pergunta: " + str(bestRatio))
-        print("Página(s) em que a pergunta se encontra: "+str(paginas[bestMatchIndex]))
+    answer = [perguntas[bestMatchIndex], respostas[bestMatchIndex], paginas[bestMatchIndex], bestRatio]
+    #0 = pergunta similar, 1 = resposta da pergunta, 2 = pagina encontrada, 3 = ratio da resposta
 
-        bestMatchIndex = 0
-        bestRatio = 0
+    return stringBuilder(answer)
 
+def stringBuilder(answer):
+    pergunta = answer[0]
+    resposta = answer[1]
+    pagina = answer[2]
+    ratio = answer[3]
+
+    return "Pergunta relacionada:\n"+ str(pergunta) +"\nResposta: "+ str(resposta) +"\nPágina da pergunta: "+ str(pagina) +"\nProximidade: "+str(ratio)
 
 def checkRatio(str1, str2):
     bestRatio = 0
@@ -120,5 +122,5 @@ def checkRatio(str1, str2):
     for ratio in ratios:
         if ratio > bestRatio:
             bestRatio = ratio
-    return ratio
+    return bestRatio
 
