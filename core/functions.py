@@ -11,12 +11,12 @@ from fuzzywuzzy import fuzz
 import pickle
 
 #FUNÇÕES:
-def getText(pdfname, filename): #Função que extrai o texto do pdf, usando os parâmetros padrão da biblioteca pdfminer
+def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os parâmetros padrão da biblioteca pdfminer
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
-    codec = 'latin1'
+    codec = 'latin-1'
     laparams = LAParams()
-    path = "C:/Users/Luke/Documents/Prog/Python/Sis500/pdf/"+pdfname+".pdf"
+    path = "C:/Users/Luke/Documents/Prog/Python/Sis500/pdf/500pr/500pr_"+pdfname+".pdf"
     device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
     fp = open(path, 'rb') #Pega o arquivo do pdf no caminho especificado
     interpreter = PDFPageInterpreter(rsrcmgr, device)
@@ -26,7 +26,7 @@ def getText(pdfname, filename): #Função que extrai o texto do pdf, usando os p
     pagenos=set()
     #Roda um loop, usando todos os atributos anteriores, interpretando o pdf por página e realizando a conversão
     for pagenumber, page in enumerate(PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True)):
-        if pagenumber < 16: #Pula as primeiras 16 páginas, que não possuem nenhuma pergunta/resposta
+        if pagenumber < pageZero -1: #Pula as primeiras 16 páginas, que não possuem nenhuma pergunta/resposta
             pass
         else:
             if pagenumber >= 100:
@@ -42,26 +42,38 @@ def getText(pdfname, filename): #Função que extrai o texto do pdf, usando os p
     device.close()
     retstr.close()
 
-    with open("C:/Users/Luke/Documents/Prog/Python/Sis500/txt/"+filename+".txt", "w") as textFile:
-        textFile.write(text)
+    try:
+        with open("C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_"+pdfname+".txt", "w") as textFile:
+            textFile.write(text)
+    except UnicodeEncodeError:
+        with open("C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_"+pdfname+".txt", "w",encoding='utf-8') as textFile:
+            textFile.write(text)
 
 
-def getAnswers(filename): #Função que separa as perguntas e respostas do texto minerado do pdf
-    filename = filename
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/" + filename+ ".txt"
+
+def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respostas do texto minerado do pdf
+    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_" + filename+ ".txt"
 
     respostas = []
     perguntas = []
     paginas = []
+    try:
+        file = open(filepath,"r")#Abre o arquivo de texto
+        file = file.read()
+    except UnicodeDecodeError:
+        file = open(filepath, "r",encoding='utf-8')  # Abre o arquivo de texto
+        file = file.read()
 
-    file = open(filepath,"r")#Abre o arquivo de texto
-    file = file.read()
     rgx = re.compile('(?<=\.)[^.]*$')  # Compilação do regex a ser utilizado no loop
     rgxPage = re.compile('(?<=500pr_pgnumber)\w{3}')
 
+    i = 0
+    while True:
+        try:
+            splitString = file.split("?")[i]
+        except IndexError:
+            break
 
-    for i in range(0,507):#até 507; Total de iterações necessárias para pegar todas as perguntas e respostas
-        splitString = file.split("?")[i]
         respostas.append(splitString) #As duas listas recebem a mesma string separadas no "?"
         perguntas.append(" ".join(splitString.split())) #Retira grande parte do espaço em branco e desnecessário da string perguntas
         paginas.append(splitString)
@@ -70,8 +82,14 @@ def getAnswers(filename): #Função que separa as perguntas e respostas do texto
         perguntas[i] = rgx.findall(perguntas[i]) #e a outra pega o regex que só dá match na pergunta(a pergunta)
         paginas[i] = rgxPage.findall(splitString)
 
-    perguntas[0] = "Qual a origem mais provável do algodoeiro" #Por motivos específicos, o código não consegue pegar a primeira pergunta, então temos que colocá-la manualmente
+        i += 1
+
+
+    perguntas[0] = perguntaZero #Por motivos específicos, o código não consegue pegar a primeira pergunta, então temos que colocá-la manualmente
     respostas.pop(0) #Pelo mesmo motivo, a primeira resposta é nula, então apagamos ela manualmente
+
+    print (perguntas[0])
+    print(respostas[0])
 
     for i in range(0,len(paginas)):
         if not bool(paginas[i]):
@@ -80,19 +98,19 @@ def getAnswers(filename): #Função que separa as perguntas e respostas do texto
             lastTrue = paginas[i]
 
     conjunto = [perguntas,respostas,paginas]
-    filename = filename.replace("txt","procTxt")
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/" + filename + ".txt"
+    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_procTxt_" + filename + ".txt"
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
 
 def run(perguntaUser, livro):
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/500pr_procTxt_"+ livro + ".txt"
+    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_procTxt_"+ livro + ".txt"
     with open(filepath, 'rb') as file:
         lista = pickle.load(file)
 
     perguntas = lista[0]
     respostas = lista[1]
     paginas = lista[2]
+
     bestMatchIndex = 0
     bestRatio = 0
 
