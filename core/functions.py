@@ -9,16 +9,22 @@ from io import StringIO
 import re
 from fuzzywuzzy import fuzz
 import pickle
+import os
+
+basepath = os.path.dirname(__file__)
+
 
 #FUNÇÕES:
 def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os parâmetros padrão da biblioteca pdfminer
+    global basepath
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     codec = 'latin-1'
     laparams = LAParams()
-    path = "C:/Users/Luke/Documents/Prog/Python/Sis500/pdf/500pr/500pr_"+pdfname+".pdf"
+
+    filepath = os.path.abspath(os.path.join(basepath, "..", "pdf", "500pr","500pr_"+pdfname+".pdf"))
     device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
-    fp = open(path, 'rb') #Pega o arquivo do pdf no caminho especificado
+    fp = open(filepath, 'rb') #Pega o arquivo do pdf no caminho especificado
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     password = ""
     maxpages = 0
@@ -41,18 +47,19 @@ def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os pa
     fp.close()
     device.close()
     retstr.close()
-
+    filepath = os.path.abspath(os.path.join(basepath, "..", "txt" , "500pr_txt_" + pdfname + ".txt"))
     try:
-        with open("C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_"+pdfname+".txt", "w") as textFile:
+        with open(filepath, "w") as textFile:
             textFile.write(text)
     except UnicodeEncodeError:
-        with open("C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_"+pdfname+".txt", "w",encoding='utf-8') as textFile:
+        with open(filepath, "w",encoding='utf-8') as textFile:
             textFile.write(text)
 
 
 
 def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respostas do texto minerado do pdf
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_txt_" + filename+ ".txt"
+    global basepath
+    filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_txt_" + filename + ".txt"))
 
     respostas = []
     perguntas = []
@@ -98,12 +105,12 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
             lastTrue = paginas[i]
 
     conjunto = [perguntas,respostas,paginas]
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_procTxt_" + filename + ".txt"
+    filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + filename + ".txt"))
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
 
 def run(perguntaUser, livro):
-    filepath = "C:/Users/Luke/Documents/Prog/Python/Sis500/txt/test/500pr_procTxt_"+ livro + ".txt"
+    filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + livro + ".txt"))
     with open(filepath, 'rb') as file:
         lista = pickle.load(file)
 

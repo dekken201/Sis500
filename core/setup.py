@@ -4,6 +4,7 @@
 #mudar regex das páginas para sub em vez de findall
 from core.functions import *
 
+
 #COMPILAÇÃO DO TEXTO:
 #getText("abacaxi",16) #OK
 #getText("algodao",16) #OK
@@ -86,5 +87,6 @@ from core.functions import *
 
 #RODAR PROGRAMA:
 #print(run("a falta de chuva prejudica o abacaxi","abacaxi"))
+#print(run("testando testes","amendoim"))
 
 

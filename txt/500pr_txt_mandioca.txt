@@ -1,0 +1,6623 @@
+
+ 500pr_pgnumber015
+Classificação
+Botânica
+
+1
+
+Paulo Cezar Lemos de Carvalho
+
+
+ 500pr_pgnumber016
+1
+
+A que ordem, família, gênero e espécie pertence a mandioca?
+
+Nos últimos anos, houve um avanço significativo na sistemática
+vegetal a partir das contribuições da biologia molecular, principalmente
+pelo seqüenciamento do gen rbcL, responsável pela codificação
+da subunidade maior da RUBISCO. Novos direcionamentos tiveram
+que ser admitidos por força das evidências que foram surgindo, a
+ponto de serem criadas, em 1998, a APG I (Angiosperm Phylogeny
+Group)  e,  em  2003,  a  APG  II  que  apresentam  os  mais  recentes
+resultados obtidos por todos os pesquisadores na área de sistemática
+vegetal.
+
+Como resultado dessas mudanças, termos como Divisão, Classe
+e Subclasse foram ignorados nos trabalhos mais recentes, conservando-
+se apenas Ordem e Família como categorias hierárquicas acima de
+Gênero. Dessa forma, a mandioca pertence à ordem Malpighiales,
+família Euphorbiaceae, gênero Manihot e espécie Manihot esculenta
+Crantz.
+
+2
+
+Quais  os  outros  gêneros  filogeneticamente  próximos  de
+Manihot?
+
+Pertencente  à  subfamília  Crotonoideae,  Manihot  Miller
+encontra-se  ao  lado  de  Cnidosculus  e  Manihotoides,  na  tribo
+Manihoteae.  Manihot  está  mais  estreitamente  relacionado  com
+Cnidosculus do que com Jatropha, contrariando o que se pensava
+antes, quando várias espécies de Manihot  tinham sido descritas como
+Jatropha. As plantas desse gênero apresentam flores diclamídeas e o
+exsudato do caule é colorido, ao contrário de Manihot e Cnidosculus,
+que apresentam flores monoclamídeas (sépalas) e o exsudato do caule
+é branco e leitoso. Entretanto, Manihot se diferencia de Cnidosculus
+por  apresentar  disco  masculino  intraestaminal,  estames  livres  e
+ausência de pêlos urticantes. É importante conhecer as espécies mais
+próximas, a exemplo da faveleira e cansanção (Cnidosculus), e o
+grupo  de  plantas  denominadas  de  pião  (Jatropha)  que  podem
+representar hospedeiros em potencial para pragas e fitopatógenos
+relacionados com a mandioca.
+
+16
+
+
+ 500pr_pgnumber017
+3
+
+Como é a diversidade genética de Manihot?
+
+Na última monografia sobre o gênero  Manihot, escrita por
+Rogers e Appan, em 1973, são reconhecidas 98 espécies distribuídas
+em  19  seções,  variando  de  árvores  na  seção  Glazioviannae  a
+subarbustos com caule reduzido, como ocorre na seção Stipularis.
+Em outras seções como Tripartitae e Graciles, as plantas se comportam
+como subarbustos perenes, com longas raízes lenhosas, porém, em
+períodos de seca ou sob ação do fogo, o caule morre, permanecendo
+como uma coroa sobre as raízes. Das 19 seções, 13 ocorrem no
+Brasil,  sendo  que  Manihot  esculenta  Crantz  pertence  à  seção
+Manihot.
+
+O conhecimento de outras espécies desse gênero é de suma
+importância porque constituem uma fonte estratégica de gens que
+podem ser transferidos para a espécie cultivada via melhoramento
+tradicional ou por transgênese em trabalhos direcionados para resolver
+problemas fitossanitários ou visando alterações fisiológicas (tolerância
+à seca, redução do conteúdo de linamarina e aumento no valor
+protéico).
+
+4
+
+Além da espécie cultivada (Manihot esculenta), as demais
+espécies desse gênero apresentam algum interesse imediato
+para as atividades humanas?
+
+Por muitos anos, as espécies Manihot caerulescens, M. glaziovii
+e M. dichotoma, denominadas “maniçobeiras”, serviram de fonte de
+látex para a produção de borracha. Essa atividade foi muito importante
+em localidades do Piauí, a exemplo de São Raimundo Nonato e
+proximidades. Além disso, a parte aérea da M. glaziovii constitui
+importante fonte de proteína na alimentação animal em diversas
+localidades do Semi-Árido.
+
+Em regiões como Canudos, Euclides da Cunha e Uauá, no
+Estado da Bahia, a M. dichotoma var. dichotoma constitui matéria-
+prima para peças de artesanato, servindo para a fabricação de colher
+
+17
+
+
+ 500pr_pgnumber018
+de  pau,  tamanco  e  outros  objetos,  por  causa  da  facilidade  para
+trabalhar  sua  madeira  macia.  Além  disso,  as  sementes  de
+M.  caerulescens  e  M.  dichotoma  var.  undulata,  por  serem  bem
+desenvolvidas, são utilizadas na alimentação humana e de animais
+domésticos após a retirada da casca (tegumento).
+
+5
+
+Qual  a  provável  origem  da  mandioca  e  a  distribuição
+geográfica de Manihot?
+
+Escrever sobre o centro de
+origem de uma espécie é muito
+difícil ou até impossível, se não
+houver  um  estudo  sustentado
+em  dados  paleontológicos.
+É possível uma espécie apresentar
+ancestrais fossilizados na África
+e ter sua diversidade atual na
+América,  constituindo  um
+indicativo  da  origem  desse
+táxon  antes  da  separação  da
+Gondwana.  Se  não  houver
+dados  paleontológicos  sobre
+esse táxon, na América, não se pode afirmar nada sobre seu centro
+de origem, mas, sim, sobre seu centro de diversidade, em virtude da
+atual riqueza de parentes silvestres.
+
+Dessa forma, a existência de 80% das espécies silvestres de
+Manihot no Brasil, exibindo considerável polimorfismo vegetativo,
+reforça  a  teoria  segundo  a  qual  o  provável  centro  de  origem  e
+domesticação da espécie cultivada seja o Neotrópico, especialmente
+no  Brasil  Central,  onde  ocorre  a  maior  diversidade  biológica,
+estendendo-se para a região da caatinga, com epicentro localizado
+no Distrito Federal e partes próximas do Estado de Goiás, embora as
+plantas desse gênero se distribuam desde o Arizona até a Bacia do
+Prata, com outra área de concentração importante no México.
+
+18
+
+
+ 500pr_pgnumber019
+6
+
+Como são as flores da mandioca?
+
+Nessa planta, as flores são unissexuadas, monoclamídeas, sendo
+o único perianto existente denominado de cálice, embora exista a
+dúvida se são pétalas, podendo ser melhor tratados como tépalas.
+Na parte superior da inflorescência encontram-se as flores masculinas,
+sendo as femininas distribuídas na base.
+
+Na flor masculina, as sépalas são unidas até cerca de metade
+de seu comprimento, envolvendo o disco intraestaminal lobado, sob
+o qual estão inseridas duas séries de estames: cinco externos, com
+filetes mais desenvolvidos, e cinco internos alternando-se com as
+sépalas. Todos os estames apresentam anteras birrimosas direcionadas
+para o eixo da flor. A flor feminina apresenta cinco sépalas livres,
+geralmente  lineares,  com  ápice  agudo  e  disco  intraestaminal
+geralmente liso e não lobado; ovário súpero tricarpelar, trilocular,
+geralmente  com  um  óvulo  anátropo  e  pêndulo  por  lóculo;  três
+estiletes brevíssimos, conatos, com três estigmas largos, ondulados e
+carnosos.
+
+7
+
+Considerando  a  estrutura  floral  da  mandioca,  qual  a
+diversidade encontrada em Manihot esculenta Crantz?
+
+A mandioca apresenta flores unissexuadas, embora seja uma
+planta monóica, visto que apresenta os dois sexos. A separação das
+estruturas  reprodutivas  em  flores  individuais  constitui  um  fator
+importante para a ocorrência da polinização cruzada, que, nesse
+caso,  é  ampliada  desde  quando  as  flores  femininas  atingem  a
+maturidade antes das masculinas (dicogamia protogínica).
+
+  Sendo  assim,  o  sistema  de  cruzamento  dessa  espécie  é
+predominantemente alógamo, o que constitui fator importante para
+construir  a  elevada  diversidade,  comprovada  pela  existência  de
+centenas de genótipos cultivados em diversas partes das regiões
+tropicais. Esses genótipos são o resultado de seleção inconsciente,
+realizada  pelos  próprios  agricultores,  inclusive  indígenas,  que
+
+19
+
+
+ 500pr_pgnumber020
+conservaram  e  ainda  conservam  plantas  com  características
+diferentes, oriundas da germinação de sementes botânicas formadas
+entre o final de um cultivo e a instalação da nova lavoura.
+
+Entre os milhares de plantas que se originam dessa forma, os
+agricultores sempre preservam algumas delas por estarem crescidas.
+Essas  plantas  resultam  em  novos  genótipos  que  recebem  nomes
+curiosos, dependendo da localidade. Por essa razão, verifica-se que
+os plantios mecanizados constituem uma ameaça à diversidade dessa
+espécie,  pois  os  implementos  agrícolas  removem  todo  o  solo,
+revirando as futuras plantas que o paciente trabalho do agricultor fez
+durante décadas com sua enxada.
+
+8
+
+Qual  a  relação  existente  entre  o  sistema  radicular  da
+mandioca e a formação de micorrizas?
+
+A mandioca tem um sistema radicular tuberoso, responsável
+pelo armazenamento das reservas de amido, e um sistema radicular
+fibroso, ramificado, que se forma a partir da maniva-mãe quando a
+propagação é assexuada. Nota-se também a presença de raízes de
+absorção formadas a partir das raízes tuberosas. No entanto, embora
+se observe uma considerável ramificação, essas raízes não têm pêlos
+absorventes, e, quando os têm, é em pequena quantidade. Nesse
+caso, surge o paradoxo de uma planta exigente em fósforo, elemento
+com  pouca  mobilidade  no  solo,  mas  sem  sistema  radicular
+suficientemente ramificado para absorvê-lo.
+
+Daí  se  entende  a  importância  da  associação  com  fungos
+endomicorrízicos. Os esporos desses microrganismos germinam e
+suas  hifas  invadem  os  tecidos  radiculares  da  mandioca,  onde
+proliferam, formam suas estruturas de armazenamento, os arbúsculos,
+e após colonizar internamente as raízes, emitem hifas para o exterior
+que  passam  a  desempenhar  o  papel  dos  pêlos  absorventes,
+contribuindo para a absorção de fósforo, zinco e outros elementos.
+Nessa associação mutualística, os fungos recebem, em contrapartida,
+energia da planta na forma de carboidratos.
+
+20
+
+
+ 500pr_pgnumber021
+9
+
+Quais as características do sistema radicular da mandioca?
+
+Nas plantas oriundas de sementes, observa-se o modelo axial
+tuberoso, ocorrendo, com muita freqüência, a formação de raízes
+secundárias feculentas. Já nas plantas de propagação agâmica, ocorre
+o modelo pseudo-fasciculado tuberoso. São raízes ricas em fécula,
+apresentando-se sob várias conformações. Além das raízes tuberosas,
+existe  um  raizame  fibroso  responsável  pela  absorção  de  água  e
+nutrientes e pela fixação da planta.
+
+10
+
+ Quais as características do sistema caulinar da mandioca?
+
+É  do  modelo  subarbustivo  ereto,  podendo  ser  predomi-
+nantemente  indiviso  no  ciclo  vegetativo  e  ramificado  no  ciclo
+reprodutivo. Quando adulto é lenhoso, quebradiço, dotado de nós
+salientes,  apresentando  ramificação  baixa  ou  alta  (caule  ereto),
+dicotomia,  tricotomia,  tetracotomia  e  tipos  intermediários.  Os
+internódios são bem definidos e o crescimento é contínuo, por causa
+do meristema apical ativo. Na axila dos nós encontra-se uma gema,
+característica responsável pela propagação vegetativa da espécie.
+
+11
+
+Quais as características do sistema foliar da mandioca?
+
+O sistema foliar da mandioca é composto por folhas simples,
+inseridas  no  caule,  em  disposição  alterno-espiralada,  lobada  e
+longamente peciolada. Os lobos apresentam variação quanto à cor,
+formato, número e tamanho, podendo variar do verde-claro ao verde-
+escuro e ao roxo, espatulados, lanceolados, oblongos, etc. Geralmente
+são em número de 5 a 7, sendo encontradas folhas com nove lobos
+em certas cultivares, em período de crescimento, podendo ainda
+ocorrer folhas com 3, 4, 5 e 7 lobos na mesma planta, dependendo
+do  estádio  de  desenvolvimento.  O  lobo  mediano  é  sempre
+mais  desenvolvido.  As  folhas  são  incompletas,  digitinérveas.
+O comprimento do pecíolo varia com a cultivar e com o estádio de
+
+21
+
+
+ 500pr_pgnumber022
+desenvolvimento, e a cor pode ser verde, rosada, vermelha, amarelo-
+clara, etc. Observa-se a presença de estípulas.
+
+12
+
+Qual a característica das folhas da mandioca quanto à filotaxia?
+
+Quanto à filotaxia, a mandioca é do tipo 2/5, isto é, a partir de uma
+folha tomada como referência, só se vai encontrar outra folha no
+mesmo plano depois de duas voltas na haste, havendo cinco folhas
+no espaço percorrido.
+
+13
+
+Como se caracteriza a inflorescência da mandioca?
+
+As gemas florígenas localizam-se, geralmente, na calota de
+ramificação da haste, sendo, inclusive, a ramificação uma condição
+essencial para a floração da mandioca. As flores se dispõem em
+inflorescências  cimosas.  As  masculinas,  em  maior  número  e  de
+tamanho menor, nas extremidades de ramificação da inflorescência;
+e as femininas, em número mais reduzido e de tamanho maior, na
+base. As flores são unissexuadas por aborto, exibindo monoclamídia
+ou monoperiatismo e pré-floração calicina.
+
+14
+
+Quais as características do fruto da mandioca?
+
+O fruto da mandioca é uma cápsula com três sementes (tricoca),
+de deiscência loculícida e septícida, que se abre por seis valvas
+quando completamente maduro (seco). A abertura se dá quando as
+cápsulas ainda se acham presas à planta, podendo também ocorrer
+no solo. Há cultivares que apresentam frutos providos de asas bem
+desenvolvidas e sinuosas, e outras, sem essas formações.
+
+15
+
+Quais as características da semente botânica da mandioca?
+
+As sementes são carunculadas, providas de testa e tégmen,
+micrópila, hilo, rafe e chalaza. Parecem com pequenas sementes de
+
+22
+
+
+ 500pr_pgnumber023
+mamona,  apresentando  desenhos  na  testa  luzidia.  O  embrião  é
+central, com folhas cotiledonárias grandes (Platylobeae), maiores que
+a radícula e endosperma abundante e oleaginoso.
+
+16
+
+Como ocorre a germinação das sementes?
+
+O período de germinação varia muito quanto à duração, quanto
+à  viabilidade  da  semente  e  ao  poder  germinativo.  As  sementes
+da  mandioca  germinam  somente  depois  de  longo  período  de
+permanência  no  solo.  Em  algumas  experiências  com  poucas
+sementes, observou-se que a germinação iniciou-se após 3 meses
+do  plantio  e  foi  muito  irregular.  Enquanto  certas  sementes
+estavam completamente germinadas, outras permaneciam em estado
+latente.
+
+Observou-se  também  que  grande  número  de  sementes  de
+mandioca  são  chochas  e  que  o  método  prático  para  separar  as
+sementes boas das chochas é pô-las na água. As boas vão para o
+fundo e as chochas bóiam.
+
+17
+
+ Como ocorre a brotação das manivas?
+
+Em  condições  favoráveis
+de umidade, após o sétimo dia
+do plantio, surgem as primeiras
+raízes  nos  nós  e  nas  extremi-
+dades  das  estacas.  Quando  as
+raízes alcançam cerca de 8 cm
+de comprimento, aparecem os
+primeiros  ramos  aéreos  e,  aos
+10  ou  12  dias,  surgem  folhas
+pequeninas. Aos 15 dias, aproxi-
+madamente, essa fase está termi-
+nada.
+
+23
+
+
+ 500pr_pgnumber024
+
+ 500pr_pgnumber025
+2 Clima e Solo
+
+Laercio Duarte Souza
+Luciano da Silva Souza
+
+
+ 500pr_pgnumber026
+18
+
+A mandioca é originária de que continente?
+
+A mandioca é uma planta de origem sul-americana, cultivada
+desde a antigüidade pelos povos nativos desse continente. Oriunda
+de região tropical, encontra condições favoráveis para seu desen-
+volvimento em todos os climas tropicais e subtropicais.
+
+19
+
+A mandioca é cultivada em que faixa de latitude?
+
+A mandioca é cultivada
+na faixa compreendida entre as
+latitudes 30oN e 30oS, embora
+concentração de plantio esteja
+entre as latitudes 20oN e 20oS.
+
+20
+
+A mandioca suporta até que altitude?
+
+A mandioca suporta altitudes que vão do nível do mar até cerca
+de 2.300 m, sendo as altitudes de 600 m a 800 m as mais favoráveis.
+
+21
+
+Altitudes elevadas podem trazer algum problema ao cultivo
+da mandioca?
+
+Altitudes elevadas são desfavoráveis à acumulação normal de
+amido  na  cultura  da  mandioca  em  decorrência  das  baixas
+temperaturas noturnas durante grande parte do ano e, diuturnamente,
+nas estações mais frias do ano.
+
+26
+
+
+ 500pr_pgnumber027
+22
+
+Regiões de baixas altitudes podem trazer algum problema
+ao cultivo da mandioca?
+
+Nas  regiões  de  baixas  altitudes,  é  comum  a  ocorrência  de
+baixadas  ou  fundo  de  vales,  geralmente  sujeitos  a  períodos  de
+acúmulo de água e até mesmo a encharcamento, por serem vias ou
+depósitos  de  água.  Como  as  raízes  da  mandioca  não  suportam
+ambientes saturados, pois iniciam processo de apodrecimento, esses
+locais devem ser evitados. Alguns desses locais também são propícios
+à formação de corredores de vento e, dependendo da intensidade,
+em determinados períodos podem causar sérios danos às plantas.
+
+23
+
+Qual a faixa de temperatura ideal para o cultivo da man-
+dioca?
+
+A  faixa  de  temperatura
+ideal para o cultivo da mandioca
+situa-se entre os limites de 20oC
+e 27oC (média anual), enquanto
+esta temperatura ótima está em
+torno de 24oC e 25oC.
+
+24
+
+A mandioca desenvolve-se bem em temperaturas entre 16oC
+e 38oC?
+
+A mandioca pode crescer relativamente bem dentro dos limites
+
+de 16oC e 38oC de temperatura.
+
+25
+
+Quais os problemas provocados por baixas temperaturas no
+cultivo da mandioca?
+
+Baixas temperaturas retardam a brotação, diminuem a taxa
+de formação de folhas, o peso seco total e o peso seco das raízes de
+mandioca.
+
+27
+
+
+ 500pr_pgnumber028
+26
+
+Por que a mandioca não cresce em temperaturas em torno
+de 15oC?
+
+A uma temperatura média mensal em torno de 15oC, a planta
+de mandioca paralisa sua atividade vegetativa, entrando em fase de
+repouso, quando, geralmente, perde as folhas.
+
+27
+
+Em  que  região  brasileira  pode-se  observar  os  problemas
+causados por baixas temperaturas?
+
+O problema é observado com maior freqüência nas regiões
+Centro-Oeste, Sudeste e Sul, principalmente no período de maio a
+agosto.
+
+28
+
+Qual a faixa mais adequada de precipitação pluvial para o
+cultivo da mandioca?
+
+A precipitação pluvial é um dos fatores
+de  maior  importância  para  o  cultivo  da
+mandioca, por tratar-se de lavoura cultivada
+quase  que  exclusivamente  sem  irrigação.
+O  regime  de  chuvas,  considerado  mais
+adequado, é a ocorrência de um total anual
+de  1.000  mm  a  1.500  mm,  com  boa
+distribuição durante 6 a 8 meses do ciclo
+vegetativo.
+
+29
+
+Em regiões tropicais úmidas, a mandioca pode produzir com
+até que índice de precipitação pluvial?
+
+Em  regiões  tropicais  úmidas,  a  mandioca  produz  com  até
+4.000 mm anuais de chuva, sem estação seca em nenhum período
+do ano. Nesse caso, é importante que os solos sejam bem drenados,
+pois o encharcamento favorece o apodrecimento das raízes.
+
+28
+
+
+ 500pr_pgnumber029
+30
+
+A mandioca pode ser cultivada em regiões semi-áridas?
+
+A mandioca pode ser cultivada em regiões semi-áridas, com
+500 mm a 700 mm de chuva por ano. Para isso, é de suma importância
+o  uso  de  variedades  já  adaptadas  à  região,  ou  melhoradas  e
+selecionadas para esse fim, bem como adequar a época de plantio
+ao início das chuvas, para que não ocorra deficiência de água nos
+primeiros cinco meses do ciclo.
+
+31
+
+Que problemas a deficiência de água nos primeiros cinco
+meses do ciclo da mandioca pode provocar?
+
+Além de provocar grandes reduções na produção de raízes,
+em  algumas  situações  a  deficiência  de  água  nos  primeiros
+cinco meses de cultivo da mandioca pode causar até a morte das
+plantas.
+
+32
+
+A deficiência de água depois dos cinco primeiros meses de
+cultivo pode reduzir a produção da mandioca?
+
+Depois  dos  cinco  primeiros  meses  do  ciclo,  as  plantas  de
+mandioca encontram-se estabelecidas em campo, com o sistema
+radicular tuberoso já formado. Em condições de deficiência de água
+nesse período, embora não consigam desenvolver plenamente as
+raízes, e o teor de amido permaneça abaixo do potencial da planta
+em condições ideais, a produção geralmente compensa a relação
+custo/benefício.
+
+33
+
+Qual o período de luz ideal para o cultivo da mandioca?
+
+O período de luz ideal para o cultivo da mandioca situa-se em
+
+torno de 12 horas por dia.
+
+29
+
+
+ 500pr_pgnumber030
+34
+
+Que efeitos exercem sobre as plantas de mandioca os dias
+com período de luz mais longo que 12 horas?
+
+Dias com período de luz mais longo que 12 horas favorecem o
+crescimento da parte aérea e reduzem o desenvolvimento das raízes
+tuberosas.
+
+35
+
+Que efeitos exercem sobre as plantas de mandioca os dias
+com período de luz mais curto que 12 horas?
+
+Dias com período de luz mais curto que 12 horas promovem o
+crescimento  das  raízes  tuberosas  e  reduzem  o  crescimento  e  o
+desenvolvimento dos ramos.
+
+36
+
+Em que região brasileira o número diário de horas de sol
+varia bastante com as estações do ano?
+
+Na  Região  Sul,  verifica-se  uma  variação  muito  grande  no
+
+número diário de horas de sol em cada estação do ano.
+
+37
+
+Na Região Nordeste, há alguma variação diária de horas de
+sol entre as estações do ano?
+
+Na Região Nordeste, a variação diária no número de horas de
+sol é muito pequena ao longo do ano, não afetando o cultivo da
+mandioca.
+
+38
+
+Qual o tipo de solo ideal para o plantio da mandioca?
+
+Por ser uma cultura cujo principal produto são as raízes, o tipo
+de solo ideal para a mandioca deve apresentar textura variando de
+franco-arenosa a argilo-arenosa, possibilitando fácil crescimento das
+raízes, boa drenagem e facilidade de colheita.
+
+30
+
+
+ 500pr_pgnumber031
+39
+
+Por que solos argilosos são indesejáveis para o plantio de
+mandioca?
+
+Solos  argilosos  não  são  recomendados  para  o  cultivo  da
+mandioca por serem mais compactos que os de textura média ou
+arenosa, o que dificulta o crescimento e engrossamento das raízes,
+além de apresentarem maior risco de encharcamento e dificultarem
+a colheita, principalmente se ela coincidir com a época seca. Existem
+variedades de mandioca adaptadas a solos argilosos, como o que
+ocorre no entorno de Manaus, AM, e em algumas outras localidades
+da Amazônia, onde o teor de argila ultrapassa 90% e a produção de
+raízes é satisfatória.
+
+40
+
+Que problemas o encharcamento do solo pode trazer ao
+cultivo da mandioca?
+
+O encharcamento do solo provoca o apodrecimento das raízes
+
+da mandioca, causando enormes perdas à produção.
+
+41
+
+O que deve ser feito em áreas sujeitas a encharcamento?
+
+Em áreas sujeitas a encharcamento, deve-se procurar saber,
+antes de tudo, qual o custo de um bom sistema de drenagem, a fim
+de evitar os excessos continuados de umidade no solo, que causam
+danos irrecuperáveis ao sistema radicular da planta. Caso compense
+implantar um sistema de drenagem, o plantio deve ser feito em covas
+altas ou em camalhões, que facilitam a liberação do excesso de
+umidade pela maior exposição do solo.
+
+42
+
+É aconselhável o plantio de mandioca em solos de baixada,
+com topografia plana e sujeitos a encharcamento?
+
+Esse tipo de terreno não é adequado ao cultivo da mandioca,
+porque  provoca  o  desenvolvimento  de  plantas  pequenas  e  o
+apodrecimento  das  raízes.  A  instalação  de  um  bom  sistema  de
+
+31
+
+
+ 500pr_pgnumber032
+drenagem, para escoar as águas e evitar o encharcamento do solo,
+pode corrigir o problema, mas os custos devem ser avaliados antes
+da instalação do plantio.
+
+43
+
+Quais os problemas provocados ao cultivo da mandioca por
+camadas argilosas ou compactadas imediatamente abaixo
+da camada arável?
+
+As camadas de impedimento, situadas logo abaixo da camada
+arável do solo, além de dificultar o crescimento e engrossamento
+das raízes, restringem a infiltração da água no solo, provocando
+encharcamento e apodrecimento das raízes.
+
+44
+
+A  mandioca  tolera  solos  demasiadamente  ácidos  ou
+alcalinos?
+
+A mandioca apresenta alguma tolerância à acidez e pouca
+
+tolerância a solos alcalinos.
+
+45
+
+Qual a faixa de pH favorável ao cultivo da mandioca?
+
+A faixa de pH favorável ao cultivo da mandioca situa-se entre
+5,5 e 6,5. O pH é o fator que controla a solubilidade dos nutrientes
+no solo; abaixo de 5,0, solubiliza o alumínio, o manganês e outros
+elementos  que  podem  causar  toxidez  à  planta,  e  acima  de  6,0,
+solubiliza elementos como o fósforo, o nitrogênio e o enxofre, dentre
+outros, fundamentais à nutrição da planta, e que se tornam mais
+disponíveis a partir desse nível.
+
+46
+
+Qual o pH ideal para o cultivo da mandioca?
+
+O  pH  ideal  para  o  cultivo  da  mandioca  situa-se  próximo
+
+de 6,0.
+
+32
+
+
+ 500pr_pgnumber033
+47
+
+Existe alguma variedade de mandioca que produz bem em
+solos com pH entre 4,0 e 5,0?
+
+Algumas variedades cultivadas em solos da Região Amazônica,
+adaptadas às condições ácidas que normalmente ocorrem naqueles
+solos, produzem bem com pH entre 4,0 e 5,0.
+
+48
+
+Como conseguir aumentos consideráveis de produção no
+cultivo da mandioca?
+
+Pode-se conseguir boa produtividade no cultivo da mandioca
+com o uso das tecnologias disponíveis, como variedades selecionadas,
+seleção  e  preparo  de  manivas,  adubação,  época  de  plantio  e
+espaçamento adequado, controle do mato, de pragas e doenças.
+
+49
+
+Solos  de  cerrado,  geralmente  muito  ácidos  e  pobres  em
+nutrientes,  podem  oferecer  condições  satisfatórias  ao
+crescimento e à produção da mandioca?
+
+Solos de cerrado, melhorados pela calagem, adubação verde,
+mineral ou por rotação de culturas, podem ser usados satisfatoriamente
+no cultivo da mandioca, proporcionando boas produtividades.
+
+50
+
+Que tipo de terreno é adequado ao plantio mecanizado de
+mandioca?
+
+Para o plantio mecanizado de mandioca deve-se buscar terrenos
+de topografia plana ou levemente ondulada, com declividade de até 8%.
+
+51
+
+Quais as vantagens de solos com declividade de até 8% para
+o cultivo da mandioca?
+
+Como as áreas muito declivosas cultivadas com a mandioca
+estão sujeitas a acentuadas perdas de solo e água por erosão, os solos
+
+33
+
+
+ 500pr_pgnumber034
+com declividade de até 10% têm as vantagens de reduzir os custos
+de  produção,  pela  exigência  de  menor  número  de  práticas
+conservacionistas, de facilitar a mecanização e de apresentar menores
+riscos de degradação.
+
+52
+
+Qual a declividade máxima em plantios não mecanizados
+de mandioca?
+
+Em  plantios  não  mecanizados  de  mandioca,  a  declividade
+pode  chegar  a  15%.  É  importante  que  sejam  adotadas  práticas
+conservacionistas,  pois  terrenos  cultivados  com  mandioca  estão
+sujeitos a acentuadas perdas de solo e água por erosão.
+
+53
+
+Por que é preciso utilizar práticas conservacionistas do solo
+em plantios mecanizados e não mecanizados, em terrenos
+com declividade acentuada?
+
+Tanto em plantios mecanizados como nos não mecanizados,
+o uso de práticas conservacionistas é de fundamental importância,
+pois os solos cultivados com mandioca (planta de emergência lenta
+que demora a cobrir o solo) estão sujeitos a acentuadas perdas de
+solo e água por erosão.
+
+34
+
+
+ 500pr_pgnumber035
+3 Variedades
+
+Wania Maria Gonçalves Fukuda
+
+35
+
+
+ 500pr_pgnumber036
+54 Quantas variedades de mandioca existem no Brasil?
+
+A cultura da mandioca apresenta ampla variabilidade genética,
+representada pelo grande número de variedades disponíveis em todo
+o País. Até o momento, já foram catalogadas, no Brasil, mais de 4 mil
+variedades, mantidas em coleções e bancos de germoplasma de
+várias instituições de pesquisa.
+
+55
+
+Como se explica a existência da maioria dessas variedades?
+
+A maioria dessas variedades é fruto do trabalho de seleção e
+conservação dos agricultores em suas lavouras, durante anos seguidos.
+
+56
+
+É possível que uma variedade se comporte da mesma forma
+em todos os locais?
+
+Dificilmente a mesma variedade se comporta de forma seme-
+lhante em todos os locais. Por apresentar alta interação do genótipo
+com o ambiente, a mandioca caracteriza-se por adaptação localizada.
+
+57
+
+A mandioca pode se adaptar às mais diferentes condições
+edafoclimáticas?
+
+A  mandioca  caracteriza-se  por  adaptação  ampla,  sendo
+cultivada em todas as regiões tropicais, adaptando-se, assim, às mais
+diferentes condições edafoclimáticas.
+
+58
+
+Uma  variedade  pode  apresentar  variações  mesmo  entre
+lavouras de agricultores da mesma região?
+
+O comportamento de uma variedade pode variar mesmo entre
+lavouras  de  agricultores  da  mesma  região,  em  decorrência  de
+diferenças de solo ou mesmo de manejo do cultivo.
+
+36
+
+
+ 500pr_pgnumber037
+59
+
+Que problemas as variedades podem apresentar em virtude
+da diferença de clima e solo no Brasil?
+
+   A mandioca é considerada uma planta rústica e com ampla
+capacidade de adaptação às condições mais variadas de clima e
+solo. Independentemente de sua ampla variabilidade genética e de
+sua interação com o ambiente, os principais parâmetros ecológicos
+da mandioca são constituídos pela temperatura, pela radiação solar
+e fotoperíodo, pelo regime hídrico e pelo solo.
+
+60
+
+O que pode justificar o grande número de variedades de
+mandioca cultivadas no País?
+
+É  a  necessidade  de  variedades  específicas  para  os  vários
+ecossistemas, que se caracterizam pelas variações relacionadas ao
+clima e ao solo, bem como pela necessidade de genótipos que se
+adaptem à finalidade do cultivo e ao tipo de processamento a que
+são submetidos.
+
+61
+
+A demanda por novas variedades de mandioca tem crescido?
+
+A demanda por novas variedades de mandioca vem crescendo
+constantemente, à medida que surgem novas alternativas de uso
+do produto, estimulando a ampliação da área cultivada com essa
+cultura.
+
+62
+
+Qual a principal meta a ser alcançada no melhoramento
+genético da mandioca?
+
+A  principal  meta  é  desenvolver  variedades  que  combinem
+rendimentos altos e estáveis com características de boa qualidade,
+de  acordo  com  as  práticas  de  cultivo  adotadas  em  regiões
+específicas.
+
+37
+
+
+ 500pr_pgnumber038
+63
+
+Está havendo expansão da fronteira agrícola para o plantio
+dessa cultura?
+
+À medida que surgem novas alternativas de uso, as fronteiras
+
+agrícolas se ampliam significativamente.
+
+64
+
+Para serem utilizadas, as variedades devem apresentar alguma
+característica específica?
+
+As variedades devem apresentar características específicas de
+
+acordo com a finalidade a que se destinam.
+
+65
+
+Quais os fatores importantes para selecionar uma variedade
+para cultivo?
+
+Por ocasião da seleção de uma variedade para cultivo devem-
+se considerar a finalidade da exploração, o ciclo e o local onde vai
+ser cultivada.
+
+66
+
+Que  características  devem  apresentar  as  variedades
+recomendadas para a indústria de amido?
+
+Para a indústria de amido, as
+variedades devem apresentar altos
+teores de amido nas raízes, polpa
+branca,  córtex  e  película  clara,
+ausência  de  cintas  nas  raízes,
+destaque fácil da película, raízes
+grossas e bem conformadas.
+
+67
+
+Que  características  devem  apresentar  as  variedades
+recomendadas para a indústria de farinha?
+
+Para a indústria de farinha, as variedades devem apresentar as
+mesmas características recomendadas para a indústria de amido,
+
+38
+
+
+ 500pr_pgnumber039
+exceto na Região Norte, onde a preferência é por variedades com
+polpa de coloração amarela.
+
+68
+
+Que  características  devem  apresentar  as  variedades
+recomendadas para a alimentação animal?
+
+As variedades recomendadas para a alimentação animal devem
+apresentar alto rendimento de raízes e da parte aérea, boa retenção
+foliar,  alto  teor  de  proteína  nas  folhas  e  teor  mínimo  de  ácido
+cianídrico, tanto nas folhas como nas raízes.
+
+69
+
+Por que as variedades recomendadas para a alimentação
+animal devem conter teor mínimo de ácido cianídrico?
+
+Porque o ácido cianídrico é uma substância tóxica, resultante
+da  hidrólise  de  um  glicosídeo  cianogênico,  capaz  de  provocar
+intoxicações no animal e até sua morte, em algumas situações.
+
+70
+
+Por que a variedade melhorada de mandioca é considerada
+um  dos  principais  componentes  tecnológicos  do  sistema
+produtivo?
+
+A variedade melhorada de
+mandioca é um dos componentes
+tecnológicos  do  sistema  de
+produção porque contribui com
+incrementos  significativos  de
+produtividade,  sem  implicar
+custos adicionais, o que facilita sua
+adoção, especialmente por parte
+dos  produtores  de  baixa  renda.
+A escolha da variedade deve ser feita com antecedência, de acordo
+com a finalidade da exploração, com o ciclo e local de plantio.
+
+39
+
+
+ 500pr_pgnumber040
+71
+
+Problemas de pragas e doenças podem ser solucionados com
+o uso de variedades resistentes?
+
+Vários problemas de pragas e doenças que afetam o cultivo da
+mandioca  podem  ser  solucionados  com  o  uso  de  variedades
+resistentes. Em alguns casos, aliás, as variedades resistentes constituem
+a única alternativa viável para a solução dos problemas fitossanitários.
+
+72
+
+Quais as principais alternativas de controle dos problemas
+fitossanitários?
+
+Os resultados de pesquisa obtidos até o momento indicam que
+ações  multidisciplinares  são  as  mais  viáveis  para  minimizar  o
+problema. É fundamental integrar o uso de variedades tolerantes com
+práticas culturais como a rotação de culturas, manejo físico e químico
+do solo, sistema de cultivo e, até mesmo, o uso de microrganismos
+antagônicos.
+
+73
+
+Quais as principais variedades de mandioca recomendadas
+para a Região Norte?
+
+As principais variedades de mandioca recomendadas para a
+
+Região Norte são:
+• BRS Purus.
+• Zolhudinha.
+• Mãe Joana.
+• Poti.
+• Mani.
+
+74
+
+Quais as principais variedades de mandioca recomendadas
+para a Região Nordeste?
+
+As principais variedades de mandioca recomendadas para a
+
+Região Nordeste são:
+
+• Formosa.
+• Mani Branca.
+
+40
+
+
+ 500pr_pgnumber041
+• Arari.
+• BRS Guaíra.
+• BRS Mulatinha.
+• BRS Dourada.
+• BRS Gema de Ovo.
+• Crioula.
+• Amansa Burro.
+• Rosa.
+
+75
+
+Quais as principais variedades de mandioca recomendadas
+para a Região Centro-Oeste?
+
+   As principais variedades de mandioca recomendadas para a
+
+Região Centro-Oeste são:
+
+• IAC 24-4.
+• IAC 12-829.
+• IAC 1-127.
+• EAB 81.
+• EAB 653.
+• Pioneira.
+• Fécula Branca.
+
+76
+
+Quais  as  variedades  de  mandioca  recomendadas  para  a
+Região Sul?
+
+As variedades de mandioca recomendadas para a Região Sul
+
+são:
+
+• Fibra.
+• Olho Junto.
+• Fécula Branca.
+• Mico.
+• IAC 14.
+• IAC 13.
+
+41
+
+
+ 500pr_pgnumber042
+77
+
+Que critérios são utilizados na seleção de variedades de
+mandioca para consumo humano?
+
+O principal critério utilizado na seleção de variedades para
+consumo humano é a existência de baixo teor de ácido cianídrico
+nas raízes. Características como tempo de cozimento das raízes,
+palatabilidade e ausência de fibras na massa cozida e resistência à
+deterioração após a colheita também devem ser consideradas.
+
+78
+
+Que  teor  de  ácido  cianídrico  é  aceitável  para  consumo
+humano?
+
+As raízes das variedades de mandioca para consumo humano
+devem  apresentar teores de ácido cianídrico abaixo de 50 ppm ou
+de 50 mg/kg de raiz fresca.
+
+79
+
+Qual a importância do ciclo da mandioca na seleção de uma
+variedade para cultivo?
+
+Dependendo do mercado e da região, é importante plantar
+variedades de ciclos diferentes de modo que a colheita de cada
+variedade coincida com a época certa.
+
+80
+
+As variedades de mandioca têm ciclos de quantos meses?
+
+As variedades de mandioca têm ciclos que variam de 6 a 36 meses.
+
+81
+
+Como as variedades de mandioca são classificadas de acordo
+com o ciclo?
+
+O ciclo cultural da mandioca é o período que vai do plantio à
+colheita.  Com  base  na  duração  desse  ciclo  as  cultivares  são
+classificadas em:
+
+• Precoces (ciclo de 10 a 14 meses).
+• Semiprecoces (ciclo de 14 a 16 meses).
+• Tardias (ciclo maior que 18 meses).
+
+42
+
+
+ 500pr_pgnumber043
+82
+
+Que variedades de mandioca apresentam boa combinação
+de todas as características desejáveis?
+
+Apesar  do  grande  número  de  variedades  de  mandioca
+disponíveis no Brasil, não existe nenhum genótipo que reúna as
+características  agronômicas  e  industriais  desejáveis,  na  mesma
+variedade.
+
+83
+
+O que se está fazendo no Brasil com o objetivo de descobrir
+novas variedades?
+
+No sentido de produzir novas variedades de mandioca, mais
+produtivas  e  adaptadas  aos  sistemas  de  produção  em  uso  pelos
+agricultores e mais adequadas às novas demandas de mercado, várias
+instituições de pesquisa do Brasil estão desenvolvendo trabalhos de
+criação e seleção de novas variedades de mandioca.
+
+43
+
+
+ 500pr_pgnumber044
+
+ 500pr_pgnumber045
+Escolha da Área e
+Preparo do Solo
+
+4
+
+Laercio Duarte Souza
+Luciano da Silva Souza
+
+
+ 500pr_pgnumber046
+84
+
+Que aspectos devem ser considerados na escolha da área
+para o cultivo da mandioca?
+
+As condições ideais para o cultivo da mandioca são:
+• Localização entre as latitudes 20oN e 20oS.
+• Altitude de até 800 m.
+• Média anual de temperatura entre 20oC e 27oC.
+• Precipitação pluvial média anual entre 1.000 mm e 1.500 mm,
+
+distribuídos entre 8 e 9 meses.
+
+• Período de luz solar próximo de 12 horas por dia.
+• Declividade  máxima  da  topografia  de  8%  para  cultivos
+
+mecanizados e de 15% para cultivos manuais.
+
+• Solo de textura média, ou seja, não pode ser excessivamente
+
+arenoso ou argiloso.
+
+• Ausência de impedimentos ao desenvolvimento das raízes
+
+até a profundidade de 2 m.
+
+• A área não pode estar sujeita a encharcamentos.
+• Os solos não podem ser salinos, sódicos ou salino-sódicos.
+
+85
+
+Para que serve o preparo do solo?
+
+O preparo do solo visa melhorar as condições físicas do solo
+para a brotação das manivas, o crescimento e engrossamento do
+sistema  radicular  e  o  desenvolvimento  das  partes  vegetativas,
+mediante o aumento da aeração e da infiltração de água e a redução
+da resistência ao crescimento das raízes. O preparo do solo também
+ajuda no controle do mato e a incorporar e disponibilizar nutrientes
+para as plantas.
+
+86
+
+Qual  a  influência  do  preparo  adequado  do  solo  no
+desenvolvimento da cultura?
+
+O preparo adequado do solo para o cultivo da mandioca é a
+base do sucesso de todas as operações subseqüentes, como o uso
+
+46
+
+
+ 500pr_pgnumber047
+mais eficiente dos corretivos da acidez e dos fertilizantes, maior
+facilidade para realizar as práticas de sulcamento e/ou coveamento,
+de plantio, tratos culturais e colheita.
+
+87
+
+Como devem ser definidos os objetivos e o modo de preparo
+do solo?
+
+Por  ser  uma  planta  cuja  produção  mais  importante
+economicamente  são  as  raízes  tuberosas,  a  mandioca  deve  ser
+plantada em solo preparado de maneira adequada. A aração, seguida
+de gradagem, nivela o terreno, facilita os trabalhos de abertura dos
+sulcos ou das covas de plantio, o controle do mato e de determinadas
+pragas, bem como a colheita.
+
+Recomenda-se, também, preparar o solo com cultivadores, que
+controlam  o  mato  e  rompem  resistências  do  solo  sem  provocar
+revolvimento, e utilizar consórcios ao invés de manter o solo limpo.
+Em cada caso, os objetivos e o modo de preparo do solo devem ser
+definidos  segundo  o  grau  de  infestação  de  plantas  daninhas,  a
+quantidade de resíduos superficiais, a umidade do solo, os riscos de
+erosão e o sistema de plantio pretendido.
+
+88
+
+Que cuidados são recomendados quando do preparo do
+solo?
+
+Na seqüência de operações mecânicas que caracterizam o
+
+preparo do solo devem ser observados os seguintes cuidados:
+
+• Alternar o tipo de implemento e a profundidade de trabalho,
+para minimizar os riscos de formação de camadas compactadas.
+• Revolver o solo o mínimo possível, não fazer aração nem
+gradagem de forma cruzada, pois o excesso de pulverização
+deixa o solo mais sujeito à erosão.
+
+• Trabalhar o solo em condições adequadas de umidade, nem
+muito úmido nem muito seco, ou seja, o solo deve apresentar
+umidade suficiente para não levantar poeira e evitar que a
+terra molhada grude nos implementos.
+
+47
+
+
+ 500pr_pgnumber048
+• Deixar o máximo possível de resíduos vegetais na superfície
+do terreno, para proteger o solo do impacto direto das gotas
+de chuva e evitar a degradação da estrutura do solo por
+chuvas e enxurradas.
+
+89
+
+O que deve ser feito nas áreas com camadas superficiais ou
+subsuperficiais compactadas?
+
+Áreas  cultivadas  por  longo  tempo  com  pastagens  ou  com
+culturas  de  ciclo  curto  e  mecanização  intensa,  que  apresentam
+camadas compactadas ou endurecidas, devem ser subsoladas a uma
+profundidade de 50 cm a 60 cm, a fim de  melhorar a infiltração da
+água e facilitar o crescimento e engrossamento das raízes. Ressalte-
+se que a subsolagem deve ser a última prática antes do plantio, de
+modo que, depois dela, a entrada de máquinas e a utilização de
+implementos na área devem ser impedidas.
+
+90
+
+Por que o uso de máquinas em áreas declivosas deve ser
+reduzido?
+
+No período de chuvas, quando ocorre o preparo do solo e o
+plantio, o solo geralmente está descoberto e os riscos de erosão
+aumentam com o aumento do declive. Por causa disso, deve-se
+trabalhar seguindo as curvas de nível do terreno, fazer o preparo do
+solo em faixas ou aplicando o cultivo mínimo para reduzir o uso de
+máquinas  e  a  movimentação  da  superfície  do  solo,  evitando  a
+aceleração do processo de erosão. Em áreas declivosas, o solo nunca
+deve estar descoberto.
+
+91
+
+Por que se deve deixar faixas ou zonas de vegetação natural
+nas áreas cultivadas com mandioca?
+
+As faixas de vegetação natural são uma forma de preservar parte
+do ecossistema natural, mantendo um ambiente propício para a
+criação de inimigos naturais das pragas e doenças da mandioca.
+
+48
+
+
+ 500pr_pgnumber049
+92
+
+O que se deve fazer com os restos vegetais da roçagem de
+áreas para que se possa cultivar a mandioca?
+
+O material não muito lenho-
+so deve ser deixado na superfície
+do solo como medida de proteção
+contra o impacto da chuva e da
+radiação  solar,  ao  passo  que  os
+restos  vegetais  de  material
+arbustivo devem ser enleirados em
+nível como medida de controle da
+erosão.
+
+93
+
+Como devem ser as operações de preparo do solo?
+
+As  operações  de  preparo  do  solo  devem  ser  reduzidas  ao
+mínimo, apenas o suficiente para a instalação da cultura e para o
+bom desenvolvimento do sistema radicular, e sempre executadas em
+curvas de nível do terreno, orientação a ser seguida também no
+plantio.
+
+94
+
+Quais  as  vantagens  do  preparo  do  solo  em  curva  de
+nível?
+
+O preparo do solo e o plantio em nível (“cortando” as águas) é
+uma prática conservacionista extremamente simples e que apresenta
+grande eficiência no combate à erosão. Essa prática forma, no terreno,
+pequenos camalhões transversais ao declive que, juntamente com a
+cultura implantada, servem de obstáculos à formação de enxurradas,
+incrementando assim a infiltração da água no solo e reduzindo a
+erosão.
+
+49
+
+
+ 500pr_pgnumber050
+95
+
+Qual deve ser a profundidade da aração para o cultivo da
+mandioca?
+
+A aração deve ser feita
+a uma profundidade de 15 cm
+a  20  cm.  Arações  mais
+profundas são mais custosas
+e  não  trazem  benefícios  à
+produtividade da mandioca.
+Os  cultivadores,  que  tam-
+bém fazem o preparo primá-
+rio do solo, podem quebrar
+as resistências do solo até a essa mesma profundidade, mas sem
+provocar revolvimento.
+
+96
+
+Quanto tempo antes do plantio devem ser feitas as grada-
+gens?
+
+Quando houver necessidade de incorporar corretivos da acidez,
+a gradagem deve ser feita 30 dias antes do plantio. Quando não
+há  necessidade  de  correção,  a  gradagem  deve  ser  feita  às
+vésperas do plantio, reduzindo, dessa forma, a incidência de plantas
+daninhas e deixando o solo pronto para ser sulcado, ou coveado, e
+plantado.
+
+97
+
+Qual a forma correta de se fazer a gradagem?
+
+A  prática  da  gradagem  deve  ser  reduzida  ao  mínimo,
+procurando sincronizar o nivelamento do terreno e a incorporação
+de fertilizantes e/ou corretivos, desde que compatíveis, em uma só
+operação. Se houver necessidade de fazer duas gradagens na área,
+essas não devem ser cruzadas, mas sempre no sentido da curva de
+nível (“cortando” as águas), seguidas da operação de sulcamento,
+ou coveamento, e plantio, também em nível.
+
+50
+
+
+ 500pr_pgnumber051
+98
+
+Qual a recomendação de preparo do solo para o plantio em
+fileiras duplas?
+
+Para  o  plantio  em  fileiras  duplas,  recomenda-se  o  preparo
+reduzido do solo, que pode ser feito apenas nas linhas duplas do
+plantio, diminuindo assim a área de solo revolvida, aumentando o
+controle da erosão e proporcionando grande redução nos custos do
+preparo do solo.
+
+99
+
+Como  preparam  o  solo  os  pequenos  produtores  sem
+condições de utilizar a mecanização?
+
+O preparo do solo dos
+pequenos  produtores  sem
+condições de utilizar a meca-
+nização restringe-se às opera-
+ções manuais de limpeza da
+área, coveamento, adubação
+e plantio.
+
+100
+
+O sistema de plantio a ser utilizado depende de que fatores?
+
+São diversos os sistemas de plantio da mandioca (cova, sulco
+ou camalhão, maniva horizontal, vertical ou inclinada, etc.). A escolha
+de um deles está diretamente relacionada à tradição da região, ao
+tipo de solo, ao regime de chuvas, à disponibilidade de mão-de-
+obra  ou  de  máquinas,  ao  tamanho  da  área,  às  possibilidades
+financeiras do produtor e outras.
+
+Em áreas de solos mais barrentos (argilosos) e em regiões sujeitas
+a grande volume de chuvas, por exemplo, o plantio tem que ser feito
+em covas tipo matumbo (covas elevadas) ou em camalhões, como
+forma de aumentar a evaporação e o escoamento das águas, evitando
+assim os riscos de encharcamento e de apodrecimento das raízes.
+
+51
+
+
+ 500pr_pgnumber052
+Tanto o plantio em covas profundas como o plantio com a
+maniva no nível do solo armazenam mais água. O plantio de manivas
+na posição vertical aprofunda mais as raízes e deve ser utilizado
+apenas  em  camalhões  ou  em  solos  arenosos,  a  fim  de  evitar
+dificuldades no momento da colheita.
+
+52
+
+
+ 500pr_pgnumber053
+Manejo e
+Conservação do Solo
+
+5
+
+Luciano da Silva Souza
+Laercio Duarte Souza
+
+53
+
+
+ 500pr_pgnumber054
+101
+
+Que  aspectos  devem  ser  considerados  no  manejo  e  na
+conservação do solo da cultura da mandioca?
+
+No manejo e na conservação do solo da cultura da mandioca,
+
+dois aspectos são importantes e devem ser considerados:
+
+• A mandioca é uma cultura que absorve grandes quantidades
+de nutrientes e, praticamente, exporta tudo o que absorveu,
+não devolvendo quase nada ao solo na forma de resíduos
+culturais: – as raízes tuberosas são empregadas na produção
+de farinha, fécula e outros produtos, na alimentação humana
+e animal; aproximadamente 20% das manivas são suficientes
+para o plantio de área igual àquela de onde foram retiradas,
+ao  passo  que  os  80%  restantes  podem  ser  utilizados  na
+expansão da área plantada ou na alimentação animal; as
+folhas são aproveitadas na alimentação humana e animal.
+
+• A mandioca é uma das culturas anuais que provocam maiores
+perdas de solo e de água por erosão, tanto por seu crescimento
+inicial lento, permanecendo o solo descoberto e desprotegido
+por mais tempo do que em outras culturas, quanto pelo maior
+espaçamento  que  ela  exige,  pelas  capinas  necessárias
+principalmente nos primeiros estágios de desenvolvimento
+da cultura e pela movimentação do solo por ocasião do
+plantio  e  da  colheita,  operações  que  contribuem  para  a
+degradação da estrutura do solo e favorece a erosão.
+
+Esses  aspectos  mostram,  de  maneira  inequívoca,  que  a
+mandioca é uma cultura esgotante e degradadora do solo, e que a
+adoção de práticas de manejo e conservação do solo é um aspecto
+muito importante dessa cultura.
+
+102
+
+Que princípios básicos devem ser seguidos no manejo e na
+conservação do solo na cultura da mandioca?
+
+Dois princípios básicos devem ser seguidos:
+O primeiro é a redução da movimentação do solo,  a qual
+
+proporciona os seguintes benefícios:
+
+54
+
+
+ 500pr_pgnumber055
+• Mantém ou melhora a estrutura do solo.
+• Reduz as possibilidades de compactação do solo.
+• Reduz as perdas de solo e água por erosão.
+• Melhora a disponibilidade de água para as plantas.
+• Reduz os custos de produção.
+O segundo é a cobertura do solo (viva ou morta), prática de
+manejo e conservação que causa maior efeito no controle da erosão
+do solo:
+
+• Proporciona proteção contra o impacto direto das gotas de
+chuva  no  solo,  que  rompem  e  pulverizam  os  agregados
+superficiais, causando encrostamento da superfície do solo,
+reduzindo a velocidade de infiltração das águas das chuvas,
+o  que  aumenta  o  volume  das  enxurradas  e  seus  efeitos
+danosos.
+
+• Diminui a velocidade de escoamento das enxurradas.
+• Acrescenta matéria orgânica ao solo.
+• Aumenta a infiltração de água no solo.
+• Reduz a evaporação da água do solo.
+• Aumenta o armazenamento e a disponibilidade de água no
+
+solo.
+
+103
+
+Qual a primeira medida no manejo e na conservação do solo
+cultivado com mandioca?
+
+A  primeira  medida  no  manejo  e  na  conservação  do  solo
+cultivado  com  mandioca  é,  sempre  que  possível,  escolher  solo
+adequado ao cultivo, o que dispensaria ou minimizaria a utilização
+de  várias  práticas  de  manejo  e  conservação.  Para  o  cultivo  da
+mandioca, o solo deve ter as seguintes características:
+
+• Declive menor que 8%, para cultivos mecanizados.
+• Declive menor que 15%, para cultivos manuais.
+• Textura média.
+• Sem  impedimentos  ao  desenvolvimento  das  raízes  até  a
+
+profundidade de 2 m.
+
+55
+
+
+ 500pr_pgnumber056
+• Não pode estar sujeito a encharcamentos.
+• Não podem ser salinos, sódicos ou salino-sódicos.
+Escolhida a área, devem ser traçadas as curvas de nível para
+que  todas  as  operações  mecânicas  e  o  plantio  sejam  realizados
+“cortando” as águas.
+
+104
+
+Qual a importância da análise de solo, antes do plantio,
+para  o  manejo  e  a  conservação  do  solo  na  cultura  da
+mandioca?
+
+A  análise  de  solo  realizada  antes  do  plantio  possibilita  a
+correção  da  acidez  e  dos  nutrientes  do  solo,  de  acordo  com  as
+recomendações para a cultura, o que assegura o melhor e mais rápido
+desenvolvimento das plantas, cobrindo mais rapidamente o solo e
+protegendo-o do impacto direto das gotas de chuva, que causam
+degradação da estrutura do solo e erosão, evitando, inclusive, o
+esgotamento dos nutrientes do solo.
+
+105
+
+Qual  a  influência  da  matéria  orgânica  na  produção  da
+mandioca?
+
+Os  efeitos  favoráveis
+da  matéria  orgânica  estão
+relacionados com o forneci-
+mento  de  nutrientes  e  com
+alterações nas propriedades
+físicas, químicas e biológicas
+do solo, basicamente melho-
+rando a estrutura e a aeração
+do  solo  e  aumentando  a
+capacidade de infiltração, o armazenamento e a disponibilidade de
+água no solo.
+
+56
+
+
+ 500pr_pgnumber057
+106
+
+Que tipo de matéria orgânica é mais indicado para a cultura
+da mandioca?
+
+A aplicação de adubos orgânicos tem influência positiva na
+produção da mandioca, sendo que o esterco de curral, a torta de
+mamona,  os  compostos  orgânicos  e  a  adubação  verde  com
+leguminosas dão excelentes resultados.
+
+107
+
+O que se deve fazer durante o período de descanso do solo?
+
+Durante  o  período  de  descanso,  deve-se  semear  alguma
+leguminosa  para  adubação  verde,  para  proteger  o  solo  contra  a
+erosão e trazer efeitos benéficos à estrutura do solo, além de reciclar
+e incorporar matéria orgânica e nutrientes. Em hipótese alguma o
+solo deve ficar descoberto.
+
+108
+
+O que pode ser feito para evitar o esgotamento dos nutrientes
+do solo?
+
+Deve-se repor os nutrientes exportados do solo pelas partes
+colhidas das plantas, fazendo a calagem para corrigir a acidez e
+adubação orgânica e/ou química. Deve-se fazer, também, a rotação
+da mandioca com outras culturas, principalmente com leguminosas
+que, em virtude de seu sistema radicular, geralmente pivotante e
+profundo, absorvem nutrientes a grande profundidade, trazendo-os
+de volta à superfície quando ocorre a incorporação da leguminosa
+ao solo.
+
+109
+
+Quais as vantagens da adubação verde com leguminosas?
+
+Além de manter o solo coberto, a massa verde das leguminosas
+pode ser usada como adubo verde. Para isso, as leguminosas devem
+ser ceifadas no início da floração, incorporando a massa verde ao
+solo ou deixando-a na superfície, como cobertura morta.
+
+57
+
+
+ 500pr_pgnumber058
+110
+
+Existe alguma outra vantagem em utilizar-se as leguminosas
+como adubo verde?
+
+Sim, pois as leguminosas têm
+a  capacidade  de  desenvolver
+associações  simbióticas  com
+bactérias que fixam o nitrogênio
+atmosférico  e  o  liberam  para  o
+sistema solo-planta.
+
+111
+
+Por que se deve utilizar a prática do consórcio no sistema
+de fileiras duplas?
+
+Porque assim se obtém melhor e mais rápida cobertura do solo,
+na medida em que se associa o plantio de mandioca em linhas duplas,
+planta de crescimento inicial lento, com o plantio, nas entrelinhas,
+de uma leguminosa (preferencial) ou gramínea, de crescimento inicial
+mais  rápido.  Essa  prática  é,  também,  uma  forma  de  incorporar
+resíduos vegetais (parte aérea e raízes) das culturas consortes nas
+entrelinhas, favorecendo a alternância, ano a ano, das linhas duplas
+de plantio com as entrelinhas, reduzindo assim a pressão de cultivo
+sobre o solo e possibilitando o uso contínuo da mesma área.
+
+Todavia, se o plantio de mandioca em fileiras simples é suscetível
+à erosão, por causa da demora para cobrir o solo, o plantio em fileiras
+duplas, que foi criado para suprir essa e outras deficiências, utilizado
+sem consórcio seria mais erosivo que o plantio em fileiras simples,
+pois as áreas descobertas durante todo o ciclo da planta seriam
+maiores.
+
+112
+
+Por  que  a  prática  de  consórcio  é  recomendada  em  áreas
+inclinadas?
+
+Porque permite melhor e mais rápida cobertura do solo e evita
+os efeitos erosivos das chuvas e enxurradas, mantendo, assim, a
+capacidade produtiva do solo.
+
+58
+
+
+ 500pr_pgnumber059
+113
+
+Qual o tipo de consórcio mais eficiente para a proteção do
+solo?
+
+O tipo de consórcio mais eficiente para a proteção do solo
+contra  a  erosão  é  formado  por  mandioca  e  milho.  Entretanto,  a
+produção da mandioca pode ser comprometida pelo sombreamento
+do  milho,  se  a  população  de  plantas  desta  última  cultura  na
+composição do consórcio for excessiva.
+
+114
+
+Que outros tipos de consórcio são recomendados?
+
+São recomendados os consórcios de mandioca e feijão, mandioca
+
+e caupi, mandioca e amendoim, mandioca e algodão, entre outros.
+
+115
+
+Que outras práticas conservacionistas são recomendadas
+para o plantio de mandioca em áreas inclinadas?
+
+Além dos consórcios são recomendadas as seguintes práticas:
+• Plantar a mandioca em espaçamento mais denso.
+• Usar variedades de porte ramificado como forma de cobrir
+
+melhor e mais rapidamente o solo.
+
+• Adotar cultivos em faixa e em nível (“cortando” as águas).
+• Enleirar os restos culturais em nível.
+• Fazer cordões vegetados em nível.
+• Fazer cobertura do solo com vegetação morta.
+• Fazer capinas alternadas.
+
+116
+
+Como é feito o cultivo em faixas e em nível (“cortando” as
+águas)?
+
+O cultivo em faixas e em nível
+é a disposição alternada de faixas de
+mandioca  com  faixas  de  outras
+culturas (milho, feijão, amendoim,
+etc.),  plantadas  e  cultivadas  em
+épocas distintas, em faixas de largura
+
+59
+
+
+ 500pr_pgnumber060
+determinada, dispostas ao longo das curvas de nível do terreno.
+Podem ser classificadas em faixas de exploração contínua (as culturas
+permanecem de um ano para outro na mesma posição), em faixas
+de rotação (as culturas mudam de local a cada ciclo, promovendo-
+se a rotação de culturas) e em faixas de retenção (utilizam-se faixas
+estreitas – de 2 m a 5 m de largura – cultivadas com gramíneas e/ou
+leguminosas em plantio denso, de modo a formar um anteparo à
+água das enxurradas,  intercaladas entre as faixas de mandioca a
+cada 20 m ou 50 m, dependendo da declividade do terreno).
+
+117
+
+Quais  as  vantagens  das  culturas  em  faixa  e  em  nível
+(“cortando” as águas)?
+
+As culturas em faixa e em nível ajudam a melhorar a cobertura
+
+do solo e a protegê-lo contra a erosão.
+
+118
+
+Quais as vantagens do enleiramento em nível dos restos
+culturais?
+
+O enleiramento em nível dos restos culturais ajuda a conter as
+
+enxurradas e a reduzir os prejuízos causados pela erosão.
+
+119
+
+Em que consistem os cordões vegetados e em nível?
+
+É uma prática que utiliza linhas de plantas de crescimento
+denso, como o capim-vetiver, capim-elefante ou milho, para quebrar
+a velocidade das águas, implantadas em curvas de nível entre o
+plantio  da  mandioca,  a  intervalos  que  variam  de  acordo  com  a
+declividade do terreno.
+
+120
+
+Quais  as  vantagens  do  capim-vetiver  quando  usado  em
+cordões vegetados e em nível?
+
+O capim-vetiver é muito recomendado para a implantação de
+cordões vegetados, pelo fato de não ser uma planta invasora (as
+
+60
+
+
+ 500pr_pgnumber061
+sementes não germinam e a planta não emite ramas) e por emitir
+raízes a grandes profundidades, competindo pouco com a mandioca
+pela água disponível no solo.
+
+121
+
+É  recomendada  a  cobertura  do  solo  com  vegetação
+morta?
+
+Sempre  que  houver  disponibilidade  de  resíduos  vegetais,
+recomenda-se sua utilização para cobertura do solo, a fim de protegê-
+lo  contra  a  erosão,  incorporar  matéria  orgânica  e  nutrientes  e
+conservar  por  mais  tempo  a  umidade.  A  cobertura  morta  tem  a
+vantagem de não concorrer com a mandioca por água e nutrientes
+como a cobertura viva.
+
+122
+
+Quais  as  vantagens  da  cobertura  morta  no  plantio  de
+mandioca?
+
+São vários os benefícios que a cobertura morta proporciona ao
+solo  e  que  repercutem  positivamente  no  desenvolvimento  e  na
+produtividade da cultura:
+
+• Melhora as condições físicas do solo, pela adição de resíduos
+
+orgânicos.
+
+• Estimula a atividade biológica do solo.
+• É uma maneira eficaz, simples e econômica de controlar a
+
+erosão dos solos agrícolas.
+
+• A temperatura do solo permanece em faixa satisfatória para
+o desenvolvimento do sistema radicular da planta e para a
+atividade microbiana do solo.
+
+• Mantém a umidade do solo por maior período de tempo.
+• Elimina ou reduz o número de capinas, pelo “abafamento”
+
+do mato.
+
+• Aumenta os teores de nutrientes como nitrogênio, fósforo e
+
+enxofre no solo.
+
+61
+
+
+ 500pr_pgnumber062
+123
+
+Como funciona o sistema de capinas alternadas?
+
+O sistema de capinas alternadas consiste em capinar linhas
+alternadas de mandioca, deixando-se linhas também alternadas sem
+capinar,  a  fim  de  não  deixar  o  solo  totalmente  descoberto  e
+desprotegido  contra  o  escoamento  das  águas.  Depois  de  algum
+tempo, que varia de local para local de acordo com o regime de
+chuvas, e quando o mato começa a reinfestar as linhas já capinadas,
+retoma-se o processo capinando as linhas que ficaram sem capinar.
+
+124
+
+O sistema de capinas alternadas prejudica a produtividade
+da mandioca?
+
+O sistema de capinas alternadas causa prejuízo insignificante
+
+na produtividade da mandioca.
+
+125
+
+As práticas conservacionistas mencionadas são eficientes em
+áreas com que declividade?
+
+As práticas conservacionistas mencionadas (preparo do solo e
+plantio em nível, rotação e consorciação, culturas em faixa e em
+nível, enleiramento em nível dos restos culturais, uso de cordões
+vegetados, cobertura morta do solo, capinas alternadas, etc.) são
+eficientes em áreas com declividade de até 5%. Em declividades
+maiores,  deve-se  também  recorrer  às  práticas  mecânicas  de
+conservação do solo (terraços e canais escoadouros), mais onerosas
+que as anteriores e, por isso mesmo, somente utilizadas em condições
+extremas de risco de erosão.
+
+126
+
+O que são terraços?
+
+Os  terraços  são  obstáculos  dispostos  transversalmente  ao
+declive, podendo ser construídos em nível ou com gradiente de
+
+62
+
+
+ 500pr_pgnumber063
+declividade, e constam de um camalhão e de um canal, destinados
+a reter a água das chuvas e permitir sua infiltração no solo (terraços
+em nível) ou escorrê-la de maneira controlada para os mananciais,
+com velocidade moderada (terraços em gradiente).
+
+De acordo com a largura da faixa de terra movimentada, os
+
+terraços são classificados em:
+
+Terraços de base estreita: largura do movimento de terra é de
+2 m a 3 m, sendo também chamados de cordões em contorno e
+utilizados principalmente para culturas perenes em terrenos com
+declividade entre 10% e 30%, em regiões de precipitação pluvial
+razoavelmente alta.
+
+Terraços de base média: a largura do movimento de terra é de
+
+3 m a 6 m.
+
+Terraços de base larga: a largura do movimento de terra é
+
+de 6 m a 12 m, sendo viáveis apenas para declives suaves.
+
+63
+
+
+ 500pr_pgnumber064
+
+ 500pr_pgnumber065
+6 Calagem e Adubação
+
+Jayme de Cerqueira Gomes
+
+
+ 500pr_pgnumber066
+127
+
+Em que resultou o uso de solos com características físicas e
+químicas limitantes?
+
+O uso de solos com características físicas e químicas limitantes
+para o cultivo da mandioca contribuiu, de maneira acentuada, para
+o baixo rendimento dessa cultura.
+
+128
+
+A mandioca tolera as condições de acidez do solo?
+
+Sim, a mandioca é uma planta que tolera a acidez do solo. Em
+condições  de  altas  concentrações  de  hidrogênio  (pH  baixo)  e
+alumínio,  ela  apresenta  produção  relativa  superior  à  de  outras
+culturas, como o feijão, a soja e o milho, por exemplo.
+
+129
+
+O emprego da calagem proporciona efeitos marcantes no
+cultivo da mandioca?
+
+Não há dúvida de que solos ácidos podem ser mais produtivos
+com a aplicação de corretivos da acidez, mas a aplicação de calcário
+no cultivo da mandioca só resultou em aumento na produção dessa
+cultura quando aplicado em doses baixas.
+
+130
+
+Por que não se deve aplicar mais de 1 t de calcário dolomítico
+por hectare?
+
+Porque  a  mandioca  não
+responde a doses altas de calcário
+dolomítico. Aliás, pode ocorrer até
+efeito  negativo  na  produção,  em
+geral provocado pela indução de
+deficiência de zinco.
+
+66
+
+
+ 500pr_pgnumber067
+131
+
+Quais as exigências nutricionais da mandioca?
+
+A mandioca é uma planta exigente em nutrientes não só porque
+produz grande massa vegetativa, mas também por absorver elevadas
+quantidades de elementos que são exportados para outros locais.
+
+132
+
+Em  que  períodos  ocorrem  os  picos  de  absorção  de
+nutrientes?
+
+A  absorção  e  assimilação  de  nutrientes,  especialmente  de
+nitrogênio, são rápidas nas folhas durante os primeiros 4 a 6 meses,
+permanecendo  estáveis  depois  dos  6  meses.  As  quantidades  de
+fósforo,  potássio  e  magnésio  absorvidas  pela  planta  continuam
+aumentando durante todo o ciclo.
+
+133
+
+Qual a importância do nitrogênio para a mandioca?
+
+  Em  doses  adequadas,  o  nitrogênio  favorece  o  bom
+desenvolvimento da planta. Entretanto, quando aplicado em excesso,
+provoca  redução  na  porcentagem  de  amido  e  o  conseqüente
+aumento de proteína.
+
+Em solos de mata recém-desbravada, o excesso de nitrogênio,
+produzido pela extrema riqueza de matéria orgânica, pode induzir
+exagerado  desenvolvimento  da  parte  aérea  em  detrimento  da
+produção de raízes de reserva.
+
+134
+
+Quais os sintomas da deficiência de nitrogênio na mandioca?
+
+A deficiência de nitrogênio reduz, significativamente, tanto o
+crescimento da planta como a produtividade de raízes, e provoca o
+amarelecimento acentuado das folhas. A deficiência de nitrogênio é
+típica de solos de fertilidade inferior, sendo corrigida pela aplicação
+de 40 a 100 kg/ha de N.
+
+67
+
+
+ 500pr_pgnumber068
+135
+
+Qual a importância do potássio para a mandioca?
+
+O  potássio  tem  ação  menos  acentuada  que  o  fósforo  e  o
+nitrogênio na produção de raízes, apesar de figurar em proporções
+muito elevadas na composição da planta. É essencial à translocação
+dos carboidratos produzidos nas folhas, que são acumulados nas
+raízes. Em certas regiões, é considerado elemento primordial.
+
+136
+
+Quais  os  sintomas  da  deficiência  de  potássio  na
+mandioca?
+
+A  deficiência  de  potássio  caracteriza-se  pela  coloração
+bronzeada das folhas, seguida de queima dos bordos. Essa deficiência
+reduz a altura da planta, sem induzir sintomas foliares definidos.
+Recomenda-se  aplicar  níveis  intermediários  de  K2O  (de  60  kg  a
+120 kg/ha), na forma de cloreto ou sulfato de potássio.
+
+137
+
+Qual a importância do fósforo para a mandioca?
+
+O fósforo, de que os solos brasileiros são bastante carentes, é
+um  dos  principais  elementos  na  produção  de  mandioca.  Sua
+presença no solo, em doses equilibradas, atua diretamente sobre o
+aumento da produção de raízes e do teor de amido.
+
+138
+
+Quais os sintomas da deficiência de fósforo na mandioca?
+
+As plantas apresentam folhas de cor verde mais escura, e de
+cor purpúrea mais pronunciada nos pecíolos. A deficiência desse
+elemento também causa nanismo. Uma deficiência severa pode
+produzir amarelecimento e necrose de algumas folhas. A correção
+da deficiência de fósforo deve ser feita com fertilizantes fosfatados
+solúveis ou com rocha fosfatada básica, em solos ácidos.
+
+68
+
+
+ 500pr_pgnumber069
+139
+
+Qual a importância do cálcio para a mandioca?
+
+O cálcio afeta o desenvolvimento da mandioca. Quando em
+excesso, parece exercer certa influência negativa sobre o teor de
+amido e, quando em deficiência, pode provocar atrofia e morte do
+broto terminal. Como o fósforo, o cálcio é deficiente em muitas áreas
+do território nacional.
+
+140
+
+Quais os sintomas da deficiência do
+cálcio na mandioca?
+
+A deficiência do cálcio na mandioca
+provoca queima do ápice dos lobos foliares
+das folhas mais velhas e no limbo das folhas
+jovens.  A  correção  é  feita  pelo  uso  de
+calcário nas dosagens recomendadas pela
+análise química do solo.
+
+141
+
+Quais os procedimentos para a coleta de amostras de solo
+para análise química?
+
+A coleta de amostras de solo é a etapa mais importante na
+realização da análise química do solo. Ela deve ser feita com todo o
+cuidado, a fim de evitar interpretação errada, que causa prejuízos
+muitas vezes irreparáveis aos mandiocultores. A área a ser amostrada
+deve ser uniforme.
+
+As características do solo que auxiliam na determinação dessa
+
+uniformidade, são:
+
+• Cor  do  solo:  solos  com  colorações  diferentes  devem  ser
+
+coletados separadamente.
+
+• Posição da área: as amostras de solo em posições diferentes
+
+na propriedade devem ser coletadas separadas.
+
+69
+
+
+ 500pr_pgnumber070
+• Textura: áreas argilosas devem ser separadas das arenosas.
+Como coletar amostras de solos:
+• Amostra simples: é a porção coletada em diferentes pontos
+do  terreno.  Deve-se  coletar  um  número  de  20  amostras
+simples, para formar uma amostra composta. Para retirá-las,
+deve-se andar em ziguezague no terreno, de forma que a
+amostra seja representativa da área.
+
+• Profundidade da retirada das amostras simples: na área onde
+será implantado o mandiocal, as amostras de solo devem
+ser  coletadas  nas  profundidades  de  0  cm  a  20  cm  e  de
+20 cm a 40 cm.
+
+• Amostra  composta:  é  a  mistura  homogênea  das  várias
+amostras  simples  coletadas.  Dessa  mistura  homogênea,
+devem ser retirados cerca de 500 g, que serão enviados ao
+laboratório.
+
+• A área de coleta de cada amostra composta não deve ser
+
+superior a 10 ha.
+
+142
+
+Quando se deve fazer a amostragem de solo?
+
+Essa operação deve ser feita quando o solo apresentar alguma
+umidade.  Solo  seco  torna  o  trabalho  mais  difícil  e  demorado.
+É também importante que a amostragem seja realizada, no mínimo,
+60 dias antes do plantio, de modo que a aplicação e incorporação
+do corretivo, se for o caso, possa ser feita simultaneamente às práticas
+de preparo do solo.
+
+143
+
+Adubações orgânica e fosfatada proporcionam aumento da
+produtividade?
+
+Tem-se constatado que as adubações orgânica e fosfatada foram
+
+responsáveis pelos aumentos da produtividade da mandioca.
+
+70
+
+
+ 500pr_pgnumber071
+144
+
+As quantidades de adubos orgânicos dependem de quê?
+
+As  quantidades  de  adubos  orgânicos  dependem  do  adubo
+disponível (estercos, tortas, compostos e outros resíduos orgânicos).
+
+Como devem ser aplicados os adubos orgânicos?
+
+145
+
+Os  adubos  orgânicos  devem
+ser aplicados na cova, no sulco ou a
+lanço em toda a área, por ocasião do
+plantio, ou com antecedência de um
+mês, dependendo da fermentação,
+como  acontece  com  a  torta  de
+mamona.
+
+146
+
+Quais  os  tipos  de  adubos  fosfatados  convencionais  mais
+utilizados e disponíveis no mercado?
+
+O superfosfato simples e o superfosfato triplo são os adubos
+fosfatados convencionais mais utilizados e disponíveis no mercado.
+
+147
+
+O que determina as quantidades de adubos a serem aplicadas?
+
+As quantidades de adubo a serem aplicadas dependem dos
+
+resultados da análise química do solo.
+
+148
+
+O nitrogênio e o potássio são recomendados no cultivo da
+mandioca?
+
+Apesar de não serem responsáveis pelos maiores incrementos
+da produção, tanto o nitrogênio como o potássio são recomendados
+no cultivo da mandioca, para evitar o esgotamento das reservas do
+solo pelas elevadas quantidades extraídas pela planta.
+
+71
+
+
+ 500pr_pgnumber072
+149
+
+Qual o efeito do fósforo na presença do nitrogênio e do
+potássio?
+
+O  fósforo  proporciona  maior  aumento  na  produção  de
+
+mandioca na presença do nitrogênio e do potássio.
+
+150
+
+Quais os adubos nitrogenados e potássicos mais utilizados?
+
+Os  adubos  nitrogenados  e  potássicos  convencionais  mais
+
+utilizados e encontrados no mercado são:
+
+• Uréia.
+• Sulfato de amônio.
+• Cloreto de potássio.
+• Sulfato de potássio.
+
+151
+
+O sucesso das respostas à calagem e à adubação depende
+de quê?
+
+O sucesso das respostas à calagem e à adubação depende tanto
+das quantidades adequadas quanto da localização e das épocas de
+aplicação do calcário e dos adubos.
+
+72
+
+
+ 500pr_pgnumber073
+Seleção e Preparo
+do Material de Plantio
+
+7
+
+José Raimundo Ferreira Filho
+Pedro Luiz Pires de Mattos
+
+73
+
+
+ 500pr_pgnumber074
+152
+
+Quais as vantagens da seleção e preparo do material de
+plantio?
+
+Entre  os  fatores  determinantes  do  ótimo  desempenho  da
+mandioca, estão as técnicas relacionadas ao material de plantio, as
+quais, se adequadamente executadas, trarão incrementos à produção
+a custos menos onerosos. Além de reduzir e de evitar a introdução
+de pragas e doenças, a seleção do material de plantio permitirá boa
+brotação, emissão de brotos vigorosos, bem como uniformidade e
+vigor no estabelecimento do cultivo.
+
+153
+
+Que aspectos devem ser observados na seleção do material
+de plantio?
+
+Na seleção do material de plantio devem ser observados os
+
+aspectos agronômicos e fitossanitários.
+
+154
+
+Quais os aspectos agronômicos que devem ser observados
+na seleção do material de plantio?
+
+Na  seleção  do  material  de  plantio  devem  ser  observados
+aspectos agronômicos, como cultivar, estádio de desenvolvimento
+da  planta,  parte  adequada  da  planta,  relação  maniva/medula  e
+viabilidade da maniva.
+
+155
+
+Por que é sempre indicado o plantio de uma só cultivar na
+mesma área?
+
+É sempre indicado o plantio de uma só cultivar na mesma área,
+para evitar o inconveniente da falta de padronização provocado pela
+desigualdade  de  épocas  de  colheita,  que  podem  variar  entre
+cultivares.  Esse  aspecto  só  não  é  observado  em  plantios  mal
+conduzidos.
+
+74
+
+
+ 500pr_pgnumber075
+156
+
+Como  proceder  caso  seja  necessário  usar  mais  de  uma
+variedade?
+
+Na necessidade de se usar mais de uma variedade, o plantio
+
+deve ser feito em quadras separadas.
+
+157
+
+Que critérios devem ser seguidos na escolha das manivas?
+
+Deve-se escolher manivas recém-colhidas de lavouras sadias
+
+e de plantas vigorosas, com 10 a 14 meses do ciclo.
+
+158
+
+Que parte da haste pode ser
+utilizada para plantio?
+
+Deve-se utilizar sempre o terço
+médio  das  hastes,  eliminando-se  a
+parte herbácea superior, que possui
+poucas reservas, e a parte basal, muito
+lenhosa  e  com  gemas  geralmente
+inviáveis.
+
+159
+
+Qual a forma correta de fazer o corte das manivas?
+
+As  manivas  podem  ser  cortadas  com  facão  afiado  ou
+serra circular, de modo que o corte forme um ângulo reto com a
+haste.
+
+160
+
+Quais as principais características das manivas–semente?
+
+As manivas-semente devem ter comprimento de 20 cm, com 5
+
+a 7 gemas e diâmetro aproximado de 2 cm.
+
+75
+
+
+ 500pr_pgnumber076
+161
+
+A quantidade de manivas-semente produzida por hectare
+varia de acordo com o que?
+
+A quantidade de manivas-semente produzida por hectare varia
+com a cultivar, com as condições edafoclimáticas e com o estado
+sanitário do material.
+
+162
+
+Que quantidade de manivas é necessária para plantar 1 ha?
+
+A quantidade de manivas para plantar 1 ha varia de 4 m3 a 6 m³.
+
+163
+
+Qual o peso aproximado de 1 m³ de hastes?
+
+O peso de 1 m³ de hastes varia de 150 kg a 200 kg.
+
+164
+
+Quantas manivas podem ser produzidas com 1 m³ de hastes?
+
+Com  1  m³  de  hastes
+podem-se produzir de 2.500 a
+3.000 manivas de 20 cm.
+
+3.000
+
+manivas-semente
+
+1 m³
+
+165
+
+Quanto tempo a cultura da mandioca leva para produzir
+hastes para plantio?
+
+A planta de mandioca precisa, em média, de 12 meses para
+
+que suas hastes produzam manivas de qualidade para o plantio.
+
+166
+
+Que  aspectos  fitossanitários  o  material  de  plantio  deve
+apresentar?
+
+O material de plantio deve estar livre de pragas e doenças. Isso
+é extremamente importante em culturas propagadas vegetativamente,
+
+76
+
+
+ 500pr_pgnumber077
+como a mandioca, porque são mais propensas a manter, aumentar e
+disseminar patógenos e pragas pelas hastes.
+
+167
+
+Quais as vantagens de se ter conhecimento desses aspectos
+fitossanitários?
+
+É importante conhecer o mandiocal que se pretende utilizar
+como  sementeira,  pois  suas  hastes  podem  conter  ovos,  larvas  e
+patógenos.
+
+168
+
+Existe  outra  maneira  de  se  conseguir  material  para
+propagação da mandioca?
+
+Existe, sim, pela micropropagação.
+
+169
+
+O que é micropropagação?
+
+Micropropagação é uma técnica de propagação de mudas em
+laboratório, que possibilita a obtenção de grande número de plantas,
+em espaço físico reduzido e em curto período de tempo.
+
+170
+
+Por que utilizar a micropropagação?
+
+Porque a propagação convencional apresenta baixa taxa de
+multiplicação, com risco de disseminação de patógenos. A técnica
+da micropropagação foi desenvolvida para produzir mudas sadias e
+em número mais elevado que os métodos convencionais.
+
+171
+
+Como funciona a técnica da micropropação?
+
+É o cultivo de um pequeno segmento da planta em substrato
+artificial e em condições de luminosidade, temperatura e fotoperíodo
+totalmente controlados.
+
+77
+
+
+ 500pr_pgnumber078
+172
+
+Quais as vantagens de se utilizar a técnica da micropropagação?
+
+Além de elevar em muito a taxa de multiplicação do material
+de plantio, as mudas obtidas por esse processo são sadias e livres de
+pragas e enfermidades, evitando assim sua disseminação para novos
+plantios.
+
+78
+
+
+ 500pr_pgnumber079
+Poda e Conservação
+de Manivas
+
+8
+
+Pedro Luiz Pires de Mattos
+José Raimundo Ferreira Filho
+
+79
+
+
+ 500pr_pgnumber080
+173
+
+Em que consiste a poda da parte aérea da mandioca?
+
+A poda da parte aérea da mandioca consiste na retirada total
+ou parcial da haste (parte aérea) para novos plantios, para arraçoamento
+animal ou para armazenamento, em regiões que estão sujeitas a
+baixas temperaturas.
+
+174
+
+A poda é recomendada para a cultura da mandioca?
+
+Nem  sempre  a  poda  é  recomendada  para  a  cultura  da
+mandioca. É uma prática que tem apresentado mais efeitos negativos
+do que positivos.
+
+175
+
+Quais as conseqüências da poda na cultura da mandioca?
+
+A prática da poda pode provocar redução na produção de
+raízes e no teor de amido, facilitar a disseminação de pragas e doenças,
+aumentar a infestação de plantas daninhas na área e o teor de fibras
+nas raízes.
+
+176
+
+Quando é justificável a poda na cultura da mandioca?
+
+A poda justifica-se nas seguintes circunstâncias:
+• Quando se necessita de material para estabelecimento de
+
+novos plantios.
+
+• Como medida profilática no caso de alta infestação de pragas
+
+ou doenças.
+
+• Na utilização das ramas para alimentação animal.
+• Como medida de proteção em áreas sujeitas a geadas.
+
+177
+
+Qual o momento adequado para fazer a poda da mandioca?
+
+A poda deve ser feita no início do período chuvoso.
+
+80
+
+
+ 500pr_pgnumber081
+178
+
+A que altura da superfície
+do  solo  deve  ser  feita  a
+poda?
+
+A poda deve ser feita a uma
+altura de 10 cm a 20 cm da super-
+fície do solo.
+
+20 cm
+
+179
+
+Em que estádio de desenvolvimento da planta a poda deve
+ser utilizada?
+
+A poda deve ser praticada em plantas com 10 a 12 meses.
+
+180
+
+Quanto tempo depois da poda pode-se fazer a colheita da
+mandioca?
+
+A colheita pode ser feita depois de 4 a 6 meses de nova vegetação.
+
+181
+
+O que se deve fazer com as manivas não utilizadas?
+
+As manivas não utilizadas devem ser armazenadas por algum
+
+tempo para não perderem a viabilidade.
+
+182
+
+Por quanto tempo as manivas podem ser conservadas?
+
+O  período  de  conservação  das  manivas  deve  ser  o  menor
+
+possível, por volta de 60 dias, no máximo.
+
+183
+
+Quais as principais recomendações para a conservação de
+manivas?
+
+Para a conservação de manivas, deve-se usar, de preferência,
+manivas com 80 cm a 1,20 m de comprimento, dispostas na posição
+
+81
+
+
+ 500pr_pgnumber082
+horizontal ou vertical. Na posição horizontal, as manivas devem
+conservar a cepa ou maniva-mãe. Na posição vertical, as ramas
+devem ser enterradas cerca de 10 cm em solo úmido, o qual deve
+permanecer úmido durante o período de armazenamento.
+
+184
+
+Qual a forma correta de conservação das manivas?
+
+Não existe um método eficiente de conservação das manivas.
+Qualquer que seja o processo, as perdas de material são variáveis de
+acordo com diversos fatores, como:
+
+• Condições ambientais.
+• Pragas e doenças.
+• Qualidade das hastes.
+• Principalmente, tempo de armazenamento.
+Admite-se como normal um descarte de 20% a 30%.
+
+185
+
+Por que, em regiões sujeitas a geadas, as hastes de mandioca
+têm que ser obrigatoriamente armazenadas?
+
+Em regiões sujeitas a geadas, as hastes de mandioca têm que
+ser obrigatoriamente armazenadas para serem protegidas contra as
+baixas temperaturas, que danificam a parte aérea da planta.
+
+186
+
+Como  são  armazenadas  as  hastes  de  mandioca  pelos
+produtores da Região Sul?
+
+Os produtores de mandioca da Região Sul armazenam as hastes
+
+de mandioca em túneis semelhantes aos silos trincheiras.
+
+187
+
+Quais  os  métodos  de  armazenamento  mais  comumente
+utilizados?
+
+Os métodos mais comuns de armazenamento de manivas são:
+• Embaixo de árvores.
+• A céu aberto.
+
+82
+
+
+ 500pr_pgnumber083
+• Ao abrigo de bosques.
+• Em leiras.
+• Em túnel.
+
+188
+
+Qual  a  forma  correta  de  conservação  de  hastes  em  silo
+trincheira?
+
+A forma correta consiste em fazer um buraco no solo ou abrir
+uma cavidade em um barranco. Depois de certificar-se de que não
+há excesso de umidade no interior, cobre-se o fundo do buraco com
+palha seca, sobre a qual se acomodam os feixes de hastes na posição
+vertical com as gemas voltadas para cima. Em seguida, cobre-se com
+palha, coloca-se uma camada de terra por cima e, finalmente, abrem-
+se valas ao redor do túnel para escoamento da água de chuvas.
+
+189
+
+Qual a forma correta de conservação de hastes de mandioca
+em leiras?
+
+Para conservar hastes de mandioca em leiras, seleciona-se um
+terreno em declive, de onde se eliminam plantas daninhas e restos
+de culturas. As hastes devem ser colocadas em posição horizontal,
+formando leiras no sentido do declive em camadas de 30 cm a
+40 cm de altura, cobertas com palha seca e terra. Ao redor das leiras
+devem ser feitas valas para escoamento de água de chuvas.
+
+190
+
+Que  medidas  devem  ser  adotadas  para  garantir  novos
+plantios de mandioca em regiões onde não ocorrem geadas?
+
+Em regiões onde não ocorrem geadas, o produtor pode reservar
+aproximadamente 20% do mandiocal como campo de multiplicação
+para a implantação de novos plantios.
+
+83
+
+
+ 500pr_pgnumber084
+
+ 500pr_pgnumber085
+9 Época de Plantio
+
+Alfredo Augusto Cunha Alves
+
+
+ 500pr_pgnumber086
+191
+
+Por  que  a  escolha  adequada  da  época  de  plantio  é
+importante?
+
+A escolha da época de plantio é importante porque minimiza a
+influência negativa de vários fatores relacionados com o desenvolvimento
+e produtividade do mandiocal.
+
+192
+
+Quais os fatores mais importantes relacionados à época de
+plantio?
+
+O fator mais importante é a presença de umidade no solo,
+necessária  para  a  brotação  das  manivas  e  para  o  enraizamento.
+A deficiência de água durante os primeiros meses após o plantio pode
+causar sérias perdas à brotação e à produção. A época adequada de
+plantio também ajuda a diminuir a incidência de pragas e doenças e
+a competição de plantas daninhas, de modo que, quando ocorrem
+esses fatores, as plantas estão mais vigorosas e resistentes.
+
+193
+
+Como definir a melhor época de plantio da mandioca?
+
+A época de plantio é determinada pelas condições climáticas
+do  local  (principalmente  disponibilidade  de  água  no  solo  e
+temperatura), pelas características da variedade (ciclo e fases da
+cultura) e pelo destino da produção. Com respeito ao clima, deve-se
+também  levar  em  consideração  a  freqüência  de  veranicos,  o
+excesso de chuvas nas diferentes fases da cultura e as características
+do solo.
+
+194
+
+Quais os problemas relacionados ao excesso de chuvas e às
+características do solo?
+
+O  excesso  de  umidade  e  a  deficiência  de  drenagem,
+especialmente em solos de textura argilosa, são fatores responsáveis
+
+86
+
+
+ 500pr_pgnumber087
+pelas baixas populações de plantas, pela desuniformidade na lavoura,
+pelas podridões e pelo baixo rendimento de raízes.
+
+195
+
+O que fazer para evitar os problemas relacionados com o
+excesso de umidade em solos cultivados com mandioca?
+
+Em  solos  pesados  (argilosos),  de  drenagem  deficiente,  o
+plantio  deve  ser  feito  depois  do  início  das  chuvas,  a  fim  de
+reduzir a ocorrência dos patógenos responsáveis pela podridão das
+raízes.
+
+196
+
+Por que se aconselha plantar e colher no mesmo período do
+ano?
+
+Essa orientação tem o objetivo de garantir a disponibilidade de
+manivas de boa qualidade para o plantio, pois as manivas-semente
+de mandioca perdem a qualidade quando armazenadas por muito
+tempo.  Havendo  coincidência  entre  a  época  de  plantio  e  a  de
+colheita, é possível dispor de ramas recém-colhidas para instalação
+de novo plantio e evitar os inconvenientes do armazenamento de
+hastes.
+
+197
+
+Como o destino da produção pode influenciar na época de
+plantio?
+
+Em  cultivos  destinados  ao  abastecimento  de  indústrias  (de
+fécula ou farinha), por exemplo, é necessário fazer um escalonamento
+para  adequar  as  épocas  de  plantio  e  de  colheita  aos  ciclos  das
+variedades (precoce ou tardia), a fim de garantir o fornecimento
+contínuo  de  matéria-prima  para  o  processo  industrial.  Esse
+planejamento é também empregado por pequenos agricultores de
+subsistência,  que  plantam  diferentes  variedades  para  dispor  de
+mandioca em qualquer época do ano.
+
+87
+
+
+ 500pr_pgnumber088
+198
+
+Qual a melhor época de plantio?
+
+De modo geral, o plantio deve ser feito
+no  início  da  estação  chuvosa,  quando  a
+umidade  e  o  calor  tornam-se  elementos
+essenciais para a brotação, enraizamento e
+estabelecimento das plantas no campo. Em
+decorrência da grande extensão territorial do
+Brasil e das diferenças regionais de clima e
+solo,  o  plantio  da  mandioca  ocorre  em
+diferentes épocas.
+
+199
+
+Quais as épocas de plantio recomendadas para as diferentes
+regiões ou Estados do Brasil?
+
+Diversos experimentos foram realizados, em diversas regiões
+do País, com o objetivo de estudar a influência da época de plantio
+no desenvolvimento e na produtividade da mandioca. Na Tabela 1
+são apresentadas as épocas de plantio mais adequadas para alguns
+estados e regiões do Brasil.
+
+88
+
+
+ 500pr_pgnumber089
+Tabela  1.  Épocas  de  plantio  de  mandioca  recomendadas  para
+determinados estados e regiões do Brasil.
+
+Estado/região
+
+Alagoas
+Amapá
+Amazonas
+Amazonas  (Várzea)
+Bahia  (Barreiras  e  Semi-Árido)
+Bahia  (Recôncavo)
+Ceará
+Espírito  Santo
+Goiás
+Maranhão
+Mato  Grosso
+Mato  Grosso  do  Sul
+Minas  Gerais  (Cerrado)
+Minas  Gerais  (Zona  da  Mata)
+Nordeste  (Tabuleiros  Costeiros)
+
+Pará
+
+Paraíba
+Paraná
+Pernambuco
+Piauí
+Rio  de  Janeiro
+Rio  Grande  do  Norte
+Rio  Grande  do  Sul
+Santa  Catarina  (Alto  Vale  do  Itajaí)
+Santa  Catarina  (Médio  e  Baixo  Vale  e  Litoral)
+São  Paulo
+Sergipe
+
+Época  de  plantio
+
+De  maio  a  junho
+De  dezembro  a  fevereiro
+O ano todo
+De  agosto  a  setembro
+De  outubro  a  dezembro
+De  abril  a  julho
+De  janeiro  a  março
+De  outubro  a  março
+De  outubro  a  março
+De  dezembro  a  janeiro
+De  outubro  a  fevereiro
+De  abril  a  outubro
+De  outubro  a  dezembro
+De  junho  a  setembro
+De  abril  a  agosto
+De  dezembro  a  janeiro  (plantio  de  inverno)
+De  maio  a  junho  (plantio  de  verão)
+De  março  a  abril
+De  junho  a  setembro
+De  maio  a  junho
+De  janeiro  a  fevereiro
+De  março  a  julho
+De  fevereiro  a  março
+De  setembro  a  novembro
+De  agosto  a  novembro
+De  julho  a  outubro
+De  maio  a  agosto
+De  abril  a  julho
+
+89
+
+
+ 500pr_pgnumber090
+
+ 500pr_pgnumber091
+Espaçamento
+e Plantio
+
+10
+
+Pedro Luiz Pires de Mattos
+José Raimundo Ferreira Filho
+
+
+ 500pr_pgnumber092
+200
+
+O que é espaçamento?
+
+Espaçamento é a distância entre as fileiras de plantas e entre as
+
+plantas dentro da fileira.
+
+201
+
+No cultivo da mandioca, o espaçamento depende de quê?
+
+No cultivo da mandioca, o espaçamento depende da fertilidade
+do solo, do porte da variedade (hábito de crescimento), dos objetivos
+da exploração, dos tratos culturais e do tipo de colheita.
+
+202
+
+Qual o espaçamento recomendado para plantios em fileiras
+simples?
+
+Vários tipos de espaçamento já foram experimentados para a
+mandioca. Nos cultivos em fileiras simples, os melhores rendimentos
+de raízes foram obtidos com os espaçamentos de 1 m x 50 cm e de
+1 m x 60 cm.
+
+203
+
+Qual  o  melhor  espaçamento  para  plantios  em  fileiras
+duplas?
+
+O melhor espaçamento para plantios em fileiras duplas é de
+
+2 m x 60 cm x 60 cm.
+
+204
+
+Qual  o  espaçamento  recomendado  quando  se  deseja
+produzir ramas para ração animal?
+
+Quando se pretende produzir ramas para arraçoamento de
+animais,  recomenda-se plantios adensados (altas populações) de
+50 cm entre fileiras com manivas-semente de 50 cm de comprimento,
+colocadas nos sulcos de forma contínua.
+
+92
+
+
+ 500pr_pgnumber093
+205
+
+Qual  a  melhor  distância  entre  linhas  para  a  colheita
+mecanizada?
+
+Para a colheita mecanizada, a melhor distância entre linhas
+de  plantio  é  de  1,20  m,  para  facilitar  a  movimentação  do
+equipamento.
+
+206
+
+Quais as vantagens de seguir os espaçamentos recomendados?
+
+A  adoção  dos  espaçamentos  recomendados  facilita  a
+realização  das  tarefas  subseqüentes,  assegurando  maior
+produtividade.
+
+207
+
+Qual o melhor espaçamento para plantios capinados com
+equipamento motomecanizado?
+
+Para  o  controle  mecanizado  do  mato,  deve-se  adotar
+espaçamento que permita a movimentação do equipamento entre
+as linhas e entre as plantas, sem danificá-las.
+
+208
+
+Qual a melhor distância entre as fileiras duplas para capinas
+com enxada rotativa acoplada a microtrator?
+
+A melhor distância entre as fileiras duplas para capinas com
+
+enxada rotativa acoplada a microtrator é de 2 m.
+
+209
+
+Em grandes plantios com emprego de grades maiores, qual
+a melhor distância entre as fileiras duplas?
+
+Em grandes cultivos, onde é necessário o emprego de grades
+
+maiores, as fileiras duplas podem estar distanciadas em até 3 m.
+
+93
+
+
+ 500pr_pgnumber094
+210
+
+Qual o espaçamento para plantios cujas capinas serão feitas
+com enxada?
+
+Em pequenos cultivos de mandioca, deve-se usar espaçamentos
+mais estreitos para que a cultura cubra mais rapidamente o solo e
+dificulte o desenvolvimento de plantas daninhas.
+
+211
+
+Quais as vantagens do plantio em fileiras duplas?
+
+O plantio em fileiras duplas apresenta as seguintes vantagens:
+• Facilita a mecanização.
+• Facilita a consorciação.
+• Aumenta a produtividade.
+• Reduz o consumo de manivas e adubos.
+• Permite a rotação de culturas na mesma área, pela alternância
+
+das fileiras.
+
+• Facilita a inspeção fitossanitária e a aplicação de defensivos.
+
+212
+
+Como devem ser preparadas as covas?
+
+As covas devem ser preparadas com enxada. Os buracos podem
+ser  feitos  no  solo  arado  e  gradeado,  ou  não,  normalmente  sem
+espaçamento definido.
+
+213
+
+Como podem ser construídos os sulcos para plantio?
+
+Os  sulcos  para  plantio
+podem  ser  construídos  com
+sulcador a tração animal, com
+sulcador  motomecanizado  e
+com enxada.
+
+1 m
+
+94
+
+
+ 500pr_pgnumber095
+214
+
+Qual a profundidade dos sulcos?
+
+Os sulcos devem ter uma profundidade aproximada de 10 cm.
+
+215
+
+Qual a profundidade adequada das covas?
+
+As  covas  devem  ter  uma  profundidade  média  de  10  cm.
+Quando a umidade no solo for pouca, as covas devem ter uma
+profundidade um pouco maior, em torno de 15 cm.
+
+216
+
+A utilização de plantadeira mecânica dispensa os sulcos?
+
+Quando  o  plantio  da  mandioca  é  mecanizado  não  há
+necessidade da abertura de sulcos, pois a própria plantadeira realiza
+essa tarefa.
+
+217
+
+Quais as recomendações para plantio em solos argilosos e
+com precipitação pluvial superior a 1.200 mm?
+
+Em  solos  argilosos  e  com  precipitação  pluvial  superior  a
+1.200 mm recomenda-se plantar em cova alta, ou matumbo, e em
+camalhões ou leirões.
+
+218
+
+Como são as covas altas?
+
+As covas altas, ou matumbos, são pequenas elevações de terra,
+
+de forma cônica, construídas com enxada.
+
+219
+
+O que são os camalhões?
+
+Os camalhões ou leirões são elevações de terra contínuas.
+
+95
+
+
+ 500pr_pgnumber096
+220
+
+Como podem ser construídos os camalhões?
+
+Os camalhões podem ser construídos com enxada ou com
+
+arado.
+
+221
+
+Em solos arenosos, os camalhões mantêm sua forma?
+
+Em  solos  arenosos,  os  camalhões  não  mantêm  sua  forma,
+desfazem-se com muita facilidade, principalmente pela ação da água
+das chuvas.
+
+222
+
+Como podem ser plantadas as manivas-semente?
+
+As manivas-semente podem ser plantadas em três diferentes
+
+posições: vertical, inclinada ou horizontal.
+
+223
+
+Qual a posição de plantio mais adotada?
+
+A posição de plantio mais adotada é a horizontal, porque facilita
+
+a colheita.
+
+224
+
+ Qual a vantagem da posição horizontal das manivas?
+
+A vantagem da posição horizontal das manivas é favorecer o
+
+desenvolvimento superficial das raízes, facilitando a colheita.
+
+225
+
+Como é feito o plantio horizontal?
+
+No  plantio  horizontal  as  manivas  são  simplesmente
+colocadas em posição horizontal (deitadas), nas covas ou ao longo
+dos sulcos.
+
+96
+
+
+ 500pr_pgnumber097
+226
+
+Como as manivas são colocadas com plantadeira mecânica?
+
+Quando se utiliza plantadeira mecânica, as manivas também
+
+são colocadas na horizontal.
+
+227
+
+No  plantio  em  posição  inclinada,  como  as  manivas  são
+colocadas?
+
+No plantio em posição inclinada, as manivas são colocadas
+formando um ângulo de aproximadamente 45 graus com a superfície
+do solo.
+
+228
+
+Qual a vantagem dos plantios com manivas inclinadas?
+
+Os  plantios  com  manivas  inclinadas  possibilitam  maiores
+
+rendimentos de raízes.
+
+229
+
+Quais as vantagens do plantio na vertical?
+
+O plantio de manivas na posição vertical, além de proporcionar
+maior rendimento de raízes, possibilita a cobertura do solo mais
+rapidamente, diminuindo o número de capinas durante o ciclo da
+cultura.
+
+230
+
+Por que o plantio com manivas inclinadas e na vertical é
+pouco utilizado?
+
+O  plantio  com  manivas  inclinadas  e  na  vertical  é  menos
+utilizado  porque  as  raízes  aprofundam-se  mais  e  dificultam  a
+colheita.
+
+97
+
+
+ 500pr_pgnumber098
+
+ 500pr_pgnumber099
+11 Consorciação
+
+Pedro Luiz Pires de Mattos
+
+
+ 500pr_pgnumber100
+231 O que é consorciação de culturas?
+
+É o cultivo de duas ou mais espécies na mesma área por um
+
+período significativo de tempo.
+
+232
+
+Onde é mais difundido o sistema de cultivos consorciados?
+
+O sistema de cultivos consorciados é largamente difundido nas
+
+regiões tropicais, entre pequenos produtores.
+
+233
+
+Qual o objetivo do sistema de cultivos consorciados?
+
+O  objetivo  dos  cultivos  consorciados  é  o  melhor
+aproveitamento dos recursos disponíveis, com maior rendimento
+médio das culturas envolvidas.
+
+234
+
+Quais as principais espécies utilizadas em consórcios?
+
+A mandioca é uma das espécies mais utilizadas em consórcios.
+Dependendo da região, a mandioca é plantada em associação com
+culturas anuais e/ou perenes.
+
+235
+
+Entre os consórcios utilizados com mandioca, quais os mais
+indicados?
+
+Entre  os  consórcios  utilizados  com  mandioca,  os  mais
+freqüentes  são  os  consórcios  de  mandioca  com  feijões  ou  com
+milho.
+
+100
+
+
+ 500pr_pgnumber101
+236
+
+Quais as principais vantagens do consórcio em relação ao
+monocultivo?
+
+As  principais  vantagens  do
+
+consórcio são:
+
+• Maior estabilidade da produção.
+• Melhor  utilização  da  terra,  da
+
+água e de nutrientes.
+
+• Melhor  utilização  da  força  de
+
+trabalho.
+
+• Maior eficiência no controle de
+
+plantas daninhas.
+
+• Disponibilidade de mais de uma
+
+fonte alimentar.
+
+237
+
+Para que é feita a consorciação com culturas de ciclo anual?
+
+A consorciação com culturas anuais é feita, em sua maioria,
+com o objetivo de se conseguir alimentos energéticos e protéicos na
+mesma área.
+
+238
+
+Quais  os  consórcios  mais  utilizados  pelos  agricultores
+nordestinos?
+
+Os consórcios mais utilizados pelos agricultores nordestinos
+são os consórcios entre mandioca e feijão, mandioca e milho e, às
+vezes, mandioca com feijão e milho.
+
+239
+
+Quais  os  tipos  de  feijão  predominantes  nesse  tipo  de
+consórcio?
+
+Entre os tipos de feijão utilizados predominam as espécies
+
+Phaseolus e Vigna.
+
+101
+
+
+ 500pr_pgnumber102
+240
+
+Como é plantado o feijão em relação às fileiras de mandioca?
+
+O feijão é plantado intercalado entre as fileiras de mandioca.
+
+241
+
+Quais  os  espaçamentos  da  mandioca  no  consórcio  com
+feijão?
+
+Os espaçamentos da mandioca variam de 1 m a 2 m entre
+
+fileiras e de 50 cm a 1 m entre plantas dentro da fileira.
+
+242
+
+ A variação de espaçamento da mandioca depende de quê?
+
+O espaçamento da mandioca varia de acordo com o número
+
+de fileiras de feijão intercaladas e da espécie.
+
+243
+
+O  espaçamento  do  feijão  Vigna  e  do  feijão  Phaseolus
+depende de quê?
+
+O espaçamento desses tipos de feijão varia de acordo com o
+espaçamento da mandioca e com o número de fileiras de feijão
+colocadas entre as plantas de mandioca.
+
+244
+
+Quantas fileiras de feijão são colocadas entre as fileiras de
+mandioca?
+
+Em geral, o número de
+fileiras  de  feijão  entre  as
+fileiras de mandioca é de uma
+ou duas, no espaçamento de
+50 cm.
+
+102
+
+
+ 500pr_pgnumber103
+245
+
+Quantas sementes de feijão são colocadas por metro linear
+de sulco?
+
+São colocadas 15 sementes de feijão por metro linear de sulco.
+
+246
+
+Quantas sementes de feijão devem ser colocadas por cova?
+
+Nas covas distribuídas no espaçamento de 50 cm x 20 cm são
+
+colocadas duas sementes de feijão.
+
+247
+
+As culturas consorciadas devem ser plantadas na mesma
+época?
+
+Geralmente, as culturas consorciadas são plantadas simulta-
+
+neamente.
+
+248
+
+O feijão pode ser plantado antes da mandioca?
+
+Existem casos em que o feijão é plantado antes da mandioca,
+
+com intervalo de tempo variando de 15 a 60 dias.
+
+249
+
+O consórcio da mandioca com milho é uma prática viável?
+
+O  consórcio  da  mandioca  com  milho  é  também  bastante
+difundido no Brasil, apesar de ser mais comum o consórcio de milho
+com feijão.
+
+250
+
+Qual a forma correta de plantio do milho consorciado com
+a mandioca?
+
+O plantio do milho é feito entre as linhas de mandioca quase
+sempre no esquema de uma fileira de milho entre duas de mandioca.
+
+103
+
+
+ 500pr_pgnumber104
+251
+
+Qual  o  espaçamento  normal  do  milho  consorciado  com
+mandioca?
+
+O espaçamento entre as fileiras de milho consorciado com
+
+mandioca normalmente fica em torno de 1 m.
+
+252
+
+Qual o espaçamento entre as plantas de milho consorciado
+com a mandioca?
+
+O espaçamento na linha de milho varia de 20 cm a 40 cm.
+
+253
+
+É viável o plantio consorciado de mandioca, milho e feijão?
+
+A utilização simultânea de três espécies em sistema de cultivo
+consorciado é amplamente difundida no Brasil, apesar de não ser
+recomendada pela pesquisa.
+
+254
+
+No consórcio triplo, qual o espaçamento entre as fileiras de
+mandioca?
+
+No consórcio triplo, geralmente o espaçamento entre as fileiras
+
+de mandioca varia de 1 m x 50 cm até 2 m x 1 m.
+
+255
+
+Qual a maneira correta de se fazer o plantio triplo?
+
+No plantio triplo, plantam-se uma ou duas fileiras de milho entre
+duas de mandioca, alternando as fileiras de feijão com as de milho.
+
+256
+
+Para  garantir  a  germinação,  quantas  sementes  de  milho
+devem ser usadas por cova?
+
+Devem ser usadas três sementes de milho por cova, fazendo-
+
+se o desbaste após a germinação.
+
+104
+
+
+ 500pr_pgnumber105
+257
+
+Quantas sementes de feijão devem ser usadas por cova?
+
+Devem ser usadas três sementes de feijão por cova para garantir
+boa  germinação.  É  importante  eliminar  uma  planta  após  a
+germinação.
+
+258
+
+Quais os principais consórcios, com culturas perenes, utilizados
+atualmente?
+
+Os  principais  consórcios,  com  culturas  perenes,  utilizados
+atualmente são os consórcios de mandioca e laranja, mandioca e
+coco e mandioca e mamão.
+
+259
+
+Quais as vantagens desse tipo de consórcio?
+
+Os  consórcios  com  culturas  perenes  têm  a  finalidade  de
+minimizar o custo de produção durante o estabelecimento da cultura
+perene.
+
+260
+
+Quais os principais problemas na fase inicial de estabelecimento
+das culturas perenes?
+
+Na fase de estabelecimento, as plantas perenes não dão retorno
+econômico e, no estádio inicial de crescimento, têm baixa eficiência
+no aproveitamento da energia solar, água, nutrientes e espaço.
+
+261
+
+Quais os problemas do consórcio feito de maneira desor-
+denada?
+
+A consorciação feita de forma desordenada provoca grande
+redução na produtividade das culturas, em decorrência de fatores
+fisiológicos e agronômicos.
+
+105
+
+
+ 500pr_pgnumber106
+262
+
+O que pode ser feito para contornar esses problemas?
+
+Para contornar os problemas advindos da desorganização nos
+consórcios,  desenvolveu-se  o  sistema  de  cultivo  da  mandioca
+plantada em fileiras duplas.
+
+263
+
+Qual a importância do sistema de plantio em fileiras duplas
+para o consórcio?
+
+O plantio da mandioca em fileiras duplas tem a vantagem de
+racionalizar o consórcio pelo uso dos espaços livres que existem
+entre cada dupla. Nesse espaço é possível fazer-se dois plantios de
+culturas de ciclo curto durante o ciclo da mandioca.
+
+264
+
+Qual a forma correta do plantio em fileiras duplas?
+
+A forma correta do plantio em fileiras duplas é aproximar as
+fileiras de mandioca, reduzindo para 60 cm a distância entre elas.
+O espaçamento das plantas dentro da linha também deve ser de
+60 cm. O espaçamento entre as linhas duplas deve ser de 2 m.
+
+265
+
+No espaço livre entre as fileiras duplas pode-se cultivar outras
+culturas sem risco de redução da produtividade?
+
+O espaço livre entre as fileiras duplas pode ser usado para o
+cultivo de outras espécies, sem risco de redução da produtividade
+das culturas consortes.
+
+266
+
+Quantos plantios da cultura de ciclo curto podem ser feitos
+durante um ciclo da mandioca?
+
+Quando a variedade de mandioca é de ciclo médio (18 meses),
+podem-se fazer até dois plantios da cultura intercalar de ciclo curto.
+
+106
+
+
+ 500pr_pgnumber107
+267
+
+Como conseguir até dois plantios da cultura de ciclo curto?
+
+Plantando-se a mandioca e a cultura consorte simultaneamente.
+Colhe-se a cultura de ciclo curto, no caso o feijão, e deixa-se a
+mandioca vegetando. No início das chuvas do ano seguinte, planta-
+se o feijão novamente.
+
+268
+
+O plantio consorciado pode ser feito em sistema de fileiras
+simples da mandioca?
+
+Pode, porém haverá redução de produtividade das culturas.
+
+269
+
+Como é feito o plantio no sistema de fileiras simples?
+
+O plantio é feito intercalando uma ou mais culturas entre as
+
+fileiras de mandioca.
+
+270
+
+Qual o inconveniente do consórcio no sistema de fileiras simples?
+
+O consórcio no sistema de fileiras simples tem o inconveniente
+das concorrências intra e interespecífica e a impossibilidade de se
+fazer mais de um cultivo intercalar durante o ciclo da mandioca.
+
+271
+
+Por que o segundo plantio do milho não é recomendado no
+consórcio de mandioca com milho?
+
+O  segundo  plantio  do  milho  não  é  recomendado  porque
+
+prejudica muito a produtividade da mandioca.
+
+272
+
+Em plantio tradicional de mandioca, as fileiras devem ficar a
+que distância uma da outra?
+
+As fileiras devem ficar espaçadas de 80 cm a 1 m.
+
+107
+
+
+ 500pr_pgnumber108
+273
+
+As plantas de mandioca dentro da linha devem ficar a que
+distância?
+
+Nos plantios em fileiras simples, as plantas dentro da linha
+
+devem ficar espaçadas de 50 cm a 1 m.
+
+274
+
+Quantas fileiras de milho devem ser colocadas entre as fileiras
+duplas de mandioca?
+
+Costuma-se plantar apenas uma fileira de milho entre as fileiras
+duplas de mandioca, mas quando se planta mais de uma fileira, o
+espaçamento entre elas deve ser de 1 m e de 20 cm a 40 cm entre as
+plantas, na fileira.
+
+108
+
+
+ 500pr_pgnumber109
+12 Plantas Daninhas
+
+José Eduardo Borges de Carvalho
+
+109
+
+
+ 500pr_pgnumber110
+275
+
+Quais os métodos de controle de plantas daninhas em cultivos
+de mandioca?
+
+São quatro os métodos de controle de plantas daninhas em
+
+cultivos de mandioca:
+
+• Controle cultural.
+• Controle mecânico.
+• Controle químico.
+• Controle integrado.
+
+Controle  cultural  –  Consiste  em  utilizar  as  características
+ecológicas das culturas e das plantas daninhas, no intuito de criar
+condições favoráveis para o rápido estabelecimento da mandioca,
+proporcionando-lhe  vantagem  no  balanço  competitivo  com  as
+invasoras na disputa por água e nutrientes. O sucesso dessa estratégia
+depende principalmente do preparo adequado do solo, da qualidade
+das manivas, da escolha da variedade adaptada ao ecossistema, da
+densidade de plantio, da rotação de culturas e do uso de cobertura
+verde.
+
+A  rotação  de  culturas  é  um  meio  cultural  que  impede  o
+surgimento  de  altas  populações  de  certas  espécies  de  plantas
+daninhas adaptáveis a determinada cultura. Quando são aplicadas as
+mesmas práticas culturais seguidamente, ano após ano, no mesmo
+solo, a associação plantas daninhas-culturas tende a multiplicar-se,
+rapidamente, aumentando sua interferência sobre a cultura.
+
+As  coberturas  verdes,  como  o  feijão-de-porco  (Canavalia
+ensiformis),  são  culturas  geralmente  muito  competitivas  com  as
+plantas daninhas. O objetivo principal do uso dessas coberturas é a
+melhoria das propriedades físicas e químicas do solo. Além disso,
+muitas  dessas  plantas  possuem  grande  poder  inibitório  sobre
+determinadas invasoras, mesmo após o corte e formação de cobertura
+morta sobre o solo.
+
+110
+
+
+ 500pr_pgnumber111
+Controle  mecânico  –  É  realizado  por  meio  de  práticas  de
+eliminação do mato, como o arranquio manual, a capina manual, a
+roçada e o cultivo mecanizado feito por cultivadores tracionados
+por animais ou por trator.
+
+Atualmente, o custo de duas limpas com enxada para manter a
+cultura livre de competição por aproximadamente 100 dias (período
+crítico  de  interferência)  gira  em  torno  de  19%  do  custo  total,
+reduzindo consideravelmente a renda líquida do produtor.
+
+Controle  químico  –  A  maioria  dos  herbicidas  utilizados
+no  cultivo  da  mandioca  são  de  pré-emergência  total  (antes  da
+germinação do mato e da brotação da cultura) e aplicados logo
+após  o  plantio  ou,  no  máximo,  cinco  dias  depois.  A  escolha
+do  herbicida  depende  das  espécies  de  plantas  daninhas
+presentes e do custo do produto. Atualmente, uma aplicação da
+mistura de tanque do diuron + alachlor representa 8,5% do custo
+total  de  produção  e  substitui  aproximadamente  duas  limpas
+com  enxada.  Essa  mistura  é  de  grande  eficácia  no  controle  de
+mono  e  dicotiledôneas  em  várias  regiões  do  Brasil  e  de  outros
+países.
+
+A mandioca é uma planta que apresenta boa resistência a vários
+herbicidas, quando aplicados antes de sua brotação e nas doses
+recomendadas.
+
+Controle  integrado  –  Consiste  na  integração  dos
+métodos químico, mecânico, biológico e cultural, com o objetivo
+de eliminar as deficiências de cada um deles e, assim, obter um
+resultado mais eficiente, redução de custos e menor impacto sobre o
+meio ambiente.
+
+O uso de herbicidas nas linhas de plantio, combinado com o
+de  cultivador  a  tração  animal  ou  tratorizado  nas  entrelinhas  da
+mandioca,  tem  proporcionado  o  mais  baixo  percentual  de
+participação no custo total de produção em comparação com outros
+métodos mecânicos de controle.
+
+111
+
+
+ 500pr_pgnumber112
+276
+
+Qual o período crítico de interferência das plantas daninhas
+no cultivo da mandioca?
+
+Em  condições  normais
+de  umidade  e  temperatura,  a
+mandioca é sensível à competição
+das plantas daninhas nos primeiros
+4 a 5 meses de seu ciclo, exigindo
+nessa fase um período aproximado
+de 100 dias livres da interferência
+do mato, a partir de 20 a 30 dias
+após sua brotação, para se obter
+boa produção, dispensando daí em
+diante as limpas até a colheita. Isso
+significa que a primeira limpa deve
+ser feita entre 30 e 40 dias após o plantio, e limpas subseqüentes
+(quando necessárias) até o quinto mês do ciclo da cultura. Essa
+prática  permite  a  racionalização  dos  recursos  disponíveis  e  a
+redução  dos  custos  de  produção,  evitando  gastos  com  limpas
+desnecessárias.
+
+Para mandioca plantada no Estado de São Paulo, na estação
+seca  e  fria  (maio/agosto),  a  convivência  da  cultura  com  plantas
+daninhas até 90 dias não diminuiu significativamente a produção,
+ao passo que o controle a partir de 150 dias não aumentou sua
+produção. Sugere-se, assim, que o período crítico esteja situado entre
+90 e 150 dias após o plantio.
+
+277
+
+Quais os principais herbicidas e doses utilizadas no controle
+pré-emergente do mato?
+
+Os herbicidas pré-emergentes indicados pela pesquisa para a
+
+cultura da mandioca no Brasil estão listados na Tabela 1.
+
+112
+
+
+ 500pr_pgnumber113
+Tabela 1. Herbicidas pré-emergentes indicados para uso na cultura
+da mandioca no Brasil.
+
+Nome comum
+
+Nome comercial
+
+Dose (L ou kg/ha)(1)
+
+Época de aplicação
+
+Diuron
+Linuron
+Alachlor
+Diuron + Alachlor
+Dimetanamid 900
+
+Karmex, Diuron
+Afalon, Linurex
+Laço, Alachlor
+Karmex + Laço
+Zeta 900
+
+(1) Líquido ou em pó.
+Fonte: Vários autores nacionais e internacionais.
+
+2,0 – 2,5
+2,0 – 3,0
+5,0 – 6,0
+2,0 + 2,0
+2,0 – 2,5
+
+Pré
+Pré
+Pré
+Pré
+Pré
+
+Os herbicidas registrados para a cultura da mandioca no Brasil
+
+estão listados na Tabela 2.
+
+Tabela 2. Herbicidas registrados para uso na cultura da mandioca
+no Brasil.
+
+Nome comum
+
+Nome comercial
+
+Dose (L ou kg/ha)(1)
+
+Época de aplicação
+
+Clomazone
+Metribuzin
+Trifluralina
+Clomazone + Ametrina
+
+Gamit 500
+Sencor, Lexone
+Trifluralina Nortox
+Sinerge
+
+2,08
+
+0,5 – 0,6
+1,2 – 2,0
+4,0 + 4,5
+
+Pré
+Pré
+PPI
+Pré
+
+(1) Líquido ou em pó.
+
+278
+
+Quais os herbicidas pós-emergentes utilizados na cultura da
+mandioca?
+
+Os herbicidas pós-emergentes indicados pela pesquisa para a
+
+cultura da mandioca estão listados na Tabela 3.
+
+Tabela 3.  Herbicidas pós-emergentes indicados para uso na cultura
+da mandioca.
+
+Nome comum
+
+Nome comercial
+
+Dose (L ou kg/ha)(1)
+
+Época de aplicacão
+
+Fluazifop-P-Butil
+Sethoxydin
+Glifosate
+Fenoxaprop-P-ETHIL
+
+(1) Líquido ou em pó.
+(2) Aplicação dirigida.
+
+Fusilade
+Poast
+Roundup
+Podium
+
+1,5
+1,25
+
+2,0 – 3,0
+
+2,0
+
+Pós
+Pós
+Pós(2)
+Pós
+
+113
+
+
+ 500pr_pgnumber114
+279
+
+Em  que  fase  do  ciclo  pode-se  usar  um  herbicida  pós-
+emergente em mandioca?
+
+Como os herbicidas pós-emergentes não são seletivos para
+mandioca, sua utilização só pode ocorrer a partir do quinto mês após
+o plantio, desde que a mandioca já tenha de 40 cm a 50 cm de
+altura. Deve-se evitar que o produto atinja as folhas da cultura e não
+aplicar em dias chuvosos ou com muito vento.
+
+Uma boa alternativa para o controle correto em pós-emergência
+é a utilização do herbicida glifosate (Roundup) na dose de 1% v/v,
+ou seja, 200 mL do produto comercial para o pulverizador costal de
+20 L.
+
+280
+
+Como fazer a calibração de pulverizadores costais?
+
+Para fazer a calibração de pulverizadores costais devem-se
+
+seguir as seguintes instruções:
+
+1º – Marcar 50 m na área onde será feita a aplicação.
+2º – Determinar a faixa de cobertura do bico ou bicos.
+3º  –  Colocar  uma  quantidade  conhecida  de  água  no
+
+pulverizador.
+
+4º – Bombear até obter a pressão de trabalho desejada.
+5º – Manter a pressão e fazer a aplicação em passo normal.
+6º – Calcular, por diferença, a quantidade de água gasta.
+7º – Repetir pelo menos três vezes o mesmo processo para obter
+
+uma média.
+
+8º – Calcular a vazão por hectare pela seguinte fórmula:
+
+Vazão (L por hectare) =
+
+Água gasta em L x 10.000 m2
+
+Área aplicada m2
+
+Exemplo de calibração de pulverizador costal:
+
+• Distância percorrida: 50 m.
+
+114
+
+
+ 500pr_pgnumber115
+• Faixa de aplicação: 80 cm.
+• Gasto de água: 1,6 L.
+• Área aplicada: 50 m x 80 cm = 40 m2.
+Aplicando a fórmula: Vazão = (1,6 x 10.000 m2 )/40 m² = 400 L/ha
+
+281
+
+Como realizar a calibração de pulverizadores tratorizados?
+
+Para fazer a calibração de pulverizadores tratorizados devem-
+
+se seguir as seguintes instruções:
+
+1º  –  Colocar  uma  quantidade  de  água  conhecida  no
+
+pulverizador.
+
+2º – Regular a pressão entre 1,4 e 2,8 kg/cm2.
+3º – Marcar 50 m na área a ser aplicada.
+4º – Calcular o tempo gasto pelo trator para percorrer os 50 m.
+
+Repetir pelo  menos três vezes essa operação.
+
+5º – Fixar a altura da barra para se obter cobertura uniforme e
+
+determinar a faixa de aplicação da mesma.
+
+6º – Com o trator parado e com a mesma rotação de trabalho,
+medir  a  descarga  no  maior  número  possível  de  bicos  para  se
+determinar a descarga (vazão) média de cada bico no mesmo tempo
+que o trator gastou para percorrer os 50 m.
+
+7º – Multiplicar a descarga média por bico pelo número de
+
+bicos da barra para se determinar a vazão da barra.
+
+8º – Calcular a vazão por hectare pela seguinte fórmula:
+
+Vazão (L/ha da solução) =
+
+Descarga de barra em L x 10.000 m2
+
+Área coberta pela barra em m2
+
+em  que  a  área  coberta  pela  barra  significa  o  produto  da  faixa
+de  aplicação  alcançada  pela  distância  percorrida  que,  no  caso,
+foi 50 m.
+
+115
+
+
+ 500pr_pgnumber116
+Exemplo de calibração de pulverizador tratorizado:
+
+• Pressão: 2,8 kg/cm2.
+• Tempo gasto para percorrer 50 m: 36 segundos.
+• Descarga média por bico: 1 L.
+• Número de bicos: 20.
+• Faixa de aplicação da barra: 10 m.
+• Descarga total da barra: 1 L x 20 = 20 L.
+• Área coberta pela barra: 500 m2.
+Calcular a vazão aplicando a fórmula:
+
+Vazão = (20 L x 10.000 m2 )/500 m² = 400 L/ha
+
+282
+
+Quanto do produto pode-se colocar em 100 L de água?
+
+A definição da quantidade do herbicida a ser colocado no
+pulverizador  segue  um  procedimento  diferente  das  aplicações
+de  inseticidas  e  fungicidas.  Sua  dose  é  definida  por  área
+(principalmente os pré-emergentes), necessário, assim, calibrar o
+pulverizador para determinar a vazão de calda por hectare. Só depois
+dessa definição é que se calcula a quantidade do herbicida a ser
+colocada no pulverizador, de acordo com a dose recomendada por
+hectare.
+
+283
+
+Quais as principais plantas daninhas da cultura da mandioca?
+
+Cada região e ecossistema tem sua peculiaridade quanto às
+plantas  daninhas  predominantes,  ainda  que  muitas  delas  sejam
+comuns às diversas regiões mandioqueiras do Brasil. Na Tabela 4
+são apresentadas as principais plantas daninhas de maior ocorrência
+na cultura da mandioca.
+
+116
+
+
+ 500pr_pgnumber117
+Tabela 4. Relação das principais plantas daninhas que ocorrem na
+cultura da mandioca.
+
+Famílias
+Compositae
+
+Gramineae
+
+Leguminosae
+Malvaceae
+
+Rubiaceae
+
+Euphorbiaceae
+
+Euphorbiaceae
+
+Convolvulaceae
+
+Portulacaceae
+Amaranthaceae
+
+Commelinaceae
+
+Cyperaceae
+
+Molluginaceae
+
+Nomes  científicos
+
+Acanthospermum  australe
+Acanthospermum  hispidum
+Eupatorium  ballataefolium
+Eupatorium  laevigatum
+Blainvillea  rhomboidea
+Centratheum  punctatum
+Ageratum  conyzoides
+Bidens  pilosa
+Sonchus  oleraceus
+Emilia  sonchifolia
+Tagetes  minuta
+Galinsoga  parviflora
+Galinsoga  ciliata
+Brachiaria  plantaginea
+Rhynchelytrum  repens
+Pennisetum  setosum
+Leptocloa  filiformis
+Echinochloa  colonum
+Digitaria  horizontalis
+Setaria  vulpiseta
+Eleusine  indica
+Senna  occidentalis
+Sida  spinosa
+Sida  rhombifolia
+Sida  cordifolia
+Borreria  verticillata
+Mitracarpus  hirtu
+Diodia  teres
+Richardia  brasiliensis
+Borreria  alata
+Richardia  scabra
+Croton  lobatus
+Euphorbia  heterophylla
+Phyllanthus  tenellus
+Euphorbia  pilulifera
+Euphorbia  prostata
+Euphorbia  brasiliensis
+Ipomoea  sp.
+
+Portulaca  oleracea
+Amaranthus  viridis
+Amaranthus  spinosus
+Amaranthus  hybridus
+Alternanthera  tenella
+Commelina  benghalensis
+Commelina  difusa
+Cyperus  rotundus
+Cyperus  esculentus
+Mollugo  verticillata
+
+117
+
+Nomes  populares
+
+Carrapicho-rasteiro
+Carrapicho-de-carneiro
+Eupatorio
+Eupatorio
+Picão-grande
+Perpétua
+Mentrasto
+Picão-preto
+Serralha
+Falsa-serralha
+Cravo-de-defunto
+Picão-branco
+Picão-branco,  fazendeiro
+Capim-marmelada
+Capim-favorito
+Capim-oferecido
+Capim-mimoso
+Capim-coloninho
+Capim-colchão
+Capim-rabo-de-raposa
+Capim-pé-de-galinha
+Fedegoso
+Guanxuma,  malva
+Guanxuma,  relógio
+Malva-branca
+Vassourinha-de-botão
+Poaia-da-praia
+Mata  pasto
+Poaia-branca
+Erva-quente
+Poaia-do-cerrado
+Café-bravo
+Amendoim-bravo
+Quebra-pedra
+Erva-de-santa-luzia
+Quebra-pedra  rasteiro
+Leiteira
+Corda-de-viola
+
+Beldroega
+Caruru-verde
+Caruru-de-espinho
+Caruru-roxo
+Apaga-fogo
+Trapoeraba,  marianinha
+Trapoeraba,  marianinha
+Tiririca  roxa
+Tiriricão,  tiririca-amarela
+Cabelo-de-guia
+
+
+ 500pr_pgnumber118
+284
+
+Pode-se utilizar cultivador a tração animal para controlar o
+mato na cultura da mandioca?
+
+Sim. Para pequenos produtores, para quem o uso de herbicidas
+ainda  é  uma  tecnologia  de  difícil  adoção  em  curto  prazo,  a
+substituição do controle com enxada nas entrelinhas da cultura pelo
+cultivador a tração animal tem se mostrado uma excelente alternativa
+para redução dos custos das limpas e liberação de mão-de-obra
+familiar para outras atividades da propriedade.
+
+285
+
+Pode-se manejar a cobertura vegetal na cultura da mandioca?
+
+Sim. A utilização de cobertura verde (leguminosas de ciclo
+curto) no controle integrado de plantas daninhas vem se mostrando
+uma boa opção para mandioca plantada em fileiras duplas, pela sua
+efetividade no controle do mato e na melhoria da estrutura do solo,
+permitindo também ao produtor fazer a rotação da cultura na mesma
+área.  Deve-se  tomar  cuidado  para  não  fazer  o  plantio  dessas
+leguminosas, como o feijão-de-porco (C. ensiformis), próximo às
+linhas de mandioca, deixando no mínimo um afastamento de 80 cm
+para evitar a competição da cobertura vegetal com a cultura. Em
+virtude do alto custo das sementes das leguminosas, sua utilização
+só se justifica quando produzidas pelo produtor.
+
+286
+
+Até quantos dias depois do plantio da mandioca pode-se
+aplicar herbicida pré-emergente?
+
+No máximo, até 5 dias depois do plantio. Como esses herbicidas
+precisam de água no solo para serem ativados e como as operações
+mecanizadas tendem a favorecer as perdas de água, esse limite deve
+ser respeitado.
+
+287
+
+É possível fazer o Sistema Plantio Direto (SPD), na cultura
+da mandioca?
+
+Sim, é possível.
+
+118
+
+
+ 500pr_pgnumber119
+288
+
+Como se faz o SPD na cultura da mandioca?
+
+Se o solo já estiver apto a entrar no novo sistema, o SPD pode
+
+ser implantado de duas maneiras:
+
+• Plantar a mandioca no próprio mato (se possível) e depois
+fazer o manejo com o herbicida pós-emergente à base de
+glifosate.
+
+• Fazer o controle da vegetação espontânea pela aplicação
+de manejo de glifosate (Roundup) e iniciar o plantio direto
+uma semana depois.
+
+119
+
+
+ 500pr_pgnumber120
+
+ 500pr_pgnumber121
+13 Pragas
+
+Alba Rejane Nunes Farias
+
+
+ 500pr_pgnumber122
+289
+
+Por  que  o  mandarová  é  considerado  uma  das  principais
+pragas da cultura da mandioca?
+
+O mandarová é considerado uma das principais pragas da
+cultura da mandioca por causa de sua alta capacidade de consumo
+foliar, especialmente nos últimos ínstares larvais.
+
+290
+
+Quais  os  problemas  provocados
+pelas lagartas do mandarová?
+
+As  lagartas  podem  desfolhar
+totalmente  as  plantas,  afetando  o
+rendimento das raízes e o teor de amido.
+
+291
+
+Os maiores problemas provocados pelo mandarová ocorrem
+principalmente em que período do cultivo?
+
+Os maiores problemas provocados pelo mandarová ocorrem
+principalmente nos primeiros meses de desenvolvimento da cultura
+(de 2 a 5 meses).
+
+292
+
+O mandarová pode causar a morte das plantas?
+
+Sim, o mandarová também come as gemas e partes tenras das
+hastes, e pode causar a morte das plantas jovens, em alguns casos.
+
+293
+
+No início, a lagarta pode ser vista com facilidade na planta?
+
+Não, no início, a lagarta não pode ser vista com facilidade na
+planta por causa de seu tamanho diminuto (5 mm de comprimento)
+e porque ela fica escondida na face inferior das folhas apicais.
+
+122
+
+
+ 500pr_pgnumber123
+294
+
+Qual o tamanho médio das lagartas quando completamente
+desenvolvidas?
+
+O tamanho médio das lagartas é
+de  8  cm  a  10  cm  de  comprimento,
+quando completamente desenvolvidas.
+
+8 a 10 cm
+
+295
+
+Qual  é  o  colorido  das  lagartas  quando  completamente
+desenvolvidas?
+
+Quando completamente desenvolvidas, o colorido das lagartas
+é o mais variado possível. Há lagartas de cor verde, amarela, preta e
+marrom.
+
+296
+
+Quais as cores dos exemplares mais freqüentes?
+
+Os exemplares mais freqüentes são de cor verde ou marrom.
+
+297
+
+Por quantas fases passa a lagarta do mandarová?
+
+A lagarta do mandarová da mandioca passa por cinco fases.
+
+298
+
+A lagarta do mandarová dura aproximadamente quantos
+dias?
+
+A lagarta do mandarová da mandioca dura de 12 a 15 dias.
+
+299
+
+O maior consumo de área foliar se dá em que ínstar?
+
+O maior consumo de área foliar se dá durante o último ínstar
+
+larval (75%).
+
+123
+
+
+ 500pr_pgnumber124
+300
+
+Que  práticas  podem  contribuir  para  a  redução  das
+populações de pupas e adultos do mandarová?
+
+A população de pupas pode ser reduzida com uma aração do
+terreno imediatamente depois da colheita, para enterrar parte das
+pupas e deixar as outras na superfície do solo para serem mortas
+pelos raios solares, ao passo que a população de adultos pode ser
+reduzida  eliminando-se  as  plantas  daninhas,  especialmente  as
+euforbiáceas, presentes na plantação ou em seus arredores, que
+servem de hospedeiras à praga.
+
+301
+
+Que outras medidas tornam o controle mais eficiente?
+
+Em caso de ataques contínuos do mandarová, recomenda-se a
+rotação  de  cultivos,  já  que  ao  desaparecer  o  hospedeiro  mais
+prolífero, diminui a população da praga.
+
+302
+
+Quais  as  recomendações  de  controle  para  plantios  de
+pequeno porte?
+
+Para  plantios  de  pequeno  porte  recomenda-se  a  catação  e
+
+destruição das lagartas.
+
+303
+
+Qual a melhor forma de controle para grandes plantios?
+
+Para  grandes  plantios  recomenda-se
+a  aplicação  do  Baculovirus  erinnyis  ou  de
+produtos  formulados  à  base  de  Bacillus
+thuringiensis.
+
+124
+
+
+ 500pr_pgnumber125
+304
+
+Em que ínstares do mandarová a aplicação desses produtos
+é mais eficiente?
+
+A  aplicação  desses  produtos  é  mais  eficiente  no  período
+
+compreendido entre o 1º e o 3º ínstar.
+
+305
+
+Para  a  preparação  da  “calda”,  que  lagartas  devem  ser
+utilizadas?
+
+Devem ser utilizadas lagartas de todos os tamanhos para a
+preparação da “calda”, desde que contaminadas pelo vírus e recém-
+mortas por ocasião da coleta.
+
+306
+
+Como devem ser conservadas as lagartas contaminadas pelo
+vírus não utilizadas imediatamente?
+
+As lagartas contaminadas pelo vírus não utilizadas de imediato
+devem ser conservadas no congelador de uma geladeira ou mantidas
+em freezer.
+
+307
+
+A  dose  para  pulverizar  1  ha  de  mandioca  é  obtida  com
+quantas lagartas?
+
+A dose para pulverizar 1 ha de mandioca é obtida com:
+• 8 lagartas grandes (de 7 cm a 10 cm de comprimento).
+• 22 lagartas médias (de 4 cm a 6 cm de comprimento).
+• 30 lagartas pequenas (de até 4 cm de comprimento).
+• 18 g de lagartas.
+• 20 mL do líquido (lagartas esmagadas).
+
+308
+
+Qual o procedimento correto para o preparo da “calda”?
+
+O preparo da “calda” só deve ser feito com lagartas recém-
+
+mortas, procedendo-se da seguinte forma:
+
+125
+
+
+ 500pr_pgnumber126
+• Esmagar  bem  as  lagartas  infectadas  ou  triturar  em  um
+liqüidificador, juntando um pouco de água para soltar o vírus.
+• Coar tudo em um pano limpo ou passar em peneira de malha
+
+fina (para não entupir o bico do pulverizador).
+
+• O  líquido  coado  contendo  o  B.  erinnyis  deve  ser  bem
+misturado em 200 L de água por hectare a ser pulverizado.
+
+309
+
+As lagartas infectadas levam quantos dias para morrer?
+
+As lagartas infectadas levam de 4 a 6 dias para morrer.
+
+310
+
+Quais os principais inimigos naturais do mandarová?
+
+Os  principais  inimigos  naturais  do  mandarová  são
+microhimenópteros  dos  gêneros  Trichogramma  e  Telenomus  que
+parasitam os ovos, ao passo que o predador de ovos é Chrysopa. O
+díptero Chetogena floridensis parasita as lagartas e as vespas Polistes
+e Polybia agem como predadores.
+
+311
+
+Por que não se recomenda a aplicação de produtos químicos?
+
+Não se recomenda a aplicação de produtos químicos porque
+eles também destroem os insetos que fazem o controle biológico
+natural.
+
+312
+
+Por que os ácaros são considerados as pragas mais severas
+da mandioca?
+
+Os ácaros são considerados as pragas mais severas da mandioca
+porque  causam  perdas  elevadas  no  rendimento  de  raízes  e
+diminuição na quantidade e qualidade do material de propagação,
+que varia de acordo com a variedade, o estádio de desenvolvimento
+da planta, a duração e intensidade do ataque.
+
+126
+
+
+ 500pr_pgnumber127
+313
+
+ O ácaro é encontrado com maior freqüência em que parte
+da planta?
+
+O ácaro-verde da mandioca inicialmente é encontrado na face
+inferior das folhas apicais da planta, ao passo que o ácaro-rajado é
+encontrado na face inferior das folhas medianas e/ou basais.
+
+314
+
+Os ácaros são encontrados com maior freqüência em que
+estação do ano?
+
+Os ácaros são encontrados com maior freqüência durante a
+
+estação seca do ano.
+
+315
+
+Que danos os ácaros podem causar?
+
+Os ácaros podem causar redução no rendimento de raízes bem
+
+como na quantidade e qualidade do material de propagação.
+
+316
+
+O ácaro pode levar à morte da planta?
+
+Sim, dependendo da variedade, do estádio de desenvolvimento
+da planta por ocasião do ataque, da duração e da intensidade do ataque.
+
+317
+
+Quais os ácaros mais importantes para a cultura da mandioca
+no Brasil?
+
+Os ácaros mais importantes para a cultura da mandioca no Brasil
+são o ácaro-verde da mandioca (Mononychellus tanajoa) e o ácaro-
+rajado (Tetranychus urticae).
+
+318
+
+Quais os sintomas iniciais de ataque do ácaro-verde?
+
+  Os  sintomas  típicos  iniciais  do  ácaro-verde  são  pequenas
+pontuações  amareladas  nas  folhas,  que  perdem  a  cor  verde
+
+127
+
+
+ 500pr_pgnumber128
+característica. As folhas não atingem o desenvolvimento normal e
+crescem geralmente deformadas.
+
+319
+
+O que ocorre quando o ataque é severo?
+
+Quando o ataque é severo, as folhas embrionárias não alcançam
+seu  desenvolvimento  normal  e  há  uma  drástica  redução  foliar,
+induzindo novas ramificações.
+
+320
+
+Quais os sintomas iniciais de ataque do ácaro-rajado?
+
+Os sintomas iniciais do ataque do ácaro-rajado são pontos
+
+amarelos na base das folhas e ao longo da nervura central.
+
+321
+
+O que acontece com o aumento da população de ácaros?
+
+Quando as populações aumentam, os ácaros se distribuem em
+toda a folha, e as pontuações amarelas aparecem na totalidade da
+folha, que adquire coloração marrom-avermelhada ou de ferrugem,
+à medida que a infestação aumenta.
+
+322
+
+O que pode ser observado em ataques severos?
+
+Em ataques severos observa-se um desfolhamento intenso nas
+partes mediana e basal da planta, que avança progressivamente até
+a parte terminal, quando a planta apresenta o broto muito reduzido
+e com grande quantidade de teias de aranha.
+
+323
+
+Em geral como se dá o ataque inicial dos ácaros?
+
+Em geral, os ácaros inicialmente atacam plantas isoladas, em
+seguida pequenos grupos de plantas em determinados locais (focos)
+e, posteriormente, invadem toda a cultura.
+
+128
+
+
+ 500pr_pgnumber129
+324
+
+Quais os meios de dispersão mais importantes?
+
+Os meios de dispersão mais importantes são:
+• O homem.
+• Os animais.
+• O vento (mais importante).
+• O próprio deslocamento dos ácaros.
+• O transporte de material vegetativo.
+
+325
+
+Que fatores podem afetar os ácaros?
+
+Os  ácaros  são  afetados  por  fatores  bióticos  (parasitos  e
+
+predadores) e abióticos (temperatura, umidade relativa, etc.).
+
+326
+
+Qual o período de maior taxa de reprodução dos ácaros?
+
+Os ácaros têm uma alta taxa de reprodução durante períodos
+
+secos (baixa umidade relativa e alta temperatura).
+
+327
+
+De que depende a capacidade de aumento da população
+dos ácaros?
+
+A  capacidade  de  aumento  da  população  dos  ácaros  varia
+segundo a planta hospedeira, seu estado nutricional e a presença de
+inimigos naturais.
+
+328
+
+Qual o fator que exerce maior influência na população de
+ácaros?
+
+A temperatura é um dos fatores que exerce maior influência na
+
+população de ácaros.
+
+129
+
+
+ 500pr_pgnumber130
+329
+
+Quais as conseqüências das baixas temperaturas ou mudan-
+ças bruscas?
+
+Baixas  temperaturas  ou  mudanças  bruscas  de  temperatura
+
+reduzem as populações de ácaros.
+
+330
+
+Como a umidade alta e contínua afeta a população de ácaros?
+
+Umidade alta e contínua, além de provocar o aparecimento
+de inimigos naturais, afeta a oviposição, a eclosão e a sobrevivência
+das larvas, reduzindo a população de ácaros.
+
+331
+
+Como  a  chuva  pode  contribuir  para  a  diminuição  da
+população de ácaros?
+
+A precipitação pluviométrica ajuda a diminuir a população de
+ácaros, pois as chuvas fortes não somente aumentam a umidade
+relativa, como também lavam as folhas. Pode ocorrer também a
+eliminação dos ácaros por afogamento ou pelo golpe direto das gotas
+de água.
+
+332
+
+Qual o meio mais favorável para o controle ou redução dos
+ácaros?
+
+O meio mais favorável para o controle ou redução dos ácaros é
+
+o uso de variedades de mandioca resistentes e/ou tolerantes.
+
+333
+
+Quais os principais agentes de controle biológico dos ácaros?
+
+Existem vários inimigos naturais dos ácaros, capazes de exercer
+um  bom  controle,  destacando-se  Oligota  minuta  (Coleoptera:
+Staphylinidae), Stethorus sp. (Coleoptera: Coccinellidae) e diversos
+ácaros benéficos da família Phytoseiidae.
+
+130
+
+
+ 500pr_pgnumber131
+334
+
+Quais as práticas culturais recomendadas para o controle
+dos ácaros?
+
+As práticas culturais recomendadas são:
+• Rotação com culturas não hospedeiras dos ácaros que atacam
+
+a mandioca.
+
+• Destruição de plantas hospedeiras.
+• Inspeções periódicas na cultura para localizar focos.
+• Destruição dos restos de cultura, prática indispensável nas
+plantações que durante seu desenvolvimento apresentaram
+altas populações de ácaros.
+
+• Seleção do material de plantio.
+• Distribuição adequada das plantas no campo para reduzir a
+
+disseminação dos ácaros.
+
+335
+
+Existe algum produto químico registrado para o controle dos
+ácaros na cultura da mandioca?
+
+Até o momento não existe nenhum produto químico registrado
+
+para o controle dos ácaros na cultura da mandioca.
+
+336
+
+Quais os problemas provocados pelo controle químico?
+
+O controle químico provoca desequilíbrios por eliminar os ini-
+migos naturais (insetos e ácaros benéficos), muito comuns nos mandiocais.
+
+337
+
+Qual o hábito do percevejo-de-renda?
+
+O percevejo-de-renda é uma praga de hábito sugador.
+
+338
+
+Qual a coloração do percevejo-de-renda quando ninfa e
+quando adulto?
+
+A ninfa do percevejo-de-renda é de cor branca, ao passo que
+
+o adulto é de cor cinzenta.
+
+131
+
+
+ 500pr_pgnumber132
+339
+
+Quem  provoca  os  maiores  danos,  ninfas  ou  adultos  do
+percevejo-de-renda?
+
+O dano é causado tanto pelas ninfas como pelos adultos do
+
+percevejo-de-renda.
+
+340
+
+Quais os sintomas do ataque do percevejo-de-renda?
+
+Os sinais de ataque do percevejo-de-renda manifestam-se por
+pontuações amarelas pequenas, nas folhas, que se tornam de cor
+marrom-avermelhada.
+
+341
+
+O que pode ocorrer quando o ataque do percevejo-de-renda
+é severo?
+
+Quando  o  ataque  é  severo  podem  ocorrer  reduções  no
+rendimento de raízes, dependendo da variedade utilizada, do estádio
+de desenvolvimento da planta, da intensidade e duração do ataque,
+além  da  redução  na  qualidade  e  quantidade  do  material  de
+propagação.
+
+342
+
+Qual a melhor forma de controle do percevejo-de-renda?
+
+A melhor forma de controle é a utilização de variedades mais
+
+tolerantes ao ataque do percevejo-de-renda.
+
+343
+
+O percevejo-de-renda pode ser controlado com inseticidas?
+
+Sim, mas o ataque pode repetir-se rapidamente, sem contar que
+os inseticidas destroem os inimigos naturais dessa e de outras pragas
+da mandioca.
+
+132
+
+
+ 500pr_pgnumber133
+344
+
+Que  inseticidas  podem  ser  utilizados  no  controle  do
+percevejo-de-renda?
+
+Até o momento não há registro de produtos químicos indicados
+
+para o controle do percevejo-de-renda na cultura da mandioca.
+
+345
+
+Em que parte da planta são encontrados os adultos da mosca-
+branca?
+
+Os adultos da mosca-branca geralmente são encontrados na
+
+face inferior das folhas da parte apical da planta.
+
+346
+
+Onde são encontradas as ninfas da mosca-branca?
+
+As ninfas da mosca-branca são encontradas na face inferior
+
+das folhas mais velhas da planta.
+
+347
+
+Quais os danos provocados pelas altas populações da mosca-
+branca?
+
+Quando  em  altas  populações,  a
+mosca-branca pode causar reduções no
+rendimento das raízes, especialmente se o
+ataque for muito prolongado, além de afetar
+a qualidade da farinha, uma vez que as
+raízes provenientes de plantas atacadas por
+esse  inseto  fornecem  um  produto  com
+sabor amargo. O ataque também pode diminuir a qualidade e a
+quantidade do material de propagação.
+
+348
+
+A presença da fumagina pode estar associada ao ataque da
+mosca-branca?
+
+Sim, a presença da fumagina normalmente está associada ao
+
+ataque da mosca-branca.
+
+133
+
+
+ 500pr_pgnumber134
+349
+
+Em que consiste o dano direto dos adultos da mosca-branca?
+
+O  dano  direto  dos  adultos  da  mosca-branca  consiste  no
+
+amarelecimento e encrespamento das folhas apicais.
+
+350
+
+Como  se  manifesta  o  dano  direto  das  ninfas  da  mosca-
+branca?
+
+O dano direto das ninfas da mosca-branca manifesta-se por
+
+pequenos pontos amarelados nas folhas.
+
+351
+
+O que ocorre no dano indireto, tanto de adultos como de
+ninfas da mosca-branca?
+
+No dano indireto, tanto de adultos como de ninfas da mosca-
+branca, o inseto excreta uma substância açucarada, comumente
+chamada de “mel” ou “mela” pelo agricultor, que permite o desen-
+volvimento de um fungo conhecido como fumagina, responsável
+pela redução da capacidade fotossintética da planta.
+
+352
+
+Quais os principais sintomas do ataque na planta hospedeira?
+
+O ataque na planta hospedeira causa os seguintes sintomas: as
+folhas ficam encarquilhadas, secam e caem, ao passo que as hastes
+começam a secar do ápice para a base, podendo provocar também
+a podridão de raízes.
+
+353
+
+ Qual o método mais racional de controle da mosca-branca?
+
+O uso de variedades mais tolerantes é o método mais racional
+
+de controle da mosca-branca.
+
+134
+
+
+ 500pr_pgnumber135
+354
+
+Em caso de necessidade de controle químico, que inseticida
+pode ser utilizado?
+
+Em caso de necessidade de controle químico, deve-se utilizar
+produtos de baixa toxicidade, pouco agressivos ao meio ambiente
+e,  principalmente,  seletivos  em  relação  aos  inimigos  naturais.
+Entretanto, até o momento não há produtos químicos registrados para
+o controle da mosca-branca na cultura da mandioca.
+
+355
+
+Onde as fêmeas da mosca-do-broto costumam fazer a postura?
+
+As fêmeas da mosca-do-broto costumam fazer a postura entre
+folhas não expandidas do ponto de crescimento ou em pequenas
+cavidades feitas pelo ovipositor na parte mais tenra do broto.
+
+356
+
+Quais os problemas provocados pelas larvas da mosca do broto?
+
+As larvas da mosca do broto matam a gema apical, podendo
+retardar o crescimento normal das plantas e induzir a emissão de
+gemas laterais que também podem ser atacadas.
+
+357
+
+Como se manifesta o dano ocasionado pelo ataque recente
+da mosca-do-broto?
+
+Quando o ataque é recente, o dano ocasionado pela mosca-
+do-broto  manifesta-se  pelo  aparecimento  de  uma  exsudação
+amarelada, que pode ser vista no ponto de crescimento da planta.
+
+358
+
+Como se manifesta o dano ocasionado pelo ataque mais
+velho da mosca-do-broto?
+
+Quando o ataque é mais velho, o dano ocasionado pela mosca-
+do-broto manifesta-se pelo aparecimento de uma exsudação marrom,
+que pode ser vista no ponto de crescimento da planta.
+
+135
+
+
+ 500pr_pgnumber136
+359
+
+Por  que  as  plantas  mais  jovens  são  mais  suscetíveis  aos
+ataques da mosca-do-broto?
+
+As plantas mais jovens são mais suscetíveis aos ataques da
+mosca-do-broto, porque este inseto prefere fazer a oviposição em
+tecidos tenros.
+
+360
+
+Quais as práticas culturais recomendadas no controle da
+mosca-do-broto?
+
+No controle da mosca-do-broto recomenda-se o uso de prá-
+ticas culturais como a destruição dos brotos atacados; plantio fora
+da época de ataque (se realmente a praga é importante na região); e
+plantio intercalado com outras culturas para reduzir a incidência da
+praga.
+
+361
+
+Podem ser utilizados inseticidas no controle da mosca-do-
+broto?
+
+Essa prática não é recomendada.
+
+362
+
+O ataque da mosca-do-broto provoca redução no rendimen-
+to de raízes?
+
+Não há registros de redução no rendimento de raízes, porém
+
+ocorre redução na qualidade do material de propagação.
+
+363
+
+Qual a melhor forma de controle da mosca-do-broto?
+
+A  melhor  forma  de  controle  da  mosca-do-broto  é  cortar  e
+
+queimar os brotos atacados.
+
+136
+
+
+ 500pr_pgnumber137
+364
+
+O que ocorre quando a oviposição da mosca-da-fruta se dá
+no fruto da mandioca?
+
+Quando  a  oviposição  da  mosca-da-fruta  ocorre  no  fruto,
+a  larva  destrói  completamente  o  seu  interior,  danificando  as
+sementes.
+
+365
+
+Como  ocorre  o  ataque  da  mosca-da-fruta  na  haste  da
+mandioca?
+
+O  ataque  da  mosca-da-fruta  na  haste  da  mandioca  ocorre
+aproximadamente a uma distância de 10 cm a 20 cm do ápice,
+onde se observa um pequeno orifício do qual sai uma exsudação
+branca. Depois da eclosão, a larva perfura a haste até a região da
+medula.
+
+366
+
+Como deve ser feito o controle cultural da mosca-da-fruta?
+
+Deve-se fazer uma seleção cuidadosa das manivas, por ocasião
+do plantio. As manivas que apresentam medulas com galerias não
+devem ser plantadas.
+
+367
+
+Como  podem  ser  detectados  os  ataques  das  brocas-do-
+caule?
+
+Os ataques das brocas do
+caule  podem  ser  detectados
+pelos dejetos e serragens que são
+eliminados  para  o  exterior,
+acumulando-se  ao  lado  da
+planta.
+
+137
+
+
+ 500pr_pgnumber138
+368  Qual a melhor forma de controle das brocas-do-caule?
+
+A melhor forma de controle das brocas-do-caule é observar
+periodicamente a cultura, especialmente durante o verão. As hastes
+atacadas devem ser cortadas e queimadas, a fim de evitar o desen-
+volvimento das larvas. Recomenda-se ainda a utilização de manivas
+sadias  para  o  plantio,  fazendo  seleção  criteriosa.  E  sempre  usar
+material de plantações livres do ataque da praga.
+
+369
+
+Quais os danos provocados pelos cupins?
+
+Os cupins atacam o material de propagação armazenado, as
+plantas em crescimento e as raízes, mas acredita-se que o dano
+principal  é  causado  quando  atacam  o  material  de  propagação,
+embora possam atacar seriamente as plantas adultas, principalmente
+durante os períodos prolongados de estiagem, afetando drasticamente
+o estabelecimento da cultura.
+
+370
+
+Quais os sintomas do ataque de cupins?
+
+Os  sintomas  do  ataque  de  cupins  se  manifestam  no
+
+amarelecimento generalizado das plantas de mandioca.
+
+371
+
+Em que período o ataque de cupins torna-se mais intenso?
+
+O ataque de cupins torna-se mais intenso durante os períodos
+
+prolongados de estiagem.
+
+372
+
+Qual a melhor forma de controle de cupins?
+
+A melhor forma de controle de cupins é manter os campos limpos.
+
+373
+
+Em que período o ataque de formigas torna-se mais intenso?
+
+O ataque de formigas torna-se mais intenso geralmente nos
+
+primeiros meses de desenvolvimento do cultivo.
+
+138
+
+
+ 500pr_pgnumber139
+374
+
+Qual a forma correta de controle das formigas?
+
+Os inseticidas líquidos devem ser aplicados quando o solo
+estiver molhado (épocas chuvosas), ao passo que os produtos em pó
+e as iscas granuladas devem ser aplicados quando o solo estiver bem
+seco, ou seja, nas estações secas.
+
+375
+
+Por  que  os  inseticidas  líquidos  devem  ser  utilizados  nas
+épocas chuvosas?
+
+Os  inseticidas  líquidos  devem  ser  utilizados  nas  épocas
+chuvosas, porque o formicida é tanto menos eficaz quanto mais seca
+estiver a terra.
+
+376
+
+Por que os inseticidas em pó e iscas granuladas devem ser
+usados nas épocas secas?
+
+Os inseticidas em pó e as iscas granuladas devem ser usados
+nas épocas secas, porque se a terra estiver úmida o pó permanece
+quase totalmente aderido às paredes superficiais dos canais. Portanto,
+quanto mais úmida estiver a terra, menor será a penetração do pó no
+interior do formigueiro.
+
+139
+
+
+ 500pr_pgnumber140
+
+ 500pr_pgnumber141
+14 Doenças
+
+Chigeru Fukuda
+
+
+ 500pr_pgnumber142
+377
+
+Que fatores são responsáveis pelo desempenho negativo da
+cultura da mandioca no Brasil?
+
+Embora a mandioca seja reconhecida como uma das principais
+opções agrícolas dos produtores do Nordeste do Brasil, seu cultivo
+enfrenta inúmeros problemas que limitam seu pleno desenvolvimento,
+que vão da seleção de variedades, passando pela questão do manejo
+e da conservação do solo, das práticas culturais inadequadas, da
+formação de material de propagação de qualidade, do manejo de
+pragas  e  doenças,  dos  ajustes  necessários  nos  equipamentos  e
+máquinas envolvidos nas etapas do desenvolvimento da lavoura e
+do baixo nível de capacitação dos recursos humanos. A ocorrência
+de doenças, entretanto, é um dos fatores mais limitantes da produção,
+sobretudo nas regiões favoráveis a seu desenvolvimento.
+
+378
+
+Quais as doenças mais importantes da mandioca?
+
+A  mandioca  pode  ser  atacada  por  mais  de  30  agentes
+diferentes, como bactérias, fungos, vírus, ou similares, e fitoplasma
+(micoplasmas). Dentre as doenças da cultura da mandioca no Brasil,
+destacam-se a podridão-radicular, a bacteriose, o superbrotamento
+e  as  viroses,  por  provocarem  enormes  prejuízos  econômicos  e
+elevarem os custos da lavoura com medidas de controle, especial-
+mente  insumos.  Atualmente,  a  Embrapa  dispõe  de  tecnologias
+capazes  de  solucionar  com  eficiência  a  maioria  dos  problemas
+provocados por essas doenças, destacando-se o uso de variedades
+tolerantes.
+
+379
+
+Quais os fatores responsáveis pela ocorrência da podridão-
+radicular?
+
+A podridão-radicular é ocasionada principalmente por dois
+
+microrganismos do solo:
+
+142
+
+
+ 500pr_pgnumber143
+• A podridão-mole das raízes ocorre sobretudo em cultivos
+implantados em solos argilosos, ricos em matéria orgânica e
+sujeitos a encharcamentos constantes.
+
+• A podridão-seca das raízes ocorre comumente em cultivos
+
+de solos ácidos com características arenosas.
+
+A severidade dos danos, entretanto, depende em grande parte
+
+da suscetibilidade da variedade.
+
+380
+
+Quais os agentes causadores da podridão-radicular?
+
+Entre os agentes causadores da podridão-radicular destacam-
+se a Phytophthora sp. e o Fusarium sp., não somente pela abrangência
+geográfica, mas principalmente por ocasionarem severas perdas na
+produção. Outros agentes causais como Diplodia  sp., Sytalidium
+sp. e Botriodiplodia sp. podem, em muitas áreas favorecidas por um
+microclima, tornar-se patógenos potencialmente prejudiciais à cultura.
+
+381
+
+Quais os sintomas da podridão-radicular?
+
+Os sintomas da podridão-
+radicular são bastante distintos e
+dependem  da  natureza  da
+doença. A principal característica
+é o apodrecimento das raízes, mas
+podem  ser  observados  outros
+sintomas  como  a  murcha  das
+plantas,  o  apodrecimento  e
+estrangulamento da haste junto ao solo e intenso amarelecimento
+da parte aérea em plantas atacadas.
+
+382
+
+Como ocorre a disseminação da podridão-radicular?
+
+A disseminação da podridão-radicular pode ocorrer de várias
+maneiras, das quais a principal é a introdução de material propagativo
+contaminado em área livre da doença.
+
+143
+
+
+ 500pr_pgnumber144
+383
+
+Em que parte da planta é mais freqüente os sintomas da
+podridão-radicular?
+
+O aparecimento de sintomas mais visíveis é mais freqüente em
+raízes que completaram a maturação fisiológica. É comum também
+observar-se o apodrecimento da haste junto ao solo nos primeiros
+meses de desenvolvimento da doença.
+
+384
+
+Que medidas de controle da podridão-radicular são mais
+eficientes?
+
+A medida mais eficiente de controle da podridão-radicular é o
+uso  de  variedades  tolerantes.  O  uso  de  variedades  tolerantes,
+entretanto, deve estar integrado a outras práticas culturais, como a
+rotação de culturas, o manejo físico e químico do solo, o sistema de
+cultivo e, até mesmo, o uso de microrganismos antagônicos para
+minimizar o efeito prejudicial da doença.
+
+385
+
+Existem variedades resistentes à podridão-radicular?
+
+Atualmente estão sendo recomendadas algumas variedades
+tolerantes  ao  apodrecimento  das  raízes,  sobretudo  em  áreas
+das regiões Norte e Nordeste do Brasil. As variedades consideradas
+tolerantes à podridão-radicular até então conhecidas são:
+
+Para o Nordeste:
+• Osso Duro.
+• Cedinha.
+• Bibiana.
+• Clone 148/02.
+• Kiriris.
+• Aramaris.
+Para o Norte:
+• Zolhudinha.
+• Mãe Joana.
+• Embrapa 8.
+
+144
+
+
+ 500pr_pgnumber145
+386
+
+Qual é o causador da bacteriose?
+
+A  bacteriose  é  causada  por  Xanthomonas  campestris  pv.
+manihotis. É a principal doença da mandioca, e um dos fatores mais
+limitantes da produção.
+
+387
+
+A bacteriose ocorre em que regiões do Brasil?
+
+Embora a bacteriose ocorra em todas as regiões do Brasil, sua
+manifestação mais severa é verificada em lavouras das regiões Sul,
+Sudeste e Centro-Oeste.
+
+388
+
+Quais os principais sintomas da
+bacteriose?
+
+Os  sintomas  da  bacteriose
+caracterizam-se por manchas angulares,
+de  aparência  aquosa  nos  folíolos,
+murcha  das  folhas  e  pecíolos,  morte
+descendente e exsudação de goma nas
+hastes,  além  de  necrose  dos  feixes
+vasculares e morte da planta.
+
+389
+
+Como ocorre a disseminação da bacteriose?
+
+As fontes de inóculo são plantas contaminadas, restos de cultura
+atacados e hastes infectadas utilizadas no plantio. A disseminação
+ocorre  pelo  uso  de  manivas  contaminadas,  como  material  de
+propagação  dentro  da  área  e  entre  áreas.  Insetos  também  são
+apontados  como  possíveis  agentes  disseminadores  da  bactéria,
+havendo indicações de que o movimento de solo durante as limpas
+e o uso de ferramentas infectadas representam meios de propagação
+da doença.
+
+145
+
+
+ 500pr_pgnumber146
+390
+
+Quais os danos provocados pela bacteriose?
+
+Estima-se que os prejuízos são variáveis e dependentes de vários
+fatores, como a ocorrência de condições climáticas favoráveis ao
+desenvolvimento da doença, a suscetibilidade ou tolerância dos
+genótipos, as práticas culturais empregadas, a época de plantio e o
+nível de contaminação do material de plantio.
+
+  Em geral, em áreas de ocorrência da bacteriose, as perdas de
+produção podem ser estimadas em 30%. Mas em cultivos implantados
+com variedades suscetíveis, em condições climáticas favoráveis ao
+desenvolvimento  da  doença,  os  prejuízos  podem  ser  totais.
+O emprego de genótipos tolerantes, mesmo em condições climáticas
+favoráveis à ocorrência da doença, reduz as perdas de produção ao
+máximo de 30%.
+
+391
+
+Quais as formas mais eficientes de controle da bacteriose?
+
+A principal e a mais eficiente medida de controle da bacteriose
+é o uso de variedades tolerantes. Como prevenção, o produtor deve
+fazer uma seleção rigorosa do material de plantio e, se possível,
+eliminar da lavoura as plantas com sintomas da doença, sobretudo
+nos primeiros meses de seu desenvolvimento.
+
+392
+
+Quais as variedades resistentes à bacteriose?
+
+Nas condições brasileiras, as variedades atualmente em uso
+nas  áreas  de  ocorrência  da  bacteriose  caracterizam-se  por  uma
+tolerância aceitável à doença em nível econômico. Entretanto, seu
+desempenho agronômico depende basicamente da adaptação aos
+ecossistemas locais. São conhecidas inúmeras variedades tolerantes
+à doença, destacando-se as seguintes:
+
+• Branca de Santa Catarina.
+• Fécula Branca.
+• Olho Junto.
+
+146
+
+
+ 500pr_pgnumber147
+• Espeto.
+• IAC-12 829.
+• IAC-13.
+• IAC-14.
+• IAC-15.
+• Formosa, esta recentemente identificada para as condições
+
+do Cerrado.
+
+393
+
+Quem é o causador do superalongamento?
+
+O  superalongamento  é  causado  pelo  fungo  Sphaceloma
+manihoticola (Bitancourt & Jenkins), considerado como pertencente
+ao grupo dos ascomicetos inferiores.
+
+394
+
+Como ocorre a disseminação do superalongamento?
+
+A principal via de disseminação da doença de uma lavoura
+para outra é o material de propagação contaminado. Os ventos e as
+chuvas também podem disseminar a doença de uma planta doente
+para outra sadia.
+
+395
+
+Quais os principais sintomas do superalongamento?
+
+Os principais sintomas do superalon-
+gamento  são  o  alongamento  exagerado
+das hastes tenras ou em desenvolvimento,
+provocado pelo ácido giberélico induzido
+pelo fungo, formando ramas finas com longos
+entrenós. Em caso de manifestação severa,
+as plantas afetadas podem ser identificadas
+pela presença de lesões típicas de verrugose
+nas  hastes,  pecíolos  e  nervuras,  sendo
+também comum observar-se o retorcimento
+e o amarelecimento intenso das folhas.
+
+147
+
+
+ 500pr_pgnumber148
+396
+
+Quais os prejuízos provocados pelo superalongamento?
+
+Os prejuízos causados pelo superalongamento são bastante
+variáveis e fundamentalmente dependem do nível de inóculo inicial,
+da suscetibilidade das cultivares utilizadas e das condições climáticas.
+Em cultivares suscetíveis originadas de plantações afetadas e com
+ocorrência de condições ambientais favoráveis ao desenvolvimento
+da doença, as perdas de produção podem atingir até 70%, ao passo
+que  em  cultivares  tolerantes,  nas  mesmas  condições,  as  perdas
+chegam no máximo a 20%.
+
+397
+
+Quais as variedades resistentes ao superalongamento?
+
+Levantamentos realizados na região de Sinop, MT, revelaram
+que as variedades Cuiabana e Branca, de Santa Catarina, foram as
+que apresentaram menor incidência da doença em relação a outras
+variedades utilizadas na região.
+
+398
+
+Quais as medidas de controle do superalongamento?
+
+O uso de variedades tolerantes é a mais eficiente. Em caso de
+inexistência  de  variedades  tolerantes,  pode-se  usar  produtos
+químicos, como oxicloreto de cobre ou sulfato de cobre, e pulverizar
+as partes dos órgãos afetados das plantas.
+
+399
+
+Qual o causador do superbrotamento?
+
+O superbrotamento é uma doença causada por fitoplasma, que
+até recentemente era denominado de micoplasma. Foi encontrado
+atacando a cultura da mandioca no Brasil, Venezuela e México.
+
+400
+
+Em que regiões brasileiras o superbrotamento já foi detectado?
+
+Embora a ocorrência do superbrotamento tenha sido registrada
+em quase todas as regiões produtoras de mandioca, do Brasil, sua
+
+148
+
+
+ 500pr_pgnumber149
+importância  econômica  restringe-se  à  microrregião  da  Serra  da
+Ibiapaba, no Ceará.
+
+401
+
+Quais os problemas provocados pelo superbrotamento?
+
+Em  condições  altamente  favoráveis  ao  desenvolvimento
+da doença, o superbrotamento pode provocar redução, de até 70%,
+no  rendimento  de  raízes,  e  diminuição,  de  até  80%,  nos  teores
+de amido, em cultivares suscetíveis. O superbrotamento também
+pode causar perda na produção de manivas-semente, pois as hastes
+da planta afetada são muito reduzidas e com excesso de brotação
+das gemas.
+
+402
+
+Quais os sintomas característicos do superbrotamento?
+
+A principal característica da doença é a emissão exagerada de
+hastes, a partir de uma gema. A planta atacada tem crescimento
+reduzido, acompanhado de intenso amarelecimento das folhas.
+
+403
+
+Como ocorre a disseminação do superbrotamento?
+
+A  disseminação  do  superbrotamento  é  feita  por  vetores
+transmissores,  como  insetos  sugadores,  e  por  manivas-semente
+contaminadas utilizadas no plantio. Acredita-se que algumas espécies
+de  plantas  não  relacionadas  com  a  mandioca  possam  servir  de
+hospedeiro do organismo causador do superbrotamento.
+
+404
+
+Quais os sintomas característicos das viroses?
+
+Os sintomas são cloroses intensas entre as nervuras primárias e
+secundárias. Em condições de manifestação severa da doença, é
+comum observar-se um forte retorcimento do limbo foliar.
+
+149
+
+
+ 500pr_pgnumber150
+405
+
+Que principais viroses atacam a cultura da mandioca?
+
+Há  diversos  vírus  que  provocam  doenças  na  cultura  da
+
+mandioca. As viroses mais comuns são:
+
+• Mosaico-africano.
+• Mosaico-comum (americano).
+• Mosaico-das-nervuras.
+• Couro-de-sapo.
+
+406
+
+Qual a melhor forma de controle das viroses?
+
+Aparentemente,  as  viroses  só  se  disseminam  por  meio
+de  material  de  plantio  infectado,  e  a  transmissão  da  doença  de
+uma planta para outra ocorre por meios mecânicos, como facões e
+ferramentas  contaminadas.  Por  essas  razões,  os  métodos  de
+controle  recomendados  baseiam-se  na  utilização  de  material
+de plantio originário de culturas sadias e na desinfecção de facões
+e  outras  ferramentas  usados  no  preparo  das  manivas.  Cultivares
+resistentes  ou  tolerantes  são  medidas  mais  eficientes  de
+controle.
+
+407
+
+Qual o agente causador do mosaico-africano?
+
+O mosaico-africano é transmitido pela mosca-branca Bemisia
+
+tabaci, e pelo uso de material propagativo (manivas) infectado.
+
+408
+
+Quais os sintomas do mosaico-africano?
+
+Os  sintomas  do  mosaico-africano  são  manchas  cloróticas,
+deformação e redução do tamanho das folhas, com presença de áreas
+amarelas intensas, separadas por tecido verde normal.
+
+150
+
+
+ 500pr_pgnumber151
+409
+
+Qual a melhor forma de controle do mosaico-africano?
+
+O método de controle mais efetivo ao mosaico é o emprego de
+cultivares resistentes. Sugere-se também a seleção de material para
+plantio, bem como a eliminação de plantas doentes. Recomenda-se,
+ainda, a aplicação de inseticidas para o controle do inseto (B. tabaci),
+a fim de diminuir sua população e reduzir a incidência do vírus.
+
+151
+
+
+ 500pr_pgnumber152
+
+ 500pr_pgnumber153
+15 Colheita
+
+Pedro Luiz Pires de Mattos
+
+
+ 500pr_pgnumber154
+410
+
+Que  fatores  devem  ser  considerados  na  colheita  da
+mandioca?
+
+A decisão de iniciar a colheita da mandioca e a opção de onde
+começá-la  dependem  de  fatores  de  ordem  técnica,  ambiental  e
+econômica.
+
+411
+
+Quais os fatores de ordem técnica?
+
+Os fatores de ordem técnica referem-se às características das
+cultivares (ciclo precoce, médio e tardio), aos sistemas de plantio e
+às ocorrências observadas ao longo do ciclo de cada cultivar ou de
+cada gleba.
+
+412
+
+Quais os fatores de ordem ambiental?
+
+Os fatores de ordem ambiental dizem respeito às condições de
+solo e clima, ao grau de infestação de plantas daninhas e à situação
+das estradas e caminhos de acesso ao mandiocal.
+
+413
+
+Que fatores de ordem econômica devem ser considerados?
+
+Os fatores de ordem econômica que devem ser considerados
+são: os mercados e os preços dos produtos, a disponibilidade de
+mão-de-obra  e  de  recursos  de  apoio,  a  premência  do  tempo  e
+compromissos.
+
+414
+
+Qual a forma correta de colheita da mandioca?
+
+Por ser uma operação trabalhosa, que requer o emprego de
+maior quantidade de operários por unidade de área, a colheita da
+mandioca necessita de cuidados especiais para a sua execução.
+
+154
+
+
+ 500pr_pgnumber155
+Durante sua execução é preciso tomar cuidado para não danificar
+as  raízes,  pois  elas  são  mais  perecíveis  quando  se  apresentam
+quebradas, machucadas ou dilaceradas.
+
+415
+
+A  cultura  da  mandioca  é  considerada  economicamente
+viável?
+
+A mandioca é uma cultura economicamente viável, desde que
+se utilizem as tecnologias disponíveis, e sejam observadas as exigên-
+cias do mercado consumidor.
+
+416
+
+Com relação ao ciclo das cultivares, como deve ser feita a
+colheita da mandioca para a indústria?
+
+A colheita deve ser iniciada com as cultivares mais precoces e
+
+terminar com as mais tardias.
+
+417
+
+O sistema de plantio da mandioca influencia a operação de
+colheita?
+
+Sim.  Plantios  em  covas  altas  ou  em  camalhões  facilitam
+bastante a colheita, uma vez que as raízes se desenvolvem mais
+superficialmente.
+
+418
+
+Que  outros  fatores  interferem  na  colheita  das  raízes  de
+mandioca?
+
+Outros fatores que mais dificultam a colheita são:
+• Solo endurecido.
+• Cultivar ramificada.
+• Maior infestação de plantas daninhas.
+
+155
+
+
+ 500pr_pgnumber156
+419
+
+Quantos quilos de raízes um homem pode colher por jornada
+de oito horas de trabalho?
+
+800 kg
+
+O  normal  é  colher  de
+600  kg  a  800  kg  de  raízes,
+podendo alcançar até 1.000 kg,
+se o mandiocal estiver em solo
+leve, limpo e com boa produção
+por planta.
+
+420
+
+Como  saber  a  época  mais  indicada  para  se  colher  a
+mandioca?
+
+A melhor época é aquela em que as plantas se encontram em
+período de repouso, ou seja, quando o número e o tamanho das
+folhas e dos lobos foliares diminuíram, condição em que atingem o
+máximo de produção de raízes e de teor de amido.
+
+421
+
+Que práticas devem ser realizadas na operação de colheita?
+
+Deve ser feita a poda manual da parte aérea a mais ou menos
+20 cm da superfície do solo e a retirada do material podado de dentro
+do  mandiocal.  A  poda  também  pode  ser  feita  com  ceifadeira
+acoplada a um trator que deve trabalhar em marcha-ré para evitar o
+acamamento das plantas.
+
+422
+
+Como se faz a colheita (arranquio propriamente dito) das
+raízes em solos arenosos?
+
+Em  solos  arenosos,  as  raízes  são  arrancadas  com  relativa
+facilidade, sacudindo-se toda a cepa com movimento vibratório em
+sentido vertical. Essa vibração tem que estar em perfeita conexão
+
+156
+
+
+ 500pr_pgnumber157
+com a tração (puxão na vertical) para evitar que as raízes quebrem
+ou soltem da maniva-semente e continuem enleiradas.
+
+423
+
+Como se faz a colheita das raízes da mandioca em solos mais
+pesados?
+
+Nessa condição, o uso de ferramentas (picareta, enxada) é
+bastante eficiente no arrancamento manual. Introduz-se com um só
+golpe a ponta do instrumento por baixo das raízes na base da planta,
+e ergue-se o conjunto com um movimento de alavanca aplicando-
+se a força na extremidade do cabo da picareta.
+
+424
+
+Todas as raízes saem aderidas à maniva-mãe, ou algumas
+ficam embaixo do solo?
+
+Após a retirada da planta, examina-se a maniva-mãe (“cepa”),
+a fim de verificar se houve quebra ou ausência de raízes. Nesse caso,
+revolve-se a cova em busca das raízes restantes.
+
+425
+
+Já existe, no Brasil, alguma colhedeira de raízes de mandioca?
+
+Existe, mas a colheita mecânica ainda é uma operação muito
+dificultada, por causa de diversos fatores como tamanho irregular,
+forma, profundidade e distribuição das raízes, além de problemas
+como o arraste de terra e de resíduos de cultivo.
+
+426
+
+O que pode ser feito para melhorar a eficiência da colheita
+mecânica das raízes de mandioca?
+
+O preparo do solo deve ser adequado e o plantio deve ser
+sempre  mecanizado,  uma  vez  que  distribui  as  manivas-semente
+na mesma profundidade em áreas planas, limpas e sem troncos e
+raízes.
+
+157
+
+
+ 500pr_pgnumber158
+427
+
+Qual é o rendimento de uma colhedeira de mandioca?
+
+É de, aproximadamente, 2 ha a 3 ha em 8 horas de trabalho.
+
+428
+
+Depois de colhidas, o que deve ser feito com as raízes?
+
+Após o arranquio, ou colheita, as raízes devem ser amontoadas
+em alguns pontos da área, a fim de facilitar o recolhimento pelo
+veículo transportador, evitando sua permanência no campo por mais
+de 24 horas.
+
+429
+
+De que forma as raízes são colocadas no veículo transportador?
+
+Com a ajuda de cestos e de caixas, as raízes são colocadas em
+caminhões, carroças e carrinhos-de-mão, para serem transportadas
+até as unidades de beneficiamento. No Paraná e no Mato Grosso do
+Sul utilizam-se bolsões de lona conhecidos por “big bag” para grandes
+carregamentos de raízes. Esses bolsões, com capacidade de mais ou
+menos 800 kg, são distribuídos na área para a colocação das raízes.
+Um trator equipado com um braço hidráulico levanta as bolsas a
+uma certa altura acima da carroceria dos caminhões, e um operário
+desfaz o nó da parte inferior deixando as raízes caírem dentro dela.
+
+158
+
+
+ 500pr_pgnumber159
+Processamento
+e Utilização
+
+16
+
+Pedro Luiz Pires de Mattos
+
+159
+
+
+ 500pr_pgnumber160
+430
+
+Por que a mandioca é considerada alimento de subsistência?
+
+Porque é uma planta calórica capaz de proporcionar energia
+
+para populações carentes.
+
+431
+
+Quais os usos mais freqüentes dados à mandioca?
+
+A mandioca é mais usada na alimentação humana e animal, e
+
+na indústria.
+
+432
+
+A mandioca é uma planta rica em proteína?
+
+Não. O teor de proteína nas raízes da mandioca é baixo, mas é
+
+bastante elevado nas folhas.
+
+433
+
+A mandioca é uma planta venenosa?
+
+A mandioca difere das outras plantas produtoras de amido por
+seu  teor  de  linamarina,  glicosídeo  complexo  que,  em  situações
+especiais, pode gerar cianeto livre, o qual, em água, forma ácido
+cianídrico (HCN) que é tóxico.
+
+434
+
+Todas as variedades de mandioca são venenosas?
+
+Dependendo da quantidade de glicosídeo, a mandioca pode
+ser  considerada  brava,  devendo  ser  usada  somente  para  fins
+industriais, ou mansa (aipins ou macaxeiras), usada para consumo
+humano, cozida ou frita.
+
+435
+
+Que quantidade do glicosídeo motivou a classificação da
+mandioca em variedades mansas e bravas?
+
+São consideradas variedades com baixo teor de glicosídeos
+(mansas ou doces) as que apresentam menos de 100 mg de HCN/kg,
+
+160
+
+
+ 500pr_pgnumber161
+e com alto teor (bravas ou amargas) as que apresentam mais de
+100 mg de HCN/kg.
+
+436
+
+Qual a maneira mais comum de se eliminar o ácido cianídrico?
+
+A forma mais utilizada para reduzir o teor de ácido cianídrico é
+pelo processamento (moagem, retirada da manipueira e torrefação).
+
+437
+
+Existe outra maneira de eliminar ou reduzir os teores de
+compostos cianogênicos?
+
+Sim. Existem formas como a fervura (perde de 25% a 75%), a
+secagem ao sol (perde de 40% a 50%), e o esmagamento e secagem
+ao sol (perde de 95% a 98%).
+
+438
+
+O que acontece com as raízes da mandioca quando não são
+beneficiadas de imediato?
+
+As raízes da mandioca apresentam deterioração pós-colheita
+com muita facilidade, podendo ser enzimática (deterioração primária)
+ou microbiológica (deterioração secundária).
+
+439
+
+Em quanto tempo começa a deterioração da mandioca?
+
+Em geral, a deterioração da mandioca começa rapidamente,
+
+por volta de 24 horas após a colheita.
+
+440
+
+Existe alguma forma de se conservar as raízes depois de
+colhidas?
+
+Muitos trabalhos já foram desenvolvidos com a finalidade de
+conservar as raízes da mandioca depois de colhidas, mas nenhum
+apresentou resultados satisfatórios. A melhor forma de conservação
+é, ainda, é deixar a planta no campo.
+
+161
+
+
+ 500pr_pgnumber162
+441
+
+Que produtos podem ser extraídos da mandioca?
+
+A mandioca é considerada a mais versátil das tuberosas tropicais
+por  seus  múltiplos  usos  culinários:  minimamente  processada,
+congelada ou refrigerada, pré-cozida e chips.
+
+O processamento industrial da mandioca, no Brasil, concentra-
+se na produção de farinha, com cerca de 80%, na extração de fécula,
+com cerca de 3%, sendo o restante utilizado na alimentação animal.
+
+442
+
+Qual o processo mais comum para a fabricação de farinha?
+
+Pode-se generalizar a fabricação
+
+da farinha nas seguintes etapas:
+
+• Descascamento e lavagem.
+• Ralação ou moagem.
+• Prensagem.
+• Esfarelamento.
+• Torrefação ou secagem.
+• Classificação.
+• Embalagem.
+
+443
+
+Como é classificada a farinha de mandioca no Brasil?
+
+No Brasil, a farinha de mandioca é classificada em:
+• Farinha seca.
+• Farinha d’água.
+• Farinha de raspa ou apara.
+• Farinha do Pará.
+• Farinhas temperadas.
+
+444
+
+ O que é farinha seca?
+
+É a farinha levada ao forno quente para retirar o excesso de
+umidade depois dos processos de descascamento e lavagem, ralação,
+prensagem e esfarelamento.
+
+162
+
+
+ 500pr_pgnumber163
+445
+
+O que é farinha d’água?
+
+É uma farinha muito consumida na Região Norte do Brasil, cuja
+produção consiste em colocar as raízes na água (de riachos, tanques
+de cimento) por um período de 3 a 5 dias, depois retira-se a casca
+(película e córtex), prensa-se e torra-se. A granulometria dessa farinha
+é bem encaroçada em relação à farinha tradicional.
+
+446
+
+O que é farinha do Pará?
+
+É o resultado da mistura em proporções iguais de farinha seca
+
+e farinha d’água.
+
+447
+
+O que é farinha de raspa?
+
+A  farinha  de  raspa  resulta  da  mandioca  que  é  lavada  e
+descascada, triturada, ou quebrada em pedaços pequenos, secada e
+armazenada. Quando necessário, faz-se a moagem dos pedaços
+secos e a torrefação.
+
+448
+
+Como se transformam as raízes em mandioca chips?
+
+A mandioca chips é o produto final das seguintes operações:
+as raízes são descascadas e lavadas, pré-cozidas e resfriadas, cortadas
+e fritas, salgadas e embaladas.
+
+449
+
+O que significa amido e fécula?
+
+Amido  é  o  produto  amiláceo  extraído  de  partes  aéreas
+
+comestíveis de vegetais (sementes, grãos).
+
+Fécula é o produto amiláceo extraído das partes subterrâneas
+
+comestíveis de vegetais (raízes e tubérculos).
+
+163
+
+
+ 500pr_pgnumber164
+450
+
+Como é extraída, artesanalmente, a fécula da mandioca?
+
+A  extração  artesanal  da  fécula  de  mandioca  passa  pelas
+
+seguintes operações:
+
+• Lavagem e descascamento das raízes.
+• Ralação.
+• Separação da fécula (massa misturada em água e agitada
+
+continuadamente dentro de sacos de pano ou não).
+
+• Purificação.
+• Secagem ao sol.
+• Moagem.
+• Acondicionamento.
+
+451
+
+Como se extrai, industrialmente, a fécula de mandioca?
+
+A  extração  industrial  da  fécula  de  mandioca  passa  pelas
+
+seguintes operações:
+
+• Lavagem e descascamento das raízes.
+• Ralação.
+• Separação da fécula.
+• Secagem.
+• Acondicionamento.
+
+452
+
+Como são classificados os amidos?
+
+Os amidos são classificados em amidos naturais, ou nativos, e
+
+amidos modificados.
+
+453
+
+O que são amidos naturais ou nativos?
+
+São os amidos usados da forma como são extraídos e têm usos
+
+na preparação de alimentos, na indústria de papel, de têxtil, etc.
+
+164
+
+
+ 500pr_pgnumber165
+454
+
+O que são amidos modificados?
+
+São os amidos que sofrem modificações artificiais para adquirir
+características que os naturais não possuem. As modificações podem
+ser físicas, químicas e enzimáticas.
+
+455
+
+A fécula da mandioca pode ser considerada um produto de
+panificação?
+
+A fécula da mandioca pode substituir até 15% a farinha de trigo
+para a confecção de pães, biscoitos e massas frescas, e até 20%, para a
+produção da massa de pizzas.
+
+456
+
+Que outros produtos podem ser obtidos da mandioca?
+
+Da mandioca podem ser obtidos outros produtos, como beiju,
+tapioca, carimã, tucupi, tacacá, massas alimentícias e folhas (cozidas,
+secas e/ou ensiladas).
+
+457
+
+O que é beiju?
+
+Beijú  é  um  produto  obtido  com  a  massa  ou  a  fécula  da
+mandioca depois de prensada, esfarelada e peneirada sobre a chapa
+quente do forno. Pode ser acrescida de açúcar e coco.
+
+458
+
+Como se faz a tapioca?
+
+A tapioca é feita de fécula com cerca de 50% de umidade,
+peneirada sobre chapa aquecida e, uma vez gelificada, é revirada
+para secar o lado que estava em contato com a chapa.
+
+459
+
+O que é carimã ou massa puba?
+
+Carimã, ou massa puba, é o produto obtido por fermentação
+espontânea das raízes frescas de mandioca, inteiras ou partidas. As
+
+165
+
+
+ 500pr_pgnumber166
+raízes são colocadas na água por 3 a 7 dias até que amoleçam e
+comecem a soltar a casca.
+
+460
+
+O que é tiquira?
+
+Tiquira é uma aguardente produzida pela fermentação e desti-
+lação da massa da raiz da mandioca, sendo um produto típico do
+Estado do Maranhão, onde é largamente consumida. É exportada
+para outros estados e países, por turistas que visitam aquele estado.
+O teor alcoólico da tiquira é muito alto, variando de 42 a
+59  graus  GL.  Estima-se  que  1.000  kg  de  raízes  de  mandioca
+produzem  de  150  L  a  180  L  de  tiquira.  Não  há  exigência  de
+características específicas da mandioca para a produção de tiquira;
+mas, quanto maior o teor de amido na raiz, maior será a quantidade
+de aguardente produzida.
+
+461
+
+O que é tucupi?
+
+Tucupi é o líquido extraído da prensagem da massa ralada de
+raízes de mandioca de polpa amarela, o qual é fermentado e fervido
+com pimenta, sal e especiarias, e usado como molho. Em algumas
+regiões usa-se o tucupi sem fermentar (extraído e fervido).
+
+462
+
+O que é tacacá?
+
+Tacacá é o tucupi acrescido de goma, camarão seco salgado e
+jambu, erva com sabor típico e que adormece a boca de quem
+consome o prato, servido quente.
+
+463
+
+As folhas da mandioca têm alguma utilização?
+
+Sim. As folhas da mandioca, assim como todo o terço superior
+da planta (hastes e folhas), têm grande utilização na alimentação
+humana e animal.
+
+166
+
+
+ 500pr_pgnumber167
+464
+
+De  que  maneira  as  folhas  são  utilizadas  na  alimentação
+humana?
+
+As folhas podem ser utilizadas cozidas (na forma de maniçoba
+– comida típica paraense e baiana) ou secas e moídas (na forma de
+farelo de folha).
+
+465
+
+Qual a composição química das folhas de mandioca?
+
+As  folhas  de  mandioca  são  ricas  em  vitaminas  A  e  C,  em
+proteínas e minerais. Por essa razão, o farelo de folhas de mandioca
+é utilizado como suplementação alimentar para crianças.
+
+466
+
+A parte aérea da mandioca pode ser usada na alimentação
+de animais?
+
+A parte aérea de variedades mansas (com baixo teor de ácido
+cianídrico) de mandioca pode ser usada in natura e na forma de feno
+(desidratada) na alimentação animal, ao passo que a de variedades
+bravas (com alto teor de ácido cianídrico) pode ser usada na forma
+de ensilagem.
+
+467
+
+É possível extrair álcool das raízes de mandioca?
+
+Sim. Pode-se extrair álcool anidro (99,3 de grau alcoólico) das
+raízes de mandioca, álcool de segunda (álcool comum ou de uso
+doméstico) e álcool de qualidade superior como óleo fúsel, usado
+em indústrias de perfumarias e solventes industriais.
+
+468
+
+Quais os subprodutos e resíduos da industrialização da mandioca?
+
+Os subprodutos e resíduos da industrialização da mandioca
+
+são a manipueira e bagaços.
+
+167
+
+
+ 500pr_pgnumber168
+469
+
+O que é manipueira?
+
+Manipueira é o resíduo líquido liberado pela prensagem da
+massa de mandioca, rico em nitrogênio, fósforo, potássio e cianetos.
+
+470
+
+Qual a porcentagem de manipueira na composição das raízes
+da mandioca?
+
+As raízes de mandioca são compostas  por 40% de manipueira,
+
+35% de farinha e 25% de cascas e extremidades de raízes.
+
+471
+
+Existe algum uso para a manipueira?
+
+Sim, existem vários usos para a manipueira, apesar de pouco
+eficiente  em  relação  à  quantidade  produzida.  A  manipueira  é
+usada tanto na alimentação humana (tucupi, vinagre) quanto na
+alimentação do gado, e também como herbicida, inseticida, nematicida e
+fungicida, e como adubo orgânico.
+
+472
+
+Como se utiliza a manipueira na alimentação do gado?
+
+O primeiro passo é acostumar o animal a ingerir a manipueira,
+começando com pequenas quantidades e ir aumentando aos poucos.
+Ainda não existem informações confiáveis sobre dosagem mínima e
+máxima.
+
+473
+
+Qualquer animal pode ingerir a manipueira?
+
+Não. Deve-se selecionar animais sadios. Não se aconselha
+oferecer manipueira a vacas prenhes, animais fracos, bezerros e
+animais  recém-chegados  à  propriedade.  A  manipueira  deve  ser
+oferecida como suplemento alimentar.
+
+474
+
+Qual a utilidade do bagaço de mandioca das indústrias de
+farinha e fécula?
+
+O bagaço de cascas e fibras, com algum resíduo de amido,
+
+pode ser usado na alimentação de animais.
+
+168
+
+
+ 500pr_pgnumber169
+Aspectos
+Socioeconômicos,
+Comercialização e
+Custos de Produção
+
+17
+
+Carlos Estevão Leite Cardoso
+
+169
+
+
+ 500pr_pgnumber170
+475
+
+Quantas toneladas de raízes de mandioca são produzidas
+no mundo, atualmente?
+
+Atualmente são produzidas em torno de 204 milhões de toneladas.
+
+476
+
+Quais os países que mais produzem mandioca?
+
+Em 2005, segundo dados da Organização das Nações Unidas
+para a Agricultura e a Alimentação (FAO), os maiores produtores
+mundiais de mandioca foram:
+
+• Nigéria - 18,73%.
+• Brasil - 13,07%.
+• Indonésia - 9,55%.
+• Tailândia - 8,31%.
+• República Democrática do Congo - 7,35%.
+Esses cinco países responderam, em 2005, por mais de 57%
+
+da produção mundial de mandioca.
+
+477
+
+Qual a produção de mandioca no Brasil?
+
+Em 2005, a produção de mandioca no Brasil foi estimada em
+25,7 milhões de toneladas. Para 2006 espera-se uma produção de
+27,6 milhões de toneladas, portanto 7,4% superior à alcançada em 2005.
+
+478
+
+Qual a região fisiográfica
+em que mais se produz
+mandioca no Brasil?
+
+A  Região  Nordeste  tem
+sido,  historicamente,  a  região
+que  mais  produz  mandioca.
+Em  2006,  essa  região  deve
+responder por aproximadamente
+35,4% da produção brasileira.
+As  demais  regiões  devem
+
+170
+
+
+ 500pr_pgnumber171
+participar na seguinte proporção: Norte (26,9%), Sul (22,5), Sudeste
+(9,14%) e Centro-Oeste (6,27%).
+
+479
+
+Quais  os  estados  que  mais  produzem  mandioca  no
+Brasil?
+
+Segundo dados do Instituto Brasileiro de Geografia e Estatística
+(IBGE), para o ano de 2006, a participação dos principais estados
+brasileiros  produtores  de  mandioca  está  assim  estimada:  Pará
+(18,59%), Bahia (15,63), Paraná (15,35%), Maranhão (6,2%) e Rio
+Grande do Sul (4,7%). Esses estados devem responder por mais de
+60,5% da produção nacional de mandioca.
+
+480
+
+Qual a produtividade média de mandioca no Brasil?
+
+14,2 t/ha
+
+A  produtividade  média,
+em  2006,  foi  estimada  em
+14,2 t/ha, sendo que a maior
+e  a  menor  produtividade
+ocorrem, respectivamente, no
+Estado de São Paulo (22,8 t/ha)
+e  no  Estado  do  Maranhão
+(8,1 t/ha).
+
+481
+
+Qual estado possui a maior área plantada com mandioca?
+
+O Estado da Bahia.
+
+482
+
+Quanto se perde da mandioca produzida no Brasil?
+
+Segundo dados da Organização das Nações Unidas para a
+Agricultura e a Alimentação (FAO), no Brasil perdem-se em torno de
+10% da produção de mandioca.
+
+171
+
+
+ 500pr_pgnumber172
+483
+
+Qual o destino da produção de mandioca no Brasil?
+
+Segundo dados da Organização das Nações Unidas para a
+Agricultura  e  a  Alimentação  (FAO),  um  pouco  mais  de  50%  da
+produção é destinada à alimentação animal. O restante da produção,
+ou  seja,  33,4%,  destina-se  à  alimentação  humana;  as  perdas
+respondem por 10,0% e 6,4% vão para outros usos.
+
+484
+
+Quais  os  principais  produtos  derivados  da  mandioca
+destinados ao consumo humano?
+
+Os principais produtos derivados da mandioca destinados ao
+
+consumo humano são:
+
+• Farinha de mandioca.
+• Fécula (ou amido) de mandioca.
+• Mandioca de mesa (macaxeira ou aipim).
+Estima-se que 22,1% da produção nacional de mandioca seja
+destinada à produção de farinha, 10,0% à produção de fécula e 2,0%
+ao consumo in natura, como mandioca de mesa (macaxeira ou aipim).
+
+485
+
+Quanto se produz de fécula de mandioca no Brasil?
+
+Em 2005, foram produzidas 546,5 mil toneladas. Nos últimos
+cinco anos (de 2001 a 2005), a produção média de fécula foi de
+522  mil  toneladas.  No  ano  de  2002,  foram  produzidas  667  mil
+toneladas (recorde de produção).
+
+486
+
+Onde fica concentrada a produção de fécula no Brasil?
+
+Segundo dados levantados pelo Centro de Estudos Avançados
+em  Economia  Aplicada  (Cepea/Esalq/USP),  em  parceria  com  a
+Associação Brasileira dos Produtores de Amido de Mandioca (Abam),
+a produção de fécula concentra-se nos estados do Paraná (64,5%),
+Mato Grosso do Sul (19,5), São Paulo (11,9%), Santa Catarina (3,9%)
+e Ceará (0,2%).
+
+172
+
+
+ 500pr_pgnumber173
+487
+
+Qual o consumo per capita de mandioca no Brasil?
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE),
+o  consumo  médio  de  mandioca  in  natura  (mandioca  de  mesa,
+macaxeira  ou  aipim)  nos  domicílios,  em  2003,  foi  estimado  em
+2,265  kg/hab./ano.  O  consumo  médio  de  farinhae  de  fécula  foi
+estimado, respectivamente, em 7,935 kg/hab./ano e 0,732 kg/hab./ano.
+
+488
+
+Em que região e estado do Brasil verifica-se o maior consumo
+per capita de mandioca in natura (macaxeira ou aipim), nos
+domicílios?
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE),
+verifica-se o maior consumo na Região Sul (4,917 kg/hab./ano) e no
+Estado do Acre (16,563 kg/hab./ano), seguido pelo Estado do Rio
+Grande do Sul (7,093 kg/hab./ano).
+
+489
+
+Em que região e estado do Brasil verifica-se o maior consumo
+per capita de farinha de mandioca, nos domicílios?
+
+O maior consumo de farinha, por domicílio, é observado na
+Região  Norte  (34,189  kg/hab./ano).  Os  estados  com  os  maiores
+índices de consumo de farinha são:
+• Pará (43,988 kg/hab./ano).
+• Amazonas (43,778 kg/hab./ano).
+• Amapá (32,376 kg/hab./ano).
+• Bahia (25,449 kg/hab./ano).
+
+490
+
+Qual dos estados brasileiros é o maior consumidor de farinha
+de mandioca?
+
+É o Estado da Bahia, que consome mais de 24% da produção
+
+de farinha de mandioca do Brasil.
+
+173
+
+
+ 500pr_pgnumber174
+491
+
+Em que região e estado do Brasil verifica-se o maior consumo
+per capita de fécula, por domicílio?
+
+O maior consumo de fécula, por domicílio, é observado na
+Região Norte (1,856 kg/hab./ano). Os estados em que se observam
+os maiores índices de consumo de fécula são:
+
+• Amazonas (3,135 kg/hab./ano).
+• Maranhão (2,464 kg/hab./ano).
+• Rio Grande do Norte (2,088 kg/hab./ano).
+
+492
+
+Qual  o  preço  médio  da  mandioca  comercializada  no
+mercado interno, nos últimos 5 anos, e qual a tendência dos
+preços, nesse mesmo período?
+
+Segundo dados básicos da Fundação Getúlio Vargas (FGV),
+em valores de maio de 2006, os preços médios recebidos pelos
+produtores de mandioca foram de R$ 143,69 por tonelada, no Estado
+do Paraná; de R$ 132,58 por tonelada, no Estado da Bahia; e de
+R$ 111,60 por tonelada, no Estado do Mato Grosso do Sul. No Brasil
+em geral, os preços médios recebidos pelos produtores de mandioca
+foram de R$ 152,96 por tonelada.
+
+493
+
+Em  que  época  do  ano  a  mandioca  alcança  os  melhores
+preços no mercado interno?
+
+Os melhores preços ocorrem nos meses de dezembro a abril,
+
+podendo ocorrer variações regionais.
+
+494
+
+Em  que  época  a  mandioca  alcança  os  piores  preços,  no
+mercado interno?
+
+Os  piores  preços  costumam  ocorrer  nos  meses  de  julho  a
+outubro (na Bahia e no Paraná, dois importantes estados produtores
+de mandioca), período em que se concentra a oferta.
+
+174
+
+
+ 500pr_pgnumber175
+495
+
+Qual  o  produto  derivado  de
+mandioca  mais  exportado  pelo
+Brasil?
+
+O  produto  derivado  de  mandioca
+mais exportado pelo Brasil é a fécula de
+mandioca.
+
+496
+
+Quanto da produção nacional de mandioca é exportada?
+
+A  exportação  de  raiz  de  mandioca  não  chega  a  1%  da
+produção nacional. Nos últimos 5 anos, o máximo que o Brasil
+exportou de fécula chegou a aproximadamente 5% da produção
+média nacional.
+
+497
+
+Quais os principais países de destino das exportações brasi-
+leiras de fécula de mandioca?
+
+Nos  últimos  5  anos,  os  principais  países  de  destino  das
+
+exportações brasileiras de fécula de mandioca foram:
+
+• Venezuela.
+• Argentina.
+• Estados Unidos.
+
+498
+
+Que países concorrem com o Brasil no mercado internacional
+de fécula de mandioca?
+
+Os  países  que  concorrem  com  o  Brasil  no  mercado
+
+internacional de fécula de mandioca são:
+
+• Tailândia.
+•  Indonésia.
+• China.
+• Vietnam.
+
+175
+
+
+ 500pr_pgnumber176
+499
+
+Qual o custo total médio de produção de 1 t de mandioca
+no Brasil?
+
+No Centro-Sul do Brasil, o custo total médio varia de R$ 110,00
+por tonelada a R$ 135,00 por tonelada, ao passo que, no Nordeste
+do Brasil, varia de R$ 120,00 por tonelada a R$ 140,00 por tonelada
+(em valores de maio de 2006).
+
+500
+
+Qual o principal item que compõe os custos de produção
+de mandioca?
+
+Nos estados do Paraná, Mato Grosso do Sul, São Paulo e Santa
+Catarina, considerando-se o custo total, o custo da terra é o principal
+item de custo, seguido do custo da colheita e dos tratos culturais. Na
+Região Nordeste, os tratos culturais representam a maior parcela dos
+custos de produção.
+
+176
+
+
+ 500pr_pgnumber177
+Mais alguma pergunta?
+
+Caso tenha mais alguma pergunta, preencha o
+
+formulário de atendimento na Internet.
+
+Clique no link para acessar o formulário:
+
+  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000012
+
+•••
+
+
+ 500pr_pgnumber178
+Conheça outros títulos da Coleção 
+
+500 Perguntas 500 Respostas
+
+Visite o site no seguinte endereço:
+ www.embrapa.br/mais500p500r
+
+•••
+
+
+ 500pr_pgnumber179
+
+ 500pr_pgnumber180
+179
+
+
+ 500pr_pgnumber181
+Impressão e acabamento
+
+Embrapa Informação Tecnológica
+
+
+ 500pr_pgnumber182
+
