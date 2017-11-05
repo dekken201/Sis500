@@ -1,5 +1,6 @@
 document.getElementById("enviarPerg").addEventListener("click", verifica);
 document.getElementById("assuntos").addEventListener("change", setAssunto);
+document.getElementById("txtArea").addEventListener("change", clean);
 
 var resp = '';
 var top3;
@@ -55,8 +56,8 @@ function getData(pergunta, livro) {
 
 function exibirResp() {
     var template = [
-        '<div class="cont">',
-            '<div class="cmsg" id="cx">',
+        '<div class="cont" id="cx">',
+            '<div class="cmsg">',
                 '<div class="tit">Pergunta similar:</div>',
                 '<div class="resp">{{pergunta}}</div>',
                 '<div class="cxresp">',
@@ -71,5 +72,11 @@ function exibirResp() {
     for (i = 0; i < 3; i++) {
         var html = Mustache.render(template, top3[i]);
         $("#cxresp").append(html);
+    }
+}
+
+function clean() {
+    for (i = 0; i < 3; i++) {
+        $("#cx").remove();
     }
 }
