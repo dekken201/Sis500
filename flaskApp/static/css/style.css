@@ -138,6 +138,7 @@ select {
     margin: 20px 0px;
     font-style: italic;
     font-size: 0.9em;
+    color: rgba(149, 152, 154, 0.56);
 }
 
 .info {
