@@ -1,0 +1,257 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    box-sizing: border-box;
+}
+
+body {
+    background: url('../img/bg.jpg') center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+P {
+    text-align: center
+}
+
+.caixa {
+    display: grid;
+    overflow: hidden;
+    width: 80%;
+    background: #fff;
+    padding: 30px;
+    margin: 0px auto;
+    /*    box-shadow: 0 3px #ccc;*/
+}
+
+.cabec {
+    padding: 5px;
+    margin: 0 auto;
+    width: 80%;
+    overflow: hidden;
+    background: #2E6E38;
+}
+
+.cabec .titulo {
+    color: #fff;
+    font-size: 1.7em;
+    width: 100%;
+}
+
+.desc {
+    font-size: 1.2em;
+    color: #fff;
+    margin: 0px 0px 10px 0px;
+    padding: 5px;
+}
+
+.cmsg {
+    margin: 0px 0px 20px 0px;
+    padding: 20px 10px 10px 20px;
+    width: 100%;
+    border-radius: 13px;
+    box-shadow: 0 1px 21px 1px rgba(0, 0, 0, 0.16);
+}
+
+.umsg {
+    margin: 20px 0px 35px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.umsg input {
+    background: #fbfbfb;
+    width: 90%;
+    height: 50px;
+    border: 2px solid #eee;
+    border-radius: 10px;
+    resize: none;
+    padding: 10px;
+    font-size: 18px;
+    color: #444;
+}
+
+.umsg input:focus {
+    background: #fff;
+    outline: none;
+}
+
+
+.umsg button {
+    background: #00CD66;
+    padding: 13px 30px;
+    font-size: 20px;
+    color: #fff;
+    border: none;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 0 3px #008B00;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+
+.umsg button:hover {
+    background: #008B45;
+}
+
+select {
+    background-color: white;
+    color: #938f8f;
+    font-size: 18px;
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 10px 0px;
+    width: 100%;
+    height: 45px;
+    border-radius: 10px;
+    border: 2px solid #d6d6d6;
+    outline: none;
+    -webkit- appearance: none;
+    -moz- appearance: none;
+    -o- appearance: none;
+    appearance: none;
+}
+
+.tit {
+    margin-bottom: 5px;
+    color: #145B9F;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.resp {
+    font-size: 1.2em;
+    margin: 10px 0px 20px 0px;
+    color: #2a2a2a;
+}
+
+.cxresp {
+    margin: 0 15px 0px;
+    color: #586065;
+    border-left: 0.6px solid #9999;
+    padding-left: 15px;
+}
+
+.pag {
+    margin: 20px 0px;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.cont {}
+
+.info {
+    width: 100%;
+}
+
+.rodape {
+    display: flex;
+    align-items: flex-start;
+    background: #F2F2F2;
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+.rodape img {
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 100%;
+
+}
+
+.textoinfo {
+
+    white-space: normal;
+    text-align: center;
+    color: #777777;
+    font-size: 0.8em;
+}
+
+@media only screen and (max-width: 680px) {
+
+    html,
+    body {
+        height: 100%;
+    }
+
+
+    .cabec {
+        width: 100%;
+    }
+
+    .cabec .titulo {
+        font-size: 1.5em;
+    }
+
+    .cmsg {
+        margin: 10px auto;
+        padding: 10px;
+        background-color: rgba(255, 255, 255, 0.74);
+        border: 1px solid #bbd4c1;
+    }
+    .caixa {
+        background: rgba(0, 0, 0, 0);
+        width: 100%;
+        padding: 10px;
+
+    }
+    .umsg {
+        margin: 5px;
+    }
+
+    .umsg input {
+        width: 100%;
+        height: 50px;
+        padding: 10px;
+        font-size: 15px;
+    }
+
+    .umsg button {
+        padding: 13px 20px;
+        font-size: 15px;
+        margin: 0 5px;
+    }
+    select {
+        font-size: 16px;
+        margin: 4px;
+        padding: 5px 0px 5px 0px;
+
+    }
+    .rodape {
+        display: block;
+        width: 100%;
+
+    }
+
+    .rodape img {
+        margin-bottom: 30px;
+
+    }
+    .textoinfo {
+        display: none;
+    }
+
+
+}
+
+.linha {
+    margin: 15px auto;
+    height: 1px;
+    width: 70%;
+    background: #dedede;
+}
+
+.cxrespfundo {
+    min-height: 450px;
+}
