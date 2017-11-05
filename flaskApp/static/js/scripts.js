@@ -1,10 +1,11 @@
 document.getElementById("enviarPerg").addEventListener("click", verifica);
 document.getElementById("assuntos").addEventListener("change", setAssunto);
-document.getElementById("txtArea").addEventListener("change", clean);
+document.getElementById("txtArea").addEventListener("keypress", clean);
 
 var resp = '';
 var top3;
 var assunto = '';
+var limpo = true;
 
 function setAssunto() { //Se alterado o select, atribui a var assunto
     assunto = $("#assuntos option:selected").val();
@@ -45,8 +46,6 @@ function getData(pergunta, livro) {
         type: 'POST',
         success: function (data) {
             top3 = $.parseJSON(data);
-            //alert(JSON.stringify(resposta["0"]));
-            //alert(JSON.stringify(resposta));
         },
         error: function (error) {
             console.log("Error");
@@ -63,7 +62,7 @@ function exibirResp() {
                 '<div class="cxresp">',
                     '<div class="tit">Resposta Similar:</div>',
                     '{{resposta}}',
-                    '<div class="pag">{{pagina}}</div>',
+                    '<div class="pag">Página(s) no livro: {{pagina}}</div>',
                 '</div>',
             '</div>',
         '</div>'
@@ -73,10 +72,38 @@ function exibirResp() {
         var html = Mustache.render(template, top3[i]);
         $("#cxresp").append(html);
     }
+    limpo = false;
 }
 
 function clean() {
-    for (i = 0; i < 3; i++) {
-        $("#cx").remove();
+    if (!limpo) {
+        console.log("clean");
+        for (i = 0; i < 3; i++) {
+            $("#cx").remove();
+        }
+        limpo = true;
     }
 }
+/*
+popular();
+exibirResp();
+function popular() {
+    top3 = {
+        "0": {
+            pergunta: "Pergunta 00",
+            resposta: "resp 00 ",
+            pagina: "41",
+        },
+        "1": {
+            pergunta: "pergunta 01",
+            resposta: "resp 01",
+            pagina: "411221212",
+        },
+        "2": {
+            pergunta: "pergunta 02",
+            resposta: "resp22222222",
+            pagina: "41111111",
+        },
+    }
+}
+*/
