@@ -1,6 +1,5 @@
 document.getElementById("enviarPerg").addEventListener("click", verifica);
 document.getElementById("assuntos").addEventListener("change", setAssunto);
-document.getElementById("txtArea").addEventListener("keypress", clean);
 
 var resp = '';
 var top3;
@@ -8,6 +7,7 @@ var assunto = '';
 var limpo = true;
 
 function setAssunto() { //Se alterado o select, atribui a var assunto
+    clean();
     assunto = $("#assuntos option:selected").val();
 }
 
@@ -21,6 +21,7 @@ function verifica() { //verifica se esta vazio
     var msg = $('#txtArea').val();
     if (assunto != '') {
         if (msg != '') {
+            clean();
             enviar(msg);
         } else {
             alert("Digite uma pergunta!");
@@ -77,7 +78,6 @@ function exibirResp() {
 
 function clean() {
     if (!limpo) {
-        console.log("clean");
         for (i = 0; i < 3; i++) {
             $("#cx").remove();
         }
@@ -87,6 +87,7 @@ function clean() {
 /*
 popular();
 exibirResp();
+
 function popular() {
     top3 = {
         "0": {
