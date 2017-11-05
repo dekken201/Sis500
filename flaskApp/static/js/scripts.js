@@ -7,6 +7,7 @@
     var anim = "<div class='animated zoomIn'>";
     var divChat = $("#cx"); //puxa o div da caixa de msg
     var resp = '';
+    var top3;
 
     function gravar() {
         var msg = $('#txtArea').val(); // puxa o texto do input - acredito que possa enviar para o bot apartir dessa variável
@@ -23,25 +24,27 @@
     }
 
     function resposta(pergunta) {
-        getData(pergunta)
-        console.log(resp)
+        getData(pergunta,"algodao")
+        alert(JSON.stringify(top3))
 
-        var divRobo = anim + "<div class='chat robo'><br><div class='foto'><img src='{{ url_for('static', filename = 'img/logo.png') }}'></div><br><div class='mensagem'>" + resp + "</div><br></div></div>" //concatena
+        var divRobo = anim + "<div class='chat robo'><br><div class='foto'><img src='{{ url_for('static', filename = 'img/logo.png') }}'></div><br><div class='mensagem'>" + lista + "</div><br></div></div>" //concatena
         divChat.append(divRobo); //coloca dentro da caixa de msgs
         $('#cx')[0].scrollTop = $('#cx')[0].scrollHeight; //rola pra baixo
 
     }
 
-     function getData(pergunta){
+     function getData(pergunta,livro){
         $.ajax({
             url: '/getData',
             async:false,
             data: {
-                "data" : pergunta,
+                "pergunta" : pergunta, "livro" : livro
             },
             type: 'POST',
             success: function(data) {
-                resp = data;
+                top3 = $.parseJSON(data);
+                //alert(JSON.stringify(resposta["0"]));
+                //alert(JSON.stringify(resposta));
             },
             error: function(error) {
                 console.log("Error");

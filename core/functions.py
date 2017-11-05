@@ -10,6 +10,7 @@ import re
 from fuzzywuzzy import fuzz
 import pickle
 import os
+import json
 
 basepath = os.path.dirname(__file__)
 
@@ -89,6 +90,8 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         perguntas[i] = rgx.findall(perguntas[i]) #e a outra pega o regex que só dá match na pergunta(a pergunta)
         paginas[i] = rgxPage.findall(splitString)
 
+        respostas[i].replace('\\n', '\n')
+
         i += 1
 
 
@@ -118,27 +121,25 @@ def run(perguntaUser, livro):
     respostas = lista[1]
     paginas = lista[2]
 
-    bestMatchIndex = 0
-    bestRatio = 0
+    listaRatio = []
+    i = 0
 
     for index, pergunta in enumerate(perguntas):
-        ratio = checkRatio(perguntaUser, pergunta)
-        if ratio > bestRatio:
-            bestMatchIndex = index
-            bestRatio = ratio
+        listaRatio.append([ i , checkRatio(perguntaUser, pergunta)])
+        i += 1
 
-    answer = [perguntas[bestMatchIndex], respostas[bestMatchIndex], paginas[bestMatchIndex], bestRatio]
+    sortedList = sorted(listaRatio, key=lambda l: l[1],reverse=True)[:3]
+
+    top3 = {"0": {"pergunta": perguntas[sortedList[0][0]], "resposta": respostas[sortedList[0][0]],
+                  "pagina": paginas[sortedList[0][0]], "ratio": sortedList[0][1]},
+            "1": {"pergunta": perguntas[sortedList[1][0]], "resposta": respostas[sortedList[1][0]],
+                  "pagina": paginas[sortedList[1][0]], "ratio": sortedList[1][1]},
+            "2": {"pergunta": perguntas[sortedList[2][0]], "resposta": respostas[sortedList[2][0]],
+                  "pagina": paginas[sortedList[2][0]], "ratio": sortedList[2][1]}
+            }
+
     #0 = pergunta similar, 1 = resposta da pergunta, 2 = pagina encontrada, 3 = ratio da resposta
-
-    return stringBuilder(answer)
-
-def stringBuilder(answer):
-    pergunta = answer[0]
-    resposta = answer[1]
-    pagina = answer[2]
-    ratio = answer[3]
-
-    return "Pergunta relacionada:\n"+ str(pergunta) +"\nResposta: "+ str(resposta) +"\nPágina da pergunta: "+ str(pagina) +"\nProximidade: "+str(ratio)
+    return top3
 
 def checkRatio(str1, str2):
     bestRatio = 0
