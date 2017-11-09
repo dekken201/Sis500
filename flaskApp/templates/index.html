@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta charset="UTF-8">
     <title>Perguntas-EMBRAPA</title>
+    <script type="text/javascript" src="../static/js/jquery-3.2.1.min.js"></script>
     <link rel="shortcut icon" type="image/x-icon" href="../static/img/favicon.png">
     <link rel="stylesheet" type="text/css" href="../static/css/style.css">
 </head>
@@ -27,14 +28,14 @@
               <option value="caju">Caju</option>
               <option value="citros ">Citros</option>
               <option value="feijao">Feijão</option>
-              <option value="fruticulturairrigada">Fruticultura Irrigada</option>
-              <option value="gadocorte">Gado de Corte</option>
-              <option value="gadocortepantanal">Gado de Corte no Pantanal</option>
-              <option value="gadoleite">Gado de Leite</option>
-              <option value="geotecnologias">Geotecnologias e Geoinformação</option>
+              <option value="fruticultura_irrigada">Fruticultura Irrigada</option>
+              <option value="gado_corte">Gado de Corte</option>
+              <option value="gado_corte_pantanal">Gado de Corte no Pantanal</option>
+              <option value="gado_leite">Gado de Leite</option>
+              <option value="geotecnologias_geoinformacao">Geotecnologias e Geoinformação</option>
               <option value="gergelim">Gergelim</option>
               <option value="hortas">Hortas</option>
-              <option value="integracaolavpecflo">Integração Lavoura-Pecuária-Floresta</option>
+              <option value="integraca_lavoura_pecuaria_floresta">Integração Lavoura-Pecuária-Floresta</option>
               <option value="maca">Maçã</option>
               <option value="mamao">Mamão</option>
               <option value="mamona">Mamona</option>
@@ -43,21 +44,21 @@
               <option value="maracuja">Maracujá</option>
               <option value="milho">Milho</option>
               <option value="ovinos">Ovinos</option>
-              <option value="ovinoscaprinoscorte">Ovinos e Caprinos de Corte</option>
-              <option value="pequenasfrutas">Pequenas Frutas</option>
+              <option value="caprinos_ovinos_corte">Ovinos e Caprinos de Corte</option>
+              <option value="pequenas_frutas">Pequenas Frutas</option>
               <option value="pera">Pera</option>
-              <option value="pescapantanal">Pesca e Piscicultura no Pantanal</option>
-              <option value="poscolheitahortalicas">Pós-colheita de Hortaliças</option>
-              <option value="producaoorganicahortalicas">Produção Orgânica de Hortaliças</option>
+              <option value="pesca_piscicultura_pantanal">Pesca e Piscicultura no Pantanal</option>
+              <option value="pos_colheita_hortalicas">Pós-colheita de Hortaliças</option>
+              <option value="producao_organica_hortalicas">Produção Orgânica de Hortaliças</option>
               <option value="ricino">Rícino</option>
-              <option value="sisdireto">Sistema Plantio Direto</option>
+              <option value="sistema_plantio_direto">Sistema Plantio Direto</option>
               <option value="sorgo">Sorgo</option>
               <option value="suino">Suínos</option>
               <option value="trigo">Trigo</option>
               <option value="uva">Uva</option>
         </select>
         <div class="umsg">
-            <input type="text" id="txtArea" placeholder="Digite sua pergunta aqui" autofocus>
+            <input type="text" id="txtArea" placeholder="Digite sua pergunta aqui" autofocus maxlength="100">
             <button type="submit" id="enviarPerg">Enviar</button>
         </div>
         <div class="cxrespfundo" id="cxresp">
@@ -67,8 +68,8 @@
         <div class="info">
             <img src="../static/img/logo_ifmt_topo.png" alt="">
             <div class="textoinfo">
-                <br> Empresa Brasileira de Pesquisa Agropecuária - Embrapa<br> Parque Estação Biológica - PqEB - Av. W3 Norte (final)<br> Caixa Postal 040315 - Brasília, DF - Brasil - 70770-901<br> Fone: (61) 3448-4162 / 3448-4155 | Fax: (61) 3448-2494<br>
-                <a href="http://www.embrapa.br/fale-conosco/sac" target="_blank">www.embrapa.br/fale-conosco/sac</a>
+                <br> Instituto Federal de Educação, Ciência e Tecnologia <br> de Mato Grosso - Campus São Vicente<br> Rodovia BR-364, Km 329, s/n CEP: 78106-970<br> Fone: (65) 3341-2100 | Campo Verde/MT<br>
+                <a href="http://svc.ifmt.edu.br" target="_blank">www.svc.ifmt.edu.br</a>
             </div>
         </div>
         <div class="info">
@@ -79,8 +80,6 @@
             </div>
         </div>
     </div>
-    <script src="../static/js/jquery-3.2.1.min.js"></script>
-    <script src="../static/js/mustache.min.js"></script>
     <script src="../static/js/scripts.js"></script>
 </body>
 

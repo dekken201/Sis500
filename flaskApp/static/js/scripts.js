@@ -1,5 +1,7 @@
+document.write('<script type="text/javascript" src="../static/js/mustache.min.js"></script>')
 document.getElementById("enviarPerg").addEventListener("click", verifica);
 document.getElementById("assuntos").addEventListener("change", setAssunto);
+
 
 var resp = '';
 var top3;
@@ -68,9 +70,9 @@ function exibirResp() {
             '</div>',
         '</div>'
     ].join("\n");
-
-    for (i = 0; i < 3; i++) {
-        var html = Mustache.render(template, top3[i]);
+    var x;
+    for (x in top3) {
+        var html = Mustache.render(template, top3[x]);
         $("#cxresp").append(html);
     }
     limpo = false;
@@ -78,36 +80,12 @@ function exibirResp() {
 
 function clean() {
     if (!limpo) {
-        for (i = 0; i < 3; i++) {
+        for (var a in top3) {
             $("#cx").remove();
         }
         limpo = true;
     }
 }
-/*
-popular();
-exibirResp();
 
-function popular() {
-    top3 = {
-        "0": {
-            pergunta: "Pergunta 00",
-            resposta: "resp 00 ",
-            pagina: "41",
-            ratio: "61",
-        },
-        "1": {
-            pergunta: "pergunta 01",
-            resposta: "resp 01",
-            pagina: "411221212",
-            ratio: "15",
-        },
-        "2": {
-            pergunta: "pergunta 02",
-            resposta: "resp22222222",
-            pagina: "41111111",
-            ratio: "39",
-        },
-    }
-}
-*/
+//Teste unitário, método para popular informações:
+//document.write('<script src="../static/js/test.js"></script>');$(document).ready(function () {var tm = popular();top3 = tm;exibirResp();});
