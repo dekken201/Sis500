@@ -1,5 +1,6 @@
 # Sis500
 (Now with English README, check below!)
+
 Programa que usa Correspondência Aproximada de Strings(CAS) para buscar respostas de perguntas feitas pelo usuário em coletâneas pré-definidas.
 Utilizando a coletânea 500 Perguntas, 500 Respostas da EMBRAPA , realizamos a mineração do texto dos PDFs disponibilizados gratuitamente, e utilizando a CAS, mais precisamente o algoritmo da Distância de Levenshtein, implementada com a biblioteca FuzzyWuzzy, comparamos as perguntas do usuário com a base de dados do livro, que retorna os conteúdos relacionados ao usuário.
 Para a implementação web, foi utilizado o framework Flask, e o projeto está hospedado no PythonAnywhere.
