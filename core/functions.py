@@ -69,7 +69,7 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         file = open(filepath,"r")#Abre o arquivo de texto
         file = file.read()
     except UnicodeDecodeError:
-        file = open(filepath, "r",encoding='utf-8')  # Abre o arquivo de texto
+        file = open(filepath, "r",encoding='latin-1')  # Abre o arquivo de texto
         file = file.read()
 
     rgx = re.compile('(?<=\.)[^.]*$')  # Compilação do regex a ser utilizado no loop
@@ -91,15 +91,12 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         paginas[i] = rgxPage.findall(splitString)
 
         respostas[i].replace('\\n', '\n')
-
         i += 1
 
 
     perguntas[0] = perguntaZero #Por motivos específicos, o código não consegue pegar a primeira pergunta, então temos que colocá-la manualmente
     respostas.pop(0) #Pelo mesmo motivo, a primeira resposta é nula, então apagamos ela manualmente
 
-    print (perguntas[0])
-    print(respostas[0])
 
     for i in range(0,len(paginas)):
         if not bool(paginas[i]):
@@ -107,10 +104,18 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         else:
             lastTrue = paginas[i]
 
+    respostas = limpaTexto(respostas)
+    perguntas = limpaTexto(perguntas)
+
+
+
+
     conjunto = [perguntas,respostas,paginas]
     filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + filename + ".txt"))
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
+
+
 
 def run(perguntaUser, livro):
     filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + livro + ".txt"))
@@ -150,3 +155,15 @@ def checkRatio(str1, str2):
             bestRatio = ratio
     return bestRatio
 
+def limpaTexto(listaentrada):
+    rgxPage = re.compile('500pr_pgnumber\w{3}')
+    listasaida = []
+    for item in listaentrada:
+        if isinstance(item,str):
+            listasaida.append(re.sub(rgxPage, '', item))
+        elif isinstance(item,list):
+            try:
+                listasaida.append(re.sub(rgxPage, '', item[0]))
+            except IndexError:
+                pass
+    return listasaida
