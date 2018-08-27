@@ -5,21 +5,21 @@ from core.data import *
 
 
 def importaLista():
-	return getListaLivros()
+    return getListaLivros()
 
 
 #PEGA TODOS OS PDFS E CONVERTE EM TXT
 def pdf2text():
-	lista = importaLista()
-	for i in range(0,len(lista)-1):
-		getText(lista[i][0], lista[i][1])
+    lista = importaLista()
+    for i in range(0,len(lista)-1):
+        getText(lista[i][0], lista[i][1])
 
 
 #PEGA TODOS OS TXTS E PROCESSA AS PERGUNTAS E RESPOSTAS, E GERA O PROCTXT
 def text2answers():
-	lista = importaLista()
-	for i in range(0,len(lista)-1):
-		getAnswers(lista[i][0], lista[i][2])
+    lista = importaLista()
+    for i in range(0,len(lista)-1):
+        getAnswers(lista[i][0], lista[i][2])
 
 
 #pdf2text()

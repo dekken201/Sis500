@@ -53,7 +53,7 @@ def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os pa
         with open(filepath, "w") as textFile:
             textFile.write(text)
     except UnicodeEncodeError:
-        with open(filepath, "w",encoding='utf-8') as textFile:
+        with open(filepath, "w",encoding='latin-1') as textFile:
             textFile.write(text)
 
 
@@ -106,7 +106,7 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
 
     respostas = limpaTexto(respostas)
     perguntas = limpaTexto(perguntas)
-
+    perguntas = limpaPergunta(perguntas)
 
 
 
@@ -146,6 +146,7 @@ def run(perguntaUser, livro):
     #0 = pergunta similar, 1 = resposta da pergunta, 2 = pagina encontrada, 3 = ratio da resposta
     return top3
 
+
 def checkRatio(str1, str2):
     bestRatio = 0
     ratios = [fuzz.ratio(str1, str2), fuzz.partial_ratio(str1, str2), fuzz.token_sort_ratio(str1, str2),
@@ -154,6 +155,7 @@ def checkRatio(str1, str2):
         if ratio > bestRatio:
             bestRatio = ratio
     return bestRatio
+
 
 def limpaTexto(listaentrada):
     rgxPage = re.compile('500pr_pgnumber\w{3}')
@@ -166,4 +168,17 @@ def limpaTexto(listaentrada):
                 listasaida.append(re.sub(rgxPage, '', item[0]))
             except IndexError:
                 pass
+    return listasaida
+
+
+def limpaPergunta(listaentrada):
+    listasaida = []
+    for item in listaentrada:
+        try:
+            if isinstance(item, str):
+                listasaida.append(item.lstrip('0123456789.- '))
+            elif isinstance(item, list):
+                listasaida.append(item[0].lstrip('0123456789.- '))
+        except IndexError:
+            pass
     return listasaida
