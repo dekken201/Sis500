@@ -1,4 +1,4 @@
 pdfminer.six
 fuzzywyuzzy
-python-Levenshtein?
+python-Levenshtein(not required, but makes the matching faster)
 pickle
