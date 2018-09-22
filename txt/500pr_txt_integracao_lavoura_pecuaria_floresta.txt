@@ -1,32 +1,5 @@
 
- 500pr_pgnumber021
-1 Conceitos e Modalidades 
-
-da Estratégia de 
-Integração Lavoura- 
--Pecuária-Floresta
-
-João Kluthcouski
-
-Luiz Adriano Maia Cordeiro
-
-Lourival Vilela
-
-Robélio Leandro Marchão
-
-Júlio Cesar Salton
-
-Manuel Cláudio Motta Macedo
-
-Ademir Hugo Zimmer
-Luiz Carlos Balbino
-
-Vanderley Porfírio-da-Silva
-
-Marcelo Dias Müller
-
-
- 500pr_pgnumber022
+ 500pr_pgnumber023
 1  O que é integração lavoura-pecuária-floresta (ILPF)?
 
 É  um  sistema  de  produção 
@@ -78,7 +51,7 @@ a diversificação de atividades.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 3 
 
 O  que  é  integração  lavoura-pecuária  (ILP)  ou  sistema 
@@ -123,7 +96,7 @@ componente florestal.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 7 
 
 Qual  é  o  significado  dos  termos  consórcio,  sucessão  e 
@@ -171,7 +144,7 @@ ocorrer consórcio de uma cultura anual com árvores. Nessa fase, o
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 sistema será silviagrícola (ou ILF). Após a colheita da cultura anual e 
 o início do pastejo, o sistema será silvipastoril (ou IPF). 
 
@@ -223,7 +196,7 @@ de vários escritores romanos do século 1 d.C.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 11 
 
 Qual é a diferença entre o sistema agropastoril (ou ILP) e o 
@@ -269,7 +242,7 @@ suas vertentes silviagrícola, silvipastoril e agrossilvipastoril.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 Porém,  o  uso  equivocado  da  terminologia  SAF  tem  sido 
 encontrado na literatura como resultado tanto de falhas relacionadas 
 à  tradução,  especialmente  da  língua  inglesa  para  a  portuguesa, 
@@ -310,7 +283,7 @@ componente florestal.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 15 
 
 Para  adotar  a  estratégia  de  ILPF,  é  preciso  realizar,  ao 
@@ -356,7 +329,7 @@ os objetivos da produção, estão na Tabela 1.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 Tabela 1. Usos do sistema de integração lavoura-pecuária (ILP).
 
 Objetivo da produção
@@ -411,7 +384,7 @@ subsequente e novo ciclo de rotação.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 20  Como o sistema de ILP iniciou no Brasil?
 
 Historicamente, nas terras baixas do Sul do País, as áreas de 
@@ -458,7 +431,7 @@ socioeconômico, sem comprometer a sustentabilidade dos recursos
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 naturais.  A  intensificação  do  uso  da  terra  em  áreas  agrícolas  e 
 pastoris e o aumento da eficiência dos sistemas de produção podem 
 contribuir para harmonizar esses interesses. 
@@ -506,7 +479,7 @@ nho  de  propriedade,  geram  empregos  diretos  e  indiretos,
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 aumentam  e  distribuem  melhor  a  renda,  aumentam  a 
 competitividade  do  agronegócio  brasileiro  e  contribuem 
 para a segurança alimentar e de abastecimento do País.
@@ -556,7 +529,7 @@ práticas  inadequadas  não  sustentáveis,  têm  causado  perda  de
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 produtividade,  ocorrência  de  pragas  e  doenças,  além  de  degra-
 dação do solo e dos recursos naturais, ou seja, apresentam sinais 
 de fragilidade, em virtude da elevada demanda por energia e por 
@@ -582,9 +555,9 @@ forma de intensificar a produção em regiões agrícolas e recuperar
 33
 
 
- 500pr_pgnumber034
-
  500pr_pgnumber035
+
+ 500pr_pgnumber036
 2 Benefícios da Adoção da 
 
 Estratégia de Integração 
@@ -608,7 +581,7 @@ Rômulo Penna Scorza Junior
 Guilherme Lafourcade Asmus
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 27 
 
 Os  sistemas  de  integração  são  mais  lucrativos  economi-
@@ -652,7 +625,7 @@ existe interação de fatores sobre o ambiente, e o efeito resultante
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 é  maior  que  a  soma  dos  efeitos  de  cada  um  dos  componentes 
 utilizados isoladamente – o todo supera a soma das partes. 
 
@@ -708,7 +681,7 @@ mearnsii) – madeira grossa para serraria ou lenha, carvão, palanques
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 para cerca, cacos para celulose, etc. –, plantio de erva-mate (Ilex 
 paraguariensis), citros/pessegueiros (Prunus persica), entre outros.
 
@@ -754,7 +727,7 @@ porteira”, e vão do melhor uso da terra à diversificação da paisagem.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 O fato de não haver pousio nesses sistemas é garantia de solo 
 
 vegetado o ano todo. E isso significa:
@@ -805,7 +778,7 @@ Os constantes ciclos de desenvolvimento e morte de plantas no solo,
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 com elevado acúmulo de biomassa residual (palhada e raízes mortas) 
 e  de  matéria  orgânica,  favorecem  o  aumento  da  população  e  da 
 diversidade de microrganismos, em razão da maior disponibilidade 
@@ -851,7 +824,7 @@ Há  que  se  considerar  que  a  melhoria  que  ocorre  na  dinâmica  da
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 água  no  solo  também  é  benéfica 
 para  a  utilização  dos  adubos  e 
 corretivos. Além disso, o constante 
@@ -896,7 +869,7 @@ consegue  atender  plenamente  os  fundamentos  exigidos  para  o
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 correto funcionamento do SPD, especialmente quanto à cobertura 
 permanente do solo, que é obtida quando a pastagem é implantada, 
 pastejada e, posteriormente, dessecada para a semeadura da cultura 
@@ -938,7 +911,7 @@ por evapotranspiração das culturas intercalares.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 39 
 
 A utilização de sistemas de integração beneficia a estrutura 
@@ -981,7 +954,7 @@ baixas o bastante para não causarem danos às plantas.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 Além  disso,  a  maior  diversidade  biológica  em  solos  sob 
 sistemas  integrados  e  diversificados  de  produção,  com  maiores 
 teores  de  matéria  orgânica,  contribui  para  o  controle  natural  dos 
@@ -1024,7 +997,7 @@ os  benefícios  desses  sistemas,  no  que  se  refere  à  qualidade  ao
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 solo,  proporcionam  melhor  desenvolvimento  das  plantas  e, 
 consequentemente, maior resistência ao ataque de doenças. 
 
@@ -1067,7 +1040,7 @@ atividade microbiológica do solo, há uma degradação mais rápida
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 dos defensivos nesses sistemas, e isso diminui sua persistência no 
 ambiente.
 
@@ -1110,7 +1083,7 @@ quanto às legislações federal, estadual e, eventualmente, municipal.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 46 
 
 Os sistemas de integração podem contribuir para amenizar 
@@ -1153,7 +1126,7 @@ sobre as culturas.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 47 
 
 A produtividade das lavouras e da pecuária aumenta com 
@@ -1199,7 +1172,7 @@ fertilidade do solo por causa das correções e adubações necessárias
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 ao cultivo das lavouras. Nessas condições, verifica-se maior oferta 
 de forragem ao longo do ano e manutenção da sua qualidade, visto 
 que a pastagem é renovada a cada rotação com a lavoura. 
@@ -1244,7 +1217,7 @@ menor uso de insumos.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 50 
 
 Para  uma  propriedade  rural  em  que  o  sistema  de  ILP  já 
@@ -1291,7 +1264,7 @@ justamente por exigir planejamento de médio e longo prazo.
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 Certamente são muitos os entraves para ampla adoção, entre 
 
 os quais se destacam: 
@@ -1317,9 +1290,9 @@ meio de arrendamentos ou parcerias.
 51
 
 
- 500pr_pgnumber052
-
  500pr_pgnumber053
+
+ 500pr_pgnumber054
 3 Implantação de 
 
 Sistemas de Integração 
@@ -1336,7 +1309,7 @@ Miguel Marques Gontijo Neto
 Alexandre Ferreira da Silva
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 52 
 
 Quais  são  as  modalidades  de  sistemas  de  integração 
@@ -1380,7 +1353,7 @@ Sul do País (ver Capítulo 7), respectivamente.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 •	 Rotação  de  culturas 
 anuais  com  pastagens 
 perenes:  sistema  mais 
@@ -1421,7 +1394,7 @@ por  causa  do  esgotamento  dos  nutrientes  que  entraram
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 no sistema via adubação das lavouras, além da perda do 
 potencial de rebrota da pastagem pela lotação excessiva. 
 
@@ -1467,7 +1440,7 @@ pastagens  anuais  é  o  mais  indicado.  Para  esse  sistema,  existem
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 muitos negócios na modalidade de parceria, em que as pastagens 
 são alugadas ao pecuarista na entressafra. Nesse caso, o produtor 
 não  terá  envolvimento  com  a  pecuária  e  não  terá  de  dispor  de 
@@ -1508,7 +1481,7 @@ para reposição de nutrientes.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 •	 Melhorar  as  condições  físicas  e  biológicas  do  solo  com 
 a  pastagem  na  área  de  lavoura:  as  pastagens  deixam 
 quantidades  consideráveis  de  palha  sobre  o  solo.  Além 
@@ -1551,7 +1524,7 @@ e absorve água em maiores profundidades, conferindo ao
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 pasto maior persistência durante a estação seca. Além disso, 
 há possibilidade de que os resíduos pós-colheita de grãos 
 possam ser utilizados para alimentação dos animais, outro 
@@ -1595,7 +1568,7 @@ da  produção  diversificada,  que  reduz  a  vulnerabilidade
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 aos efeitos do clima e do mercado. Essa nova realidade do 
 produtor permite a ele decidir se aumenta o seu rebanho ou 
 a produção agrícola em um novo patamar tecnológico. Isso 
@@ -1639,7 +1612,7 @@ permanente no solo traz benefícios no controle da erosão,
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 por causa da proteção mecânica que os resíduos vegetais 
 proporcionam, além de controlar a temperatura do solo e 
 o aumento da infiltração e reduzir a evaporação de água, 
@@ -1683,7 +1656,7 @@ meio ambiente.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 O condicionamento inicial do solo é decisivo para começar 
 bem o sistema, sem necessidades de ações corretivas no decorrer 
 do tempo, que podem atrasar e encarecer o projeto. 
@@ -1726,7 +1699,7 @@ Mesmo assim, pode haver necessidade de algum ajuste, especialmente
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 quanto  à  gestão  pecuária  por  parte  de  agricultores.  De  qualquer 
 maneira,  observa-se  que  esses  absorvem  com  maior  facilidade 
 as  necessidades  gerenciais  da  pecuária  quando  comparados  aos 
@@ -1771,7 +1744,7 @@ ciclos  mais  curtos  entre  pastagens  e  lavouras  são  a  garantia  de
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 entrada de nutrientes no sistema via fertilizantes residuais usados 
 nas lavouras. 
 
@@ -1819,7 +1792,7 @@ Entre as vantagens de realizar esse consórcio, destacam-se:
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 •	 Melhoria  das  características  físico-químico-biológicas  do 
 solo, por meio do aporte de matéria orgânica, decorrente da 
 morte da parte aérea e do sistema radicular das forrageiras, 
@@ -1867,7 +1840,7 @@ minimizadas ou até mesmo não existir.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 Há vários trabalhos técnicos publicados que demonstram que, 
 dependendo da taxa de semeadura da forrageira, pode não haver 
 perdas de rendimento de grãos no milho e, ainda assim, produzir 
@@ -1910,7 +1883,7 @@ operações  de  semeadura;  uso  de  maior  quantidade  de  sementes,
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 quando  a  semeadura  da  forrageira  é  realizada  a  lanço;  além  de 
 maior  probabilidade  de  má  formação  de  estande,  principalmente 
 quando realizada no período de safrinha, em virtude da restrição 
@@ -1953,7 +1926,7 @@ bastante, a fim de que o sistema de ILP possa ser implementado em
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 diferentes modalidades de cultivo de grãos e pastagens. Já existem no 
 mercado equipamentos de plantio de cereais e de capim nas linhas 
 e entrelinhas, simultaneamente. Se esse equipamento for utilizado, 
@@ -1998,7 +1971,7 @@ pendulares,  distribuidores  de  calcário,  etc.,  ou  em  sulcos
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 plantio  do  cereal  com  as  sementes  misturadas  ao  adubo. 
 Depois  disso,  a  semeadura  da  lavoura  deve  ocorrer 
 imediatamente. Se o plantio de sementes a lanço anteceder 
@@ -2040,7 +2013,7 @@ detrimento do capim. Em alguns casos, o capim é semeado
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 junto  ao  adubo  de  cobertura  da  lavoura.  O  semeio  das 
 forrageiras  também  pode  ser  feito  com  equipamentos 
 especiais caso implementos não possam mais adentrar na 
@@ -2082,7 +2055,7 @@ de nutrientes não for muito acentuada e o clima for mais chuvoso, é
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 possível iniciar o sistema de ILP com o SPD e a aplicação de gesso, 
 calcário ou algum nutriente em superfície.
 
@@ -2127,7 +2100,7 @@ ele  deve  ser  precedido  de  uma  série  de  cuidados  referentes  ao
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 diagnóstico da área, escolha da lavoura e da forrageira, entre outros. 
 Primeiramente é preciso fazer as análises de solo e, com base nela, 
 fazer a correção química e o preparo do solo, conforme descrição 
@@ -2168,7 +2141,7 @@ e  milheto  com  espécies  forrageiras  tropicais,  principalmente  as
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 do gênero Urochloa e Panicum, tanto no SPD quanto no preparo 
 convencional, em áreas de lavoura com solo parcial ou devidamente 
 corrigido.
@@ -2218,7 +2191,7 @@ e a escolha da espécie devem ser pensadas de acordo com cada
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 situação  e,  para  isso,  as  recomendações  de  um  técnico  devem 
 sempre ser consideradas.
 
@@ -2263,7 +2236,7 @@ Atualmente,  entende-se  que  a  introdução  de  braquiária  em
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 a  exportação  de  nutrientes  do  solo,  ou  do  campo,  é  máxima 
 e  o  retorno  via  decomposição  de  palhada  da  cultura  de  grãos  é 
 mínimo, pois a maioria da parte aérea da planta é retirada da área. 
@@ -2308,7 +2281,7 @@ manecem  verdes  e  fotossinteticamente  ativas  durante  os
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 •	 Melhoria na qualidade das pastagens, quando, no consórcio, 
 
 também se cultivam braquiárias.
@@ -2353,7 +2326,7 @@ e braquiária e semeá-las nas entrelinhas do milho em profundidade
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 de 2 cm a 3 cm. A adubação do milho deve ser feita de acordo 
 com as recomendações convencionais, especialmente a aplicação 
 do nitrogênio em cobertura. 
@@ -2398,7 +2371,7 @@ forrageira.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 76  No que se baseia o sistema São Mateus?
 
 O sistema São Mateus é indicado para a região do Bolsão Sul- 
@@ -2440,7 +2413,7 @@ considerando cuidadosamente a capacidade de suporte da
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 forrageira. Nesse período, pode-se obter elevada produção 
 de carne, entre 10 arrobas/ha a 13 arrobas/ha de equivalente- 
 -carcaça, na recria e engorda de animais, resultando numa 
@@ -2481,9 +2454,9 @@ pastagem.
 79
 
 
- 500pr_pgnumber080
-
  500pr_pgnumber081
+
+ 500pr_pgnumber082
 4 Implantação e Manejo do 
 
 Componente Florestal em 
@@ -2509,7 +2482,7 @@ Helio Tonini
 Abílio Rodrigues Pacheco
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 78 
 
 Como se definem as modalidades de sistemas de integração 
@@ -2555,7 +2528,7 @@ são os seguintes:
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 Econômicos
 •	 Analisar a adequabilidade da espécie arbórea na região e 
 fazer estudo do mercado, com a finalidade de identificar as 
@@ -2605,7 +2578,7 @@ aleias ou ruas), por exemplo, pela dimensão de equipamentos
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 disponíveis (com razões dessas dimensões, uma vez, duas 
 vezes, etc.).
 
@@ -2653,7 +2626,7 @@ do sistema com árvores, o produtor deverá ampliar a área.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 81 
 
 Quais são os principais critérios para definir o espaçamento 
@@ -2697,7 +2670,7 @@ de Porfírio-da-Silva et al. (2009).
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 83 
 
 Quais são os principais requisitos para a implantação do 
@@ -2748,7 +2721,7 @@ fina  para  lenha,  carvão,  celulose,  moirões  de  cerca,  ou
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 madeira  grossa  para  serraria,  laminação,  faqueados).  Para 
 isso, é fundamental planejar o sistema que será adotado, ou 
 seja,  o  espaçamento  entre  renques,  o  espaçamento  entre 
@@ -2794,7 +2767,7 @@ O  uso  de  herbicidas  no  controle  de  plantas  daninhas  entre  as
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 mudas das árvores deve ser feito com cuidado para evitar a deriva 
 de herbicidas sobre as árvores. Além disso, deve-se estabelecer o 
 controle de formigas cortadeiras, que afetam as mudas de árvores.
@@ -2842,7 +2815,7 @@ por hectare. Dessa forma, haverá maior quantidade de árvores por
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 hectare e elas serão mais finas. A previsão de desbaste poderá ser 
 desnecessária,  já  que  todas  as  árvores  serão  colhidas  (corte  raso) 
 quando atingirem o ponto de colheita. 
@@ -2890,7 +2863,7 @@ com os seguintes fatores: espécie arbórea,
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 espécie forrageira e estratégia de implantação e de manejo do sistema 
 (pastejo rotativo, realização de desbastes, etc.). O espaçamento ideal 
 é aquele que não impede o acúmulo de forragem em quantidade 
@@ -2932,7 +2905,7 @@ sistema de ILPF é o eucalipto (Eucalyptus spp.), por causa de seu
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 rápido crescimento, oferta de clones adaptados a diferentes regiões, 
 arquitetura  de  copa  rala  e  elevado  rendimento  econômico,  que 
 proporciona  usos  múltiplos  com  a  produção  de  multiprodutos 
@@ -2976,7 +2949,7 @@ comercialização da madeira.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 93 
 
 Na escolha da espécie arbórea em sistemas de ILPF, o que se 
@@ -3020,7 +2993,7 @@ tora. Não é recomendado conduzir a rebrota.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 Se o plantio for realizado com objetivo de produzir tora para 
 serraria, com poucas árvores por hectare, e se deseja mudar para 
 lenha, carvão, celulose, palanque de cerca, etc., também é possível 
@@ -3110,7 +3083,7 @@ das árvores. O monitoramento consiste na realização anual de me-
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 didas das árvores que com-
 põem a amostra. Serão me-
 didos o diâmetro do tronco 
@@ -3149,7 +3122,7 @@ das árvores tiver em torno de 30%.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 97 
 
 Como se deve manejar o componente florestal em sistemas 
@@ -3213,7 +3186,7 @@ monitoradas na amostragem tiverem atingido 6 cm de DAP. Não é
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 recomendável que se faça a desrama antes de atingir tal diâmetro, 
 pois isso pode atrasar o crescimento da árvore. A medida do DAP 
 das árvores é obtida a 1,30 m da base do tronco, e a desrama deve 
@@ -3255,7 +3228,7 @@ plantio das mudas.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 100 
 
 É possível pastejar áreas recém-implantadas com sistema 
@@ -3297,7 +3270,7 @@ e da fertilidade do solo na área.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 101 
 
 Qual é a melhor estratégia para proteger as árvores e evitar 
@@ -3338,7 +3311,7 @@ das práticas 1, 2 e/ou 3.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 103 
 
 Em sistemas de ILPF, como se deve definir um regime de 
@@ -3380,7 +3353,7 @@ desse  nutriente.  De  modo  geral,  a  definição  de  um  regime  de
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 adubação para as árvores no sistema de ILPF deve ser fundamentada 
 em análise de solo e em análise foliar das árvores. Somente desse 
 modo será possível estabelecer o melhor momento e a quantidade 
@@ -3421,7 +3394,7 @@ simples de estimar a altura de uma árvore quando não se tem tais
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 equipamentos é utilizar o método do bastão, ou método auxiliar, 
 que pode ser obtido no documento de Porfírio-da-Silva et al. (2009).
 
@@ -3458,9 +3431,9 @@ em: 15 mar. 2015.
 101
 
 
- 500pr_pgnumber102
-
  500pr_pgnumber103
+
+ 500pr_pgnumber104
 5
 
 Práticas e Manejo 
@@ -3481,7 +3454,7 @@ Bruno Carneiro e Pedreira
 Luiz Adriano Maia Cordeiro
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 105 
 
 Quais são as formas ou modalidades de sistema de inte-
@@ -3527,7 +3500,7 @@ escala.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 107 
 
 Quais  são  as  opções  de  consórcio  de  culturas  existentes 
@@ -3564,7 +3537,7 @@ com uso crescente, sobretudo com cultivares de soja precoce.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 108 
 
 Quais  são  as  opções  de  consórcio  de  culturas  existentes 
@@ -3605,7 +3578,7 @@ zar uma estação de monta em novilhas durante o mês de agosto.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Os nascimentos ocorrem em abril; e, em maio/junho, as vacas pri-
 míparas pastejam nos pastos de safrinha recém-estabelecidos. Em-
 bora  sem  indicar  um  valor,  os  produtores  que  têm  adotado  essa 
@@ -3625,7 +3598,7 @@ na ilustração a seguir.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 111 
 
 Qual é a maior contribuição de sistemas de ILP para a reali-
@@ -3672,7 +3645,7 @@ equivalente-carcaça, entre 6 arrobas/ha e 12 arrobas/ha.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 •	 Ciclagem  de  nutrientes  (a  ciclagem  de  nitrogênio,  fósforo 
 e  potássio  estimada  em  fazendas  do  oeste  baiano,  em 
 equivalente-fertilizante,  foi  de  60  kg/ha/ano  de  ureia, 
@@ -3715,7 +3688,7 @@ Em sobressemeadura em soja e arroz, a taxa de semeadura deve
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 ser de 5 kg/ha a 8 kg/ha de sementes puras viáveis. Esses valores 
 podem variar ainda de acordo com o tipo de semente (comum x 
 peletizada), a forma de aplicação, a cobertura do solo, o tipo de 
@@ -3759,7 +3732,7 @@ damente registrados no Ministério da Agricultura, Pecuária
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 e Abastecimento (Mapa) e de boa reputação, mesmo que 
 seu preço não seja o menor do mercado local.
 
@@ -3805,7 +3778,7 @@ rápido possível.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 •	 Quando o capim for semeado com o milho, pode-se realizar 
 a colheita de grãos utilizando a plataforma da colhedora no 
 mínimo a 30 cm de altura do solo. Caso a área de milho seja 
@@ -3849,7 +3822,7 @@ na pecuária de safrinha, dependendo da época em que a forrageira
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 foi  semeada  em  relação  ao  final  do  período  chuvoso  do  ano 
 agrícola. No melhor cenário, em que, depois de semeada a forrageira 
 (normalmente a braquiária – U. ruziziensis) ainda terá, pelo menos, 
@@ -3892,7 +3865,7 @@ quantidade suficiente para atender adequadamente todo o rebanho
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 nos  pastos  de  safrinha.  A  principal  estratégia  para  superar  essa 
 limitação é dimensionar, com auxílio de um especialista, um sistema 
 de bebedouros para cada pasto de safrinha com base no tamanho, 
@@ -3937,7 +3910,7 @@ e as metas a serem atingidos e com o potencial de suprimento de
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 água  e  sal  mineral,  sem  negligenciar  as  adequações  relativas  ao 
 plantio da lavoura e ao tráfego de máquinas, bem como às áreas de 
 manejo  dos  animais  (corredores,  currais,  balanças,  etc.).  Portanto, 
@@ -3974,7 +3947,7 @@ compactação superficial.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 123 
 
 O pastejo da braquiária não compromete a cobertura de 
@@ -4018,7 +3991,7 @@ A aplicação de atrazine, embora possa ser feita em pré-emergência
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 da  cultura  do  milho  solteiro,  em  semeadura  simultânea  de  milho 
 com  capim  não  é  recomendada,  pois  pode  afetar  a  germinação 
 e  o  estabelecimento  da  espécie  forrageira  (capim).  A  dose  desses 
@@ -4061,7 +4034,7 @@ disco horizontal. Nesse caso, recomenda-se o uso de compactador
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 de pneus ou ferro para promover melhor contato das sementes das 
 forrageiras com o solo, favorecendo a germinação. Para pequenas 
 e  médias  propriedades,  recentemente  tem  estado  disponível  no 
@@ -4104,7 +4077,7 @@ a  construção/remoção  de  cercas,  a  locação  de  bebedouros  e,
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 sobretudo, aumenta a eficiência operacional de máquinas e imple-
 mentos por causa da redução de manobras e da possibilidade de 
 “passadas” mais longas.
@@ -4134,9 +4107,9 @@ Milho e Sorgo, 2010. 10 p. (Embrapa Milho e Sorgo. Circular técnica, 144).
 119
 
 
- 500pr_pgnumber120
-
  500pr_pgnumber121
+
+ 500pr_pgnumber122
 6
 
 Práticas e Manejo de 
@@ -4164,7 +4137,7 @@ Bruno Carneiro e Pedreira
 Alexandre Ferreira da Silva
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 129 
 
 Quais  são  os  tipos  de  propriedade  rural  que  adotam  ou 
@@ -4205,7 +4178,7 @@ econômico do negócio.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 131 
 
 Que fatores devem ser considerados no planejamento de 
@@ -4250,7 +4223,7 @@ e condução dos componentes agrícola, pecuária e florestal.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 133 
 
 Quais são os principais arranjos para distribuição espacial 
@@ -4293,7 +4266,7 @@ de execução: preparo de solo adequado (recomenda-se o cultivo
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 mínimo), época de plantio (início das chuvas), correção de solo e 
 adubações conforme análise de solo e necessidade da(s) espécie(s)/
 clone(s), replantios feitos até 30 dias após a implantação, prevenção 
@@ -4337,7 +4310,7 @@ que  tem  a  finalidade  de  au-
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 mentar a insolação para a cultura intercalar (grãos e ou pas-
 tagem),  reduzir  a  conicidade  e  o  fendilhamento  das  toras 
 das árvores e a quantidade de nós da madeira, produzindo, 
@@ -4379,7 +4352,7 @@ com maior quantidade de galhos grossos, havendo a necessidade de
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 sua remoção mais cedo, se o objetivo for reduzir o núcleo nodoso e 
 produzir maior proporção de madeira livre de nós de alta qualidade 
 e  de  maior  valor  agregado.  Árvores  conduzidas  para  a  produção 
@@ -4424,7 +4397,7 @@ minação.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 •	 Reduzir  a  competição  entre  árvores,  evitando  o  estresse, 
 
 que pode facilitar a incidência de pragas e doenças.
@@ -4472,7 +4445,7 @@ que o crescimento cair para valores abaixo da meta. Para que essa
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 taxa seja definida, devem-se buscar informações de crescimento na 
 região, lembrando que ela varia de acordo com os seguintes fatores: 
 espécie, material genético, características do local de crescimento 
@@ -4514,7 +4487,7 @@ dessas  informações,  é  possível  definir  as  práticas  de  podas  de
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 galhos (desramas) e desbastes (abate seletivo de árvores), visando à 
 manutenção da pastagem dentro do sistema.
 
@@ -4558,7 +4531,7 @@ ciência de uso da terra, diminuindo a emissão de GEEs. A utilização
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 de  plantas  arbóreas  de  rápido  crescimento  contribui  tanto  para  a 
 decomposição  mais  rápida  dos  resíduos  depositados  quanto  para 
 o  aumento  da  matéria  orgânica  do  solo  (MOS),  um  importante 
@@ -4600,7 +4573,7 @@ A saturação de bases deve ser maior que 50% (ideal 60%).
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 146 
 
 A maioria dos sistemas de IPF com teca em Mato Grosso é 
@@ -4643,7 +4616,7 @@ e no corte dos ramos rentes a sua inserção no tronco, procurando
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 não  danificar  a  casca,  tornando  a  madeira  livre  de  nós  e  outras 
 deformações (madeira livre de nós).
 
@@ -4690,7 +4663,7 @@ das  árvores  estiver  com  3  m  de  altura.  Antes  do  plantio,  é  feito
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 um  rebaixamento  do  pasto  por  meio  de  uma  maior  pressão  de 
 pastejo  (maior  lotação  de  animal).  Após  o  plantio  das  árvores  de 
 teca, a pastagem é vedada por 6 meses a 1 ano, dependendo do 
@@ -4733,7 +4706,7 @@ duas espécies citadas acima, tem crescimento um pouco mais lento
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 e é indicado para áreas de solos com textura arenosa e com baixa 
 pluviosidade, por causa da sua maior rusticidade.
 
@@ -4776,7 +4749,7 @@ minimizar o problema de danos nas árvores.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 153 
 
 No Estado de Mato Grosso, como está ocorrendo a inte-
@@ -4820,7 +4793,7 @@ condições desfavoráveis ao desenvolvimento radicular, como ocorre
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 em solos turfosos, ácidos e pouco profundos ou em solos altamente 
 compactados.  Além  disso,  a  seringueira  nem  sempre  aceita  solos 
 com pH acima de 6,5 ou sujeito a encharcamento. Já a carência 
@@ -4870,7 +4843,7 @@ torna-se bem menor.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 155 
 
 Quais são os principais tratos culturais e cuidados a serem 
@@ -4919,7 +4892,7 @@ implantação do sistema de ILF.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 •	 Fazer um monitoramento de pragas e doenças, integrando 
 e  aproveitando  as  aplicações  de  inseticidas  e  fungicidas 
 da  lavoura  para  o  componente  florestal,  principalmente 
@@ -4930,9 +4903,9 @@ para a seringueira por causa do seu porte.
 139
 
 
- 500pr_pgnumber140
-
  500pr_pgnumber141
+
+ 500pr_pgnumber142
 7
 
 Práticas e Manejo de 
@@ -4957,7 +4930,7 @@ Osmar Conte
 Julio Cezar Franchini dos Santos
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 156 
 
 Quais  são  as  principais  modalidades  de  sistema  de  inte-
@@ -5003,7 +4976,7 @@ dos recursos – terra, mão de obra, máquinas e insumos – almejam
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 maior rentabilidade por área e por tempo. Na região Sul, é comum 
 o uso de sistemas de integração tanto em propriedades pequenas 
 (menos de 20 ha cultivados), as quais geralmente possuem no sistema 
@@ -5046,7 +5019,7 @@ para  compor  sistemas  de  integração  com  animais  no  inverno,  o
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 que demonstra a grande possibilidade de expansão em diferentes 
 ambientes. Os sistemas de ILPF com componente florestal também 
 têm espaço para crescer significativamente, mesmo com restrições 
@@ -5089,7 +5062,7 @@ consiste  na  alternância  entre  soja  e  milho  no  verão,  em  uma
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 proporção de 75% e 25%, respectivamente. Ou seja, o milho seria 
 cultivado uma vez a cada 4 anos. Por sua vez, o cultivo de milho de 
 verão consorciado com forrageiras tropicais, como as braquiárias, 
@@ -5131,7 +5104,7 @@ ervilha é elevado, o que limita o seu uso em larga escala.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 Em  regiões  do  Sul  do  Brasil  onde  as  condições  climáticas 
 permitem  o  cultivo  da  segunda  safra  de  milho  (principalmente 
 no  norte  e  no  oeste  do  Paraná),  o  consórcio  dessa  espécie  com 
@@ -5172,7 +5145,7 @@ inverno. Assim, as forrageiras de inverno podem compor a rotação
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 com cultivos de inverno, como o trigo, que tem grande expressão 
 na região Sul do Brasil.
 
@@ -5214,7 +5187,7 @@ na pastagem. Além dos benefícios que o menor ciclo proporciona
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 a  insetos-praga  e  doenças,  as  temperaturas  favoráveis  do  outono, 
 antes da chegada do inverno, aceleram o estabelecimento do pasto.
 Ao  fazer  o  planejamento  da  rotação  de  culturas,  prática 
@@ -5258,7 +5231,7 @@ aveia-preta e azevém. O milho é a cultura preferencial por combinar
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 as melhores características produtivas e de valor nutritivo. O sorgo, 
 embora possa ter maior produtividade, em geral resulta em forragem 
 de menor valor nutritivo. As espécies de verão são mais produtivas 
@@ -5303,7 +5276,7 @@ devem  ser  retirados  do  piquete  quando  a  altura  de  resteva  atingir
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 de 7 cm a 10 cm. Nesse caso, a carga animal instantânea deve ser 
 alta o suficiente para que a forragem seja consumida em períodos 
 curtos (1 a 3 dias). São necessários de 10 a 30 piquetes, para ciclos 
@@ -5345,7 +5318,7 @@ da fertilidade do solo, da possibilidade de suplementação alimentar
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 nos períodos de baixa disponibilidade de forragem ou mesmo de 
 irrigação do pasto.
 
@@ -5389,7 +5362,7 @@ de  efeito  estufa,  principalmente  o  CO2.  Sistemas  compostos  por
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 várias espécies cultivadas ao mesmo tempo ou em sucessão podem 
 auxiliar na conservação da biodiversidade, contribuindo assim para 
 um  agroecossistema  mais  sustentável  ao  longo  do  tempo.  No 
@@ -5432,7 +5405,7 @@ e  monitorada  pela  altura  de  manutenção  do  pasto,  como  citado
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 anteriormente. É muito comum o produtor manejar a pastagem em 
 alturas inferiores às adequadas, ou seja, com uma baixa oferta de 
 forragem. Nesse caso, além da maior intensidade de pisoteio pela 
@@ -5476,7 +5449,7 @@ disso,  é  importante  que  a  retirada  dos  animais  da  área  ocorra
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 pelo  menos  uma  semana  antes  da  dessecação  da  pastagem, 
 proporcionando assim tempo para que as forrageiras, especialmente 
 o azevém, acumulem massa seca. A observação desses cuidados 
@@ -5519,7 +5492,7 @@ deve ser o intervalo entre a dessecação e a semeadura. Para outras
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 espécies forrageiras, há poucos dados sobre épocas de dessecação 
 que  propiciem  alto  aproveitamento  da  forragem  e  adequada 
 condição para cultivo das espécies graníferas em sucessão.
@@ -5563,7 +5536,7 @@ mente no que se refere à aquisição de máquinas, o que exige alto
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 investimento  e  conhecimentos  sobre  o  manejo  de  espécies  para 
 produção de grãos ou madeira. Uma alternativa é o arrendamento 
 de áreas para agricultores – algo muito comum nos três estados do 
@@ -5606,7 +5579,7 @@ na primavera, para acelerar a implantação do arroz irrigado. Por sua
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 vez, o pecuarista quer usar o máximo da pastagem, o que, às vezes, 
 torna a parceria pouco profícua para o adequado manejo do sistema 
 de ILP. É importante enfatizar que, antes de serem implementadas, 
@@ -5648,7 +5621,7 @@ para  expansão  de  investimentos  florestais  é  limitada;  no  entanto,
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 existe oportunidade para a expansão dos sistemas de integração com 
 árvores. Por causa disso, é provável que a região Sul do Brasil tenha 
 uma  diminuição  no  fornecimento  de  matéria-prima  de  produtos 
@@ -5696,7 +5669,7 @@ embora de menor frequência, são as estiagens prolongadas.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Tabela 1. Espécies arbóreas para o sistema de ILPF na região Sul do Brasil, de 
 acordo com a ocorrência de geadas.
 
@@ -5769,7 +5742,7 @@ permite o trânsito de máquinas e implementos e favorece o manejo
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 do rebanho e a colheita da madeira. É importante lembrar que a 
 distância entre os renques deve ser calculada para permitir que os 
 implementos transitem sem dificuldades. Por exemplo, deve-se levar 
@@ -5811,7 +5784,7 @@ caso  de  plantios  orientados  para  produção  de  madeira  fina,  em
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 que todas as árvores serão colhidas (corte raso) quando atingirem 
 o ponto de colheita. As árvores poderão ser desbastadas em idade 
 mais avançada (árvores mais velhas), quando os plantios forem feitos 
@@ -5854,7 +5827,7 @@ resposta da pergunta 88).
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 180 
 
 Nas condições de solos hidromórficos, nos quais o cultivo 
@@ -5885,7 +5858,7 @@ muito frequentes no Rio Grande do Sul.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 8
 
 Práticas e Manejo de 
@@ -5906,7 +5879,7 @@ José Henrique de Albuquerque Rangel
 Joaquim Bezerra Costa
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 181 
 
 Quais são as formas ou modalidades de sistemas de inte-
@@ -5952,7 +5925,7 @@ peração  ou  renovação  de  pastos  para  atividade  de
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 bovinocultura  e  ovinocultura,  por  meio  do  consórcio  de 
 milho  ou  arroz  (Oryza  sativa)  com  forrageiras  na  mesma 
 área.
@@ -5996,7 +5969,7 @@ na recuperação de pastagens degradadas ou na formação de novas
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 pastagens. O sistema tem início com o plantio do milho em toda a 
 área, em consórcio com o capim-braquiarão. Logo após a emergên-
 cia do milho e do capim, a gliricídia é plantada em linhas afastadas 
@@ -6039,7 +6012,7 @@ As filas (ou renques) de gliricídia devem ser cultivadas em apenas
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 um sentido e não cruzadas para permitir a colheita dos cocos. Esse 
 sistema acarreta um maior trabalho para a colheita dos cocos, mas 
 aumenta  o  rendimento  do  coqueiral  com  adição  de  renda  pela 
@@ -6083,7 +6056,7 @@ edades. Considerando-se que a pecuária é a atividade econômica
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 principal  desses  locais,  os  modelos  adotados  estão  relacionados 
 com atividades de sistemas de produção animal. Dessa forma, as 
 propriedades dedicadas predominantemente à pecuária bovina de 
@@ -6127,7 +6100,7 @@ de ILP.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 Por sua vez, existe uma expressiva área de pastagens degradadas 
 nas  sub-regiões  da  Zona  da  Mata  e  do  Agreste  nordestino,  as 
 quais apresentam grande potencial para adoção dessas estratégias. 
@@ -6171,7 +6144,7 @@ são os mais praticados nesta sub-região.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 •	 Nas sub-regiões do Agreste e da Zona da Mata, a opção 
 mais  adequada  é  o  consórcio  do  milho  com  Urochloa 
 decumbens ou Urochloa ruziziensis.
@@ -6214,7 +6187,7 @@ na qual, a cada safra, o consórcio e a pastagem passam para a área
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 que foi cultivada com soja, e assim sucessivamente. No Nordeste, 
 em regiões onde há predomínio da pecuária, a sucessão é feita com 
 o consórcio de culturas de grãos com forrageiras com a finalidade 
@@ -6259,7 +6232,7 @@ maranhense,  as  forrageiras  mais  indicadas  para  formar  pasto  são
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 as do gênero Urochloa (espécies  U. ruziziensis e U. brizantha cv. 
 Marandú) e as do gênero Panincum (cultivares Tanzânia, Mombaça 
 e Massai). Quando o objetivo é a formação de pasto para ovinos, as 
@@ -6305,7 +6278,7 @@ tal fim. Depois devem ser levados para os piquetes de terminação.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 Esse método evita que a área de cultivo de grãos seja infestada com 
 outras ervas oriundas das fezes dos animais.
 
@@ -6350,7 +6323,7 @@ mais indicada é a da sobressemeadura de sementes de milheto ou
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 forrageiras  do  gênero  Urochloa  nas  fases  R5  ou  R6  da  soja,  em 
 que a colheita só ocorre a partir de março. Nessa modalidade, a 
 semeadura  pode  ser  a  lanço  e  pode-se  utilizar  avião  agrícola  ou 
@@ -6397,7 +6370,7 @@ contribui para manter nossas matas nativas intactas.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 195 
 
 Para  a  realidade  edafoclimática  da  Caatinga,  do  Agreste 
@@ -6439,7 +6412,7 @@ nesse período.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 196 
 
 Quais são as principais opções de espécies florestais exóticas 
@@ -6483,7 +6456,7 @@ utilizadas como componentes arbóreos em sistemas de ILPF. Outras
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 espécies com potencial, mas que ainda carecem de pesquisa, são as 
 seguintes: jatobá (Hymenaea courbaril), pequi (Caryocar brasiliense), 
 ipê ou pau-d’arco (Handroanthus impetiginosus), faveira-de-bolota 
@@ -6528,7 +6501,7 @@ da espécie arbórea, que é plantada em renques separados em faixas
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 ou aleias, onde se cultivam lavouras por cerca de 3 anos. Daí até 
 ao final do ciclo da espécie arbórea, a pastagem que será formada 
 no  terceiro  ano  pelo  consórcio  com  milho  será  utilizada  para  a 
@@ -6572,7 +6545,7 @@ em Uruçuí, e URT Fazenda São Marcos, em Bom Jesus) e
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 Maranhão  (URT  Fazenda  Santa  Luzia,  em  São  Raimundo 
 das Mangabeiras).
 
@@ -6621,7 +6594,7 @@ nos  três  componentes  do  sistema  agrossilvipastoril  (ILPF);  falta  de
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 articulação e organização dos potenciais usuários do sistema de ILPF; 
 pouca articulação e envolvimento dos agentes financeiros oficiais 
 para garantir o financiamento do sistema de ILPF para os produtores, 
@@ -6666,7 +6639,7 @@ Panicum sp.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 203 
 
 Qual é o plano de exploração dos sistemas de integração 
@@ -6711,7 +6684,7 @@ equipamentos  de  fabricação  de  ração,  compostos  por  trilhadora,
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 torrefador,  triturador  e  misturador  de  ração.  Nessas  áreas,  o 
 componente florestal é o eucalipto, que é plantado em glebas com 
 o cultivo intercalado em renques de até três fileiras espaçadas em 
@@ -6754,7 +6727,7 @@ destaca  pela  agregação  de  valor  às  áreas  e  pela  reconstrução  de
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 reserva legal e conservação de Áreas de Proteção Permanente (APP). 
 Além  disso,  torna-se  considerável  poupança,  ao  longo  dos  anos, 
 como  no  caso  do  plantio  de  eucaliptos,  que  permite  o  primeiro 
@@ -6788,9 +6761,9 @@ em condições de uso na entressafra.
 183
 
 
- 500pr_pgnumber184
-
  500pr_pgnumber185
+
+ 500pr_pgnumber186
 9
 
 Práticas e Manejo de 
@@ -6812,7 +6785,7 @@ Jamil Chaar El Husny
 Tadário Kamel de Oliveira
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 206 
 
 Quais são as formas ou modalidades de sistema de inte-
@@ -6862,7 +6835,7 @@ produção  do  chamado  boi  safrinha,  ou  seja,  engorda  de  bovinos
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 com uma taxa de lotação reduzida, sendo que a gramínea também 
 servirá de palhada para o plantio direto de grãos na próxima safra. 
 E, em outros casos, em que a distribuição de chuvas permite, tem- 
@@ -6905,7 +6878,7 @@ adicional no mesmo ano agrícola.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 O  componente  florestal  dos  sistemas  ILPF  e  IPF,  em  sua 
 maioria, é adotado por pequenos e médios produtores, visando ao 
 bem-estar animal e, em alguns casos, grandes produtores objetivam 
@@ -6945,7 +6918,7 @@ de reduzir os riscos da atividade agropecuária.
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 210 
 
 Quais são as opções de consórcio de culturas para o sistema 
@@ -6988,7 +6961,7 @@ arroz-forrageira;  e  rotação  de  soja-milho,  soja-forrageira  e  milho-
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 -forrageira. As forrageiras predominantemente utilizadas na região 
 são as braquiárias.
 
@@ -7031,7 +7004,7 @@ período seco.
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 215 
 
 Como deve ser o manejo animal em áreas recém-implan-
@@ -7076,7 +7049,7 @@ correção e adubação; adquirir sementes, preparar a área e aplicar
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 calcário; semear as culturas de grãos e forrageiras; após a colheita 
 dos grãos, aguardar período de pousio na área para iniciar o pastejo; 
 introduzir  os  animais  para  pastejo  no  período  seco;  isolar  a  área 
@@ -7119,7 +7092,7 @@ de vários fatores que poderão influenciar no
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 sucesso da atividade, sendo eles principalmente: finalidade do com-
 ponente florestal – comercial ou não; mercado consumidor; dispo-
 nibilidade de mudas de qualidade – embora a região seja conhecida 
@@ -7175,7 +7148,7 @@ e também à recomposição de passivos ambientais.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 •	 Árvores  aleatórias:  normalmente  advindas  do  aproveita-
 
 mento de árvores já existentes na área de pasto.
@@ -7219,7 +7192,7 @@ No Tocantins, as experiências com sistema de ILP estão concentradas
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 nos municípios de Pedro Afonso e Gurupi, envolvendo atividades 
 de pesquisa e transferência de tecnologias.
 
@@ -7262,7 +7235,7 @@ parte  delas  apresenta  algum  grau  de  degradação  (estimativa  de
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 30 milhões de hectares). Isso reflete nas baixas produtividades da 
 atividade na região. Nesse sentido, o uso de sistemas de ILPF é uma 
 excelente alternativa para recuperação dessas áreas degradadas. 
@@ -7309,7 +7282,7 @@ inserção do componente florestal.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 226 
 
 Quais  são  os  principais  benefícios  dos  sistemas  de  inte-
@@ -7369,7 +7342,7 @@ a  região  Norte  vem  aumentando  anualmente  a  área  plantada
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 com culturas agrícolas (soja, milho, sorgo, etc.) por meio de em-
 presas  e  produtores  vindos  de  regiões  tradicionais.  Nesse  novo 
 cenário,  houve  aumento  da  competitividade,  pressão  ambiental 
@@ -7412,7 +7385,7 @@ os  animais  podem  ingressar  no  sistema.  A  conduta  é  observar  o
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 diâmetro do tronco/fuste quanto à resistência ao contato do animal 
 com a árvore. Em alguns casos, dependendo da espécie, as áreas das 
 árvores são cercadas para que os animais não prejudiquem o tronco 
@@ -7427,9 +7400,9 @@ com as árvores, pois tendem a roçar frequentemente no tronco das
 199
 
 
- 500pr_pgnumber200
-
  500pr_pgnumber201
+
+ 500pr_pgnumber202
 10
 
 Desempenho das 
@@ -7474,7 +7447,7 @@ Moacyr Bernardino Dias Filho
 Haroldo Pires de Queiroz
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 231 
 
 Quais são as principais forrageiras tropicais recomendadas 
@@ -7520,7 +7493,7 @@ fases iniciais, do primeiro ao terceiro ano da implantação das árvores,
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 quando os efeitos da competição ou do sombreamento exercidos 
 pelas árvores são menores. Para pastagens com períodos de utilização 
 mais prolongados em sistemas com árvores, é desejável que sejam 
@@ -7562,7 +7535,7 @@ no desenvolvimento inicial do cultivo anual. Para isso, é necessário o
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 monitoramento do grau de competição da forrageira sobre a cultura 
 anual, o que vai orientar a necessidade de aplicação de herbicidas 
 para  controle  da  competição  da  forrageira  sobre  a  cultura  anual. 
@@ -7604,7 +7577,7 @@ de linhas simples, com vistas a se permitir elevada incidência de luz
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 para o pasto durante os anos de cultivo. Para maiores densidades, 
 devem-se planejar desbastes de parte das árvores entre o quarto e 
 o sexto anos de plantio. Reposição de nutrientes ao solo, por meio 
@@ -7657,7 +7630,7 @@ ou sistemático das árvores, mediante diminuição do número
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 de renques ou de fileiras de árvores ou ainda do número 
 de árvores dentro da fileira para favorecer a entrada de luz 
 e a produtividade da pastagem; isso também possibilitará 
@@ -7706,7 +7679,7 @@ qualidade
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 necessidade de diminuir os riscos, assegurando um rápido estabele-
 cimento e o uso mais precoce da pastagem. Atenção deve ser dada 
 à qualidade das sementes das forrageiras, por se tratar de sistemas 
@@ -7749,7 +7722,7 @@ lavouras de grãos, a adubação da forrageira poderá ser minimizada,
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 ou até mesmo dispensada, para a implantação da pastagem. Já para 
 a fase de manutenção da produtividade de pastagens, a tendência 
 também é de se trabalhar com maiores adubações de manutenção 
@@ -7790,7 +7763,7 @@ os  pastos  de  sistema  de  ILPF  tendem  a  apresentar  declínio  mais
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 acentuado na produtividade do que em sistema de ILP, por causa 
 do efeito do sombreamento em áreas com maiores densidades de 
 árvores e/ou com menores espaçamentos entre fileiras ou renques 
@@ -7829,7 +7802,7 @@ mais quentes).
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 239 
 
 Qual é o potencial de produtividade das principais forra-
@@ -7873,7 +7846,7 @@ maior eficiência de uso da forragem produzida. Contudo, o pastejo
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 contínuo pode ser vantajoso em pastagens de curta duração, em que 
 a construção de cercas torna-se onerosa; além disso, esse método 
 permite maior desempenho individual, sendo adequado quando se 
@@ -7915,7 +7888,7 @@ altura de pré-pastejo ou de entrada, e de pós-pastejo ou de saída
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 dos animais); em sistemas menos intensivos, geralmente, adota-se o 
 pastejo contínuo e o alternado (com referenciais de altura máxima 
 e  mínima  de  entrada  e  saída),  com  preferência  pelas  forrageiras 
@@ -7990,7 +7963,7 @@ evitar situações de superpastejo.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 242 
 
 Por que a qualidade ou o valor nutricional das forrageiras 
@@ -8035,7 +8008,7 @@ estabelecimento, e a maioria desses sistemas apresenta ciclos curtos
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 e utiliza gramíneas bastante produtivas, com crescimento agressivo. 
 Entretanto, a opção de uso de uma leguminosa arbustiva na fase de 
 lavoura tem se mostrado interessante. O consórcio simultâneo, na 
@@ -8078,7 +8051,7 @@ No bioma Amazônia, o amendoim forrageiro (Arachis pintoi) tem se
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 mostrado bastante promissor. Propagado tanto por sementes como 
 por mudas, o amendoim forrageiro seria particularmente vantajoso 
 nas áreas mais sombreadas, ao longo das linhas de plantio das árvores. 
@@ -8121,7 +8094,7 @@ Para regiões com estação seca muito prolongada, em que as plantas
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 forrageiras  se  apresentam  com  poucos  tecidos  verdes  ou  como 
 feno em pé, ao final da estação seca, uma estratégia de manejo é 
 a realização de um rebaixamento da pastagem, seja utilizando um 
@@ -8168,7 +8141,7 @@ por qualquer produtor ou pecuarista em diferentes escalas. Existem
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 implementos  que  permitem  a  prática  do  consórcio  em  qualquer 
 situação. Como exemplo, a terceira caixa acoplada às semeadoras- 
 -adubadoras permite o consórcio simultâneo de culturas produtoras 
@@ -8210,7 +8183,7 @@ principalmente,  com  nematoides  que  afetam  as  culturas  e  que
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 utilizam  essas  forrageiras  anuais  como  hospedeiras;  nesses  casos, 
 deve-se dar preferência a capins perenes e a leguminosas forrageiras 
 tolerantes para quebrar o ciclo dos patógenos. O milheto e o sorgo 
@@ -8251,7 +8224,7 @@ as que apresentam maior viabilidade técnica e facilidade operacional
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 para  produção  de  silagem.  A  produção  de  silagem  consorciada 
 segue os mesmos princípios que a produção sem o capim; porém, 
 na produção de silagem, as adubações devem ser maiores que para 
@@ -8293,7 +8266,7 @@ Mateus (ver respostas das perguntas 76 e 77 do Capítulo 3), ou com
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 outros  sistemas  (sistema  Santa  Fé,  etc.).  A  utilização  da  pastagem 
 de boa qualidade por 6 a 9 meses antes da implantação da lavoura 
 de grãos poderá produzir entre 10 arrobas/ha e 13 arrobas/ha de 
@@ -8337,7 +8310,7 @@ cipada  em  um  mês,  passando  a  ser  realizada  em  meados  de
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 outubro, ou seja, no início da estação chuvosa. Como é necessária 
 a retirada dos animais de 25 a 40 dias antes da semeadura da soja, 
 para que ocorra rebrota e morte do capim, após a dessecação, as 
@@ -8379,7 +8352,7 @@ pois estas se encontram mais produtivas e refletem positivamente
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 na  produtividade  da  lavoura  em  sequência,  mostrando  os  efeitos 
 sinérgicos entre lavoura e pastagem, e o grande potencial de sistema 
 de ILP para ampliar a eficiência da agropecuária.
@@ -8422,7 +8395,7 @@ processo  de  perfilhamento  das  plantas  que  emergirem;  assim,  a
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 baixa intensidade de luz no dossel acarreta em dificuldade para a 
 formação  de  touceiras  e  cobertura  do  solo  pela  forrageira.  Desse 
 modo,  havendo  a  necessidade  de  implantação  de  capins  nessas 
@@ -8435,9 +8408,9 @@ semeadura do capim.
 223
 
 
- 500pr_pgnumber224
-
  500pr_pgnumber225
+
+ 500pr_pgnumber226
 11
 
 Desempenho das 
@@ -8460,7 +8433,7 @@ Jamir Luís Silva da Silva
 Henrique Pereira dos Santos
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 256 
 
 Quais  são  as  principais  espécies  forrageiras  subtropicais 
@@ -8506,7 +8479,7 @@ cerca de 60 dias após a semeadura, atingem estatura de 20 cm a
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 seca. Pode-se iniciar o pastejo que, no método de lotação contínua, 
 deve manter o pasto nessa faixa de 20 cm a 30 cm, ajustando-se a 
 carga animal ao longo da estação de crescimento. A adubação deve 
@@ -8550,7 +8523,7 @@ medida  que  temperatura  e  luminosidade  aumentam,  com  maior
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 crescimento,  começa  a  sobrar  pasto,  permitindo  a  retirada  dos 
 animais dos cereais de duplo propósito, como o trigo BRS Tarumã, 
 pois a pastagem de aveia-azevém supre a demanda desses animais. 
@@ -8594,7 +8567,7 @@ em  sistema  de  IPF  aplica-se  para  aquelas  espécies  que  mantêm
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 um potencial de crescimento à sombra semelhante ao observado 
 a  pleno  sol.  Isso  não  significa  dizer  qualquer  nível  de  sombra. 
 Quando  se  menciona  forrageiras  tolerantes  à  sombra,  significa 
@@ -8637,7 +8610,7 @@ forrageira e do nível de sombreamento. De forma geral, se os fatores
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 em  sombreamento  intermediário  apresentam  aumentos  relativos 
 nos  teores  de  proteína  bruta  (PB)  na  forragem.  Entretanto,  com 
 leguminosas  forrageiras,  o  efeito  do  aumento  do  sombreamento 
@@ -8677,7 +8650,7 @@ linhas das árvores.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 265 
 
 Quando é possível realizar o primeiro pastejo com animais 
@@ -8721,7 +8694,7 @@ das  mudas  ainda  não  permite  a  introdução  de  animais  na  área,
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 é  possível  aproveitar  a  pastagem  da 
 seguinte  forma:  produção  de  forragem 
 conservada (corte para produção de feno 
@@ -8763,7 +8736,7 @@ de carga animal e baixo resíduo ou altura pós-pastejo) em sistema
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 de IPF, situação comumente observada em propriedades rurais, e 
 que  podem  facilmente  comprometer  o  rebrote,  o  crescimento  e 
 a  persistência  de  plantas  forrageiras  que  crescem  sob  condições 
@@ -8807,7 +8780,7 @@ Nas condições do Sul do Brasil, espaçamentos menores que este
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 têm se mostrado insuficientes para uma persistência da pastagem em 
 longo prazo. É possível adotar plantio de árvores em linhas simples 
 ou em renques de linhas duplas, triplas ou quádruplas, dependendo 
@@ -8850,7 +8823,7 @@ verão, a orientação leste-oeste de plantio das árvores proporciona
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 maior luminosidade nas entrelinhas, já que a sombra das árvores 
 segue o movimento do sol, e esta é projetada sobre a própria linha 
 das árvores, durante os meses mais quentes do ano no Sul do Brasil.
@@ -8892,7 +8865,7 @@ naturalmente. No inverno seguinte, a pastagem se restabelece de
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 forma  satisfatória.  Quando  em  algumas  propriedades  não  houver 
 regeneração satisfatória de pastagens de verão, pode-se fazer uso de 
 espécies forrageiras anuais de verão, visando à pecuária, ou utilizar 
@@ -8936,7 +8909,7 @@ da área, ou seja, o arroz irrigado deve ocupar a área por 1 a 2 anos,
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 e  outras  culturas  de  sequeiro  e  pastagens  devem  ser  utilizadas 
 durante 3 a 6 anos, chamado de período de pousio da cultura do 
 arroz. Essa recomendação técnica é em virtude do ambiente sem 
@@ -8978,7 +8951,7 @@ espécies nativas de verão, o período de pastejo ao longo do ano
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 poderá chegar entre 280 e 300 dias. Durante a fase das pastagens 
 de inverno, o pastejo ficará entre 120 e 140 dias.
 
@@ -9023,7 +8996,7 @@ do solo e rotações de áreas visando a melhor adequação para que
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 as pastagens de inverno e de verão atinjam seu máximo crescimento 
 nesses ambientes. Após acúmulo de forragem, é importante ajustar 
 o nível de oferta de forragem aos animais, em torno de três a quatro 
@@ -9065,7 +9038,7 @@ Deve  ser  destacada  também  a  grande  incorporação  de  matéria
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 orgânica ao solo via sistema radicular das forrageiras, principalmente 
 as de inverno. Então, durante a fase pastagem, haverá maior ciclagem 
 de  nutrientes  e  menor  retirada,  o  que  tem  levado  a  pesquisa  a 
@@ -9108,7 +9081,7 @@ preceitos  básicos  do  Programa  Agricultura  de  Baixo  Carbono
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 (Programa ABC): diversificação via sistema de ILP, plantio direto de 
 qualidade, recuperação das pastagens naturais e fixação biológica 
 de nitrogênio com o uso de leguminosas forrageiras, bem adaptadas 
@@ -9152,7 +9125,7 @@ propriedade, da escala de produção, do tamanho da área, do nível
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 de investimento e planejamento. Em pequenas propriedades, o leite 
 é a atividade mais utilizada e é mais recomendada pela rentabilidade 
 e pelo manejo familiar. No entanto, há modelos em grande escala 
@@ -9173,7 +9146,7 @@ de semeadura das culturas.
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 12
 
 Estratégia de 
@@ -9202,7 +9175,7 @@ Paulino José Melo Andrade
 Carlos Eugênio Martins
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 281 
 
 A produtividade de leite é maior ou menor em áreas sob 
@@ -9246,7 +9219,7 @@ comprometida, traze um baixo aproveitamento do sistema e, com
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 isso, ineficiência econômica. O sistema de ILPF é misto e complexo 
 e exige conhecimento técnico para sua plena execução. Por outro 
 lado,  é  um  sistema  completo  que  proporciona  aos  animais  uma 
@@ -9288,7 +9261,7 @@ tantes e vacas prenhas em final de lactação com baixa produção.
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 Alimentos como silagem de milho ou sorgo devem ser destinados 
 à época da seca para as vacas e novilhas recém-paridas de maior 
 produção de leite, e novilhas e vacas em pré-parto. O mesmo ra-
@@ -9330,7 +9303,7 @@ dependendo da espécie forrageira utilizada.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 285 
 
 Quais espécies forrageiras podem ser utilizadas no sistema 
@@ -9401,7 +9374,7 @@ parceria  com  a  Empresa  de  Assistência  Técnica  e  Extensão  Rural
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 (Emater) e os proprietários do sítio Valão, em Mar de Espanha, MG, 
 em área de sistema de ILPF, apresentaram produtividade acima de 
 50 t/ha de milho ensilado no primeiro ano e ao redor de 35 t/ha 
@@ -9445,7 +9418,7 @@ benefícios à pastagem diminuem, e pode até haver diminuição da
 248
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 produção  de  pastagem.  Para  resolver  esse  problema,  devem  ser 
 realizados  desbastes  das  árvores  para  aumentar  a  incidência  de 
 luz para o pasto. A experiência até o momento indica que a cada 
@@ -9489,7 +9462,7 @@ com boa proporção de folhas verdes.
 249
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 291 
 
 Na estratégia de ILPF, o que deve ser considerado na aduba-
@@ -9531,7 +9504,7 @@ com o adubo sendo colocado na cova ou no sulco de plantio das
 250
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 292 
 
 Por que não há necessidade de adubação convencional na 
@@ -9577,7 +9550,7 @@ relação às adubações de plantio e de cobertura. Como a forrageira
 251
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 utilizada para o pastejo será semeada no mesmo dia do milho, por 
 exemplo, a sua necessidade de nutriente será sanada pela adubação 
 de plantio e cobertura do milho. Após a colheita do milho para a 
@@ -9620,7 +9593,7 @@ o recomendado, pois há um limite fisiológico de cada cultura em
 252
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 relação à sua capacidade de suporte. Além da cultura, a classe do 
 solo, o relevo e o clima interferem na resposta que se pode esperar 
 de  uma  forrageira  no  fornecimento  de  alimento  para  animais  em 
@@ -9662,7 +9635,7 @@ poderão  ocorrer  em  áreas  irrigadas.  Desse  modo,  a  assistência
 253
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 técnica  é  indicada  para  auxiliar  na  recomendação  de  calagem  e 
 adubação do solo.
 
@@ -9707,7 +9680,7 @@ na escolha do método mais adequado na tomada de decisão. Auxilia
 254
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 na  opção  do  herbicida  mais  indicado,  possibilitando  o  controle 
 de  maior  número  possível  de  espécies  infestantes.  A  rotação  de 
 herbicidas  e  formulações  com  mecanismos  de  ação  diferentes 
@@ -9751,7 +9724,7 @@ solução. Há ainda a possibilidade de aplicar herbicidas granulados
 255
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 no solo, ao redor do caule das plantas daninhas. A chuva dissolve o 
 produto, que é absorvido pelo sistema radicular da espécie daninha.
 
@@ -9796,7 +9769,7 @@ da espécie forrageira deve estar focada na sua adaptabilidade
 256
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 •	 Pressão  de  pastejo:  a  permanência  nas  áreas  de  pastejo 
 de  um  número  de  animais  por  hectare  maior  do  que 
 a  capacidade  de  suporte  do  pasto  leva  à  degradação  da 
@@ -9841,7 +9814,7 @@ exemplo,  milho  (para  produção  de  silagem  ou  grãos),  Urochloa
 257
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 brizantha  cv.  Marandú  e  o  componente  florestal,  via  de  regra 
 o  eucalipto,  ocorre  no  mesmo  dia.  Após  a  colheita  do  milho,  e 
 passados 30 a 60 dias, a pastagem está em condições de uso pelo 
@@ -9880,7 +9853,7 @@ n. 4, p. 159-168, Dec. 1987.
 258
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 13
 
 Experiências com 
@@ -9898,7 +9871,7 @@ Roberto Giolo de Almeida
 Haroldo Pires de Queiroz
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 306 
 
 Quais  são  os  principais  requisitos  das  propriedades  de 
@@ -9955,7 +9928,7 @@ floresta.
 260
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 •	 Assistência técnica agronômica para as culturas e veterinária 
 
 para os animais.
@@ -10002,7 +9975,7 @@ que o componente florestal competir mais acentuadamente com a
 261
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 pastagem, haverá redução na capacidade de suporte das pastagens, 
 e, consequentemente, haverá redução na produtividade da pecuária 
 de corte.
@@ -10046,7 +10019,7 @@ melhor desempenho produtivo e boa genética e pode ser em ciclo
 262
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 completo, ou animais comerciais de recria-engorda com terminação 
 em semiconfinamento ou confinamento, em um ciclo mais rápido 
 de produção.
@@ -10086,7 +10059,7 @@ incluídos bovinos.
 263
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 314 
 
 É  desejável  ou  necessário  adotar  o  semiconfinamento 
@@ -10131,7 +10104,7 @@ nam melhores condições para o sistema de plantio direto (SPD) e,
 264
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 portanto, tem melhor estabilidade 
 produtiva.  Por  exemplo,  no  Mato 
 Grosso  do  Sul  e  no  Mato  Gros-
@@ -10179,7 +10152,7 @@ de  29,5  m3/ha  e  18,3  m3/ha  para  população  de  357  árvores/ha  e
 265
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 317 
 
 É possível obter aumento de receita líquida em propriedades 
@@ -10223,7 +10196,7 @@ da propriedade. Ao final do ciclo (12º ano), estima-se que haverá
 266
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 aproximadamente de 80 m3 a 100 m3 de madeira para serraria, que 
 possui maior valor.
 
@@ -10266,7 +10239,7 @@ bovino  na  área.  No  intuito  de  contornar  esse  problema,  opta-se
 267
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 por espécies arbóreas que apresentam rápido crescimento inicial, 
 possibilitando o pastejo o quanto antes. Levando-se em consideração 
 esse aspecto, tem-se dado ênfase ao uso de materiais genéticos de 
@@ -10308,7 +10281,7 @@ parte a perda de produtividade. Para minimizar os problemas com
 268
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 competição  por  água,  luz  e  nutrientes,  devem-se  adotar  arranjos 
 espaciais que favoreçam os cultivos do sub-bosque, ou seja, adotar 
 maiores espaçamentos entre renques de árvores. Como mencionado 
@@ -10351,7 +10324,7 @@ fertilidade e sem palhada para o plantio direto, normalmente obtêm-
 269
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 produção no primeiro ano de cultivo, desestimulando os produtores a 
 realizarem a recuperação das pastagens com o uso de sistema de ILP.
 
@@ -10396,7 +10369,7 @@ uma atenção especial, em razão do rápido crescimento da pastagem
 270
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 e  do  alto  acúmulo  de  forragem,  o  que  implica  em  dificuldades 
 para  realizar  o  controle  do  pastejo.  Nessas  condições,  o  mais 
 recomendado é o pastejo rotacionado, pelo menos com algumas 
@@ -10432,9 +10405,9 @@ descontrole do pastejo pode implicar em danos ao solo.
 271
 
 
- 500pr_pgnumber272
-
  500pr_pgnumber273
+
+ 500pr_pgnumber274
 14 Bem-estar Animal 
 
 em Sistema de 
@@ -10448,7 +10421,7 @@ Maria Luiza Franceschi Nicodemo
 Vanderley Porfírio-da-Silva
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 327 
 
 Como se define o bem-estar animal e qual é a sua impor-
@@ -10496,7 +10469,7 @@ atendida pelo correto manejo sanitário dos animais.
 274
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 4.  Liberdade  comportamental  (possibilidade  de  expressar 
 os comportamentos característicos da espécie) – possível 
 em  ambientes  com  espaços  e  instalações  adequados, 
@@ -10541,7 +10514,7 @@ e evaporativo, por exemplo); acima de 26,5 °C para gado europeu
 275
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 e de 35 °C para gado zebuíno, os mecanismos de compensação 
 começam  a  falhar,  acarretando  rápido  aumento  da  temperatura 
 retal e declínio na ingestão de alimentos, na produção de leite e no 
@@ -10585,7 +10558,7 @@ estresse são:
 276
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 •	 Aumento da sudorese – importante para equinos, asininos, 
 
 bovinos, bubalinos, caprinos, ovinos e suínos.
@@ -10634,7 +10607,7 @@ promovidas  pela  presença  de  ár-
 277
 
 
- 500pr_pgnumber278
+ 500pr_pgnumber279
 vores no microclima local em sistemas de ILPF com componente 
 florestal ocorrem sobre a velocidade dos ventos, a temperatura do 
 ar, a pressão de saturação de vapor e a radiação solar incidente. É 
@@ -10676,7 +10649,7 @@ podendo  chegar  até  9  °C  de  diferença,  a  depender  da  espécie
 278
 
 
- 500pr_pgnumber279
+ 500pr_pgnumber280
 vegetal. As árvores também atuam como quebra-ventos e regulam a 
 velocidade dos ventos. Isso também influencia no conforto térmico 
 do animal, pois, em condições de baixa velocidade dos ventos, o 
@@ -10718,7 +10691,7 @@ pois  haverá  maior  tempo  de  pastejo  e  ruminação.  Entretanto,
 279
 
 
- 500pr_pgnumber280
+ 500pr_pgnumber281
 poucas informações a esse respeito estão disponíveis na literatura 
 nacional. Contudo sabe-se que as pastagens dos sistemas de ILPF 
 possuem maior valor nutricional – teores de proteína bruta 15% a 
@@ -10764,7 +10737,7 @@ por calor e suas consequências.
 280
 
 
- 500pr_pgnumber281
+ 500pr_pgnumber282
 340 
 
 Qual é o tipo de arranjo de distribuição espacial de árvores 
@@ -10808,7 +10781,7 @@ na incidência de doenças respiratórias, como pneumonia.
 281
 
 
- 500pr_pgnumber282
+ 500pr_pgnumber283
 342 
 
 De que forma o vento pode afetar o bem-estar e a produção 
@@ -10849,7 +10822,7 @@ exemplo, garantiriam espaço entorno dos animais de 0,5 m e 1 m,
 282
 
 
- 500pr_pgnumber283
+ 500pr_pgnumber284
 respectivamente. Acrescente-se que, em um ambiente com pouca 
 área de sombra disponível, pode haver disputa por área sombreada, 
 acarretando prejuízo aos animais mais velhos, fracos ou submissos.
@@ -10896,7 +10869,7 @@ as  variáveis  microclimáticas  que  determinam  o  conforto  térmico
 283
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 protege sob essas estruturas produtoras de sombra. Por exemplo, na 
 “sombra natural” produzida por árvores, a umidade do ar poderá 
 ser maior do que na “sombra artificial” proporcionada por uma tela 
@@ -10937,7 +10910,7 @@ resposta da pergunta 96).
 284
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 347 
 
 Os sistemas de ILPF oferecem maior risco aos animais quan-
@@ -10982,7 +10955,7 @@ em  sistemas  com  adequado  bem-estar  sofrem  menos  situações
 285
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 estressantes  e,  consequentemente,  estão  menos  propícios  à  dimi-
 nuição da qualidade do produto final. Em sistemas de ILPF, julga- 
 -se que, atendidas todas as necessidades básicas dos animais (como 
@@ -11028,7 +11001,7 @@ pode ter um papel importante na melhoria do bem-estar de ovinos,
 286
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 principalmente em relação à fotossensibilização. As gramíneas forra-
 geiras  tropicais  mais  frequentemente  utilizadas  na  formação  de 
 pastagens para ovinos são espécies e cultivares de Urochloa spp. (syn. 
@@ -11048,9 +11021,9 @@ problema.
 287
 
 
- 500pr_pgnumber288
-
  500pr_pgnumber289
+
+ 500pr_pgnumber290
 15
 
 Potencial de Mitigação 
@@ -11080,7 +11053,7 @@ Julio César Salton
 Balbino Antônio Evangelista
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 352  O que é o efeito estufa?
 
 O fenômeno conhecido como 
@@ -11123,7 +11096,7 @@ potential (GWP) –, que estará valendo até 2020.
 290
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 354 
 
 O que o aumento nas concentrações de GEE na atmosfera 
@@ -11167,7 +11140,7 @@ dos seguintes fatores: aumento na concentração de CO2 (alterando
 291
 
 
- 500pr_pgnumber292
+ 500pr_pgnumber293
 a fotossíntese e o crescimento de plantas); maior consumo de água 
 pelas plantas e animais; aumento da temperatura do ar e do solo; 
 aumento da evapotranspiração (esvaziando o reservatório do solo); 
@@ -11210,7 +11183,7 @@ de GEE por diversos processos, tais como: fermentação entérica dos
 292
 
 
- 500pr_pgnumber293
+ 500pr_pgnumber294
 alimentos nos herbívoros ruminantes (metano), na decomposição de 
 dejetos de animais (metano e óxido nitroso); degradação da matéria 
 orgânica do solo (MOS) ocasionada pelo preparo convencional do 
@@ -11251,7 +11224,7 @@ e/ou aumentar os sumidouros (sequestro, remoções) de GEE.
 293
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 360 
 
 Como podem ser reduzidas as emissões de GEE pela agro-
@@ -11302,7 +11275,7 @@ funções  na  formação  da  biomassa  e  no  metabolismo  vegetal,  e
 294
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 em sistemas de integração com componente florestal – integração 
 pecuária-floresta (IPF), integração lavoura-floresta (ILF) ou integração 
 lavoura-pecuária-floresta  (ILPF)  –,  considera-se  que  há  sequestro 
@@ -11345,7 +11318,7 @@ solo e biomassa. Porém, para que as taxas de sequestro de CO2 sejam
 295
 
 
- 500pr_pgnumber296
+ 500pr_pgnumber297
 elevadas, faz-se necessário associar o SPD e os sistemas integrados com 
 rotação de culturas e culturas de cobertura, como aveia-preta (Avena 
 strigosa  Schreb.)  nas  regiões  subtropicais  e  o  milheto  (Pennisetum 
@@ -11389,7 +11362,7 @@ física do solo com a introdução das pastagens em áreas agrícolas
 296
 
 
- 500pr_pgnumber297
+ 500pr_pgnumber298
 demonstram  que  o  sistema  de  ILP  tem  potencial  para  reduzir  o 
 impacto ambiental das atividades produtivas, reduzindo as emissões 
 de GEE. Há maior potencial de estoque de carbono, considerando 
@@ -11433,7 +11406,7 @@ na fazenda. Nesse sentido, o componente forrageiro é utilizado para
 297
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 pastejo e produção animal por um período e pode ser transformado 
 em  palhada  para  o  SPD  da  cultura  subsequente.  O  consórcio  de 
 milho para produção de grãos com braquiária, por exemplo, tem 
@@ -11477,7 +11450,7 @@ apresentam  maior  valor  nutritivo  e  elevadas  produtividades,  prin-
 298
 
 
- 500pr_pgnumber299
+ 500pr_pgnumber300
 cipalmente nos primeiros anos após a implantação. Uma vez que 
 grande parte da emissão de metano por ruminantes é determinada 
 pela qualidade da dieta, bovinos mantidos nessas pastagens emitirão 
@@ -11518,7 +11491,7 @@ extensivos convencionais.
 299
 
 
- 500pr_pgnumber300
+ 500pr_pgnumber301
 Pastagens produtivas e manejadas adequadamente, além de 
 propiciarem  condições  favoráveis  para  aumentos  significativos  no 
 desempenho  animal,  também  podem  compensar  grande  parte 
@@ -11561,7 +11534,7 @@ de  GEE  entre  36,1%  e  38,9%  em  relação  às  emissões  brasileiras
 300
 
 
- 500pr_pgnumber301
+ 500pr_pgnumber302
 projetadas até 2020. Para tanto, está implantando diferentes ações 
 em diversos setores da economia.
 
@@ -11604,7 +11577,7 @@ eficientes que contribuam para a mitigação da emissão dos GEE.
 301
 
 
- 500pr_pgnumber302
+ 500pr_pgnumber303
 371  Qual é o objetivo do Plano ABC e como ele funciona?
 
 O  objetivo  geral  desse  plano  é  promover  a  mitigação  da 
@@ -11646,7 +11619,7 @@ mudanças climáticas, com o objetivo de diminuir a vulnerabilidade
 302
 
 
- 500pr_pgnumber303
+ 500pr_pgnumber304
 e aumentar a resiliência dos sistemas produtivos, dos produtores e 
 das comunidades rurais.
 
@@ -11691,7 +11664,7 @@ Programa de Garantia da Atividade Agropecuária (Sicor). Entretanto,
 303
 
 
- 500pr_pgnumber304
+ 500pr_pgnumber305
 Programa ABC estejam necessariamente associados a, pelo menos, 
 um  dos  programas  preconizados  pelo  Plano  ABC.  Além  disso, 
 poderá ser financiado custeio associado ao projeto de investimento, 
@@ -11734,7 +11707,7 @@ preservação permanente ou de reserva legal.
 304
 
 
- 500pr_pgnumber305
+ 500pr_pgnumber306
 376 
 
 Os produtores rurais que adotam sistemas de integração 
@@ -11775,9 +11748,9 @@ Brasília, DF, 29 dez. 2009. Seção 1, p. 109.
 305
 
 
- 500pr_pgnumber306
-
  500pr_pgnumber307
+
+ 500pr_pgnumber308
 16
 
 Potencial para Adoção 
@@ -11794,7 +11767,7 @@ Manuel Cláudio Motta Macedo
 Ademir Hugo Zimmer
 
 
- 500pr_pgnumber308
+ 500pr_pgnumber309
 377 
 
 Quando podemos considerar que a pastagem está degra-
@@ -11845,7 +11818,7 @@ animal).
 308
 
 
- 500pr_pgnumber309
+ 500pr_pgnumber310
 380 
 
 Como se inicia e como se concretiza o processo de degra-
@@ -11889,7 +11862,7 @@ encontrem muito degradadas. Portanto, o potencial que a adoção
 309
 
 
- 500pr_pgnumber310
+ 500pr_pgnumber311
 de  sistemas  de  ILP  e  ILPF  tem  para  a  recuperação  de  pastagens 
 degradadas  é  imenso,  com  a  incorporação  de  grandes  extensões 
 de terra ao processo produtivo, sem a necessidade de abertura ou 
@@ -11935,7 +11908,7 @@ designar intervenções pontuais nas pastagens.
 310
 
 
- 500pr_pgnumber311
+ 500pr_pgnumber312
 384 
 
 O  que  significa  recuperação  direta  e  indireta?  Em  qual 
@@ -11980,7 +11953,7 @@ ração/renovação das pastagens é a de que esse sistema melhore a
 311
 
 
- 500pr_pgnumber312
+ 500pr_pgnumber313
 fertilidade do solo, interrompa ciclos de pragas, doenças, e de ervas 
 daninhas,  de  forma  mais  econômica,  pois  amortiza  o  custo  das 
 melhorias pela venda dos grãos. No entanto, a adoção da ILP requer 
@@ -12023,7 +11996,7 @@ sas condições, que são determinadas pelo diagnóstico realizado na
 312
 
 
- 500pr_pgnumber313
+ 500pr_pgnumber314
 região e na propriedade, de acordo com os objetivos do proprietário, 
 da  disponibilidade  e  qualificação  da  mão  de  obra  e  do  nível 
 gerencial e operacional da propriedade. O tempo de exploração da 
@@ -12066,7 +12039,7 @@ sucesso para o local. O produtor deve ter em mente que, muitas
 313
 
 
- 500pr_pgnumber314
+ 500pr_pgnumber315
 vezes, no primeiro ano, por causa do elevado grau de degradação 
 em que se encontrava a pastagem, a produção de grãos da cultura 
 pode não atingir o potencial esperado. As espécies que vão fazer 
@@ -12109,7 +12082,7 @@ e  biológicas,  é  uma  realidade.  Essas  melhorias  aumentam  a  vida
 314
 
 
- 500pr_pgnumber315
+ 500pr_pgnumber316
 lotações equilibradas, sem superpastejo, é outra forma de manter 
 a pastagem recuperada por mais tempo em sistemas de ILP e ILPF.
 
@@ -12154,7 +12127,7 @@ tipo de intervenção que precisa ser realizada. Estágios avançados de
 315
 
 
- 500pr_pgnumber316
+ 500pr_pgnumber317
 degradação  requerem  ações  mais  drásticas,  para  remover  cupins, 
 tocos, brotação, estabelecer práticas de conservação do solo. Nessa 
 situação, o SPD precisa ser postergado para as etapas posteriores de 
@@ -12196,7 +12169,7 @@ necessários; uso de SPD e existência de boa cobertura vegetal.
 316
 
 
- 500pr_pgnumber317
+ 500pr_pgnumber318
 398 
 
 Como  iniciar  a  implantação  do  sistema  de  ILP  em  áreas 
@@ -12240,7 +12213,7 @@ no solo.
 317
 
 
- 500pr_pgnumber318
+ 500pr_pgnumber319
 401 
 
 Na  recuperação  da  pastagem  com  cultivos,  quais  devem 
@@ -12261,7 +12234,7 @@ referência para a manutenção do sistema de forma sustentável.
 318
 
 
- 500pr_pgnumber319
+ 500pr_pgnumber320
 17
 
 Potencial para Adoção 
@@ -12277,7 +12250,7 @@ Luiz Adriano Maia Cordeiro
 Robélio Leandro Marchão
 
 
- 500pr_pgnumber320
+ 500pr_pgnumber321
 402  O que são os chamados solos arenosos?
 
 São solos de textura leve, ou seja, com composição granulo-
@@ -12318,7 +12291,7 @@ agrícola já estabelecidos.
 320
 
 
- 500pr_pgnumber321
+ 500pr_pgnumber322
 405  Quais são as principais características de solos arenosos?
 
 Os  solos  arenosos  são  caracterizados  fisicamente  por  terem 
@@ -12366,7 +12339,7 @@ As principais causas de degradação dos solos arenosos referem-
 321
 
 
- 500pr_pgnumber322
+ 500pr_pgnumber323
 associados às queimadas, que originam pulverização das camadas 
 superficiais e, em alguns casos, compactação subsuperficial. Apresen-
 tam,  naturalmente,  severas  limitações  físicas,  químicas  e  hídricas 
@@ -12413,7 +12386,7 @@ favorece a agricultura intensiva, com a utilização de grade aradora
 322
 
 
- 500pr_pgnumber323
+ 500pr_pgnumber324
 pesada associada à utilização de subsoladores e escarificadores. É 
 comum observar nesses solos, quando manejados inadequadamente 
 com esses implementos, a formação de crosta ou camada adensada 
@@ -12453,7 +12426,7 @@ as  perdas  de  carbono  em  solos  arenosos  pelo  excessivo  manejo
 323
 
 
- 500pr_pgnumber324
+ 500pr_pgnumber325
 mecânico ou preparo convencional pode ser de 30% a mais de 70% 
 do teor original em poucos anos (5 a 10 anos). Por sua vez, com a 
 adoção de sistemas de produção sustentáveis, como o sistema de 
@@ -12496,7 +12469,7 @@ para aproveitar o potencial produtivo dessas áreas.
 324
 
 
- 500pr_pgnumber325
+ 500pr_pgnumber326
 413 
 
 É mais difícil corrigir a acidez e construir a fertilidade de 
@@ -12540,7 +12513,7 @@ no mínimo, 5 anos.
 325
 
 
- 500pr_pgnumber326
+ 500pr_pgnumber327
 415 
 
 Quais são os elementos químicos nutricionais que se per-
@@ -12586,7 +12559,7 @@ carência geral de nutrientes. Como o pH é baixo (ou seja, a acidez é
 326
 
 
- 500pr_pgnumber327
+ 500pr_pgnumber328
 alta), esses solos apresentam teores muito baixos de carbono e MOS, 
 além  de  baixo  estoque  de  nitrogênio,  baixa  CTC,  deficiência  de 
 cálcio e presença de alumínio tóxico nas camadas mais profundas. 
@@ -12629,7 +12602,7 @@ adoção parcial dos princípios dos sistemas conservacionistas, como
 327
 
 
- 500pr_pgnumber328
+ 500pr_pgnumber329
 o  SPD,  e  com  o  uso  de  algumas  práticas  consagradas,  como  a 
 correção com a utilização de calcário dolomítico ou calcítico em 
 excesso e de formulações de fertilizantes não indicadas, tem como 
@@ -12672,7 +12645,7 @@ física  e  biológica  desses  solos.  Além  disso,  a  palhada  oriunda  de
 328
 
 
- 500pr_pgnumber329
+ 500pr_pgnumber330
 pastagens tem alta qualidade para o SPD de lavouras em rotação ou 
 sucessão  a  pastagens,  pois  tem  ampla  relação  carbono/nitrogênio 
 (C/N) com decomposição mais lenta e maior tempo de proteção do 
@@ -12715,7 +12688,7 @@ manutenção  permanente  de  terraços  para  a  conservação  desses
 329
 
 
- 500pr_pgnumber330
+ 500pr_pgnumber331
 solos, em virtude de suas características e sensibilidade aos fatores de 
 erosão. O que pode ser feito em alguns casos é o redimensionamento 
 dos terraços, considerando a presença da pastagem em ILP e das 
@@ -12757,7 +12730,7 @@ lucro da propriedade rural.
 330
 
 
- 500pr_pgnumber331
+ 500pr_pgnumber332
 Na  região  do  Oeste  Paulista,  também  há  propriedades  que 
 adotam  sistemas  de  ILP  com  rotação  entre  a  cultura  da  soja  e 
 pastagens.  Em  uma  delas,  foram  registrados  27  dias  com  apenas 
@@ -12797,9 +12770,9 @@ antropizadas.
 331
 
 
- 500pr_pgnumber332
-
  500pr_pgnumber333
+
+ 500pr_pgnumber334
 18
 
 Atributos da Braquiária 
@@ -12818,7 +12791,7 @@ Gessí Ceccon
 Gustavo Spadotti Amaral Castro
 
 
- 500pr_pgnumber334
+ 500pr_pgnumber335
 427  O que é um condicionador de solo?
 
 Condicionador de solo é um produto que promove a melhoria 
@@ -12860,7 +12833,7 @@ de clima tropical, têm crescimento reduzido com a diminuição da
 334
 
 
- 500pr_pgnumber335
+ 500pr_pgnumber336
 temperatura  e  não  toleram  geadas.  Nos  sistemas  de  integração 
 lavoura-pecuária (ILP) e integração lavoura-pecuária-floresta (ILPF), 
 várias espécies são utilizadas com sucesso.
@@ -12903,7 +12876,7 @@ de  matéria  seca,  variando  de  acordo  com  o  manejo,  a
 335
 
 
- 500pr_pgnumber336
+ 500pr_pgnumber337
 fertilidade  do  solo  e  a  adubação.  É  moderadamente  sus-
 ceptível à cigarrinha-das-pastagens. Atualmente vem sendo 
 substituída por espécies mais produtivas. No Brasil a cultivar 
@@ -12947,7 +12920,7 @@ produtor deve buscar as espécies de braquiária que proporcionem
 336
 
 
- 500pr_pgnumber337
+ 500pr_pgnumber338
 baixo  potencial  de  entouceiramento,  pois  essa  característica 
 morfológica pode trazer problemas de dessecação e embuchamento 
 da  semeadora  quando  for  realizada  a  semeadura.  Existem  alguns 
@@ -12994,7 +12967,7 @@ fertilidade  do  solo,  principalmente  nas  camadas  superficiais,  pois
 337
 
 
- 500pr_pgnumber338
+ 500pr_pgnumber339
 recuperam os nutrientes em 
 profundidade.  Isso  ocorre 
 porque  elas  acumulam  boa 
@@ -13035,7 +13008,7 @@ medida na cultura da soja) foi de até 85%, ou seja, a recuperação do
 338
 
 
- 500pr_pgnumber339
+ 500pr_pgnumber340
 fósforo na ILP foi 93% maior do que no sistema grão-grão. Portanto, 
 na  ILP  e  ILPF,  o  cultivo  de  braquiárias  em  sistemas  de  sucessão 
 ou  rotação  de  culturas  pode  implicar  modificações  na  atividade 
@@ -13082,7 +13055,7 @@ agregados  estáveis  são  menos  suscetíveis  à  erosão,  pois
 339
 
 
- 500pr_pgnumber340
+ 500pr_pgnumber341
 os  agregados  são  mais  pesados  que  as  partículas  indivi-
 dualizadas,  dificultando  o  carregamento  pela  água  e  pelo 
 vento.
@@ -13123,7 +13096,7 @@ arbusculares, que, associados às raízes das plantas, atuam como
 340
 
 
- 500pr_pgnumber341
+ 500pr_pgnumber342
 volume  maior  de  solo.  Essa  capacidade  é  muito  importante  no 
 caso  do  nutriente  fósforo,  que  tem  baixa  mobilidade  no  solo. 
 Estudos  realizados  na  Embrapa  Cerrados  demonstram  que  os 
@@ -13171,7 +13144,7 @@ modalidade de ILP, como o Sistema Santa Fé, por exemplo.
 341
 
 
- 500pr_pgnumber342
+ 500pr_pgnumber343
 436 
 
 A braquiária pode eliminar os fungos que habitam o solo e 
@@ -13216,7 +13189,7 @@ com soja e milho safrinha.
 342
 
 
- 500pr_pgnumber343
+ 500pr_pgnumber344
 438 
 
 É verdade que no sistema de ILP o plantio direto na palha 
@@ -13259,7 +13232,7 @@ menos palhada, mais solo descoberto, mais perda de água. Assim,
 343
 
 
- 500pr_pgnumber344
+ 500pr_pgnumber345
 considerando-se  estudos  sobre  cobertura  de  solo  por  palhadas, 
 as  quantidades  variam  de  acordo  com  a  espécie  utilizada  e, 
 sobretudo, com o clima da região. Locais com altas temperaturas 
@@ -13300,7 +13273,7 @@ mais de 107 dias.
 344
 
 
- 500pr_pgnumber345
+ 500pr_pgnumber346
 440 
 
 É verdade que o cultivo de braquiária diminui a quantidade 
@@ -13344,7 +13317,7 @@ cada período de pastejo dificulta a produção de massa, reduzindo o
 345
 
 
- 500pr_pgnumber346
+ 500pr_pgnumber347
 potencial da planta em produzir novos perfilhos e folhas, culminando 
 com  baixa  produção  de  pasto.  Nessas  condições,  a  pastagem 
 degradada pouco pode contribuir nas características químicas, físicas 
@@ -13386,7 +13359,7 @@ implantada, o resíduo pós-pastejo e a formação dos novos perfilhos
 346
 
 
- 500pr_pgnumber347
+ 500pr_pgnumber348
 e folhas garantem boa cobertura vegetal para o sistema de plantio 
 direto  (SPD).  Em  ambas  as  situações,  para  que  esses  benefícios 
 possam ocorrer de forma satisfatória, é importante que o produtor 
@@ -13427,7 +13400,7 @@ e  o  nitrogênio  do  fertilizante,  temporariamente  imobilizado  nos
 347
 
 
- 500pr_pgnumber348
+ 500pr_pgnumber349
 resíduos,  ficam  disponíveis  para  próxima  cultura.  Isso  porque  o 
 nitrogênio  é  um  dos  nutrientes  mais  requeridos  pela  braquiária; 
 assim a fertilização com nitrogênio reflete diretamente na produção 
@@ -13469,7 +13442,7 @@ variável  de  acordo  com  a  espécie  de  braquiária  a  ser  dessecada,
 348
 
 
- 500pr_pgnumber349
+ 500pr_pgnumber350
 a  altura  da  pastagem  e  a  formulação  do  produto  comercial. 
 De modo geral, a U. ruziziensis é dessecada com dose menor que 
 a U. brizantha, por exemplo. Além disso, é importante respeitar o 
@@ -13512,7 +13485,7 @@ quando o teor de matéria orgânica é elevado, diminui o espaço e
 349
 
 
- 500pr_pgnumber350
+ 500pr_pgnumber351
 aumenta a competição com os nematoides, que, por sua vez, têm 
 sua  multiplicação  reduzida.  Já  existem  comprovações  científicas 
 sobre algumas espécies de braquiária utilizadas como cobertura do 
@@ -13555,7 +13528,7 @@ fertilizante  já  garante  que  essa  camada  compactada  possa  ser
 350
 
 
- 500pr_pgnumber351
+ 500pr_pgnumber352
 eliminada com eficiência. Essa haste, quando bem regulada, realiza 
 a descompactação e ainda posiciona o fertilizante abaixo e ao lado 
 das sementes, realizando, assim, duas operações essenciais numa 
@@ -13597,7 +13570,7 @@ o Serviço de Atendimento ao Cidadão da Embrapa1, e ainda, por
 351
 
 
- 500pr_pgnumber352
+ 500pr_pgnumber353
 meio desse canal, solicitar mais informações. O produtor também 
 pode  utilizar  uma  régua  graduada  em  centímetros  e  posicioná-la 
 próximo de uma planta, determinando a altura entre a superfície do 
@@ -13639,7 +13612,7 @@ inclusive,  que  essa  maior  produtividade  de  grãos  foi  obtida  em
 352
 
 
- 500pr_pgnumber353
+ 500pr_pgnumber354
 afirmam que a maior eficiência no uso dos nutrientes do solo pelas 
 culturas de grãos na ILP, em comparação ao cultivo solteiro, resulta 
 em  economia  de  fertilizantes  e,  consequentemente,  na  redução 
@@ -13684,9 +13657,9 @@ colheita dos grãos.
 353
 
 
- 500pr_pgnumber354
-
  500pr_pgnumber355
+
+ 500pr_pgnumber356
 19
 
 Análise Econômico- 
@@ -13706,7 +13679,7 @@ George Corrêa Amaro
 Marcelo Francia Arco-Verde
 
 
- 500pr_pgnumber356
+ 500pr_pgnumber357
 452 
 
 Que fatores podem influenciar a eficiência econômica de 
@@ -13751,7 +13724,7 @@ produtor rural. Não importa o tamanho da propriedade (pequena ou
 356
 
 
- 500pr_pgnumber357
+ 500pr_pgnumber358
 grande), ou o tipo (familiar ou empresarial), ou o ramo de atividade 
 (lavoura ou pecuária ou floresta), a diversificação é a melhor forma 
 de evitar as incertezas e vulnerabilidades de clima, mercado, pragas 
@@ -13798,7 +13771,7 @@ considerando condições de manejo e climáticas específicas.
 357
 
 
- 500pr_pgnumber358
+ 500pr_pgnumber359
 Estudos realizados em diversas localidades da região Centro- 
 -Sul  do  País  têm  demonstrado  a  viabilidade  da  utilização  do 
 consórcio  milho-braquiária  para  a  formação  de  pastagem  para  o 
@@ -13841,7 +13814,7 @@ e não exclusivamente ao tipo de sistema de produção. Para asse-
 358
 
 
- 500pr_pgnumber359
+ 500pr_pgnumber360
 gurar  bons  resultados  e  reduzir  riscos,  o  produtor  deve  planejar 
 minuciosamente a implantação do sistema de integração, quer seja 
 por conta própria quer seja com a ajuda de técnicos da extensão 
@@ -13885,7 +13858,7 @@ em que fatores econômicos e financeiros, juntamente com os fatores
 359
 
 
- 500pr_pgnumber360
+ 500pr_pgnumber361
 biofísicos, sejam avaliados tendo em conta a dinâmica do sistema 
 de produção. A análise financeira representa um marco conceitual 
 lógico, no qual clima, solo, tecnologia, mercado e outros elementos 
@@ -13928,7 +13901,7 @@ projeto, a fim de que o sistema dimensionado seja adequado.
 360
 
 
- 500pr_pgnumber361
+ 500pr_pgnumber362
 •	 Conhecer as características edafoclimáticas do local onde 
 será implantado o sistema (solos, declividade, temperatura, 
 precipitação, altitude, luminosidade), considerando as neces-
@@ -13972,7 +13945,7 @@ despesas com o sistema integrado e a sua capacidade de geração de
 361
 
 
- 500pr_pgnumber362
+ 500pr_pgnumber363
 receitas. Logo, o produtor rural deve estar preparado financeiramente 
 para  superar  os  eventuais  momentos  de  fluxo  de  caixa  negativo, 
 seja por meio de recursos próprios seja por meio de empréstimos e 
@@ -14015,7 +13988,7 @@ sistemas  de  produção  agropecuária  sustentável  que  podem  ser
 362
 
 
- 500pr_pgnumber363
+ 500pr_pgnumber364
 adotados  por  qualquer  perfil  de  produtor  rural.  Não  importa  o 
 tamanho  da  propriedade  (pequena,  média  ou  grande),  ou  o  tipo 
 (familiar ou empresarial), ou o ramo de atividade (lavoura ou pecuá-
@@ -14057,7 +14030,7 @@ resta (IPF) ou ILPF – são siste-
 363
 
 
- 500pr_pgnumber364
+ 500pr_pgnumber365
 mas mistos e mais complexos por natureza e, por isso, exigem maior 
 capacitação dos produtores e gestão mais aprimorada do negócio. 
 Sendo  assim,  o  produtor  rural  precisa  dar  maior  atenção  no  mo-
@@ -14099,7 +14072,7 @@ bons resultados financeiros.
 364
 
 
- 500pr_pgnumber365
+ 500pr_pgnumber366
 464 
 
 Como  controlar  e  calcular  esses  custos  em  sistemas  de 
@@ -14143,7 +14116,7 @@ elevado,  principalmente  aqueles  em  que  o  componente  florestal
 365
 
 
- 500pr_pgnumber366
+ 500pr_pgnumber367
 estava presente; relação benefício-custo favorável; e tempo de retorno 
 do capital variando de 1 ano, no caso de ILP, até aproximadamente 
 7,5 anos nos sistemas de ILPF.
@@ -14187,7 +14160,7 @@ aumentar o valor de mercado da propriedade.
 366
 
 
- 500pr_pgnumber367
+ 500pr_pgnumber368
 467 
 
 Como a estratégia de ILPF pode contribuir para o desen-
@@ -14232,7 +14205,7 @@ rural oficial, instituída em 17 de agosto de 2010 pelo Ministério da
 367
 
 
- 500pr_pgnumber368
+ 500pr_pgnumber369
 Agricultura, Pecuária e Abastecimento (Mapa), a qual foi inserida já 
 no Plano Safra 2010–2011 com valor disponibilizado de R$ 2 bilhões. 
 As linhas de crédito do Programa ABC têm a finalidade de financiar 
@@ -14274,7 +14247,7 @@ elaboração de projeto técnico; serviços de agricultura de precisão.
 368
 
 
- 500pr_pgnumber369
+ 500pr_pgnumber370
 470 
 
 Os sistemas integração têm potencial para a provisão de 
@@ -14317,7 +14290,7 @@ que  o  sistema  irá  substituir.  Implantar  sistemas  de  integração  em
 369
 
 
- 500pr_pgnumber370
+ 500pr_pgnumber371
 biodiversidade  por  unidade  de  área,  enquanto  a  conversão  de 
 florestas primárias em ILPF terá efeito contrário.
 
@@ -14360,7 +14333,7 @@ de  integração  é  diferenciada,  podendo  almejar  preços  mais  altos
 370
 
 
- 500pr_pgnumber371
+ 500pr_pgnumber372
 (a  exemplo  dos  produtos  orgânicos)  para  que  sua  adoção  seja 
 sustentável,  a  partir  do  reconhecimento  e  de  sua  diferenciação 
 pelos  consumidores.  Atualmente,  desconsiderando  o  “mercado 
@@ -14403,7 +14376,7 @@ situações específicas (artigos 61-65), as atividades agrossilvipastoris
 371
 
 
- 500pr_pgnumber372
+ 500pr_pgnumber373
 (ou ILPF) consolidadas em APPs podem ser mantidas, mas medidas 
 compensatórias e mitigatórias precisam ser adotadas (recuperação 
 de faixas variáveis de APP, adoção de boas práticas agronômicas, 
@@ -14449,7 +14422,7 @@ produção. Esse aspecto é ainda mais destacado quando se
 372
 
 
- 500pr_pgnumber373
+ 500pr_pgnumber374
 considera a remuneração da mão de obra familiar utilizada 
 nas mesmas condições de remuneração daquela contratada.
 •	 Sistemas  em  que  há  maior  emprego  de  mão  de  obra 
@@ -14493,7 +14466,7 @@ o parceiro poderá executar as atividades para as quais o produtor
 373
 
 
- 500pr_pgnumber374
+ 500pr_pgnumber375
 não  está  tão  preparado,  com  benefícios  mútuos  para  produtores 
 e  parceiros.  Por  fim,  considerando-se  o  componente  florestal  em 
 sistemas de IPF, ILF ou ILPF, que seria atividade nova para ambos os 
@@ -14535,7 +14508,7 @@ em relação às origens e ao processo de produção desses produtos.
 374
 
 
- 500pr_pgnumber375
+ 500pr_pgnumber376
 Referências
 
 BRASIL. Lei nº 9.126, de 10 de novembro de 1995. Dispõe sobre a aplicação 
@@ -14563,9 +14536,9 @@ ao=34878>. Acesso em: 10 abr. 2015.
 375
 
 
- 500pr_pgnumber376
-
  500pr_pgnumber377
+
+ 500pr_pgnumber378
 20
 
 Transferência de 
@@ -14590,7 +14563,7 @@ Ladislau Araújo Skorupa
 Flávio Jesus Wruck
 
 
- 500pr_pgnumber378
+ 500pr_pgnumber379
 476  O que é a Transferência de Tecnologia (TT)?
 
 Existem muitas definições de Transferência de Tecnologia (TT). 
@@ -14628,7 +14601,7 @@ particulares.
 378
 
 
- 500pr_pgnumber379
+ 500pr_pgnumber380
 479  O que são as redes de TT?
 
 Pessoas e organizações que estabelecem interações diretas de 
@@ -14669,7 +14642,7 @@ produtores rurais, com capacidade de diagnóstico, elaboração de
 379
 
 
- 500pr_pgnumber380
+ 500pr_pgnumber381
 projetos e acompanhamento e avaliação de resultados alcançados. 
 Diferentes  instrumentos  ou  eventos  possibilitam  a  concretização 
 desse processo:
@@ -14713,7 +14686,7 @@ especialmente  preparada  para  os  visitantes  que  desejam
 380
 
 
- 500pr_pgnumber381
+ 500pr_pgnumber382
 conhecer as tecnologias de forma presencial. O foco está 
 na diversidade de soluções tecnológicas expostas.
 
@@ -14754,7 +14727,7 @@ do desempenho das suas funções. Ou seja, consiste na atualização,
 381
 
 
- 500pr_pgnumber382
+ 500pr_pgnumber383
 complementação  e/ou  ampliação  das  competências  necessárias 
 à  atuação  no  contexto  dos  processos  ao  qual  um  profissional  se 
 vincula.  Atualmente,  em  função  da  dinamicidade  na  geração  de 
@@ -14795,7 +14768,7 @@ que a cana-de-açúcar tem uma previsão de expansão de área, até
 382
 
 
- 500pr_pgnumber383
+ 500pr_pgnumber384
 maioria com eucalipto (Eucalyptus spp.), para atender à demanda 
 nesse mesmo período, exigiriam o cultivo de outros 6 milhões de 
 hectares, ainda haveria uma superfície de cerca de 55 milhões de 
@@ -14836,7 +14809,7 @@ para aprimorar o relacionamento da Embrapa com seus públicos de
 383
 
 
- 500pr_pgnumber384
+ 500pr_pgnumber385
 interesse e com a sociedade. Atualmente, existem diversos projetos 
 regionais e um grande projeto nacional de TT em rede para fomento 
 da adoção de sistema de ILP e ILPF em todo o território nacional. 
@@ -14882,7 +14855,7 @@ transferir os conhecimentos relativos a esses sistemas e às tecnologias
 384
 
 
- 500pr_pgnumber385
+ 500pr_pgnumber386
 necessários e adequados a cada ecorregião e promover a inovação 
 e a sustentabilidade agrícola.
 
@@ -14924,7 +14897,7 @@ seus pares.
 385
 
 
- 500pr_pgnumber386
+ 500pr_pgnumber387
 •	 Formar um grupo gestor da URT composto pelo proprietário 
 rural, por pesquisadores e analistas da Embrapa que atuarão 
 na URT, técnicos da propriedade selecionada e potenciais 
@@ -14968,7 +14941,7 @@ resta (IPF), integração lavoura-
 386
 
 
- 500pr_pgnumber387
+ 500pr_pgnumber388
 rir  os  conhecimentos  e  as  tecnologias  necessárias  e  adequadas  a 
 cada ecorregião, promovendo a inovação e a sustentabilidade agro-
 pecuária.
@@ -15012,7 +14985,7 @@ de ILPF em diferentes regiões do Brasil. Constituída pela união de
 387
 
 
- 500pr_pgnumber388
+ 500pr_pgnumber389
 esforços  da  Embrapa  e 
 de instituições privadas, 
 ela foi estabelecida me-
@@ -15054,7 +15027,7 @@ institui a Política Nacional de Integração Lavoura-Pecuária-Floresta
 388
 
 
- 500pr_pgnumber389
+ 500pr_pgnumber390
 (ILPF) (BRASIL, 2013). Os objetivos dessa legislação incluem: melhorar 
 de forma sustentável a produtividade, a qualidade dos produtos e 
 a  renda  das  atividades  agropecuárias,  por  meio  da  aplicação  de 
@@ -15095,7 +15068,7 @@ para a fauna e à proteção de matas ciliares e de reservas florestais,
 389
 
 
- 500pr_pgnumber390
+ 500pr_pgnumber391
 ampliando  a  capacidade  de  geração  de  renda  do  produtor,  além 
 de estimular e difundir sistemas agrossilvipastoris aliados às práticas 
 conservacionistas e ao bem-estar animal (BRASIL, 2013).
@@ -15136,7 +15109,7 @@ sistema de ILPF em todo o território brasileiro.
 390
 
 
- 500pr_pgnumber391
+ 500pr_pgnumber392
 498 
 
 Como se pretende vencer os desafios e ampliar a adoção 
@@ -15180,7 +15153,7 @@ ILPF proporciona resultados produtivos e econômicos expressivos
 391
 
 
- 500pr_pgnumber392
+ 500pr_pgnumber393
 em  qualquer  tipo  de  propriedade  rural  e  por  qualquer  tipo  de 
 produtor rural, desde que seja adotado adequadamente. No caso 
 específico da pequena propriedade rural, um exemplo importante 
@@ -15219,53 +15192,4 @@ fazendas de pecuária.
 
 392
 
-
- 500pr_pgnumber393
-Referências
-
-BRASIL. Lei nº 12.805, de 29 de abril de 2013. Institui a Política Nacional de 
-Integração Lavoura-Pecuária-Floresta e altera a Lei nº 8.171, de 17 de janeiro 
-de 1991. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 30 
-abr. 2013. Seção 1, p. 1.
-
-393
-
-
- 500pr_pgnumber394
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta preencha
-nosso formulário de atendimento na internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?
-
-id=90000033
-
-•••
-
-
- 500pr_pgnumber395
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber396
-
- 500pr_pgnumber397
-
- 500pr_pgnumber398
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber399
 

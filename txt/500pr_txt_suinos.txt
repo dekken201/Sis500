@@ -1,16 +1,5 @@
 
- 500pr_pgnumber015
-1 Sistema de Produção
-
-Criação Extensiva
-Criação Confinada
-
-Sistema Intensivo de Suínos Criados 
-
-ao Ar Livre - Sisal
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1 
 
 Qual a diferença entre granja de suínos e sistema de produ-
@@ -41,7 +30,7 @@ ser atendidas para que se atinjam resultados desejados.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 3  Que características deve ter quem trata dos suínos?
 
 •	 Gostar	da	atividade	suinícola.
@@ -87,7 +76,7 @@ prédio único, por dificultar o manejo e ocupar área muito grande.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 8  Quem é o responsável por uma criação de suínos?
 
 O proprietário. A figura, a seguir, apresenta a relação entre o proprie-
@@ -98,7 +87,7 @@ resultados do desempenho de um sistema de produção de suínos.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 9 
 
 Como  deve  ser  a  organização  das  fases  produtivas  na 
@@ -146,7 +135,7 @@ registros para se estabelecer o perfil técnico e econômico da produção.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 A única forma de se conhecer a lucratividade de uma criação é pela 
 análise crítica dos registros de produção, que permitem identificar proble-
 mas de desenvolvimento, apontar pontos fracos no sistema de produção, 
@@ -200,7 +189,7 @@ de natimortos ou mumificados pode representar erros de manejo.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 NNL =
 
 total de leitões nascidos mortos
@@ -266,7 +255,7 @@ abate.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 Sem dúvida que, na análise dos parâmetros relativos à mortalidade 
 numa granja, também é importante verificar a(s) causa(s) da mortalidade, 
 pois o diagnóstico das doenças que ocorrem numa criação de suínos é o 
@@ -320,7 +309,7 @@ número de leitões desmamados
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 O ganho de peso médio diário (GPMD) é o ganho/dia de peso por 
 
 suíno durante um período de tempo definido.
@@ -377,7 +366,7 @@ de DNP a partir da aplicação da seguinte fórmula:
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 DNP = 365 - [Partos por fêmea por ano x (dias em Gestação + dias em Lactação)]
 
 17  O que contribui para dias não produtivos?
@@ -426,7 +415,7 @@ dência da natureza.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 Alguns  produtores  fazem  a  engorda  confinada  com  reduzidos 
 
 cuida dos técnicos.
@@ -472,7 +461,7 @@ gens.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 21 
 
 Como  se  caracteriza  o  sistema  confinado  de  criação  de 
@@ -519,7 +508,7 @@ ocorrem em confinamento.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 23  O que é o sistema plain air de criação de suínos?
 
 É o mesmo que o Sistema Intensivo de Suínos Criados ao Ar Livre - 
@@ -558,7 +547,7 @@ a 15%, dando-se preferência para solos com boa capacidade de drenagem.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 Ao instalar o Siscal, deve-se prever práticas de manejo do solo, tais como 
 o controle das águas pluviais superficiais a fim de impedir que a enxurrada 
 de fora entre no sistema, de modo a prevenir possíveis danos provocados 
@@ -606,7 +595,7 @@ fer ro de construção.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 30 
 
 Quais  as  dimensões  e  especificações  das  cabanas  de 
@@ -628,7 +617,7 @@ Suínos e Aves.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 32 
 
 Quais as dimensões e especificações das cabanas de creche 
@@ -669,7 +658,7 @@ suas exigências nutricionais.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 36 
 
 É necessária a complementação alimentar dos suínos criados 
@@ -715,7 +704,7 @@ rápi do possível.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 39  Qual é o manejo recomendado para o cachaço no Siscal?
 
 O  cachaço  deve  ser  alimenta do 
@@ -747,7 +736,7 @@ de espessura para assegurar um ambiente agradável aos leitões e à matriz.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 N
 o  
 período frio, essa espessura deve ser aumentada. A cama deve ser prepara-
@@ -797,7 +786,7 @@ leitões para o piquete de creche.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 42 
 
 Como  proteger  as  árvores  para  que  os  suínos  não  as 
@@ -843,7 +832,7 @@ de sempenho produtivo, isto é, alto ganho de peso diário, baixa conversão
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 alimentar  e  boas  características  de  carcaça,  ou  seja,  baixa  quantidade  de 
 gordura  e  alto  rendimento  de  carne.  As  fêmeas  devem  possuir,  além  das 
 características do macho, a capacidade de gerar grande quantidade de leitões.
@@ -888,7 +877,7 @@ cultivo de culturas anuais.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 50 
 
 Como os piquetes devem ser cercados para os animais não 
@@ -925,7 +914,7 @@ ação do sol.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 52 
 
 É possível impedir que os animais fucem o solo?
@@ -945,9 +934,9 @@ continue fuçando.
 37
 
 
- 500pr_pgnumber038
-
  500pr_pgnumber039
+
+ 500pr_pgnumber040
 2 Manejo
 
 Criação
@@ -965,7 +954,7 @@ Lactação
 Reprodução
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 53  O que é o sistema de manejo contínuo?
 
 O sistema de manejo contínuo (SMC) é aquele em que suínos de 
@@ -1017,7 +1006,7 @@ adequada para cada categoria animal.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 57  Que índices produtivos devem-se observar na suinocultura?
 
 O produtor que adota o sistema de produção de ciclo completo, 
@@ -1086,7 +1075,7 @@ a 35 dias. (Des/Cob = Desmame/Cobertura).
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 59  Como os gases interferem na produção de suínos?
 
 Nos  sistemas  de  confinamento  total,  os  principais  gases  nocivos 
@@ -1109,7 +1098,7 @@ Reprodução - Esta fase inclui a pré-gestação, cobrição, gestação e lactação.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 61  Qual o peso ideal do suíno nas diversas fases de produção?
 
 Existe grande variabilidade em termos de ganho de peso dos suínos 
@@ -1195,7 +1184,7 @@ pessoa ou animal.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 64  Como devem ser feitas a limpeza e a desinfecção de uma 
 
 granja?
@@ -1242,7 +1231,7 @@ restos de ração. Quando os leitões são retirados da sala, as paredes, gaiolas
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 ou baias, piso, parte interna dos telhados e equipamentos devem ser lava-
 dos com água sob pressão e todo o ambiente desinfetado, podendo ser 
 usa da  a  caiação  como  complemento  desse  processo.  A  seguir,  deve 
@@ -1332,7 +1321,7 @@ Desinfecção
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 70 
 
 Que cuidados deve tomar a pessoa que trabalha na criação 
@@ -1381,7 +1370,7 @@ das  vias  respiratórias.  A  seguir,  limpa-se  o  restante  do  corpo  do  lei
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 massageando o dorso e a região pulmonar, para ativar a circulação e esti-
 mular  a  respiração.  Quanto  mais  tempo  o  leitão  permanecer  úmido, 
 maior a quantidade de calor perdido.
@@ -1425,7 +1414,7 @@ lactação reside no desconhecimento da quantidade de leite que a matriz
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 produz. Para cobrir as exigências nutricionais de uma leitegada com dez 
 leitões, a matriz deve produzir 6,5 litros de leite/dia ao final da primeira 
 semana e 11 litros de leite/dia no final da terceira semana de lactação. 
@@ -1470,7 +1459,7 @@ que os leitões tenham um desenvolvimento mais homogêneo. É realizada
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 em granjas, preferencialmente nas primeiras 24 horas após o parto, entre 
 fêmeas que deram cria no mesmo dia. Esse método é realizado em granjas 
 que induzem o parto.
@@ -1519,7 +1508,7 @@ ocorre a ingestão de 20 g a 60 g de leite.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 82 
 
 Que  tipo  de  leite  os  leitões  podem  tomar  quando,  logo 
@@ -1596,7 +1585,7 @@ leite da matriz esteja a uma temperatura entre 37 °C e 40 °C.
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 83  A partir de que idade deve-se fornecer água aos leitões?
 
 Os leitões devem ter água limpa e de boa qualidade à disposição a 
@@ -1649,7 +1638,7 @@ ganho de peso.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 88  Deve-se reduzir o ganho de peso dos suínos na terminação?
 
 A alimentação à vontade proporciona um ganho de peso diário 
@@ -1697,7 +1686,7 @@ carca ças com menos carne.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 Somente a separação, sem estratégia de peso de abate diferenciado 
 e com a mesma quantidade de ração, proporciona carcaças mais magras 
 porque as fêmeas não sofrerão a competição dos castrados pela ração. 
@@ -1744,7 +1733,7 @@ um período de quarentena.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 As leitoas de reposição devem ser alojadas no prédio de gestação 
 com idade média de aproximadamente 155 dias, em baias coletivas próxi-
 mas aos machos e até duas semanas antes da cobrição deverão receber 
@@ -1790,7 +1779,7 @@ boa qualidade.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 Além  das  quantidades  de  ração  recomendadas,  o  criador  pode 
 
 forne cer algum tipo de pasto ou forragem para as fêmeas.
@@ -1843,7 +1832,7 @@ moderado durante a gestação.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 Como regra geral, o estado corporal das matrizes, após a cobrição, 
 deve  ser  o  parâmetro  para  decidir  qual  a  quantidade  de  ração  a  ser 
 fornecida. As matrizes em bom estado devem receber 2,0 kg/dia, matrizes 
@@ -1887,7 +1876,7 @@ sobrevivência, muitas matrizes vão escapar a essa supervisão.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 Para  realizar  esse  tratamento,  deve-se  levar  em  conta  a  duração 
 média da gestação no rebanho (por exemplo, 115 dias); conhecido esse 
 período, dois dias antes da data prevista para o parto (dia 113) faz-se o 
@@ -1937,7 +1926,7 @@ mamada o mais cedo possível.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 Com  relação  à  matriz,  deve-se  mantê-la  em  ambiente  tranquilo, 
 
 sem ruídos.
@@ -1994,7 +1983,7 @@ maravalha ou similar no escamoteador
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 105  Quais as condições para a amamentação?
 
 Matrizes com oito leitões ou mais devem receber ração à vontade, 
@@ -2042,7 +2031,7 @@ ma sanguíneo da mãe, é composta por três grupos de imunoglobulinas (Ig),
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 das  quais  duas  –  a  IgM  e  a  IgQ  –  só  conseguem  atravessar  a  parede 
 intestinal  nas  primeiras  horas  de  vida  do  leitão,  proporcionando-lhe, 
 assim, proteção contra infecções por patógenos específicos presentes na 
@@ -2116,7 +2105,7 @@ cobre: 1 ppm e zinco: 15 ppm.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 Composição do leite normal e do colostro de matriz
 Componentes
 Matéria seca (%)
@@ -2185,7 +2174,7 @@ ao intervalo desmame/cio. Fêmeas com intervalo desmame/cio de três a
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 quatro  dias  apresentam  maior  duração  do  cio  (em  média  71  horas), 
 diferen temente  daquelas  com  maior  intervalo  desmame/cio,  em  que  a 
 duração média do cio é de 56 a 63 horas.
@@ -2229,7 +2218,7 @@ no organismo, em períodos diferenciados:
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 Pró-estro
 Alterações no comportamento, de dois a quatro dias, em média, 
 
@@ -2279,7 +2268,7 @@ cio novamente e devem ser cobertas.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 120  Quantas vezes por ano uma matriz pode parir?
 
 Uma  fêmea  pode  parir  2,5  leitegadas  por  ano.  Uma  meta  a  ser 
@@ -2318,7 +2307,7 @@ de esperma que possa assegurar bom índice de concepção.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 125 
 
 Qual é a relação ideal entre o número de machos e fêmeas 
@@ -2389,7 +2378,7 @@ a partir do sétimo mês de idade.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 129  Quais as características de um bom reprodutor?
 
 O bom reprodutor deve apresentar as seguintes características:
@@ -2432,7 +2421,7 @@ final da tarde.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 134  O que é inseminação artificial?
 
 Inseminação  artificial  (IA)  é  uma  biotécnica  de  reprodução,  cujo 
@@ -2482,7 +2471,7 @@ cialmente estéril;
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 •	 Umedecer	a	ponta	da	pipeta	com	algumas	gotas	de	sêmen.
 •	 Abrir	os	lábios	vulvares	com	o	dedo	indicador	e	polegar	da	mão	
 esquerda e com a direita introduzir a pipeta de IA na vulva na 
@@ -2531,7 +2520,7 @@ no diluidor, para controlar uma eventual proliferação bacteriana, também
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 é  prática  nos  centros  de  inseminação  artificial  suína.  A  tecnologia  de 
 resfriamento de sêmen permite fracionar um ejaculado suíno em dez ou 
 15 doses, cada uma com 3 bilhões de espermatozoides. Os resultados das 
@@ -2578,7 +2567,7 @@ não tem valor prático, não é recomendada.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 143  Quais os parâmetros para descarte de animais do plantel?
 
 Leitoas de reposição que não apresentarem cio até os sete meses de 
@@ -2590,7 +2579,7 @@ que apresentarem problemas graves de aprumo antes da cobrição.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 3 Nutrição e Alimentação
 
 Leitões
@@ -2605,7 +2594,7 @@ Reprodução
 Ração
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 144 
 
 Qual é o tipo mais adequado de ração para os leitões até o 
@@ -2653,7 +2642,7 @@ em pó desnatado ou outra fonte de proteína de origem animal (plasma suíno
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 spray-dried ou  farinha de peixe de boa qualidade) e 2% a 3% de óleo 
 bruto de soja (dispensável no caso de se incluir 15% a 20% de soja integral 
 extrusada).
@@ -2706,7 +2695,7 @@ alimento e consumo de água estão intimamente relacionados.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 146 
 
 Quais os critérios para a substituição da ração pré-inicial 
@@ -2844,7 +2833,7 @@ Macho castrado Macho castrado e fêmea
 0,15
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 Fase de terminação
 
 Nutrientes
@@ -2962,7 +2951,7 @@ Quantidade de ração (kg)
 3,5
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 149  Qual o manejo da fêmea em gestação?
 
 As fêmeas em gestação devem ser alojadas em celas individuais, 
@@ -3010,7 +2999,7 @@ mais econômicas.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 152 
 
 O teor de fibra bruta na ração pode influenciar o teor de 
@@ -3094,7 +3083,7 @@ Lactação
 78 a 82
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 154 
 
 Até que momento, antes do parto, deve-se fornecer ração 
@@ -3140,7 +3129,7 @@ de 950 g.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 157 
 
 Que tipo de ração é recomendado para cachaços em cres-
@@ -3249,7 +3238,7 @@ fósforo. Esses níveis são compatíveis com uma dieta de gestação. Assim, a
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 mesma dieta fornecida às matrizes em gestação pode ser fornecida aos 
 cachaços nas quantidades indicadas. Se forem utilizados outros níveis de 
 nutrientes na dieta, a quantidade de ração a ser fornecida deve ser alterada 
@@ -3301,7 +3290,7 @@ tidade  da  fórmula.  Em  seguida,  o  segundo  ingrediente  em  quantidade  e
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 assim sucessivamente. O núcleo já diluído e pré-misturado com milho 
 moí do, ou outro grão moído, deve ser o último componente a ser colo-
 cado no misturador. Antes disso, porém, retira-se cerca de 50 kg do pro-
@@ -3352,7 +3341,7 @@ própria proporção de milho.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 161 
 
 Que quantidade de ração deve ser dada por animal e por 
@@ -3406,7 +3395,7 @@ nimas em nutrientes, que devem ser fornecidos em proporções específicas,
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 é preciso dispor de uma fórmula para calcu-
 lar essas necessidades da qual resulte o que 
 se chama de ração balanceada. Para esse 
@@ -3454,7 +3443,7 @@ uni forme, que pode ser melhorada adicionando-se um litro de água a cada
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 60 kg de soja durante a tostagem, e são exigentes em mão de obra para 
 revolver constantemente, os grãos. Esses equipamentos são em geral de 
 baixo custo e podem ser adquiridos com o auxílio dos órgãos regionais de 
@@ -3493,7 +3482,7 @@ dietas. O cobalto é fornecido pela suplementação de vitamina B12.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 170  Que vitaminas devem ser fornecidas aos suínos?
 
 Devem ser fornecidas as vitaminas A, D, E, K, biotina, colina, folacina, 
@@ -3540,7 +3529,7 @@ de alimentos de circulação mundial.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 As análises completas incluem a determinação da matéria seca, da 
 proteína  bruta  e  do  aminograma  completo,  além  de  outras.  O  teor  de 
 lisina total na matéria seca (% Cab = LisMS) é dado pela equação:
@@ -3588,7 +3577,7 @@ rótulo do concentrado, dando como produto final a ração.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 176 
 
 É possível alimentar os suínos sem recorrer a concentrados 
@@ -3636,7 +3625,7 @@ diferentes porcentagens de grãos germinados.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 Composição química e valores de energia de diferentes partidas 
 de trigo obtidos com suínos e aves na Embrapa Suínos e Aves. (valores 
 ex pressos em base de matéria natural).
@@ -3709,7 +3698,7 @@ inclusive a energia.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 Matéria seca (%)
 Energia metabolizável (kcal/kg)
 
@@ -3795,7 +3784,7 @@ apresenta, em sua composição, cerca de 17% de proteína bruta, 8% de
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 fibra e 2.458 kcal de energia metabolizável/kg. Existem vários alimentos 
 que podem fornecer quantidades razoáveis de proteína e fibra, ao mesmo 
 tempo. Um alimento que pode substituir o farelo de trigo é o farelo de 
@@ -3841,7 +3830,7 @@ existem outros microingredientes na ração, como as vitaminas e os aditivos,
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 por exemplo, promotores de crescimento. Premix é a pré-mistura de um 
 ou mais microingredientes com um veículo (caulin, farelo de soja, fubá), 
 com  o  objetivo  de  aumentar  seu  volume  e  facilitar  sua  dispersão 
@@ -3885,7 +3874,7 @@ saber quando e em que situações é mais vantajoso comprar concentrados.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 189  O grau de moagem do milho influencia seu desempenho?
 
 A  granulometria  do  milho  incluído  no  balanceamento  de  rações 
@@ -3963,7 +3952,7 @@ assim definidos:
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 Parâmetro
 
 Restrição
@@ -4084,7 +4073,7 @@ a multiplicação dessas bactérias no intestino do animal.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 192  Como atuam os probióticos?
 
 Os microrganismos probióticos competem com os microrganismos 
@@ -4128,7 +4117,7 @@ melhora na utilização da cevada pelos suínos. Maiores benefícios podem
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 ser  esperados  com  a  suplementação  de  pentosanases  em  dietas  que 
 conte nham centeio e algunas cultivares de triticale.
 
@@ -4189,7 +4178,7 @@ Pesanido = peso dos animais consumidos ou doados;
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 Plecom = peso dos leitões comprados;
 Ptleitoc = peso das leitoas para reposição compradas;
 Ptmrepos = peso dos machos para reposição comprados;
@@ -4234,7 +4223,7 @@ de praticamente todos os ingredientes da dieta.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 198 
 
 Existem  produtos  que,  adicionados  à  ração,  competem 
@@ -4282,7 +4271,7 @@ tem uma concentração de 25,4% de cobre, significando que se deve usar
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 uma concentração de 50 g de sulfato de cobre por 100 kg de ração. Sua 
 inclusão  nas  rações  pode  aumentar  a  incidência  de  lesões  gástricas, 
 sendo  aconselhável  fazer  avaliações  periódicas  das  lesões  em  nível  de 
@@ -4336,7 +4325,7 @@ na dieta para suínos é indispensável para o desempenho adequado dos
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 animais.  As  exigências  nutricionais  são  expressas  em  termos  de  sódio 
 total na dieta, para a qual o sal deve contribuir em proporções adequadas. 
 Exis tem ingredientes de origem animal e marinha com altas concentrações 
@@ -4356,13 +4345,13 @@ comum. Por isso o uso de um não dispensa o uso do outro.
 99
 
 
- 500pr_pgnumber100
-
  500pr_pgnumber101
+
+ 500pr_pgnumber102
 4 Alimentos Alternativos
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 203 
 
 Como  aproveitar  ossos  frescos  de  bovinos  e  sobras  de 
@@ -4414,7 +4403,7 @@ suínos em crescimento/terminação e para matrizes
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 em gestação. Não deve ser fornecido para leitões 
 com menos de 15 kg de peso vivo, porque pode 
 provocar diarreia com facilidade. Níveis de mela-
@@ -4501,7 +4490,7 @@ vitaminas e minerais.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 O milho com sabugo apresenta alto teor de fibra e baixo teor de 
 
 ener gia, sendo mais indicado para a ração de matrizes em gestação.
@@ -4594,7 +4583,7 @@ Com vagens
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 Os  valores  de  composição  nutricional  variam  de  acordo  com  a 
 idade da planta. Com relação à forma de utilização, é semelhante ao uso 
 do feno de soja.
@@ -4641,7 +4630,7 @@ a  tuberculose  e  a  erisipela.  Submetidos,  porém,
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 à esterilização por cozimento, a 100 °C, durante 30 minutos, podem ser 
 utilizados. Após o cozimento, é preciso tomar cuidado a fim de evitar a 
 recontaminação.
@@ -4688,7 +4677,7 @@ rações de matrizes em gestação. Para essa categoria de suíno, é recomendado
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 seu uso em virtude do efeito benéfico da presença da fibra bruta na dieta. 
 A  inclusão  pode  ser  de  5%  para  animais  em  crescimento,  10%  para 
 termina ção e lactação e 15% para animais de reposição.
@@ -4772,7 +4761,7 @@ em outros nutrientes muito reduzida.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 A inclusão em dietas balanceadas para suínos em terminação deve 
 ser restrita, por causa da limitada capacidade ingestiva do suíno. Seu forne-
 cimento é contraindicado para leitões e suínos que recebem ração de cres-
@@ -4829,7 +4818,7 @@ téria seca (22% a 32%), 1,5% de proteína e
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 pode ser feito à vontade, suplementando-se com concentrado contendo 
 22%  de  proteína  bruta,  1,15%  de  lisina,  0,85%  de  cálcio  e  0,70%  de 
 fósforo total, na quantidade de 1,35 kg/dia, dos 25 kg aos 55 kg de peso 
@@ -4876,7 +4865,7 @@ em carboidratos altamente digestíveis e muito pobre em proteína. Por isso,
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 utilizadas para alimentação humana e animal são as variedades mansas, 
 com baixos níveis de princípios tóxicos.
 
@@ -4920,7 +4909,7 @@ para suínos em crescimento e terminação e em quantidade controlada para
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 matrizes em gestação. Não deve ser fornecida aos leitões em fase inicial 
 e às matrizes em lactação.
 
@@ -5008,7 +4997,7 @@ matrizes em gestação, esses níveis devem ser três vezes superiores.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 224 
 
 O que é raspa residual de mandioca? Ela pode ser fornecida 
@@ -5059,7 +5048,7 @@ em até 25% da dieta de suínos em crescimento e terminação, e em até
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 suplementadas com óleo a fim de manter níveis adequados de energia e 
 com metionina que auxilia na detoxificação dos resíduos tóxicos que per-
 manecem nessa farinha.
@@ -5110,7 +5099,7 @@ nerais. Os três alimentos citados na pergunta podem suprir parte considerável
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 da energia da dieta e pequena parte das proteínas, vitaminas e minerais, 
 não constituindo, assim, alimento completo para suínos. Para que se torne 
 completo, é necessário adicionar uma fonte de proteína (farelo de soja, 
@@ -5157,7 +5146,7 @@ folhas.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 A toxidez pode ser parcialmente eliminada através da secagem ao 
 sol ou em fornos (aquecimento máximo de 70 °C). A suplementação com 
 sulfato ferroso (0,25%) ou sulfato de alumínio também reduz a toxidez, 
@@ -5206,7 +5195,7 @@ gia como a soja integral tostada ou extrusada, óleo bruto de soja ou gordura
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 animal para equilibrar o nível de energia da dieta, a semente de milheto 
 pode  ser  utilizada  sem  limite  na  ração  dos  suínos  em  qualquer  fase. 
 Porém, quando não é utilizado nenhum ingrediente de alta energia para 
@@ -5258,7 +5247,7 @@ mento  de  alto  valor  nutricional  para
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 suínos e, também, muito palatável, sendo consumido voluntariamente em 
 grandes quantidades pelos suínos. Seu conteúdo de água é alto (93% a 
 96%) e sua proteína tem alto valor nutricional com relação à composição 
@@ -5358,7 +5347,7 @@ soro substitui 30% da dieta, o premix deve ser aumentado em 30%.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 Proporções  diárias  de  ração  (kg)  e  soro  de  leite  integral  (litros)  para 
 matrizes em gestação:
 
@@ -5456,7 +5445,7 @@ carboidratos fermentáveis, como de bananas maduras.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 Quanto às silagens de forrageiras, as melhores são as de milho (pé 
 inteiro), leguminosas (alfafa, comichão, entre outras), ou consorciação de 
 gramíneas e leguminosas (milho, aveia ou azevém, mais uma leguminosa). 
@@ -5515,7 +5504,7 @@ digestibilidade do milho seco.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 Composição nutricional da silagem de grão de milho
 
 Matéria seca (%)
@@ -5587,7 +5576,7 @@ Zinco (mg/kg)
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 A inclusão do feno de confrei em dietas para suínos, na recria, não 
 é  recomendável  por  causa  de  seu  elevado  teor  de  matéria  seca  não 
 digestível, o que reduz substancialmente o teor de energia metabolizável 
@@ -5626,7 +5615,7 @@ capim-elefante (Penisetum purpureum).
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 Para a formação de pastagens é necessário considerar as leguminosas 
 e gramíneas. As leguminosas, por sua riqueza em proteína e minerais, são 
 indicadas como as melhores pastagens para suínos, como por exemplo a 
@@ -5680,7 +5669,7 @@ alfafa é preferencialmente recomendada para matrizes em gestação.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 241  Que quantidade de alfafa usar na alimentação de suínos?
 
 Existem essencialmente três formas de arraçoar suínos com alfafa:
@@ -5817,7 +5806,7 @@ Nível máximo de adição (%)
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 A silagem de alfafa é indicada para matrizes em gestação e lactação. 
 A  presença  do  ácido  láctico,  produzido  no  processo  fermentativo  da 
 silagem, é benéfica para a digestão e absorção de nutrientes no intestino 
@@ -5866,7 +5855,7 @@ total mente inapropriada tanto técnica como economicamente.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 244 
 
 As beterrabas forrageira e açucareira podem ser utilizadas 
@@ -5958,7 +5947,7 @@ pela água que contém, não deve ser fornecida aos leitões e suínos em
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 crescimento. É adequada para suínos em terminação (4 kg ao dia), matrizes 
 em gestação (10 kg ao dia) e lactação (3 kg ao dia) e reprodutores (6 kg ao 
 dia), desde que as dietas sejam adequadamente balanceadas.
@@ -6003,7 +5992,7 @@ seguir.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 Concentração nutricional da cevada com e sem casca
 
 Parâmetro
@@ -6100,7 +6089,7 @@ cozida  à  ração  de  qualquer  categoria  de
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 suíno e em qualquer nível, desde que se mantenha o nível nutricional da 
 dieta.  O  valor  da  energia  digestível  da  batata  inglesa  cozida  varia  de  
 3.750 kcal/kg a 3.950 kcal/kg de matéria seca.
@@ -6178,7 +6167,7 @@ Quantidade de resíduo de cervejaria
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 O consumo mínimo de ração seca por animal/dia deve ser de 1,8 kg 
 na  fase  de  crescimento  e  de  2,3  kg  na  fase  de  terminação.  Com  esses 
 níveis de consumo de ração seca, o consumo de resíduo de cervejaria é 
@@ -6224,7 +6213,7 @@ de lisina. Para o aproveitamento ótimo do girassol recomenda-se que sua
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 inclusão em dietas iniciais não ultrapasse os 15%. Para crescimento e ter-
 minação, deve ser limitada a 10%, não devendo ultrapassar os 25% nas 
 dietas de gestação e lactação.
@@ -6269,7 +6258,7 @@ permanece na raiz por oca sião da colheita.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 Em função do alto conteúdo de cinzas e de fibra bruta, a farinha de 
 feno de aguapé apresenta baixo conteúdo de energia. De acordo com 
 de terminações  feitas  na  Embrapa  Suínos  e  Aves,  a  farinha  de  feno  de 
@@ -6318,7 +6307,7 @@ ma-de-frango à dieta de suínos, pois outro uso deste material pode significar
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 taxa de retorno maior e risco sanitário menor: como adubo orgânico, por 
 exemplo, ou como ingrediente para rações de ruminantes. Como regra geral, 
 porém, não se recomenda a inclusão de cama-de-frango na ração de suínos.
@@ -6388,7 +6377,7 @@ M
 220,4
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 255  É possível alimentar leitões com cama-de-frango?
 
 Não. O uso de cama-de-frango é totalmente desaconselhável para 
@@ -6421,13 +6410,13 @@ até chegar a 15% da dieta.
 133
 
 
- 500pr_pgnumber134
-
  500pr_pgnumber135
+
+ 500pr_pgnumber136
 5 Água
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 258  Quais as características básicas da água potável?
 
 A tabela abaixo apresenta alguns parâmetros importantes para asse-
@@ -6487,7 +6476,7 @@ machos castrados, a partir de 60 kg de peso
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 vivo, em sistema de alimentação restrita, é possível fornecer água no pró-
 prio comedouro. Usando-se comedouros especiais, retira-se a água no mo-
 mento de fornecer a ração. Consumida a dieta, o comedouro é imediata-
@@ -6585,7 +6574,7 @@ S
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 Matrizes em gestação individual são as mantidas lado a lado, em 
 
 ce las individuais.
@@ -6654,7 +6643,7 @@ Distância entre bebedouros (cm)
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 263 
 
 Que altura é recomendada para os bebedouros em cada 
@@ -6728,7 +6717,7 @@ con siderada, a faixa de conforto térmico pode não estar contemplada.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 Estimativa de exigência em água em duas temperaturas distintas para as 
 diversas categorias de suínos
 
@@ -6816,7 +6805,7 @@ de água.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 266  Que exigência em água tem uma fêmea em lactação?
 
 A matriz em lactação é a categoria de suíno que mais necessita de 
@@ -6853,7 +6842,7 @@ cia em água para permitir a concentração adequada de urina.
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 Em situações normais, quanto maior o número de leitões maior é a 
 produção de leite e dessa forma maior é a exigência em nutrientes e, por-
 tanto, maior o consumo de ração. Para todas as categorias de suínos existe 
@@ -6882,7 +6871,7 @@ a  quantidade  e  o  posicionamento  dos  bebedouros  (altura  e  ângulo)
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 devem ser adequados para cada categoria de suíno. A altura e o ângulo 
 de  posicionamento  dos  bebedouros  dependem  do  tipo  utilizado  e  do 
 tamanho dos animais.
@@ -6925,7 +6914,7 @@ isso significa que, nessas condições, podem consumir cloro.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 269 
 
 Quais  as  vantagens  e  desvantagens  da  lâmina  de  água 
@@ -6962,11 +6951,11 @@ ambiental dos suínos.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 6 Secagem e Armazenagem
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 270 
 
 Qual a temperatura usada para secar milho no secador de 
@@ -7012,7 +7001,7 @@ fabricadas de cimento de 5 cm de espessura com 3,0 m de comprimento,
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 2,0 m de largura e 0,5 m de profundidade. Sua capacidade estática de 
 se cagem é de 2.400 kg (40 sacos) de milho por vez.
 
@@ -7026,9 +7015,9 @@ a uma temperatura do ar de secagem de 110 °C.
 147
 
 
- 500pr_pgnumber148
-
  500pr_pgnumber149
+
+ 500pr_pgnumber150
 7 Sanidade
 
 Vacinas
@@ -7046,7 +7035,7 @@ Doenças
 Micotoxinas
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 275  Quais as características de uma boa vacina?
 
 As características desejáveis de uma vacina são: custo baixo, admi-
@@ -7091,7 +7080,7 @@ clássica, salmonelose (paratifo), rinite atrófica progressiva, erisipela (ruiva)
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 parvovirose,  colibacilose,  pleuropneumonia,  febre  aftosa,  pneumonia 
 enzoótica, leptospirose, doença de Aujeszky, meningite estreptocócica, 
 enterotoxemia e doença de Glässer.
@@ -7181,7 +7170,7 @@ seis me ses
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 281  O esquema de prevenção de doenças é igual em todo o País?
 
 O esquema de vacinação de suínos é o mesmo em todo o País. No 
@@ -7190,7 +7179,7 @@ entanto, existem doenças de controle oficial, como é o caso da Peste Suína
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 Clássica, cujo esquema de prevenção e erradicação é diferente para 
 diferentes regiões do País. Inclusive as vacinas a serem utilizadas podem 
 variar de uma região para outra e mesmo entre rebanhos.
@@ -7241,7 +7230,7 @@ que se localizam nos músculos dos suínos, bovinos e outros animais e até
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 dos humanos. O homem é hospedeiro definitivo da Taenia solium e, em 
 geral, alberga no intestino um único parasito adulto. Esse parasito libera 
 segmentos do corpo chamados proglotes que, quando estão totalmente 
@@ -7265,7 +7254,7 @@ mir a carne com “pipoca” pela possibilidade de o parasito ainda estar vivo.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 286  Como combater os vermes dos suínos?
 
 O combate é feito com aplicação de vermífugos de acordo com 
@@ -7306,7 +7295,7 @@ ano, a fim de evitar a disseminação dos parasitos por todo o rebanho.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 292  Que parasitos externos atacam os suínos?
 
 Os parasitos de importância econômica na criação de suínos são 
@@ -7354,7 +7343,7 @@ os animais e outros relacionados ao manejo:
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 a) Fatores relacionados ao ambiente preparado para os animais:
 •	Ausência	de	forro	no	teto.
 •	Aberturas	na	maternidade	in-
@@ -7417,7 +7406,7 @@ principalmente por germes denominados Escherichia coli e rotavirus.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 A SDPD é considerada doença multifatorial em que os agentes infec-
 ciosos exercem seu poder patogênico predominantemente em rebanhos 
 em  condições  de  risco.  As  medidas  de  controle  devem,  então,  incluir 
@@ -7462,7 +7451,7 @@ aplicando-o nas primeiras 24 horas de vida dos leitões.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 302  Como reconhecer um comportamento anormal?
 
 A  apresentação  de  determinados  hábitos  que,  até  certo  ponto, 
@@ -7501,7 +7490,7 @@ vulva, com aparecimento de sangue.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 306  Como evitar o canibalismo?
 
 O canibalismo pode ser evita-
@@ -7558,7 +7547,7 @@ Não. É apenas crendice popular sem embasamento científico.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 309  Como tratar a mastite das matrizes?
 
 Os casos agudos devem ser tratados de imediato, com antibióticos 
@@ -7602,7 +7591,7 @@ se de distúrbio não transmissível, como é o caso da úlcera gástrica ou da
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 torsão do mesentério. Quando as mortes são frequentes, é necessário con-
 sultar um veterinário, pois existem várias doenças contagiosas que podem 
 matar leitões em menos de 24 horas e devem ser imediatamente controladas.
@@ -7650,7 +7639,7 @@ junto com o nascimento de poucos leitões vivos, são fortes indicativos de
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 parvovirose. Outros sinais observados são o retorno ao cio após 21 dias da 
 cobrição e aumento no período de gestação (mais que 116 dias).
 
@@ -7702,7 +7691,7 @@ vacinação recomendados variam de duas aplicações apenas nas matrizes
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 (aos 70 e 90 dias de gestação) a programas mais complexos (nos quais, 
 além das fêmeas, são vacinados também os leitões, em geral aos dez e 30 
 dias de vida).
@@ -7750,7 +7739,7 @@ mas deve ser sempre superior a cinco dias;
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 •	 Se	 o	 nível	 da	 doença	 no	 rebanho	 é	 baixo,	 o	 tratamento	
 quimioterápico muitas vezes é antieconômico, devendo-se atuar, então, 
 apenas no manejo e no meio ambiente;
@@ -7795,7 +7784,7 @@ manifestação da doença.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 O  programa  típico  de  vacinação  recomendado  pelos  fabricantes 
 na cionais inclui a vacinação das leitoas e matrizes duas vezes, no terço 
 final da gestação. Os leitões devem ser vacinados com quatro semanas de 
@@ -7839,7 +7828,7 @@ nervosos e respiratórios, por alto índice de mortalidade entre leitões não
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 imunes  e  por  graves  transtornos  reprodutivos  em  matrizes  prenhes.  O 
 suíno contaminado pelo vírus é o principal disseminador dessa doença.
 
@@ -7889,7 +7878,7 @@ comercialização de animais oriundos de granjas infectadas, mas podem ser
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 abatidos e sua carne consumida. Animais e sêmen importados ou desti-
 nados a feiras e exposições devem ter sua origem em planteis livres da 
 doença e certificados pelo MAA.
@@ -7935,7 +7924,7 @@ fontes de água por animais portadores, isolar e tratar os animais infectados.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 A  vacinação  oferece  proteção  eficiente  quando  aliada  a  outras 
 medi das  preventivas,  especialmente  em  granjas  onde  as  condições 
 ambientais  favoreçam  a  infecção  com  leptospiras  (muita  umidade, 
@@ -7981,7 +7970,7 @@ quan do o piso é áspero.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 336  A lavagem diária das baias causa problemas de casco?
 
 Em contato constante com a água, o tecido córneo do casco pode 
@@ -8023,7 +8012,7 @@ de vida do leitão. Caracteriza-se por falha na gliconeogênese e por taxas
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 subnormais de glicose no sangue. O índice de mortalidade varia de 30 a 
 40%,  podendo  alcançar  100%  em  leitegadas  individuais.  Ocorre 
 principalmente nos meses frios do ano, em criações que não fornecem 
@@ -8069,7 +8058,7 @@ o veteri nário inspeciona a carcaça.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 343  Como prevenir e tratar a tuberculose?
 
 Não se recomenda tratar a tuberculose em suínos, pois o tratamento 
@@ -8115,7 +8104,7 @@ tamento  até  a  de  terminação.  Os  animais
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 afetados apresentam tonteira, febre alta, juntas inchadas e dificuldade no 
 andar. Se não forem tratados quando aparecerem os primeiros sintomas, 
 geralmente a doença causa morte.
@@ -8158,7 +8147,7 @@ mortalidade geralmente é alta.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 350  O que é um suíno SPF?
 
 A sigla SPF (Specific Pathogen Free = livre de patógeno específico) 
@@ -8200,7 +8189,7 @@ riam. Em geral, é recomendada uma vacinação da matriz no último mês de
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 gestação, vacinação dos leitões entre quinze e 30 dias de idade e uma 
 vacinação anual dos animais adultos.
 
@@ -8252,7 +8241,7 @@ eritema  ou  urticária  ou  com  contornos
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 salientes em forma de losango, com coloração púrpura-escura, facilmente 
 visíveis em animais de pelagem clara. A bactéria Erysipelothrix rhusiopathie 
 causadora da doença sobrevive quatro a cinco dias na água e vários dias 
@@ -8295,7 +8284,7 @@ podem romper-se formando úlceras. As vesículas também podem aparecer
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 nas  tetas,  entre  os  cascos  e  na  coroa  do  casco.  A  febre  aftosa  é  uma 
 doença altamente contagiosa.
 
@@ -8342,7 +8331,7 @@ totalidade dos reprodutores do plantel.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 360  O que são micotoxinas?
 
 Micotoxinas  são  metabólitos  secundários,  produzidos  por  certos 
@@ -8430,7 +8419,7 @@ mento e a multiplicação dos fungos, que se aceleram com o aumento do
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 teor de umidade. A temperatura ótima para crescimento dos fungos 
 está entre 25 °C e 30 °C. Abaixo dos 5 °C não há crescimento da 
 maioria dos fungos. A temperatura máxima está entre 40 °C e 45 °C 
@@ -8478,7 +8467,7 @@ de outras do enças no rebanho.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 Algumas  doenças  podem  ser  confundidas  com  essa  intoxicação, 
 como a leptospirose, a peste suína e a intoxicação por metais pesados, 
 que devem ser levadas em conta no diagnóstico. Os sintomas clínicos de 
@@ -8529,7 +8518,7 @@ ingerida. Níveis de 1 ppm a 30 ppm (partes por milhão) são suficientes para
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 provocar sintomas de intoxicação. Os principais são: as fêmeas apresentam 
 vulva inchada, dando impressão de que estão no cio. Suínos jovens, tanto 
 machos como fêmeas, mostram mais saliência dos mamilos. Em fêmeas 
@@ -8575,7 +8564,7 @@ efetivas quando tomadas, deve-se optar por métodos de detoxificação dos
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 alimentos. O ideal seria a eliminação do alimento contaminado após a 
 constatação da presença de micotoxina. No mundo todo, tem-se realizado 
 grandes esforços na procura de métodos e procedimentos para minimizar 
@@ -8621,7 +8610,7 @@ durante o período de pré-colheita e transporte.
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 Condições ótimas para a produção de micotoxinas por alguns fungos
 
 Grupo
@@ -8729,7 +8718,7 @@ monitorar  a  umidade  e  a  temperatura  periodicamente.  Para  evitar  o
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 crescimento  fúngico  no  armazenamento,  diversas  substâncias  têm  sido 
 uti lizadas.  Os  antifúngicos  mais  usados  são  ácidos  orgânicos  como 
 propiônico, acético, sórbico e benzoico.
@@ -8742,7 +8731,7 @@ nos grãos.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 8 Melhoramento
 
 Genético Animal
@@ -8754,7 +8743,7 @@ Raças
 Cruzamentos
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 370  Qual  é  o  peso  final  que  um  suíno  da  raça  Duroc  pode 
 
 atingir?
@@ -8798,7 +8787,7 @@ criados com ra ção à vontade.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 374  Quantas raças de suínos existem?
 
 No Brasil, as raças melhoradas geneticamente e mais criadas são 
@@ -8836,7 +8825,7 @@ toucinho e carne de boa qualidade.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 •	Pietrain apresenta a menor deposição de gordura e o maior ren-
 dimento de carne na carcaça entre todas as raças. Porém é muito sensível 
 ao estresse, e sua carne não é de boa qualidade industrial.
@@ -8883,7 +8872,7 @@ desta cando-se as raças Piau, Caruncho, Estrela e Nilo.
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 378  Quais as características do animal para abate?
 
 Suínos para abate devem apresentar excelente rendimento de carne 
@@ -8929,7 +8918,7 @@ mente Nilo, Canastra, Piau, Caruncho e Pirapitinga.
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 382  O que é o suíno Landau?
 
 É o resultado do cruzamento de machos Landrace com fêmeas Piau 
@@ -8972,7 +8961,7 @@ proteica, vitamínica e mineral, e pasto à vontade. Os animais podem ser
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 criados à solta, em piquetes cercados, recomendando-se, nesse caso, o 
 ro dízio de piquetes, ou em confinamento, em construções simples, mas 
 que atendam às condições descritas no início do parágrafo. Esses critérios 
@@ -9013,7 +9002,7 @@ conversão alimentar.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 389  Qual é o peso ideal para abate?
 
 Suínos com 80 kg de peso vivo apre-
@@ -9057,7 +9046,7 @@ a sanidade da granja onde serão utilizadas.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 392 
 
 Qual a raça nacional que produz o máximo de carne e o 
@@ -9103,7 +9092,7 @@ de linhas selecionadas para aumento da prolificidade.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 395  Quais os cruzamentos recomendados para a raça Duroc?
 
 Machos da raça Duroc podem ser utilizados para produzir suínos 
@@ -9149,7 +9138,7 @@ se jam melhores do que as utilizadas apenas para Pirapitinga.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 399  O que é suíno híbrido e suíno F-1 ?
 
 Suíno  híbrido  é  o  mesmo  que  mestiço  ou  cruzado.  O  termo  é 
@@ -9191,7 +9180,7 @@ a taxa  de  crescimento diário e a conversão alimentar. As características de
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 carcaça, como a espessura de toucinho e o rendimento de carne, pratica-
 mente  não  apresentam  heterose,  sendo  o  desempenho  dos  animais 
 mestiços semelhante à média do desempenho das raças paterna e materna. 
@@ -9211,7 +9200,7 @@ Sim, desde que o macho não seja parente das fêmeas Landau.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 9 Instalações/
 
 Equipamentos
@@ -9219,7 +9208,7 @@ Equipamentos
  
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 403  Como deve ser o local destinado às instalações de suínos?
 
 As edificações devem ser projetadas de forma a aproveitar ao máxi-
@@ -9255,7 +9244,7 @@ na construção.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 405 
 
 As  instalações  podem  ficar  próximas  de  morros  ou  de 
@@ -9303,7 +9292,7 @@ oito horas no mínimo, após a primeira.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 Outra recomendação é isolar o telhado com forro (plástico, madeira 
 e outros), formando uma camada de ar ventilada que expele o calor vindo 
 do telhado. Telhados feitos com material isolante mais pesado é outra
@@ -9346,7 +9335,7 @@ a lâmpada, mantendo temperatura de conforto dentro do escamoteador.
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 412  Como é construído um escamoteador?
 
 O escamoteador pode ser de madeira, alvenaria ou outro material. 
@@ -9387,7 +9376,7 @@ desempenado.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 415  Qual a área recomendada para as diferentes fases produtivas?
 
 A tabela a seguir apresenta as áreas recomendadas para as diferentes 
@@ -9575,7 +9564,7 @@ matrizes e outro para os leitões, pois a faixa de conforto da matriz é diferente
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 daquela  dos  leitões,  tornando-se  obrigatório  o  uso  de  escamoteador. 
 Acon selha-se o uso de forro isolante térmico junto à cobertura, a fim de 
 melhorar o conforto dos animais. As fêmeas podem ser manejadas em 
@@ -9617,7 +9606,7 @@ do sistema de alimentação.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 Recomenda-se um comedouro simples por baia, com tantas bocas 
 quantos forem os animais no grupo ou um comedouro automático com 
 uma boca para cada três animais, para grupos de até doze animais. Para 
@@ -9650,7 +9639,7 @@ comedouro.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 425  Qual a vantagem do comedouro automático tipo Embrapa?
 
 De fácil confecção, podendo ser feito pelo próprio produtor, tem 
@@ -9660,9 +9649,9 @@ estocar maior quantidade de ração.
 205
 
 
- 500pr_pgnumber206
-
  500pr_pgnumber207
+
+ 500pr_pgnumber208
 10 Manejo
 
  
@@ -9672,7 +9661,7 @@ de Dejetos
 Controle de Insetos
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 426  Qual é a composição do esterco de suíno?
 
 A composição está relacionada ao manejo do esterco e da criação, 
@@ -9775,7 +9764,7 @@ em lagoas.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 A decomposição aeróbica é mais eficiente no controle de patógenos 
 (causadores  de  doença)  e  de  sementes  de  invasoras,  ao  passo  que  a 
 decomposição anaeróbica preserva o valor fertilizante dos dejetos.
@@ -9800,7 +9789,7 @@ causando poluição.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 430 
 
 Qual a melhor solução para o aproveitamento dos dejetos 
@@ -9846,7 +9835,7 @@ otimizar a quantidade de esterco a ser utilizado.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 432  Qual o melhor método de aplicação dos dejetos?
 
 A  aplicação  dos  dejetos  depende  da  situação  econômica  do 
@@ -9886,7 +9875,7 @@ interligados. O esterco de suíno é misturado com água (sem desinfetantes) e
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 colocado  num  dos  compartimentos 
 onde fica por um período certo para 
 que as bactérias anaeróbicas fermen-
@@ -9916,7 +9905,7 @@ de suínos, conforme a tabela a seguir.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 Categoria
 
 25 kg a 100 kg
@@ -10022,7 +10011,7 @@ diário de dejetos na gestação.
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 Reprodutor = total de reprodutores x volume diário de dejetos.
 
 Tomando como exemplo para cálculo uma granja com 48 matrizes, tem-se:
@@ -10085,7 +10074,7 @@ sobre a qualidade da carne e das vísceras desses animais do ponto de vista
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 da saúde pública, da qualidade nutricional e palatabilidade, o que desauto-
 riza recomendar o emprego desses dejetos na alimentação de bovinos.
 
@@ -10128,7 +10117,7 @@ ou mais, procedendo-se da seguinte maneira:
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 443  O que fazer para diminuir o mau cheiro das fezes?
 
 O mau cheiro decorre principalmente da produção de gás sulfídrico, 
@@ -10175,7 +10164,7 @@ se, com mais frequência, a limpeza a seco, isto é, removendo a sujeira seca
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 sem deixar que se acumule. Esse programa deve ser reavaliado pelo técnico 
 responsável a cada três meses.
 
@@ -10220,7 +10209,7 @@ do em câmara de fermentação por 30 dias, no mínimo. Os restos de parição
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 e  cadáveres  devem  ser  lançados 
 em fossas ou enterrados. Restos de 
 ração mofada devem ser cobertos 
@@ -10261,7 +10250,7 @@ qualquer resíduo orgânico que sirva de alimento aos filhotes ou larvas. Doze
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 horas depois, os ovos eclodem, isto é, nascem as larvas, que se alimentam 
 dos dejetos e mudam de pele. Esse ciclo se repete três vezes e demora de 
 cinco a seis dias. Depois da última muda de pele e de se alimentar bem, a 
@@ -10300,7 +10289,7 @@ veiculadoras dos ovos do berne.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 455  Quais os repelentes naturais utiIizados contra a mosca?
 
 Nenhum repelente é eficaz quando se permite a reprodução excessi-
@@ -10364,7 +10353,7 @@ enter  rados ou colocados em fossa construída para essa finalidade.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 457  Como controlar o mosquito borrachudo?
 
 Impedindo que o esterco de suínos, os vazamentos de esterqueiras, 
@@ -10381,9 +10370,9 @@ servem de alimento às larvas de borrachudo.
 221
 
 
- 500pr_pgnumber222
-
  500pr_pgnumber223
+
+ 500pr_pgnumber224
 11 Tecnologia
 
 de Carnes
@@ -10391,7 +10380,7 @@ de Carnes
  
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 459  Qual o tipo de suíno mais indicado para fazer embutidos?
 
 Deve-se utilizar suíno tipo carne, com peso entre 90 kg e 110 kg, 
@@ -10439,7 +10428,7 @@ sangria e a evisceração não deve passar de 30 minutos.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 461 
 
 Que quantidade de nitrato de sódio e nitrito deve-se usar 
@@ -10491,7 +10480,7 @@ principais partes da carcaça.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 1 - Alcatra
 2 - Coxão de fora
 3 - Coxão de dentro
@@ -10534,7 +10523,7 @@ com o processo completo da defumação.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 467  Quais os tipos de defumadores existentes?
 
 Os defumadores mais utilizados são os do tipo armário, tipo tonel 
@@ -10578,7 +10567,7 @@ Aquelas produtoras de suíno tipo carne ou seus cruzamentos.
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 472 
 
 Onde adquirir as embalagens necessárias para produção 
@@ -10620,7 +10609,7 @@ medicamentos, cosméticos e pincéis.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 476  É verdade que a carne suína aumenta o colesterol?
 
 Não. Um dos fatores responsáveis pelo aumento do colesterol, nos 
@@ -10666,7 +10655,7 @@ dois processos são utilizados pela maioria dos frigoríficos.
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 480  Como criar suínos para a produção de bacon.
 
 Suíno  criado  com  cuidados  na  alimentação,  manejo  e  sanidade, 
@@ -10676,11 +10665,11 @@ Um suíno de 90 kg a 100 kg vivo fornece de 6 kg a 7 kg de bacon.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 12 Economia
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 481  Qual a causa da crise da suinocultura nacional?
 
 Apontar causas para as crises da suinocultura não é tão simples, 
@@ -10739,7 +10728,7 @@ renças não só de épocas, mas também por tipo de produtor. Todavia, não se
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 pode afirmar, sem risco de errar, que uma opção seja melhor que a outra. 
 Ambas  dependem  da  situação  do  mercado,  em  especial  do  preço  dos 
 insumos. A opção pelo ciclo completo depende da avaliação da situação 
@@ -10787,7 +10776,7 @@ esses produ tores, a solução é a produção associativa.
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 O sistema de condomínio é uma forma de produção associativa. Esta 
 forma de produção foi iniciada em Santa Catarina, em meados dos anos 80, 
 e até hoje é difundida nos Estados do Sul. Ela permite aos pequenos produtores 
@@ -10858,7 +10847,7 @@ N° de matrizes/pessoa
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 •	Cuidados	no	aspecto	sanitário	dos	animais	que	vão	formar	o	plantel.
 •	 Montante	 de	 investimento	 por	 matriz	 depende	 do	 sistema	 de	
 produção a ser adotado, do tipo e do material a ser utilizado nas instalações. 
@@ -10913,7 +10902,7 @@ suínos e de compra dos insumos.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 A atividade suinícola, mesmo com elevados índices de produtividade, 
 necessita de tempo superior a seis anos para recuperar o capital investido. 
 Infelizmente, a suinocultura tem convivido com crises constantes e longas. 
@@ -10959,7 +10948,7 @@ certa capacidade de produção.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 Como  exemplo  de  custo  fixo,  pode-se  citar  as  instalações  e 
 equipamentos existentes, pois seus custos são suportados pela unidade 
 produtiva qual quer que seja o volume de produção realizado.
@@ -11233,7 +11222,7 @@ Custo Total Médio
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 Para maiores informações, ver metodologia do cálculo, Documento 
 N° 18, de 1994. A Embrapa Suínos e Aves dispõe de dois softwares para 
 esse fim: Atepros - Acompanhamento Técnico-econômico das Propriedades 
@@ -11275,7 +11264,7 @@ Suínos e Aves.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 Este programa busca atender a todos os suinocultores que necessitam 
 de ferramenta simples e eficaz para baratear o custo da alimentação de 
 seus animais.
@@ -11325,7 +11314,7 @@ bilidade de cada uma depende do mercado ao qual estão vinculadas.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 As  vantagens  e  desvantagens  do  sistema  de  integração  são  as 
 
 seguintes:
@@ -11372,7 +11361,7 @@ dos pelo terminador. O tamanho do lote e a forma de pagamento dependem
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 da integradora. Algumas integrações trabalham com lotes de 24 leitões, 
 no mínimo, e pagamento feito na seguinte base: leitões com até 22 kg de 
 peso têm preço de 1,50 vezes o preço do suíno vivo, e com peso acima 
@@ -11422,7 +11411,7 @@ desse tipo de produtor é idêntica à de um produtor de ciclo completo.
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 499  O que é um criador de reprodutores?
 
 É o produtor que possui as linhagens puras ou as F-1, e faz seleção 
@@ -11449,7 +11438,7 @@ do os preços são mais baixos. Esse fato decorre da sazonal idade dos preços
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 dos  produtos  agrícolas,  que  se  deprimem  nos  períodos  de  safra  e  se 
 elevam nos períodos de entressafra;
 
@@ -11469,24 +11458,5 @@ A Embrapa Suínos e Aves dispõe de tecnologias que podem promo-
 ver essas melhorias a baixo custo.
 
 243
-
-
- 500pr_pgnumber244
-
- 500pr_pgnumber245
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber246
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
 
 

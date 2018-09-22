@@ -1,5 +1,5 @@
 
- 500pr_pgnumber015
+ 500pr_pgnumber016
 1
 
 Como está classificado o gênero citros?
@@ -46,7 +46,7 @@ científico Citrus sinensis (L) Osbeck.
 16
 
 
- 500pr_pgnumber016
+ 500pr_pgnumber017
 4
 
 Como é conhecido cientificamente o grupo das tangerinas?
@@ -95,7 +95,7 @@ Os nomes científicos dos principais porta-enxertos são:
 17
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 8
 
 Que outras cultivares cítricas podem ser de interesse comer-
@@ -119,7 +119,7 @@ L.).
 18
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 2 Botânica Econômica
 
 Ygor da Silva Coelho
@@ -127,7 +127,7 @@ Ygor da Silva Coelho
 19
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 9
 
 A forma e a estrutura da planta cítrica, nos pomares comer-
@@ -173,7 +173,7 @@ mento são também abreviados, compensando as perdas.
 20
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 12
 
 Qual o período de floração das plantas cítricas?
@@ -223,7 +223,7 @@ produtividade ideal para uma planta cítrica ou para um pomar.
 21
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 15
 
 Quais as espécies de citros mais produtivas?
@@ -257,7 +257,7 @@ máxima pode ocorrer até os 12 anos, aproximadamente.
 22
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 3 Clima
 
 Antonia Fonseca de Jesus Magalhães
@@ -265,7 +265,7 @@ Antonia Fonseca de Jesus Magalhães
 23
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 18
 
 Qual a influência do clima na cultura dos citros?
@@ -315,7 +315,7 @@ excessivo  das  folhas,  há  destruição  da  clorofila  e  bloqueio  da
 24
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 translocação da água resultando na desorganização do balanço nutri-
 cional da planta.
 
@@ -365,7 +365,7 @@ seguintes espécies:
 25
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 • Tangerinas.
 • Kunquat.
 • Trifoliata.
@@ -409,7 +409,7 @@ climática.
 26
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 28
 
 Como são calculadas as “unidades térmicas” necessárias a
@@ -456,7 +456,7 @@ Ocidental.
 27
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 • Regiões restritas são as áreas com deficiência hídrica anual
 
 superior a 300 mm, porém aptas com o uso da irrigação.
@@ -506,7 +506,7 @@ d’água.
 28
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 36
 
 Qual a influência do vento sobre o pomar cítrico?
@@ -554,7 +554,7 @@ condição seja de melhor aspecto para o mercado in natura.
 29
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 4 Cultivares
 
 Orlando Sampaio Passos
@@ -563,7 +563,7 @@ Walter dos Santos Soares Filho
 Almir Pinto da Cunha Sobrinho
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 40
 
 Quais as cultivares mais recomendadas, no Brasil?
@@ -639,7 +639,7 @@ cultivar. Além disso, outros fatores devem ser considerados, como:
 32
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 42
 
 Como podem ser classificadas as cultivares de citros em rela-
@@ -797,7 +797,7 @@ Sim
 Sim
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 43
 
 Entre as cultivares que produzem frutos para consumo in
@@ -821,7 +821,7 @@ das para tal finalidade.
 34
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 Micropropagação
 e Microenxertia
 
@@ -834,7 +834,7 @@ Hermes Peixoto Santos Filho
 35
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 44
 
 O que é biotecnologia?
@@ -884,7 +884,7 @@ matrizes, que fornecerão folhas para extração de protoplastos a serem
 36
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 utilizados em hibridação somática, uma alternativa para a obtenção
 de híbridos de citros.
 
@@ -931,7 +931,7 @@ quarentena.
 37
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 • Separação de microrganismos presentes ao mesmo tempo
 
 nas plantas.
@@ -979,7 +979,7 @@ de 10, submergi-las em solução de hipoclorito de sódio a 0,5%
 38
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 contendo 0,1% de “Tween-20” e lavá-las por três vezes em água
 destilada esterilizada.
 
@@ -1025,7 +1025,7 @@ se a solução de sais minerais MS (Tabela 3 ), solidificada com
 39
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 1% de ágar, ajustando o pH para 5,7 mediante adição de
 hidróxido de sódio 1N. Em seguida, deve-se distribuir o meio
 em alíquotas de 25 mL nos tubos de ensaio, tampá-los e
@@ -1088,7 +1088,7 @@ de eliminação da doença.
 40
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 Outro fator importante é que, de acordo com o microrganismo
 a ser retirado dos tecidos, o tamanho do ápice caulinar pode variar.
 Com os tamanhos de 0,2 mm a 0,6 mm, pode-se obter uma variação
@@ -1132,7 +1132,7 @@ sadias.
 41
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 Tabela 4. Porcentagem  de  plantas  livres  de  vírus  e
 similares, obtidas por microenxertia.
 
@@ -1191,7 +1191,7 @@ seguintes espécies:
 42
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 6 Produção de Mudas
 
 Almir Pinto da Cunha Sobrinho
@@ -1203,7 +1203,7 @@ Walter dos Santos Soares Filho
 43
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 63
 
 Qual é a importância da muda na formação do pomar?
@@ -1249,7 +1249,7 @@ Como mostra a Tabela 5.
 44
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 Tabela 5. Combinações copa/porta-enxertos que podem ser usadas nas áreas
 citrícolas dos Tabuleiros Costeiros da Bahia e Sergipe.
 
@@ -1309,7 +1309,7 @@ guardadas em local seco e fresco, ou na geladeira.
 45
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 68
 
 Qual é o local ideal para a sementeira?
@@ -1358,7 +1358,7 @@ aparecendo.
 46
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 71
 
  Quantas sementes existem num quilo?
@@ -1446,7 +1446,7 @@ necessário, sem encharcá-los. Nas estiagens, regar pela manhã e à
 47
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 tarde, nas horas mais frescas. As ervas daninhas devem ser retiradas
 manualmente, sempre que necessário.
 
@@ -1492,7 +1492,7 @@ niente nos solos coesos dos tabuleiros costeiros.
 48
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 Como prática obrigatória, sugere-se fazer a análise de solos de
 acordo com a orientação dos laboratórios. Se houver necessidade
 de calagem, aplicar metade do calcário dolomítico antes da aração
@@ -1548,7 +1548,7 @@ Espaçamento (m)
 49
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 78
 
 Existe alguma recomendação especial para o transplante dos
@@ -1597,7 +1597,7 @@ vigorosas, de alta produtividade, com frutos característicos da cultivar
 50
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 ou, na falta dessas, de plantas com as mesmas características descritas
 acima, existentes em pomares também sadios e produtivos.
 
@@ -1643,7 +1643,7 @@ de-Phytophthora, como a lima ácida Tahiti e os limões verdadeiros
 51
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 83
 
 Que métodos são mais usados para o forçamento da brota-
@@ -1692,7 +1692,7 @@ das laranjeiras, limoeiros e pomeleiros, entre 50 e 60 cm.
 52
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 85
 
 O que significa “muda vareta”?
@@ -1739,7 +1739,7 @@ barro mole e envolvidas em sacos umedecidos de estopa ou aniagem.
 53
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 87
 
 O que significa “mudas de torrão”?
@@ -1765,7 +1765,7 @@ mutações.
 54
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 7 Implantação do Pomar
 
 Orlando Sampaio Passos
@@ -1776,7 +1776,7 @@ Walter dos Santos Soares Filho
 55
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 89
 
 Que fatores devem ser considerados no planejamento de
@@ -1824,7 +1824,7 @@ as chuvas de trovoada ou, em março, no início da estação chuvosa.
 56
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 Estima-se em 4 h/tr o tempo para a aração de um hectare.
 Em áreas onde já foram detectadas zonas de impedimento (solos
 compactados), recomenda-se usar o subsolador ao invés de arado.
@@ -1896,7 +1896,7 @@ Espaçamento (m)
 6,0 x 4,0
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 94
 
 Como é feito o alinhamento antes do plantio da muda?
@@ -1946,7 +1946,7 @@ plantas como componentes de um sistema de produção. Os tratos
 58
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 culturais e outras operações, inclusive a colheita, podem ser contro-
 lados por meio de fichas específicas conforme o serviço prestado.
 
@@ -1993,7 +1993,7 @@ deixando o colo da muda a 5 cm abaixo do nível do solo.
 59
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 Independentemente
 das chuvas durante o plan-
 tio, deve-se regar com 20 L
@@ -2031,7 +2031,7 @@ Canavalia ensiformes.
 60
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 Manejo e Conservação
 do Solo
 
@@ -2045,7 +2045,7 @@ José Eduardo Borges de Carvalho
 61
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 100
 
 Que características e propriedades do solo são consideradas
@@ -2087,7 +2087,7 @@ tórios para o controle da erosão.
 62
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 103
 
 Como verificar se a profundidade do solo é adequada para
@@ -2133,7 +2133,7 @@ não suportam solo saturado, mesmo por período de poucos dias,
 63
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 porque ocorrem problemas de respiração e também apodrecimento.
 Caso não existam áreas alternativas, ou se o pomar já estiver instalado,
 deve ser avaliado o custo da implantação de um sistema de drenagem
@@ -2182,7 +2182,7 @@ próximo a ela. As principais causa da compactação são:
 64
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 Camadas adensadas são as que ocorrem em zonas subsuper-
 ficiais. Têm como causa alguns processos de formação do solo que
 provocam a migração de partículas menores da superfície para as
@@ -2228,7 +2228,7 @@ um pomar de citros, são:
 65
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 • Áreas com declividades maior que 3% exigem a localização
 de curvas de nível, que devem ser seguidas pelas práticas
 mecânicas.
@@ -2277,7 +2277,7 @@ entre plantas.
 66
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 112
 
 Como transportar mudas e adubo para fazer o plantio?
@@ -2320,7 +2320,7 @@ ano seguinte.
 67
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 114
 
 Qual a forma correta de fazer o preparo do solo não mecani-
@@ -2371,7 +2371,7 @@ para a produção de sementes para o plantio do ano seguinte.
 68
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 • A descompactação da área deve ser feita com subsolador,
 ou escarificador, depois da roçagem das leguminosas, quando
 o solo estiver mais seco do que úmido em toda a profundi-
@@ -2418,7 +2418,7 @@ adequada do solo são:
 69
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 • Ausência de poeira na passagem de um implemento.
 • As rodas de tração não patinam.
 • O solo não gruda nos implementos.
@@ -2467,7 +2467,7 @@ solar e do vento.
 70
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 • Diminuir  a  desa-
 gregação das partí-
 culas,  a  compac-
@@ -2499,7 +2499,7 @@ de despesas com transporte e mão-de-obra para sua aplicação.
 71
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 Manejo de Plantas
 Daninhas
 
@@ -2508,7 +2508,7 @@ Daninhas
 José Eduardo Borges de Carvalho
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 122
 
 Que aspectos devem ser considerados antes de definir um
@@ -2553,7 +2553,7 @@ rência de plantas daninhas.
 74
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 126
 
 O conhecimento do período crítico ajuda a reduzir os custos
@@ -2596,7 +2596,7 @@ dependência dos adubos químicos.
 75
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 129
 
 É importante manter plantas daninhas produtoras de flores,
@@ -2640,7 +2640,7 @@ fotossintética.
 76
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 133
 
 O manejo do solo e as coberturas vegetais para controle
@@ -2687,7 +2687,7 @@ melhor produto a ser utilizado.
 77
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
  Atualmente os herbicidas à base de glifosate são os mais utiliza-
 dos em citros por permitirem a formação de cobertura morta, por se
 adequarem muito bem ao manejo do solo e de coberturas vegetais
@@ -2735,7 +2735,7 @@ contaminação das áreas vizinhas pela deriva do produto.
 78
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 141
 
 Nas condições dos solos dos Tabuleiros Costeiros, podem
@@ -2783,7 +2783,7 @@ efetuam-se movimentos lentos na vareta do equipamento no sentido
 79
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 direita/esquerda ao caminhar, conseguindo-se assim, em uma só
 passagem, aplicar numa faixa aproximada de 1,60 a 1,80 m, em cada
 lado da laranjeira.
@@ -2833,7 +2833,7 @@ relação ao convencional a lanço, como:
 80
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 • A retirada por completo da grade do pomar para o controle
 
 de plantas daninhas.
@@ -2852,7 +2852,7 @@ morta.
 81
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 10
 
 Nutrição, Calagem
@@ -2861,7 +2861,7 @@ e Adubação
 Antonia Fonseca de Jesus Magalhães
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 148
 
 Que nutrientes são demandados pelas plantas de citros?
@@ -2909,7 +2909,7 @@ folhas e brotos.
 84
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 151
 
 Qual a importância do nitrogênio para os citros?
@@ -2957,7 +2957,7 @@ O efeito do K só é evidenciado com a aplicação de Mg.
 85
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 156
 
 Qual a faixa ideal de pH do solo para o cultivo dos citros?
@@ -3003,7 +3003,7 @@ calagem e/ou adubação.
 86
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 158
 
 Qual o momento ideal para coleta do solo?
@@ -3053,7 +3053,7 @@ ser parceladas em duas ou três vezes.
 87
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 161
 
 Que tipos de calcário podem ser aplicados ao solo?
@@ -3122,7 +3122,7 @@ se os teores de óxidos de cálcio e magnésio, os calcários podem ser
 88
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 classificados em calcário calcítico (de 40% a 45 % CaO e < 6%
 MgO), magnesiano (de 31% a 39% CaO e de 6% a 12% MgO) ou
 dolomítico (de 25 a 30% CaO e >12% MgO). A soma de CaO+MgO
@@ -3167,7 +3167,7 @@ realizada com a finalidade de produzir ácido fosfórico.
 89
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 168
 
 Qual a utilidade do gesso agrícola?
@@ -3210,7 +3210,7 @@ teor no solo for superior a 20 mg/dm3.
 90
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 172
 
 Por que fracionar os adubos nitrogenados e potássicos?
@@ -3301,7 +3301,7 @@ A localização dos ferilizantes está indicada na Tabela 11.
 91
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 Tabela 11. Localização dos fertilizantes de acordo com a idade e o desenvolvi-
 mento das plantas.
 
@@ -3366,7 +3366,7 @@ O
 92
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 179
 
 Quais os adubos potássicos mais recomendados?
@@ -3461,7 +3461,7 @@ e produção.
 93
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 182
 
 Quais os micronutrientes mais exigidos pelas plantas cítricas?
@@ -3526,7 +3526,7 @@ triente.
 94
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 184
 
 Qual a importância da análise foliar?
@@ -3579,7 +3579,7 @@ campo, comparações de teores em folhas sadias ou com sintoma de
 95
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 carência  e  dados  de  levantamentos  nutricionais  de  pomares
 comerciais.
 
@@ -3631,7 +3631,7 @@ cau composto.
 96
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 189
 
 Quais os fatores limitantes no uso dos adubos orgânicos?
@@ -3688,7 +3688,7 @@ processos microbiológicos.
 97
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 192
 
 Em que épocas devem ser aplicados os adubos nitrogenados,
@@ -3734,7 +3734,7 @@ mínima de 60 dias.
 98
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 195
 
 O que é ‘DRIS’?
@@ -3786,7 +3786,7 @@ umidade no solo.
 99
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 200
 
 É importante aplicar adubos na cova de plantio?
@@ -3835,7 +3835,7 @@ sobre o crescimento, morfo-
 100
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 logia, anatomia e composição química da planta pode aumentar ou
 diminuir sua resistência às pragas e doenças.
 
@@ -3885,7 +3885,7 @@ das plantas às doenças.
 101
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 11
 
 Irrigação e
@@ -3896,7 +3896,7 @@ Eugênio Ferreira Coelho
 Antonia Fonseca de Jesus Magalhães
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 205
 
 Quais as vantagens da irrigação nos plantios de citros?
@@ -3942,7 +3942,7 @@ de 5 a 6 gotejadores por planta.
 104
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 Os gotejadores podem ser instalados em uma única linha lateral
 por fileira de plantas, de preferência dispostos ao redor do tronco
 com a linha lateral em anel ou em rabo de porco. Também podem
@@ -3994,7 +3994,7 @@ hídrico da região, ou dos períodos do ano em que ocorre déficit
 105
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 hídrico no solo por um período suficiente para causar estresse às
 plantas. Mesmo em regiões com precipitação próxima ou superior a
 1.200 mm podem ocorrer, no solo, períodos de déficit hídrico supe-
@@ -4041,7 +4041,7 @@ a umidade. Os valores de tensão devem ser mantidos entre 15 e
 106
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 30 kPa, a 30 cm de profundidade para solos de textura arenosa e
 argilosa: tensões acima desses valores são indicativo de necessidade
 de irrigação.
@@ -4092,7 +4092,7 @@ do fertilizante pelo controle da água.
 107
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 • Maior parcelamento da adubação evitando perdas.
 • Nutrientes prontamente disponíveis.
 • Controle da concentração de nutrientes na solução do solo.
@@ -4147,7 +4147,7 @@ porque:
 108
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 • A variação da pressão e da vazão, ao longo da linha lateral,
 
 é maior.
@@ -4196,7 +4196,7 @@ e o sulfato de amônia por uréia, ou nitrato de amônia.
 109
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 228
 
 Como devem ser parcelados o nitrogênio e o potássio, aplica-
@@ -4245,7 +4245,7 @@ e da uréia, de reação neutra a ligeiramente ácida.
 110
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 • A uréia, fertilizante nitrogenado que produz o menor aumento
 da salinidade na água de irrigação, podendo ser utilizada
 em concentrações superiores às de outras fontes.
@@ -4313,7 +4313,7 @@ ou irrigados com água salina.
 111
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 237
 
 E com o sulfato de potássio?
@@ -4358,7 +4358,7 @@ pelo extrator mais profundo.
 112
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 12 Práticas Culturais
 
 Ygor da Silva Coelho
@@ -4366,7 +4366,7 @@ Ygor da Silva Coelho
 113
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 240
 
 Quais os principais tratos culturais recomendados para citros?
@@ -4413,7 +4413,7 @@ morte.
 114
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 243
 
 Por que a enxada rotativa não é comumente empregada nos
@@ -4465,7 +4465,7 @@ para o crescimento e aumento da longevidade das plantas.
 115
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 246
 
 Qual a vida útil de uma laranjeira, em condições de tratos
@@ -4513,7 +4513,7 @@ e médias propriedades e apresenta uma série de vantagens, como:
 116
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 • Rendimento na fase improdutiva do pomar.
 • Racionalização no uso de adubos e corretivos.
 • Melhor utilização dos fatores água, terra, luz, mão-de-obra.
@@ -4559,7 +4559,7 @@ culturas altas, a distância deve ser ampliada para 2,00 m.
 117
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 • Deve-se eliminar a cultura intercalar quando houver compe-
 tição por espaço, e limitá-la ao centro das ruas, à medida
 que as laranjeiras se desenvolvem.
@@ -4610,7 +4610,7 @@ gada  mais  intensamente  do  que  em  outras  regiões  do  Brasil.
 118
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Em tangerinas, quando diagnosticada a necessidade do raleamento,
 eliminam-se cerca de 50% dos frutos, deixando apenas dois em
 ramos que originalmente possuíam de 4 a 5 frutos.
@@ -4657,7 +4657,7 @@ mínimo de equi-
 119
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 pamentos, como tesouras de colheita, escadas auto-susten-
 táveis, luvas de tecido, cestos ou caixas padronizadas.
 
@@ -4702,7 +4702,7 @@ Outros defeitos encontrados nos frutos são:
 120
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 • Fruto com mancha-preta (Phyllosticta citricarpa).
 • Fruto com lesões de gafanhotos, arapuá, tripes e minador.
 • Fruto com mancha-de-leprose.
@@ -4731,7 +4731,7 @@ preliminares e não justificam ainda seu uso.
 121
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 13 Doenças Fúngicas
 
 Hermes Peixoto Santos Filho
@@ -4739,7 +4739,7 @@ Hermes Peixoto Santos Filho
 Antonio Alberto Rocha Oliveira
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 261
 
 Qual o agente causador da mancha-preta dos citros?
@@ -4788,7 +4788,7 @@ um desenvolvimento lento dos sintomas. A velocidade do surgimento
 124
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 dos sintomas aumenta em plantas enfraquecidas por deficiências
 nutricionais ou por outras doenças.
 
@@ -4838,7 +4838,7 @@ doença.
 125
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 • Evitar a utilização de material de colheita de outras proprie-
 
 dades, localizadas em regiões afetadas.
@@ -4886,7 +4886,7 @@ de tamanho e acabam provocando a morte das mudas.
 126
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 O fungo pode ainda infectar sementes e causar podridões antes
 
 mesmo da germinação.
@@ -4934,7 +4934,7 @@ a temperatura de 51,7oC).
 127
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 • Pulverizar periodicamente as mudas com fungicidas (Fosetyl-
 
 Al).
@@ -4993,7 +4993,7 @@ Como tratamento curativo recomendam-se:
 128
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 • Pincelamento
 dos troncos com
 pasta bordaleza
@@ -5043,7 +5043,7 @@ temperaturas altas, principalmente se a sementeira estiver muito
 129
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 sombreada, ou em regime intenso de rega ou irrigação. As plantas
 próximas ao transplantio já são mais resistentes.
 
@@ -5091,7 +5091,7 @@ devem ser retiradas da sementeira.
 130
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 O controle biológico de Rhizoctonia e Phytophthora pode ser
 feito com o fungo benéfico denominado Trichoderma, já formulado
 como fungicida biológico.
@@ -5136,7 +5136,7 @@ Os cálices continuam crescendo, transformando-se numa
 131
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 estrutura dilatada, com as sépalas salientes, semelhantes a
 estrelas, daí a denominação da doença de “estrelinha”.
 
@@ -5183,7 +5183,7 @@ que dá uma proteção mais prolongada e eficiente.
 132
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 285
 
 É verdade que o fungo causador da estrelinha cria resistência
@@ -5232,7 +5232,7 @@ limões verdadeiros, limão ‘Cravo’, ‘Volkameriano’, ‘Rugoso’, sendo
 133
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 causada pelo fungo Sphaceloma fawcetii, cujos prejuízos são enor-
 mes em sementeiras e viveiros.
 
@@ -5284,7 +5284,7 @@ com fungicida sistêmico do grupo dos triazóis, e uma segunda aplica-
 134
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 chuvoso, com um produto à base de cobre, como óxido cuproso,
 100 g/100 L de água, ou oxicloreto de cobre, 150-300 g/100 L de
 água , ou mancozeb, 250 g/100 L de água).
@@ -5337,7 +5337,7 @@ italicum (verde) e P. digitatum (azul), que recobrem os tecidos dos
 135
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 frutos com espessas massas de esporos, causando uma podridão-
 mole. Os sintomas aparecem na fase final de maturação e durante as
 fases de armazenamento e transporte. No caso do bolor-azul, uma
@@ -5382,7 +5382,7 @@ formando um tecido impermeável sobre as partes das plantas, porém
 136
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 é facilmente removível. Sob a camada de revestimento do fungo abri-
 gam-se cochonilhas, responsáveis pelo substrato de manutenção do
 fungo, uma vez que ele não se alimenta da planta.
@@ -5427,7 +5427,7 @@ processo de rachadura em frutos.
 137
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 299
 
 Quais os sintomas da podridão-de-alternária?
@@ -5479,7 +5479,7 @@ a semente e produzem uma toxina inibidora da produção de clorofila.
 138
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 O controle é realizado por meio do tratamento das sementes
 com fungicidas protetores e pelo armazenamento em condições
 prejudiciais aos fungos.
@@ -5525,7 +5525,7 @@ As medidas para evitar a rachadura são as seguintes:
 139
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 • A manutenção da umidade do solo em níveis adequados,
 nas áreas irrigadas, e a umidade do ar entre 70% e 75%
 podem reduzir consideravelmente o distúrbio.
@@ -5573,7 +5573,7 @@ desinfecção das áreas de abertura das covas, meses antes do plantio
 140
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 304
 
 Qual o causador da doença mofo-cinzento e quais os sinto-
@@ -5621,7 +5621,7 @@ cional da planta, realizar poda de formação após as colheitas, poda
 141
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 de limpeza e aplicação de produtos sistêmicos para evitar nova
 infecção.
 
@@ -5669,7 +5669,7 @@ chegarem  ao  tamanho  de  uma  bola  de  pingue-pongue,  quando
 142
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 310
 
 Quais os sintomas da mancha-aureolada e qual seu controle?
@@ -5717,7 +5717,7 @@ as lesões ocorrem nas folhas onde notam-se manchas oleosas, entre
 143
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 os tecidos, de coloração castanha, tendendo ao negro, lisas ao tato,
 salientes, rodeadas de um halo amarelo. São muito comuns em regiões
 de inverno chuvoso e aparecem com intensidade em períodos de
@@ -5761,7 +5761,7 @@ do ao passo que os galhos envelhecem.
 144
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
  Quando aparecem muitos ramos afetados, recomenda-se o
 controle do inseto com pesticidas menos agressivos ao meio ambiente,
 e registrados para citros.
@@ -5789,7 +5789,7 @@ das células do tecido interno da folha.
 145
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 14 Doenças Bacterianas
 
 Francisco Ferraz Laranjeira Barbosa
@@ -5797,7 +5797,7 @@ Francisco Ferraz Laranjeira Barbosa
 Hermes Peixoto Santos Filho
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 317
 
 Qual a causa da clorose-variegada-dos-citros?
@@ -5847,7 +5847,7 @@ clorose-variegada, mas como os resultados variam de região, ainda
 148
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 não é possível identificar variedades com alta resistência. No entanto,
 as variedades Lue Gim Gong e Westin, classificadas como moderada-
 mente suscetíveis, são as que apresentam o melhor comportamento
@@ -5892,7 +5892,7 @@ Como ainda não existe uma única medida de controle eficiente,
 149
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 inseto vetor. As medidas de controle têm que ser feitas em conjunto
 para uma possível convivência com a doença. Essas medidas visam
 impedir a entrada da CVC em áreas sem a doença, diminuir seus
@@ -5950,7 +5950,7 @@ a partir da última folha inferior com sintomas. A poda visa diminuir
 150
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 densidade  de  inó-
 culo e deve ser feita
 quando o pomar esti-
@@ -5997,7 +5997,7 @@ Variedades resistentes:
 151
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 Variedades suscetíveis:
 • A lima ácida Galego.
 • O limão Siciliano.
@@ -6040,7 +6040,7 @@ ser feito de modo eficiente sempre que, no talhão, 50% das plantas
 152
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 apresentarem brotações novas. Escadas, sacolas e caixas devem ser
 desinfetadas.
 
@@ -6084,7 +6084,7 @@ Estados Unidos como “citrus blast”.
 153
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 331
 
 O que é greening?
@@ -6128,7 +6128,7 @@ com neonecotinóides, fosforados ou piretróides.
 154
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 15 Doenças Viróticas
 
 Paulo Ernesto Meissner Filho
@@ -6139,7 +6139,7 @@ Cristiane de Jesus Barbosa
 155
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 335
 
 Quais as principais viroses que ocorrem nos pomares cítricos
@@ -6194,7 +6194,7 @@ As medidas gerais para o controle de viroses são:
 156
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 • Usar mudas e gemas obtidas de plantas sadias para a forma-
 
 ção de pomares.
@@ -6245,7 +6245,7 @@ tações severas da doença.
 157
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 342
 
 É possível obter plantas sadias de uma planta infectada?
@@ -6298,7 +6298,7 @@ Os sintomas da leprose são os seguintes:
 158
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 • Nas folhas, ocorrem lesões rasas, visíveis nas duas faces, e
 bastante  variáveis  de  acordo  com  a  variedade  infectada.
 De modo geral, são amareladas e arredondadas, às vezes
@@ -6344,7 +6344,7 @@ facilita a aplicação do acaricida no momento correto. Como o ácaro
 159
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 adquire resistência aos produtos, recomenda-se alternar o uso de
 acaricidas do mesmo grupo.
 
@@ -6393,7 +6393,7 @@ tristeza.
 160
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 353
 
 Como é transmitido o vírus-da-tristeza?
@@ -6444,7 +6444,7 @@ stunt viroid, HSVd) que causa a xiloporose.
 161
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 357
 
 O que causa a exocorte nos citros e quais os sintomas?
@@ -6497,7 +6497,7 @@ dem depressões no lenho.
 162
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 362
 
 Como o viróide da xiloporose é transmitido?
@@ -6550,7 +6550,7 @@ idade.
 163
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 365
 
 Quais as combinações copa/porta-enxerto mais suscetíveis
@@ -6604,7 +6604,7 @@ psorosis vírus, CPsV).
 164
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 371
 
 Quais os sintomas da infecção pelo vírus-da-sorose?
@@ -6653,7 +6653,7 @@ amarelada não encontrada nas plantas sadias.
 165
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 376
 
 Em quanto tempo a planta atacada pela morte súbita vem a
@@ -6703,7 +6703,7 @@ porta-enxerto, em regiões com a doença.
 166
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 • Não transportar material propagativo (borbulhas e mudas)
 
 para fora das áreas afetadas.
@@ -6720,7 +6720,7 @@ com sintomas.
 167
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 16 Pragas
 
 Antônio Souza do Nascimento
@@ -6730,7 +6730,7 @@ Nilton Fritzons Sanches
 Aloyséia Cristina C. de Noronha
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 379
 
 Existem pragas primárias e secundárias? Como distingui-las?
@@ -6778,7 +6778,7 @@ praga  ameaça  atingir  níveis  populacionais  que  provocam  danos
 170
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 econômicos, o que pode ser detectado pelo monitoramento popula-
 cional da praga.
 
@@ -6821,7 +6821,7 @@ mais comuns nesse tipo de controle.
 171
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 385
 
 Que cochonilha causa mais problemas à planta cítrica?
@@ -6869,7 +6869,7 @@ vem ser queimados ou enterrados.
 172
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 • Adubação orgânica e mineral visando fortalecer a planta.
 
 (repetir a operação dois meses após, se necessário).
@@ -6917,7 +6917,7 @@ de maior eficiência são:
 173
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 • O lufenoron.
 • O abamectin.
 • O imidacloprid.
@@ -6965,7 +6965,7 @@ ra com um inseticida (Triona + Methidation), ou outro fosforado.
 174
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 391
 
 Quais são as moscas-das-frutas mais comuns nas lavouras
@@ -7012,7 +7012,7 @@ mento (Mapa).
 175
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 Além dessas formas de controle, os frutos caídos devem ser
 recolhidos e enterrados. Essa medida contribui para reduzir a popu-
 lação da mosca-das-frutas.
@@ -7060,7 +7060,7 @@ são:
 176
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 • Broca dos ramos (Diplosquema rotundicolle).
 • Broca da laranjeira (Cratosomus flavofasciatus).
 • Arlequim pequeno(Macropophora acentiffer.
@@ -7104,7 +7104,7 @@ caracol rajado, entre outros.
 177
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 400
 
 Que danos a cochonilha-cabeça-de-prego causa aos citros?
@@ -7153,7 +7153,7 @@ Os ácaros mais comuns são:
 178
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 405
 
 Que prejuízos os ácaros causam aos citros?
@@ -7202,7 +7202,7 @@ predadores.
 179
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 A aplicação de acaricida não seletivo deve ser feita em época
 de baixa população dos predadores, informação que pode ser obtida
 fazendo o monitoramento do pomar.
@@ -7228,7 +7228,7 @@ nococcus citri.
 180
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 17 Nematóides
 
 Cecília Helena Silvino P. Ritzinger
@@ -7236,7 +7236,7 @@ Cecília Helena Silvino P. Ritzinger
 181
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 410
 
 Quais as principais espécies de nematóides observados na
@@ -7280,7 +7280,7 @@ Os que provocam os maiores danos à citricultura são:
 182
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 • Radopholus citri (do declínio rápido dos citros ou nematóide-
 
 cavernícola).
@@ -7327,7 +7327,7 @@ cias).
 183
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 Dessa forma, o maior porte da planta não recebe sustentação
 adequada do sistema radicular prejudicado pelos nematóides em
 sua função de absorção de água e nutrientes.
@@ -7375,7 +7375,7 @@ quantidade de nematóides no solo. Entretanto, é muito difícil estimar
 184
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 a real quantidade de nematóides, visto que as condições de solo e
 os  diversos  estágios  da  cultura  podem  mascarar  as  estimativas.
 O recomendável é estimar a população de nematóides em diversos
@@ -7420,7 +7420,7 @@ tóides.
 185
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 • Usar cultivares ou porta-enxerto resistentes.
 • Eliminar as ervas daninhas e plantas hospedeiras.
 • Fazer irrigação por gotejamento ou microaspersão.
@@ -7477,7 +7477,7 @@ anteriores e topografia.
 186
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 Cada área, de 10 ha, no máximo, deve ser amostrada com
 20 subamostras, coletadas em zig-zag, de forma a cobrir toda a área,
 que devem ser bem misturadas em um balde ou recipiente limpo,
@@ -7522,7 +7522,7 @@ nematóide-das-lesões (Pratylenchus coffeae).
 187
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 424
 
 Quais os sintomas e prejuízos do nematóide-das-galhas nas
@@ -7570,7 +7570,7 @@ Phytophthora e Fusarium.
 188
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 426
 
 Quais os prejuízos que os nematóides dos gênero Trichodo-
@@ -7615,7 +7615,7 @@ um período de 10 anos. As raízes infectadas têm a aparência suja,
 189
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 pois o nematóide é recoberto por uma massa gelatinosa que corres-
 ponde à massa de ovos. Se uma planta, altamente infestada, é retirada
 da área e, imediatamente for feito o replantio de outra muda, no
@@ -7639,7 +7639,7 @@ lagem do produto.
 190
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 18 Uso de Agrotóxicos
 
 Hermes Peixoto Santos Filho
@@ -7647,7 +7647,7 @@ Hermes Peixoto Santos Filho
 191
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 430
 
 O que é um agrotóxico?
@@ -7693,7 +7693,7 @@ possam estimular a formação de raças resistentes.
 192
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 • Grau de periculosidade para o homem, os animais e o meio
 
 ambiente.
@@ -7739,7 +7739,7 @@ saber desses detalhes.
 193
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 435
 
 Existem agrotóxicos mais perigosos do que outros?
@@ -7790,7 +7790,7 @@ em pincelamentos de troncos e ramos, não devendo ser pulverizada.
 194
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 19 Pós-colheita
 
 Márcio Eduardo Canto Pereira
@@ -7798,7 +7798,7 @@ Márcio Eduardo Canto Pereira
 195
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 439
 
 Como  verificar  se  o  fruto  está  maduro  e  pronto  para
@@ -7845,7 +7845,7 @@ nos casos de frutos para exportação e tangerinas. É realizada em duas
 196
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 etapas: na primeira, faz-se um corte para retirar o fruto do galho e, na
 segunda, corta-se o pedúnculo rente ao cálice.
 
@@ -7894,7 +7894,7 @@ que podem gerar sabor estranho.
 197
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 • Frutos muito maduros, facilmente afetados por doenças e
 mais sensíveis aos danos mecânicos, o que pode gerar sabor
 estranho e contaminação do restante da carga.
@@ -7941,7 +7941,7 @@ ser  submersos  em  solução  de  ethephon  a  4000  mg/L,  durante
 198
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 10 minutos. Soluções de 1.000 e 2.000 mg/L têm oferecido bons
 resultados, em alguns casos.
 
@@ -7990,7 +7990,7 @@ podem inibir o processo e causar injúrias na casca. O desverdecimento
 199
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 também acelera a senescência dos frutos, favorecendo a incidência
 de doenças.
 
@@ -8038,7 +8038,7 @@ de umidade relativa, por cerca de dois meses.
 200
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 • Tangerinas são conservadas nas mesmas condições, por qua-
 
 tro semanas.
@@ -8094,7 +8094,7 @@ camadas formando um paralelepípedo de dimensões conhecidas,
 201
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 chamado palete, a fim de
 facilitar a movimentação
 da carga e reduzir os da-
@@ -8136,7 +8136,7 @@ das ou em exposição.
 202
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 Aspectos Nutricionais,
 Processamento
 e Produtos
@@ -8150,7 +8150,7 @@ Fernando C. A. U. Matsuura
 203
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 460
 
 Quais os princi-
@@ -8193,7 +8193,7 @@ térmicos mais brandos.
 204
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 463
 
 Quais as vantagens do processamento de frutas cítricas?
@@ -8244,7 +8244,7 @@ são:
 205
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 466
 
 Que tipo de laranja é utilizado para o processamento de
@@ -8292,7 +8292,7 @@ pasteurização e embalagem.
 206
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 470
 
 Quais os equipamentos necessários para o processamento
@@ -8341,7 +8341,7 @@ centrado congelado são:
 207
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 • Extração.
 • Acabamento.
 • Pasteurização.
@@ -8386,7 +8386,7 @@ albedo, polpa e sementes.
 208
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 • A  casca  pode  ser
 aproveitada  para  a
 obtenção  de  óleos
@@ -8431,7 +8431,7 @@ e resfriamento.
 209
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 479
 
 Como é processado o doce de albedo cristalizado?
@@ -8487,7 +8487,7 @@ cozedor e resfriador.
 210
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 482
 
 Quais as embalagens utilizadas e o tempo de conservação
@@ -8501,7 +8501,7 @@ O tempo de conservação do produto em calda varia, em geral, de
 211
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 21
 
 Experimentação
@@ -8510,7 +8510,7 @@ Agrícola
 Carlos Alberto da Silva Ledo
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 483
 
 O que é experimentação?
@@ -8553,7 +8553,7 @@ no sentido vertical.
 214
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 487
 
 Como deve ser a parcela de experimentos de citros instalada
@@ -8612,7 +8612,7 @@ parcela.
 215
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 490
 
 Como deve ser avaliado o comportamento das cultivares de
@@ -8658,7 +8658,7 @@ análise  estatística,  observam-se  análises  de  experimentos  mal
 216
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 realizadas e resultados
 erroneamente interpre-
 tados. Esse fato justifica
@@ -8675,13 +8675,13 @@ até a fase de análise dos dados e interpretação dos resultados.
 217
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 22 Economia
 
 Clovis Oliveira de Almeida
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 494
 
 Quais as principais
@@ -8732,7 +8732,7 @@ citrícola exportado pelo Brasil
 220
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 laranja. Somente o valor das exportações de suco de laranja supera
 em mais de duas vezes o valor total das exportações brasileiras de
 frutas in natura.
@@ -8770,39 +8770,4 @@ portamento dos preços no mercado externo de suco concentrado.
 
 221
 
-
- 500pr_pgnumber212
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000016
-
-•••
-
-
- 500pr_pgnumber213
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber214
-
- 500pr_pgnumber215
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber216
 

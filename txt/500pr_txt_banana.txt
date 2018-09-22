@@ -1,5 +1,128 @@
 
+ 500pr_pgnumber013
+1 
+
+Onde se originou a bananeira e quais espécies participaram 
+da sua evolução?
+
+A maioria das cultivares de bananeira 
+originaram-se  no  Sudoeste  do  Continente 
+Asiático e as espécies que participaram de 
+sua evolução foram a Musa acuminata Colla 
+(AA) e a Musa balbisiana Colla (BB).
+
+2  O que é grupo genômico em bananeira?
+
+Grupo genômico é uma expres são em pregada na abordagem 
+da  nomenclatura  da  bananeira  para  de signar  cada  combinação 
+específica  entre  o  número  básico  de  cromos somos  das  espécies 
+Musa acuminata (AA) e Musa balbisiana (BB).
+
+3  O que é subgrupo em bananeira?
+
+Subgrupo, em bananeira, é um termo utilizado para abranger 
+um  conjunto  de  cultivares  originadas  por  mutação  do  mesmo 
+genótipo. Os subgrupos mais comuns são: Cavendish, Gros Michel, 
+Prata, Terra e Figo.
+
+4 
+
+A evolução da bananeira se processou em quantas etapas?
+
+A evolução da bananeira se processou em quatro etapas: 
+•	 Cruzamento	entre	Musa acuminata (AA) e M. balbisiana 
+
+(BB), formando indivíduos AB.
+
+•	 Ocorrência	de	partenocarpia	por	mutação	em	indivíduos	
+
+AA e AB.
+
+•	 Gametas	femininos	não	reduzidos	de	indivíduos	AA	e	BB	
+partenocárpicos recebendo pólen A ou B com a formação 
+de triploides AAA, AAB e ABB.
+
+16
+
+
+ 500pr_pgnumber014
+•	 Cruzamentos	envolvendo	gametas	masculinos	haploides	
+e  femininos  triploides,  com  a  formação  de  indivíduos 
+AAAA, AAAB, AABB e ABBB. Dessa forma, existem cul-
+tivares  dos  seguintes  grupos  genômicos:  AA,  AB,  AAA, 
+AAB, ABB. AAAA, AAAB, AABB e ABBB.
+
+5  Quais as características da planta AA?
+
+As plantas do grupo genômico AA são normalmente delgadas, 
+apresentando pseudocaule com muitas manchas escuras e folhas 
+eretas e estreitas, com a base do pecíolo aberta.
+
+6  Quais as características da planta BB?
+
+As  plantas  do  grupo  genômico  BB  apresentam  cerosidade, 
+pseudocaule sem manchas, folhas com a base do pecíolo fechada 
+e frutos com quinas evidentes.
+
+7  Quais as características da planta AAA?
+
+As plantas do grupo genômico AAA são semelhantes às do 
+grupo  AA,  normalmente  mais  vigorosas,  apresentando  manchas 
+escuras no pseudocaule, pecíolos com base aberta e pigmentação 
+opaca na face interna das brácteas masculinas.
+
+8  Quais as características da planta AAB?
+
+As plantas do grupo genômico AAB apresentam, geralmente, 
+poucas manchas escuras no pseudocaule, pecíolos com margens 
+eretas e pigmentação brilhante na face interna das brácteas mascu-
+linas.
+
+17
+
+
  500pr_pgnumber015
+9  Quais as características da planta ABB?
+
+As plantas do grupo genômico ABB apresentam cerosidade, 
+pseudocaule  praticamente  sem  manchas,  pecíolos  com  base 
+fechada, pigmentação brilhante na face interna das brácteas mas-
+culinas e frutos com três quinas bem evidentes.
+
+10  Quais as características da planta AAAA?
+
+As  plantas  do  grupo  genômico  AAAA  apresentam  carac-
+terísticas semelhantes às do grupo genômico AAA, com algumas 
+variações que dependem da origem do tetraploide.
+
+11  Quais as características da planta AAAB?
+
+As plantas do grupo genômico AAAB são muito vigorosas e 
+apresentam características intermediárias entre aquelas dos grupos 
+genômicos AAA e AAB.
+
+12  Quais as características da planta AABB?
+
+As plantas do grupo genômico AABB são semelhantes às do 
+
+grupo ABB, sendo rústicas e produtivas.
+
+13 
+
+O  que  deve  ser  determinado,  inicial­
+mente,  na  classificação  de  acessos 
+desconhecidos de bananeira?
+
+Na classificação de acessos desconhecidos 
+de  bananeira,  devem-se  determinar,  inicial-
+mente, o número de cromossomos e a presença 
+dos genomas A e B, para fazer a distinção entre 
+diploides, triploides e tetraploides.
+
+18
+
+
+ 500pr_pgnumber016
 14 
 
 É possível obter algum indício da ploidia da bananeira sem 
@@ -16,7 +139,7 @@ morfológicos.
 19
 
 
- 500pr_pgnumber016
+ 500pr_pgnumber017
 2 Clima
 
 Marcelo Bezerra Lima
@@ -26,7 +149,7 @@ Jorge Raimundo Silva Silveira
 Élio José Alves
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 15 
 
 Qual  a  temperatura  ótima  para  o  desenvolvimento  das 
@@ -71,7 +194,7 @@ za sua comercialização.
 22
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 17 
 
 Quais os problemas provocados por 
@@ -117,7 +240,7 @@ recomendáveis.
 23
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 20 
 
 Qual a precipitação pluviométrica mensal necessária para 
@@ -165,7 +288,7 @@ cência.
 24
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
   Durante  o  florescimento,  a  carência  de  água  limita  o 
 crescimento e o número de frutos, e, no período de formação do 
 cacho, afeta o tamanho e o enchimento dos frutos. Em consequência, 
@@ -211,7 +334,7 @@ neira  é  bastante  evidente,  podendo  este  ciclo  estender-se  por
 25
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 8,5 meses, em cultivos bem expostos à luz, e por 14 meses, em 
 cultivos  conduzidos  na  penumbra,  em  bananeiras  do  subgrupo 
 Cavendish. 
@@ -252,7 +375,7 @@ chilling ou “friagem”.
 26
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 29 
 
 A maioria das cultivares suporta ventos de até que veloci­
@@ -299,7 +422,7 @@ geralmente de 15 m a 20 m. Entretanto, como seu crescimento é
 27
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 lento, são necessários de 3 a 4 anos para que os renques se tornem 
 eficientes. 
 
@@ -349,7 +472,7 @@ produção da bananeira.
 28
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 35 
 
 Que influência a variação da altitude exerce sobre a dura­
@@ -393,7 +516,7 @@ da inflorescência e uniformiza a coloração dos frutos.
 29
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 38 
 
 Quais  os  problemas  provocados  pela  umidade  relativa 
@@ -418,14 +541,14 @@ coriáceas e com menor durabilidade.
 30
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 3 Estrutura da Planta
 
 Francisco Pinheiro Lima Neto
 Sebastião de Oliveira e Silva
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 40  Quais são as principais partes da bananeira?
 
 As principais partes da bananeira são: 
@@ -468,7 +591,7 @@ inferior. O rizoma da bananeira é seu caule verdadeiro.
 32
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 44 
 
 O que ocorre com o rizoma quando a planta se aproxima 
@@ -514,7 +637,7 @@ chama-se vela, charuto ou folha-bandeira.
 33
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 49 
 
 Como  as  bainhas  das  folhas  da  bananeira  se  fixam  no 
@@ -559,7 +682,7 @@ As partes do cacho são:
 34
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 •	 Ráquis.
 •	 Inflorescência	feminina.
 •	 Inflorescência	hermafrodita.
@@ -600,7 +723,7 @@ tes.
 35
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 58 
 
 O que são as linhas vistas no fruto maduro da bananeira 
@@ -622,14 +745,14 @@ naturalmente não produziam sementes.
 36
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 4 Cultivares
 
 Sebastião de Oliveira e Silva
 Francisco Pinheiro Lima Neto
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 60  Quais as principais cultivares de bananeiras do Brasil?
 
 As principais cultivares de bananeiras do Brasil são:
@@ -675,7 +798,7 @@ Nanicão e Grande Naine).
 38
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 63 
 
 Quais as características dos frutos das cultivares do sub­
@@ -718,7 +841,7 @@ apresentam extremidades em forma de gargalo de garrafa, polpa
 39
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 consistente, sabor doce e agradável e, quando maduros, coloração 
 amarelo-brilhante.
 
@@ -765,7 +888,7 @@ Prata  são  praticamente  retos  e  apresentam
 40
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 seção  transversal  pentagonal,  extremidades  bem  pronunciadas, 
 pontiagudas  e  sem  restos  florais,  casca  de  espessura  média,  cor 
 amarela  quando  maduros,  polpa  creme  a  rósea  pálida  e  sabor 
@@ -807,7 +930,7 @@ persistentes, mesmo após o amadurecimento, e polpa mais ácida.
 41
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 74 
 
 Quais as características vegetativas das cultivares do sub­
@@ -850,7 +973,7 @@ As principais cultivares do subgrupo Terra são:
 42
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 77 
 
 Quais as principais diferenças entre as cultivares Terra e 
@@ -891,7 +1014,7 @@ preparo de doces.
 43
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 80  Quais as cultivares resistentes à sigatoka­amarela?
 
 As cultivares resistentes à sigatoka-amarela são: 
@@ -927,7 +1050,7 @@ As cultivares resistentes à sigatoka-negra são:
 44
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 82  Quais as cultivares resistentes ao mal­do­panamá?
 
 As cultivares resistentes ao mal-do-panamá são:
@@ -967,7 +1090,7 @@ e Terra.
 45
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 86 
 
 Quais as cultivares mais tolerantes às condições adversas 
@@ -1016,7 +1139,7 @@ As  cultivares  de  porte  baixo,  que  suportam  ventos  de  até
 46
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 5 Micropropagação
 
 Janay Almeida dos Santos Serejo
@@ -1026,7 +1149,7 @@ Antônio da Silva Souza
 Fernanda Vidigal Duarte Souza
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 90  O que é micropropagação?
 
 É uma técnica de produção contínua de mudas em laboratório, 
@@ -1075,7 +1198,7 @@ a uniformização do plantio e sincronização da colheita.
 48
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 •	 Obtenção	de	plantas	com	características	genéticas	idênti-
 
 cas à matriz.
@@ -1121,7 +1244,7 @@ translocação e transpiração de água; visto que é uma fase conside-
 49
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 rada limitante para a maioria das espécies, podendo acarretar altas 
 taxas de perdas.
 
@@ -1167,7 +1290,7 @@ dades resistentes e adotar as recomendações técnicas de manejo
 50
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 para a cultura, tais como o controle de plantas daninhas, princi-
 palmente no início do desenvolvimento do bananal. Muitas das 
 plantas  daninhas  são  hospedeiras  de  viroses,  e,  na  presença  de 
@@ -1185,7 +1308,7 @@ agente patogênico.
 51
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 6 Manejo e
 
  
@@ -1197,7 +1320,7 @@ Luciano da Silva Souza
 Ana Lúcia Borges
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 99 
 
 Quais  os  melhores  solos  para  o  plantio  comercial  de 
@@ -1244,7 +1367,7 @@ inadequadas para a cultura.
 54
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 101 
 
 Qual  a  profundidade  do  solo  indicada  para  o  cultivo  da 
@@ -1287,7 +1410,7 @@ cimentadas, raramente são exploradas pelas raízes da bananeira,
 55
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 pois a compactação aumenta a resistência mecânica do solo ao 
 crescimento radicular e diminui a aeração.
 
@@ -1331,7 +1454,7 @@ de chuva, reduzir o fluxo e a velocidade das enxurradas e
 56
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 a  erosão,  além  de  conservar  a  umidade  e  amenizar  a 
 temperatura do solo.
 
@@ -1374,7 +1497,7 @@ de 20 cm, seguida do coveamento ou sulcamento para plantio.
 57
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 108 
 
 O  que  deve  ser  feito  nas  áreas  anteriormente  cultivadas 
@@ -1420,7 +1543,7 @@ isoladamente,  mais  responde  pelo  controle  da  erosão,  além  de
 58
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 reduzir a evaporação da água do solo, de amenizar a sua tempe-
 ratura e de incorporar grande quantidade de nutrientes.
 
@@ -1470,7 +1593,7 @@ reduzindo assim seu crescimento.
 59
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 •	 Aumenta	 os	 teores	 de	 nutrientes	 no	 solo,	 diminuindo  as 
 
 quantidades de adubos a serem aplicadas.
@@ -1516,7 +1639,7 @@ tura morta, mas a infestação da praga no primeiro seguidor (filho) da
 60
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 bananeira não diferiu de outros manejos avaliados nas entrelinhas 
 do  bananal  (capina  manual,  cobertura  natural,  coberturas  com 
 leguminosas, etc.).
@@ -1542,7 +1665,7 @@ permanecendo por mais tempo cobrindo o solo.
 61
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 7 Nutrição, Calagem e
 
 Adubação
@@ -1552,7 +1675,7 @@ Adubação
 Ana Lúcia Borges
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 115 
 
 Quais as exigências nutricionais 
@@ -1598,7 +1721,7 @@ tuinte de bases nitrogenadas e ácidos nucleicos.
 64
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 É um nutriente muito importante para o crescimento vegeta-
 tivo da planta, principalmente durante os três primeiros meses de 
 crescimento, quando o meristema está em desenvolvimento.
@@ -1643,7 +1766,7 @@ no cacho, sobretudo em bananeiras do subgrupo Cavendish.
 65
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 O baixo suprimento de K favorece o acúmulo de N amoniacal 
 e o excesso de N atrasa a emergência do cacho, produzindo cachos 
 com pencas espaçadas e facilmente danificadas no transporte.
@@ -1685,7 +1808,7 @@ suprido pela calagem.
 66
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 123  Qual a função do magnésio na planta?
 
 O magnésio (Mg) é integrante da molécula de clorofila, ativa 
@@ -1729,7 +1852,7 @@ cipa  do  metabolismo  de  ácidos  nucleicos  e  de  fitormônios,  da
 67
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 formação  das  paredes  celulares  e  da  divisão  celular,  além  de 
 facilitar o transporte de açúcares através da membrana.
 
@@ -1772,7 +1895,7 @@ vários parasitas.
 68
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 Além disso, esse nutriente favorece a estrutura das paredes 
 celulares, aumenta sua resistência mecânica à penetração de pató-
 genos e proporciona cicatrização mais rápida dos tecidos.
@@ -1821,7 +1944,7 @@ coletados separadamente.
 69
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 •	 Posição	da	área:	as	amostras	de	solo	em	posições	diferentes	
 na propriedade devem ser coletadas separadamente (ex.: 
 encosta, baixadas, etc.).
@@ -1866,7 +1989,7 @@ práticas de preparo do solo.
 70
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 131 
 
 Como  proceder  para  realizar  a  amostragem  do  solo  em 
@@ -1913,7 +2036,7 @@ desenvolve-se melhor em solos com pH entre 5,5 e 6,5.
 71
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 134 
 
 Que tipo de calcário deve ser utilizado para a calagem do 
@@ -1960,7 +2083,7 @@ Aguardar mais 15 a 20 dias para realizar o plantio.
 72
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 Caso  não  seja  possível  o  uso  do  escarificador,  tanto  pela 
 topografia superior a 8%, quanto pela indisponibilidade do imple-
 mento, a incorporação do calcário pode ser efetuada na época da 
@@ -2005,7 +2128,7 @@ lua, do lado de cima da cova e ligeiramente incorporada ao solo.
 73
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 Em casos de plantios adensados e em terrenos planos, a adubação 
 pode ser feita a lanço, nas ruas.
 
@@ -2053,7 +2176,7 @@ nas bananeiras. Para teores de B no solo inferiores a 0,2 mg/dm3
 74
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 teores de Zn no solo inferiores a 0,6 mg/dm3 (extrator de Mehlich-1), 
 recomenda-se 10 kg/ha de Zn.
 
@@ -2097,7 +2220,7 @@ não mais de três pencas de flores masculinas.
 75
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 •	 Coletam-se	de	10	cm	a	25	cm	da	parte	mediana	do	limbo,	
 
 eliminando-se a nervura central.
@@ -2144,7 +2267,7 @@ limitante e sua ordem de limitação.
 76
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 Seu  objetivo  maior  é  contribuir  para  recomendações  de 
 adubações mais adequadas à correção de desequilíbrios nutricio-
 nais,  que  podem  comprometer  a  produção  do  ponto  de  vista 
@@ -2179,13 +2302,13 @@ distâncias.
 77
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 8 Irrigação e Fertirrigação
 
 Eugênio Ferreira Coelho
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 147 
 
 O  que  leva  os  bananicultores  a  adotar  a  irrigação  como 
@@ -2236,7 +2359,7 @@ por ser mais eficiente, exigir menos uso de mão de obra e menos
 80
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 dispêndio de água e por ser um método que mantém o solo com 
 níveis adequados de umidade continuamente.
 
@@ -2281,7 +2404,7 @@ pseudocaules das plantas na uniformidade de distribuição.
 81
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 Por ser um sistema fixo, requer um mínimo de mão de obra 
 
 e é um sistema de alta eficiência.
@@ -2329,7 +2452,7 @@ solo-água-planta para o desenvolvimento e produção da bananeira.
 82
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 158  Qual o consumo diário de água por bananeira?
 
 O consumo varia conforme as 
@@ -2375,7 +2498,7 @@ frutos ou dedos finos.
 83
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 161 
 
 Que sintoma a bananeira apresenta quando a aeração do 
@@ -2419,7 +2542,7 @@ Os métodos mais acessíveis ao produtor são:
 84
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 •	 Turno	de	rega	fixo.
 •	 Uso	 da	 evapotranspiração	 de	 referência	 associada	 ao	
 
@@ -2465,7 +2588,7 @@ Os seguintes critérios devem ser obedecidos:
 85
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 •	 Os	nutrientes	devem	ser	completamente	solúveis.
 •	 Não	 deve	 haver	 reação	 entre	 os	 nutrientes	 de	 modo	 a	
 
@@ -2517,7 +2640,7 @@ ficial ou subterrâneo.
 86
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 172 
 
 A fertirrigação da bananeira pode ser feita juntamente com 
@@ -2559,7 +2682,7 @@ causando entupimentos nas linhas.
 87
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 177 
 
 Quais  as  recomendações  em  relação  à  condutividade 
@@ -2605,7 +2728,7 @@ fazendo-se os ajustes conforme o desempenho da cultura.
 88
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 182  Como tem sido efetuada a aplicação de fósforo?
 
 O fósforo tem sido aplicado integralmente (100%) durante o 
@@ -2629,7 +2752,7 @@ entupimentos nos emissores.
 89
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 9 Práticas Culturais
 
 Marcelo Bezerra Lima
@@ -2639,7 +2762,7 @@ Marcelo Bezerra Lima
 Jorge Raimundo Silva Silveira
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 184 
 
 Quais  os  principais  tratos  culturais  da  bananeira  e  sua 
@@ -2680,7 +2803,7 @@ daninhas.
 92
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 187 
 
 Quais os métodos mais utilizados para combater as plantas 
@@ -2726,7 +2849,7 @@ daninhas até o quinto mês após o plantio.
 93
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 192  No que consiste o desbaste da bananeira?
 
 O desbaste da bananeira consiste na eliminação do excesso 
@@ -2765,7 +2888,7 @@ a 30 cm.
 94
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 196  Qual a forma correta de efetuar o desbaste?
 
 O desbaste é realizado com uma faca, cortando-se o rebento 
@@ -2812,7 +2935,7 @@ rebentos num tempo médio de aproximadamente 12 meses.
 95
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 A  idade  da  muda  utilizada  no  plantio  tem  influência  na 
 
 determinação da época de emissão dos rebentos.
@@ -2857,7 +2980,7 @@ dano severo no limbo ou morte prematura das folhas.
 96
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 203 
 
 Que ferramenta é utilizada para 
@@ -2901,7 +3024,7 @@ de mudas.
 97
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 207  Qual a forma de escoramento mais recomendada?
 
 O  fio  de  polipropileno  apresenta-se  como  o  material  mais 
@@ -2946,7 +3069,7 @@ portação e apresenta como vantagens:
 98
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 •	 Aumento	da	velocidade	
 de crescimento dos fru-
 tos,  ao  manter  em  seu 
@@ -2998,7 +3121,7 @@ gasosas do cacho com o meio externo.
 99
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 214  Qual o momento ideal do ensacamento dos cachos?
 
 Deve-se  ensacar  o  cacho  quando  esse  já  emitiu  a  última 
@@ -3044,7 +3167,7 @@ dade.
 100
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 218  Qual a forma correta do corte do pseudocaule?
 
 Do ponto de vista prático e econômico, o mais indicado é 
@@ -3085,13 +3208,13 @@ produção da planta-filha (segundo ciclo).
 101
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 10 Produção Integrada
 
 Zilton José Maciel Cordeiro
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 222  O que é produção integrada?
 
 A produção integrada é um sistema de produção de frutas de 
@@ -3128,7 +3251,7 @@ certificaram porque o mercado não tem exigido a certificação.
 104
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 225  Que tempo leva para se obter a certificação?
 
 Para se obter a certificação, exige-se a prática do sistema há 
@@ -3173,7 +3296,7 @@ defensivos.
 105
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 227  O que o produtor ganha com a certificação?
 
 Os  produtores  não  devem  adotar  o  sistema  de  produção 
@@ -3215,7 +3338,7 @@ de auditoria, visando auditar todos os cooperados.
 106
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 230 
 
 Qual a área mínima para propor um programa de certifi­
@@ -3259,13 +3382,13 @@ seguro.
 107
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 11  Produção Orgânica
 
 Ana Lúcia Borges
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 233  O que diferencia a banana tradicional da orgânica?
 
 No campo, basicamente o manejo do solo é mais sustentável, 
@@ -3306,7 +3429,7 @@ produzidos  pela  agricultura  intensiva  levaram  a  surgir  correntes
 110
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 defendendo  práticas  agrícolas  ambientalmente  equilibradas  e 
 saudáveis à humanidade.
 
@@ -3350,7 +3473,7 @@ os seres humanos.
 111
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 236 
 
 A banana produzida no sistema orgânico pretende atingir 
@@ -3393,7 +3516,7 @@ produto  terá  um  preço  mais  acessível.  Como  é  considerado  um
 112
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 produto diferenciado, que agrega valor, o agricultor também terá 
 mais retorno econômico.
 
@@ -3439,7 +3562,7 @@ especificamente para plantio em sistemas orgânicos de produção.
 113
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 Assim, as variedades que são utilizadas para o sistema con-
 vencional vêm sendo cultivadas em fase experimental para plantio 
 em sistema orgânico, adotando-se as práticas de cultivo recomen-
@@ -3485,7 +3608,7 @@ utilizados  desde  que  obtidos  por  procedimentos  físicos,  não
 114
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 enriquecidos por processo químico e não tratados quimicamente 
 para o aumento da solubilidade. É permitido somente com a auto-
 rização  do  Organismo  de  Avaliação  da  Conformidade  Orgânica 
@@ -3527,7 +3650,7 @@ a porosidade e a atividade microbiana.
 115
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 246  Quais são as características desejáveis do adubo verde?
 
 As plantas utilizadas como adubo verde devem ter: 
@@ -3573,7 +3696,7 @@ juncea,  Crotalaria  ochroleuca  e  Crotalaria  spectabilis),  guandu
 116
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 geiro (Arachis pintoi), entre outras, podem ser utilizadas no cultivo 
 de bananeiras.
 
@@ -3617,7 +3740,7 @@ Essa recomendação visa:
 117
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 •	 Reduzir	os	custos	de	condução	do	pomar,	pois	elimina	a	
 necessidade de capinas e diminui a quantidade de fertili-
 zantes  utilizada,  bem  como  ameniza  a  temperatura  do 
@@ -3658,7 +3781,7 @@ plantio da bananeira.
 118
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 Em  cobertura,  aplica-se  torta  de  mamona  ou  composto 
 orgânico e cinzas de fogueira a cada 2 meses ou quando houver 
 disponibilidade.  Vale  lembrar  que  a  biomassa  da  cultura  deve 
@@ -3703,7 +3826,7 @@ de agrotóxicos nos frutos ou no ambiente.
 119
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 Assim, um dos fatores que podem contribuir para a expansão 
 do mercado dessa fruta é a aderência dos sistemas de produção a 
 formas de produzir que provoquem menor impacto ambiental do 
@@ -3753,7 +3876,7 @@ observa-se uma redução da população de fitonematoides. Contudo,
 120
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 deve-se  ter  cautela  na  generalização.  Sabe-se  que  a  diversidade 
 biológica de microrganismos no solo reduz a chance de ocorrer 
 epidemias,  bem  como  pode  constituir  barreiras  ecológicas  em 
@@ -3799,7 +3922,7 @@ da população de fitonematoides em casa de vegetação, sob condi-
 121
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 ções controladas; porém, em condições de campo, há necessidade 
 de  viabilizar  a  aplicação  em  larga  escala  e  o  monitoramento  é 
 recomendado, pois podem ocorrer diversas interações com outras 
@@ -3846,7 +3969,7 @@ e em outros não.
 122
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 264  Como conviver com o mal­do­panamá no sistema orgânico?
 
 A  melhor  forma  para  o  controle  do  mal-do-panamá  é  a 
@@ -3897,14 +4020,14 @@ afetada.
 123
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 12 Doenças
 
 Zilton José Maciel Cordeiro
 Aristóteles Pires de Matos
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 265 
 
 Quais as principais doenças da bananeira e, entre essas, 
@@ -3960,7 +4083,7 @@ ainda não foi constatada no Brasil.
 126
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 Existem  bacterioses  ainda  não  constatadas  e  pelo  menos 
 
 duas viroses: o vírus-das-brácteas e o vírus-do-topo-em-leque.
@@ -4005,7 +4128,7 @@ iniciando assim um novo foco de disseminação da doença.
 127
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 269 
 
 Em quais estados a sigatoka­negra está presente? Quais as 
@@ -4046,7 +4169,7 @@ de oferecer o controle satisfatório da doença.
 128
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 271 
 
 Qual o custo/ha para controlar a sigatoka­negra com fungi­
@@ -4093,7 +4216,7 @@ disseminação do patógeno para outras regiões.
 129
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 274 
 
 O patógeno pode sobreviver em caixas de madeira ou de 
@@ -4141,7 +4264,7 @@ mesmo que esteja sendo utilizado um fungicida sistêmico.
 130
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 Por  essa  razão,  as  folhas  mais  novas  (vela,  um,  dois,  três) 
 devem ser o alvo nas aplicações de fungicidas, porque as infecções 
 ocorrem  nas  folhas  mais  novas  da  planta.  A  proteção  deve  ser 
@@ -4183,7 +4306,7 @@ telefone (75) 3312-8000.
 131
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 280 
 
 Onde o produtor pode adquirir mudas das variedades de 
@@ -4229,7 +4352,7 @@ grave e que para o seu controle é importante a integração de ações
 132
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 diversas. Também não deve negligenciar as recomendações téc-
 nicas para o controle da doença.
 
@@ -4274,7 +4397,7 @@ Esse enfoque começou a ser perseguido na Embrapa Mandioca e
 133
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 Fruticultura por volta de 1985. Portanto, muito antes de a doença 
 ser introduzida no País.
 
@@ -4320,7 +4443,7 @@ passem a apresentar os primeiros sintomas em folhas mais velhas,
 134
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 em comparação a plantas malnutridas, o que permite a economia 
 de área foliar para ser utilizada após a floração.
 
@@ -4367,7 +4490,7 @@ participa  de  forma  expressiva  na  produção  de  banana  no  País,
 135
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 espera-se que ela tenha um papel importante na introdução das 
 novas variedades na mesa dos brasileiros.
 
@@ -4409,7 +4532,7 @@ o transporte, provocando perda total da carga.
 136
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 Estima-se que, no Brasil, as perdas causadas pela sigatoka-
 
 amarela sejam da ordem de 50% da produção.
@@ -4468,7 +4591,7 @@ Fonte: Meredith (1970).
 137
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 297 
 
 Qual  o  agente  causador  da  sigatoka­amarela  e  qual  a 
@@ -4514,7 +4637,7 @@ jovens (não fertilizados).
 138
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 Eles são produzidos dentro de sacos ou ascas, que por sua 
 vez estão inseridos dentro de estruturas em forma de frasco, com 
 paredes espessas, denominadas pseudotécios.
@@ -4556,7 +4679,7 @@ negra, é pela utilização do controle integrado. Isso significa utilizar
 139
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 todas  as  práticas  que  possam  apresentar  algum  efeito  positivo 
 sobre o controle da doença. Isso inclui práticas culturais diversas, 
 sistema  de  previsão  e  o  controle  químico,  tomando-se  todos  os 
@@ -4597,7 +4720,7 @@ que promoverá sua rápida decomposição.
 140
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 304  Qual o agente causador do mal­do­panamá?
 
 O mal-do-panamá é causado por Fusarium oxysporum f. sp. 
@@ -4641,7 +4764,7 @@ dobradas podem apresentar nervuras salientes e estreitamento do
 141
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 limbo. Outro sintoma externo típico é a formação de rachadura na 
 base do pseudocaule, que pode se estender por quase todo ele.
 
@@ -4688,7 +4811,7 @@ desbaste  com  lurdinha,  movimentação  de  homens  e  animais.
 142
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 Todavia,  a  forma  mais  eficiente  de  disseminação  e  a  que  mais 
 prejuízos causa é a utilização de mudas infectadas.
 
@@ -4740,7 +4863,7 @@ As medidas preventivas incluem basicamente:
 143
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 •	 Utilização	de	mudas	sadias.
 •	 Plantio	em	áreas	sem	histórico	de	ocorrência	da	doença.
 •	 Dar	preferência	a	solos	férteis	e	com	altos	teores	de	matéria	
@@ -4785,7 +4908,7 @@ meiros sintomas são observados numa das três folhas mais novas
 144
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 da  planta.  Elas  apresentam  coloração  verde-clara  ou  amare la, 
 murcham e se quebram próximo ao pseudocaule. Rapidamente, 
 os sintomas se estendem às demais folhas.
@@ -4831,7 +4954,7 @@ doença no bananal. Essas medidas são principalmente a identifica-
 145
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 Aliado a isso, é de grande importância o uso de mudas sadias 
 e de ferramentas desinfestadas na execução das práticas culturais, 
 a eliminação do coração ou mangará, o ensacamento do cacho e 
@@ -4908,7 +5031,7 @@ Ausente
 146
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 317  Existem variedades resistentes ao moko?
 
 Entre as principais variedades 
@@ -4949,7 +5072,7 @@ irrigação.
 147
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 320 
 
 Os frutos da bananeira podem ser atacados por doenças 
@@ -4995,7 +5118,7 @@ Entre as práticas culturais, destacam-se:
 148
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 •	 Eliminação	periódica	de	brácteas,	principalmente	durante	
 
 o período chuvoso.
@@ -5040,7 +5163,7 @@ seja, a perda total da carga.
 149
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 326 
 
 É necessário utilizar equipamentos de proteção individual 
@@ -5073,13 +5196,13 @@ mycosphaerella musicola. Kew, UK: Commonwealth Mycology Institute, 1970.
 150
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 13 Viroses
 
 Paulo Ernesto Meissner Filho
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 328 
 
 Quais são as principais viroses que ocorrem nos bananais 
@@ -5123,7 +5246,7 @@ chamento e decomposição e para evitar sua rebrota.
 152
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 331 
 
 Atualmente, qual a virose mais importante para a cultura 
@@ -5171,7 +5294,7 @@ CMV de bananeira para bananeira raramente ocorre.
 153
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 335 
 
 Qual  o  agente  causal  do  mosaico­da­ 
@@ -5215,7 +5338,7 @@ ceas (tomate, pimentão, etc.) e as fabáceas (feijão).
 154
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 339 
 
 Quais os sintomas produzidos pela infecção com o vírus­
@@ -5263,7 +5386,7 @@ cultura de tecidos são muito atrativas para os pulgões transmissores
 155
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 desse  vírus.  Nesse  caso,  podem  ocorrer  perdas  elevadas,  de  até 
 100%. Verificou-se, porém, que as mudas micropropagadas com 
 mais de 1 m de altura deixam de ser tão atrativas para os pulgões. 
@@ -5310,7 +5433,7 @@ a bananais favorecem a ocorrência do CMV.
 156
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 344 
 
 Que práticas devem ser adotadas para o controle do vírus­
@@ -5362,7 +5485,7 @@ frutos.
 157
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 348 
 
 Em  que  regiões  foi  relatada  a  ocorrência  do  vírus­das­
@@ -5406,7 +5529,7 @@ Brasil.
 158
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 353 
 
 Qual a sintomatologia do vírus­do­topo­em­leque (Banana 
@@ -5447,13 +5570,13 @@ se o plantio de mudas sadias e a erradicação de plantas infectadas.
 159
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 14 Pragas
 
 Marilene Fancelli
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 356 
 
 Qual  o  nome  científico  da  broca­do­rizoma?  Por  quais 
@@ -5498,7 +5621,7 @@ comprimento, que apresenta um “bico” na parte anterior do corpo
 162
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 361 
 
 Quais  os  danos  e  prejuízos  provocados  pela  broca­do­
@@ -5548,7 +5671,7 @@ situada próximo do nível do solo.
 163
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 366  O que é e qual a duração do período de incubação?
 
 O período de incubação é o intervalo de tempo que decorre 
@@ -5591,7 +5714,7 @@ número de plantas avaliadas (no mínimo 30/ha).
 164
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 371  O que é o método de Mesquita e quais as suas vantagens?
 
 É uma adaptação do método de Vilardebo, que consiste em 
@@ -5633,7 +5756,7 @@ galerias existentes no rizoma.
 165
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 375 
 
 Qual a forma correta de se eliminar todo e qualquer vestí­
@@ -5678,7 +5801,7 @@ manejo da cultura para diminuir os prejuízos causados pela broca.
 166
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 379  Em que se baseia a utilização das iscas atrativas?
 
 Baseia-se na atração exercida pelas substâncias voláteis pre-
@@ -5717,7 +5840,7 @@ Isca tipo queijo, telha e sanduíche.
 167
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 384  Como são confeccionadas as iscas tipo queijo?
 
 As iscas tipo queijo são preparadas cortando-se o pseudocaule 
@@ -5757,7 +5880,7 @@ função da economia de material vegetal e mão de obra para sua
 168
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 confecção. Também podem ser usadas em áreas com alta decli-
 vidade.
 
@@ -5797,7 +5920,7 @@ em relação às touceiras de banana.
 169
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 393 
 
 Qual  a  frequência  de  captura  de  adultos  da  broca­do­
@@ -5848,7 +5971,7 @@ em estado de decomposição.
 170
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 Entretanto, em algumas situações, registrou-se o quebramento 
 dos pseudocaules de bananeiras infestadas por larvas desse inseto, 
 exigindo cautela do produtor quanto à sua presença.
@@ -5896,7 +6019,7 @@ que comercializam o produto.
 171
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 402  Como é aplicado o fungo no campo?
 
 Para  se  aplicar  o  fungo, 
@@ -5940,7 +6063,7 @@ lhadores.
 172
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 405 
 
 Em que consiste o controle da broca­do­rizoma por com­
@@ -5986,7 +6109,7 @@ na área de contato entre os dedos.
 173
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 Inicialmente, as áreas atacadas são esbranquiçadas. À medida 
 que o fruto se desenvolve, a epiderme perde o brilho e torna-se 
 marrom-avermelhada  e  áspera.  Em  casos  de  forte  infestação,  a 
@@ -6033,7 +6156,7 @@ oviposição dos insetos.
 174
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 As puncturas resultantes da oviposição sobre o fruto reduzem 
 o seu valor comercial, apesar de não interferirem na qualidade da 
 fruta. Frutos severamente danificados por esses insetos podem ser 
@@ -6076,7 +6199,7 @@ seccionamento do pseudocaule em pedaços pequenos e a despis-
 175
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 tilagem, bem como a utilização de cultivares cujas extremidades 
 dos cachos sejam “limpas”.
 
@@ -6114,7 +6237,7 @@ enrugamento da folha terminal.
 176
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 421  Qual a forma correta de controle do pulgão­da­bananeira?
 
 Geralmente, não há necessidade de adoção de medidas de 
@@ -6153,7 +6276,7 @@ da fotossíntese.
 177
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 425  Qual a importância da abelha irapuá?
 
 Conhecida também como abelha cachorro, está presente em 
@@ -6181,13 +6304,13 @@ causados pelo inseto.
 178
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 15 Nematoides
 
 Cecília Helena Silvino Prata Ritzinger
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 428 
 
 Quais os principais gêneros de nematoides observados na 
@@ -6231,7 +6354,7 @@ reduzido, e a produção também poderá ficar comprometida.
 180
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 432 
 
 De que forma o nematoide­das­galhas compromete o de­
@@ -6280,7 +6403,7 @@ com a formação de galerias, extensas
 181
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 áreas necróticas, no córtex e no rizoma da bananeira, em virtude 
 da alimentação e migração do nematoide nos tecidos parasitados. 
 Em consequência, as raízes perdem sua capacidade de absorção e 
@@ -6328,7 +6451,7 @@ descoloração das folhagens; deficiência nutricional; mur-
 182
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 cha; atraso na emissão de cachos; diminuição de perfilha-
 mento.
 
@@ -6376,7 +6499,7 @@ métodos laboratoriais.
 183
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 439 
 
 Por  que  o  diagnóstico  de  ocorrência  de  nematoides  por 
@@ -6429,7 +6552,7 @@ contaminadas por nematoides.
 184
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 •	 De	maneira	geral,	promover	os	tratos	culturais	sempre	nas	
 parcelas mais sadias, com melhor aparência e, posterior-
 mente,  nas  quadras  ou  parcelas  menos  desenvolvidas, 
@@ -6482,7 +6605,7 @@ conhecer o nível de dano do nematoide na cultura. Pode ocorrer
 185
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 uma  diminuição  da  população  temporária  e,  posteriormente,  a 
 população  pode  se  elevar,  principalmente  na  ocorrência  de 
 condições  favoráveis  (tratos  culturais  inadequados,  presença  de 
@@ -6521,7 +6644,7 @@ e se repete a operação na fileira onde houve o plantio.
 186
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 444 
 
 Quais são as condições favoráveis à ocorrência de fitone­
@@ -6568,7 +6691,7 @@ Na renovação do pomar, deve-se:
 187
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 •	 Promover	 uma	 aração	 para	 a	 exposição	 do	 solo	 e	 das	
 
 raízes ao sol.
@@ -6618,7 +6741,7 @@ toides:
 188
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 •	 Tratamento	 químico:	 produtos	 a	 base	 de	 carbofuran,	
 ethoprophos, aldicarb eterbufos. Contudo, sua eficiência 
 está relacionada a população de nematoides, tipo de solo, 
@@ -6634,7 +6757,7 @@ escolha de outra cultura como alternativa.
 189
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 16 Pós­colheita
 
 Valdique Marins Medina
@@ -6642,7 +6765,7 @@ Valdique Marins Medina
 Marcio Eduardo Canto Pereira
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 449  Como diminuir os danos e manchas nos frutos?
 
 Os danos aos frutos são diminuídos com uma série de cuida-
@@ -6684,7 +6807,7 @@ e caixas de papelão com capacidade
 192
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 para 18 kg a 22 kg de banana ou caixa plástica plana. A escolha 
 da embalagem depende do mercado consumidor.
 
@@ -6734,7 +6857,7 @@ passo que as cultivares do subgrupo Cavendish exigem 2.000 mg/L.
 193
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 457  Como se prepara a solução de ethephon?
 
 A solução é preparada com diluição em água. Para 400 mg/L 
@@ -6776,7 +6899,7 @@ de 24 °C afetam a qualidade da polpa, que pode ficar muito flácida.
 194
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 Umidade do ar inferior a 80% também afeta a qualidade da 
 
 polpa, em decorrência da excessiva perda de água.
@@ -6800,7 +6923,7 @@ danos.
 195
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 17 Processamento
 
 e Produtos
@@ -6819,7 +6942,7 @@ Fernando César Matsuura
 Marília Ieda da Silveira Folegatti Matsuura
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 461  Consumir banana é bom para a saúde?
 
 Sim.  Do  ponto  de  vista  nutricional,  a  banana  é  rica  em 
@@ -6867,7 +6990,7 @@ atividade da enzima pelo uso do calor por curto período de tempo
 198
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 ou por produtos antioxidantes, como os ácidos ascórbico e cítrico 
 ou ainda a combinação entre estes.
 
@@ -6915,7 +7038,7 @@ salgados, sorvetes, embutidos e patês.
 199
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 467  É possível ter uma pasta de banana? 
 
 Sim.  A  indústria  já  faz  uso  desse 
@@ -6962,7 +7085,7 @@ preservados por produtos químicos.
 200
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 As frutas, após o descascamento, seguem para um banho com 
 solução de metabissulfito de sódio a 1,24%, drenagem por 10 mi-
 nutos, despolpamento e inativação térmica a 94 °C por 2 minutos, 
@@ -7008,7 +7131,7 @@ qualidade físico-química e microbiológica.
 201
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 A  maior  competitividade  de  empresas  produtoras  de  purê 
 
 asséptico em outros países poderá suprimir a produção no Brasil.
@@ -7051,7 +7174,7 @@ potássio e cálcio.
 202
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 475 
 
 Quais cuidados devem ser tomados no processamento de 
@@ -7101,7 +7224,7 @@ envasado na embalagem final.
 203
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 477 
 
 Como  funcionam  os  secadores  durante  a  secagem  das 
@@ -7151,7 +7274,7 @@ abrigo da luz.
 204
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 18 Experimentação
 
 Agrícola
@@ -7161,7 +7284,7 @@ Agrícola
 Carlos Alberto da Silva Ledo
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 480  O que é experimentação? 
 
 É  uma  atividade  cujo  objetivo  é 
@@ -7210,7 +7333,7 @@ maior  precisão  possível,  principalmente  nas  regiões  tropicais,
 206
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 onde as condições climáticas e de solo são muito heterogêneas, o 
 que contribui para o aumento do erro experimental.
 
@@ -7266,7 +7389,7 @@ de forma localizada.
 207
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 •	 Amostragem	 de	 forma	 heterogênea	 e	 não	 representativa	
 
 da parcela.
@@ -7316,7 +7439,7 @@ estatística, ainda se observam aná-
 208
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 lises  de  experimentos  mal  realizadas  e  resultados  erroneamente 
 interpretados. Tal fato justifica a participação de um técnico com 
 conhecimento em técnicas experimentais e métodos quantitativos 
@@ -7327,13 +7450,13 @@ dos resultados.
 209
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 19 Economia
 
 Clóvis Oliveira de Almeida
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 489 
 
 Que  fruta  é  mais  produ­
@@ -7374,7 +7497,7 @@ produz mais a do tipo Prata.
 212
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 Em relação à qualidade, não se admite a presença de manchas 
 nos  frutos,  o  que  geralmente  acontece  naqueles  produzidos  nas 
 regiões  Sul  e  Sudeste:  escurecimento  da  casca  provocado  pelo 
@@ -7416,7 +7539,7 @@ mais consumidas a Nanica e a Nanicão.
 213
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 499 
 
 Qual a região que mais produz banana no Brasil e quais os 
@@ -7453,43 +7576,4 @@ ano).
 
 214
 
-
- 500pr_pgnumber199
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000019
-
-•••
-
-
- 500pr_pgnumber200
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber201
-
- 500pr_pgnumber202
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-O papel utilizado nesta publicação foi produzido conforme 
-
-a certificação da Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber203
 

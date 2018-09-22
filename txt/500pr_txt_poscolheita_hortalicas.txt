@@ -1,16 +1,5 @@
 
- 500pr_pgnumber013
-1
-
-Produção e Consumo  
-de Hortaliças 
-
-Nirlene Junqueira Vilela
-
-Rita de Fátima Alves Luengo
-
-
- 500pr_pgnumber014
+ 500pr_pgnumber015
 1 
 
 Produzir hortaliças é um bom negócio?
@@ -54,7 +43,7 @@ aparentemente baixos, a produtividade relativa de muitas hortaliças
 14
 
 
- 500pr_pgnumber015
+ 500pr_pgnumber016
 ainda não é alta, o que torna os custos unitários elevados. Outra 
 categoria  de  custos  é  a  dos  produtos  consorciados,  que,  nesse 
 caso,  são  bem  mais  baixos  quando  comparados  aos  de  plantios 
@@ -97,7 +86,7 @@ Sudeste e Sul, e as demais regiões respondem por aproximadamente
 15
 
 
- 500pr_pgnumber016
+ 500pr_pgnumber017
 As  hortaliças,  de  forma  predominante,  são  produzidas  nos 
 sistemas  de  cultivo  convencional.  Entretanto,  um  crescimento 
 significativo de sistemas de produção diferenciados - como cultivo 
@@ -141,7 +130,7 @@ situação agravada pela ausência de políticas setoriais. Políticas de
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 crédito rural, mesmo sendo o Programa Nacional de Fortalecimento 
 da Agricultura Familiar (Pronaf), são de difícil acesso aos produtores. 
 Levando-se  em  conta  os  juros,  correção  monetária  e  taxas 
@@ -182,7 +171,7 @@ qualidade e/ou variabilidade de tipos.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 8 
 
 Como  as  hortaliças  se  posicionam  como  atividades 
@@ -227,7 +216,7 @@ em Israel, de 73 kg.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 A  Organização  Mundial  da  Saúde  (OMS)  tem  realizado 
 campanhas de estímulo ao consumo de hortaliças e frutas. Para uma 
 melhor qualidade de vida, a recomendação da OMS é que de 6% a 
@@ -269,7 +258,7 @@ sobre  o  preço  pago  ao  produtor  impostas  pelos  agentes  de
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 comercialização,  limitam  o  acesso  da  população  de  baixo  poder 
 aquisitivo ao maior consumo das hortaliças. 
 
@@ -315,7 +304,7 @@ limpa.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 15  Quais os maiores produtores mundiais de hortaliças?
 
 Os  maiores  produtores  mundiais  de  hortaliças  são:  China 
@@ -356,7 +345,7 @@ as hortaliças que não geraram déficit na balança comercial.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 19 
 
 Quais  as  vantagens  e  desafios  para  o  Brasil  no  mercado 
@@ -403,7 +392,7 @@ sido a detecção de excesso de resíduos agrotóxicos nos produtos.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 Outras  dificuldades  para  exportação  de  hortaliça  são  os  trâmites 
 burocráticos, por exemplo, a exigência de selo e a obrigatoriedade 
 de  monitoramento  por  um  representante  do  país  importador, 
@@ -447,7 +436,7 @@ mercado externo.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 22 
 
 Quais os principais mercados consumidores de hortaliças 
@@ -494,7 +483,7 @@ junto à produção e à distribuição obriga o setor responsável pela
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 comercialização  a  ter  agilidade  e  eficiência  maiores  que  sua 
 capacidade. 
 
@@ -537,7 +526,7 @@ marca.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 O  Brasil  poderia  auferir  maiores  vantagens  do  comércio 
 
 internacional, no entanto, esse esforço não tem sido significativo.
@@ -574,7 +563,7 @@ falta  de
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 2
 
 Mercados
@@ -582,7 +571,7 @@ Mercados
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 26 
 
 Como é a cadeia de distribuição atacadista de hortaliças 
@@ -626,7 +615,7 @@ profissionais. A melhor maneira de se ter sucesso também na fase de
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 comercialização é por meio da união de produtores com interesses 
 comuns em associações ou cooperativas.
 
@@ -668,7 +657,7 @@ pelos  tipos  de  varejo  na  distribuição  hortícola  e  a  importância
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 relativa de cada um deles no abastecimento local e regional mostram 
 diferenças significativas. 
 
@@ -712,7 +701,7 @@ casa,  é  cada  vez  maior  a  participação
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 de  donos  de  cozinhas  industriais  como  clientes,  sejam  restauran-
 tes de empresas ou pequenos restaurantes de comida vendida por 
 peso. 
@@ -757,7 +746,7 @@ alterado  mundialmente  nas  últimas  décadas.  O  que  se  observa  é
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 um aumento da participação relativa do setor de distribuição sobre 
 os demais segmentos (produção agropecuária e agroindústria). 
 
@@ -799,7 +788,7 @@ processados. Trata-se de hortaliças e frutas que já estão prontas para
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 consumo,  passaram  por  operações  que  eliminaram  as  partes  não 
 comestíveis, como cascas, talos e sementes, seguidas pelo corte em 
 tamanhos menores, sem perder a condição de produto fresco ou in 
@@ -839,7 +828,7 @@ alface ‘red fire’, que é uma alface de folhas crespas e avermelhadas.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 42 
 
 O que são hortaliças supergeladas e congeladas?  Qual seu 
@@ -885,7 +874,7 @@ preparo desses alimentos.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 43  O que são hortaliças minimamente processadas?
 
 São  hortaliças  que  já  estão  prontas  para  consumo,  pois 
@@ -924,7 +913,7 @@ cadeia, desde a produção até a distribuição final.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 45 
 
 O que são hortaliças enlatadas e em conserva?  Qual seu 
@@ -973,7 +962,7 @@ biscoitos e salgadinhos (batata e mandioquinha-salsa); cubos, flocos
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 ou pó em molhos, sopas e acompanhamento de produtos cárneos 
 (batata, cenoura, abobrinha, couve, repolho, pimentão). 
 
@@ -1016,7 +1005,7 @@ raios gama (g).
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 A  diferença  entre  os  raios  X  e  g  está  no  comprimento  da 
 onda, mas ambos servem para inibição de brotamento, inibição de 
 amadurecimento, combate de pragas e atraso no desenvolvimento 
@@ -1046,7 +1035,7 @@ proibido.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 3
 
  Logística
@@ -1054,7 +1043,7 @@ proibido.
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 49  O que é logística?
 
 É a atividade que engloba aspectos da movimentação, arma-
@@ -1099,7 +1088,7 @@ mercado  e  volume  de  compra,  compartilhamento  de  caminhões
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 para transporte da produção e rapidez no escoamento dos vegetais, 
 o que é muito importante devido à perecibilidade das hortaliças.
 
@@ -1143,7 +1132,7 @@ operações envolvidas no abastecimento das lojas.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 54  O que é um palete?
 
 Um palete é uma base, de madeira ou plástico, com encaixe 
@@ -1179,7 +1168,7 @@ menor.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 57  Quais as boas práticas de transporte?
 
 Existem  práticas  simples  que  ajudam  a  manter  as  hortaliças 
@@ -1221,7 +1210,7 @@ dos alimentos.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 59 
 
 Qual a relação da propaganda com a logística de distribui-
@@ -1261,7 +1250,7 @@ aparência, uniformidade e melhor conservação pós-colheita.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 61 
 
 Quais as implicações da utilização de técnicas de logística 
@@ -1307,7 +1296,7 @@ das competentes operações de higienização e desinfestação.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 64 
 
 Qual a relação da logística com as formas de distribuição 
@@ -1353,7 +1342,7 @@ circunstâncias  que  ocorrerão  ao  longo  da  cadeia  de  distribuição,
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 que podem ser corrigidas ou usadas como modelo para a melhoria 
 do processo de produção.
 
@@ -1396,7 +1385,7 @@ dos valores gerados nas transações.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 69 
 
 Como a abertura de novos mercados para comercialização 
@@ -1424,7 +1413,7 @@ suas cooperativas e associações setoriais.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 4 
 
 Injúrias Mecânicas
@@ -1434,7 +1423,7 @@ Adonai Gimenez Calbo
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 70 
 
 Quais  os  principais  tipos  de  injúrias  mecânicas  em  pós-
@@ -1473,7 +1462,7 @@ até escurecido.
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 73 
 
 Quais os sintomas característicos associados às injúrias de 
@@ -1515,7 +1504,7 @@ a possibilidade de deterioração.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 76 
 
 Quais os sintomas característicos associados às injúrias de 
@@ -1560,7 +1549,7 @@ submetidos a impactos severos, equivalentes a quedas superiores a
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 79 
 
 Qual outra característica importante a ser considerada no 
@@ -1609,7 +1598,7 @@ mecanizada. Um problema que induz os trabalhadores a
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 jogarem as caixas, por cansaço ou por falta de treinamento 
 ou de instrução. 
 
@@ -1660,7 +1649,7 @@ quando cultivares e variedades suscetíveis são sujeitos a manejo de
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 irrigação inadequado. Assim, para frutos de tomate, por exemplo, 
 há  cultivares  muito  suscetíveis  e  outras  de  elevada  tolerância  à 
 rachadura de crescimento.
@@ -1702,7 +1691,7 @@ transporte ou na comercialização. As deformações plásticas sofridas
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 por frutas e hortaliças, em geral, causam efeitos fisiológicos, como 
 aceleração de amadurecimento, indução de brotação e facilitação 
 ao desenvolvimento de podridões.
@@ -1750,7 +1739,7 @@ raízes  e  bulbos,  especialmente  quando  são  de  formato  irregular,
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 como é o caso da batata-baroa e da batata-doce, nos quais cada 
 raiz precisa ser separada da touceira. Também são muito severos 
 os danos mecânicos na colheita da batata, especialmente em solos 
@@ -1791,7 +1780,7 @@ vibração têm sido reiteradamente comprovadas.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 93  Qual a relevância das almofadas ou “pads” nas embalagens?
 
 Frequentemente,  as  almofadas  são  utilizadas  para  absorver 
@@ -1834,7 +1823,7 @@ rapidamente resfriado e embalado, para que
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 não ocorram processos como a formação de compostos fenólicos, 
 escurecimento e suberização.
 
@@ -1875,7 +1864,7 @@ maior uso.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 É importante, no entanto, ter em mente que o penetrômetro não 
 serve para avaliar a redução da firmeza causada por desidratação, 
 visto  que  a  leitura  pode  aumentar  na  razão  inversa  da  firmeza 
@@ -1924,7 +1913,7 @@ que o consumidor demanda e a necessidade de uma mínima fir-
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 meza  estrutural,  além  de  uma  boa  capacidade  de  transporte  e 
 armazenamento para produtos, como a banana, o melão, a pera e 
 o tomate. 
@@ -1970,7 +1959,7 @@ organolépticas das cultivares com genótipo híbrido rin+/rin.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 Há  outros  tipos  de  híbridos  longa  vida  baseados  em  outros 
 genes individuais recessivos de efeitos pleiotrópicos, como o gene 
 nor (“non-ripening” – não amadurece), cujo híbrido é especificado 
@@ -2012,7 +2001,7 @@ entrada de microrganismos, como fungos e bactérias.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 Em regiões em que a colheita ocorre na época seca, a cura 
 realizada em galpões ventilados é uma solução efetiva. Para isso, 
 os bulbos são pendurados em tranças ou réstias, ou colocados a 
@@ -2056,7 +2045,7 @@ temperatura de 15 oC a 20 oC.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 •	 Inhame:  a  cura  deve  ser  feita  durante  uma  semana  em 
 ambiente úmido, entre 15 °C e 25 °C, o que possibilita a 
 cicatrização  dos  ferimentos  de  colheita  com  a  formação 
@@ -2091,7 +2080,7 @@ vascular.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 5
 
 Respiração
@@ -2101,7 +2090,7 @@ Adonai Gimenez Calbo
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 108 
 
 Qual a importância da respiração para o armazenamento 
@@ -2146,7 +2135,7 @@ demais  processos associados causam às frutas e hortaliças.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 110 
 
 A  concentração  dos  principais  gases  envolvidos  na 
@@ -2192,7 +2181,7 @@ quais foram produzidos.
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 113  O que é atmosfera interna?
 
 Os  volumes  gasosos  intercelulares,  por  onde  permeia  o 
@@ -2231,7 +2220,7 @@ e não simultâneos.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 116  O que são trocas gasosas de O2 e de CO2?
 
 As trocas gasosas ocorrem à medida que ocorre o equilíbrio 
@@ -2269,7 +2258,7 @@ interna.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 118 
 
 Quais  são  os  fatores  que  influenciam  a  resistência  à  
@@ -2315,7 +2304,7 @@ tração  em  passos  de  0,1  mL  a
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 cada 10 ou 15 minutos com uma seringa mantida inserida no órgão 
 até a tomada do volume total necessário, por exemplo, 0,5 mL.
 
@@ -2355,7 +2344,7 @@ uma importante barreira à passagem do ar comprimido.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 122 
 
 Como  se  mede  a  composição  da  atmosfera  interna  de 
@@ -2397,7 +2386,7 @@ respiração a ser estudada para, desse modo, definir-se o substrato ou
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 o produto a ser mensurado. Isso é indispensável porque a respiração 
 é um processo complexo e a sua estimativa depende daquilo que 
 se mede em um ensaio. Por isso, essa resposta será apresentada de 
@@ -2442,7 +2431,7 @@ respiração. No entanto, com eletrodo de O2, por exemplo, pode-se
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 acompanhar  a  variação  da  concentração  da  atmosfera  interna  de 
 órgãos intactos de acordo com o consumo de O2 pelos tecidos. 
 
@@ -2486,7 +2475,7 @@ podem  ser  citadas  nessa  linha  são  a  detecção  paramagnética  de
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 oxigênio, as manometrias e as volumetrias, com auxílio de reagentes 
 químicos. 
 
@@ -2527,7 +2516,7 @@ de “lavação”, isto é, após um período no qual o produto do tempo
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 pela  vazão,  corresponda  a  um  volume  de  “lavação”  igual  a  pelo 
 menos  cinco  vezes  o  volume  da  câmara  na  qual  o  produto  sob 
 estudo é acondicionado. A diferença entre a concentração de CO2 
@@ -2570,7 +2559,7 @@ um método considerado trabalhoso.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 Fazendo uso de hidróxido de bário, Van Afferden desenvolveu 
 um método muito sensível baseado na mesma ideia, porém fazendo 
 uso de medição de condutividade da solução de hidróxido de bário 
@@ -2614,7 +2603,7 @@ volumetria a pressão e temperatura constantes.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 134  Quais os problemas no uso destas técnicas?
 
 Mesmo com os cuidados explicitados acima, as manometrias 
@@ -2654,7 +2643,7 @@ RQ = CO2 liberado / O2 consumido
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 O coeficiente respiratório é utilizado para avaliar o metabolismo 
 basal. RQ igual ou próximo de 1,0 é indicativo de predominância 
 do  consumo  respiratório  de  carboidratos,    como  a  sacarose  e  o 
@@ -2701,7 +2690,7 @@ e 2 NadH + H+. Porém, a glicólise é a principal rota de produção
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 do  ácido  pirúvico  que  alimenta  os  mitocôndrios,  onde,  após  a 
 descarboxilação,  por  ação  da  enzima  piruvato  desidrogenase  - 
 uma  enzima  que  não  requer  O2  -,  gera-se  o  Acetil-CoA.  Esse  é 
@@ -2740,7 +2729,7 @@ energia de ativação em reações bioquímicas.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 139  O que é “Q10”?
 
 Q10 é um termo técnico utilizado em pós-colheita que significa 
@@ -2778,7 +2767,7 @@ da respiração pode não se manifestar.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 141 
 
 Qual a importância de se saber se determinado produto é 
@@ -2830,7 +2819,7 @@ explicar controles metabólicos e hormonais em plantas.
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 143 
 
 Como  a 
@@ -2879,7 +2868,7 @@ com 21% de O2.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 A  explicação  desse  fenômeno  pode  envolver  respostas 
 homeostáticas  do  órgão  durante  o  armazenamento  em  períodos 
 longos. Nessas respostas, não só é importante a carga energética, 
@@ -2906,7 +2895,7 @@ sabidamente causa redução na taxa de respiração.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 6
 
 Transpiração
@@ -2916,7 +2905,7 @@ Adonai Gimenez Calbo
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 145  O que é transpiração?
 
 Transpiração  é  a  perda  de  água,  em  forma  de  vapor,  em 
@@ -2956,7 +2945,7 @@ grandes apresentam camada de ar estagnada mais espessa do que
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 folhas pequenas e estreitas. Quanto mais espessa a camada laminar, 
 mais lenta é a transferência de vapor de água e calor por difusão 
 por ela. 
@@ -3002,7 +2991,7 @@ As raízes geralmente são órgãos morfologicamente adaptados
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 dermal  com  alta  permeabilidade  ao  vapor  de  água.  Conforme  a 
 superfície da raiz seca, a permeabilidade ao vapor de água e a taxa de 
 transpiração são reduzidas. Raízes como a batata-doce e o inhame 
@@ -3047,7 +3036,7 @@ ou menor a 1 mm, que são, em geral, formadas por apenas quatro
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 camadas de células em folhas de sombra, e 12 em folhas a pleno 
 sol. Folhas são órgãos adaptados à absorção de luz e à fixação CO2, 
 razão  pela  qual  demandam  muita  água.  Algumas  folhosas,  como 
@@ -3088,7 +3077,7 @@ acompanhado de uma redução na velocidade de transpiração.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Em frutos como o pêssego e o maxixe, a ocorrência de pelos 
 aumenta a espessura da camada de ar estagnada ou laminar através 
 da qual o vapor de água se difunde e, desse modo, a condutividade 
@@ -3135,7 +3124,7 @@ com pequenas perdas de água inferiores a 2% (v/v).
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 •	 Enrugamento de produtos com alto teor de água.
 •	 Perda  de  peso  de  produto  comercializável,  usualmente 
 
@@ -3180,7 +3169,7 @@ colheita de tomate e pimentão.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 Em  hortaliças  folhosas  não  submetidas  à  lavação,  o  déficit 
 hídrico inicial pode ser elevado, dependendo do horário da colheita. 
 Quando  o  procedimento  de  lavação  é  utilizado  em  hortaliças 
@@ -3224,7 +3213,7 @@ adequadamente definidos.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 Outra  alternativa,  possivelmente  mais  prática,  é  o  uso  dos 
 novos firmômetros portáteis que fazem uso de extensões da técnica 
 de aplanação e que possibilitam a medição da firmeza dependendo 
@@ -3266,7 +3255,7 @@ deformar irreversivelmente o produto.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 165  Quais os procedimentos do aplanador de pedestal?
 
 Têm-se os seguintes procedimentos:
@@ -3312,7 +3301,7 @@ penetrômetro podem até aumentar ou diminuir com a desidratação.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 167 
 
 Quais  instrumentos  podem  ser  utilizados  para  avaliar 
@@ -3357,7 +3346,7 @@ ponto de orvalho são mais estáveis e menos sujeitos a interferência
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 do  que  outros  tipos  de  higrômetros  de  resistência  elétrica  ou  de 
 capacitância, frequentemente utilizados em pós-colheita.
 
@@ -3403,7 +3392,7 @@ Fora  dessa  faixa,  normalmente,  há  necessidade  de  sensores  mais
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 especializados.  Para  pós-colheita,  é  particularmente  problemático 
 o  fato  desses  sensores  medirem  umidade  relativa  com  precisão 
 da ordem de 3%, isto é, duas a três unidades de umidade relativa 
@@ -3449,7 +3438,7 @@ essa  dificuldade  tecnológica  abre  um  valioso  nicho  de  venda  de
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 novos tipos de instrumentos para medir umidade relativa do ar em 
 pós-colheita.
 
@@ -3492,7 +3481,7 @@ encolhimento celular, à tensão da água e à turgescência celular.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 176 
 
 Como  se  pode  controlar  a  perda  de  água  de  frutas  e 
@@ -3546,7 +3535,7 @@ sistemas  de  refrigeração.  O  uso  de  umidificadores  e  umidostatos
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 para  contornar  o  problema  de  baixa  umidade  no  interior  das 
 câmaras é quase sempre associado ao agravamento do acúmulo de 
 gelo e do aumento do consumo de energia elétrica pelo sistema de 
@@ -3591,7 +3580,7 @@ a vida útil de produtos sensíveis à desidratação. Quando se utiliza
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 ar-condicionado  ou  refrigeração,  o  tratamento  não  é  tão  simples 
 porque o sistema de refrigeração muitas vezes remove umidade do 
 ar.
@@ -3632,9 +3621,9 @@ termicamente separada da loja.
 101
 
 
- 500pr_pgnumber102
-
  500pr_pgnumber103
+
+ 500pr_pgnumber104
 7
 
  Desordens Fisiológicas
@@ -3642,7 +3631,7 @@ termicamente separada da loja.
 Neide Botrel 
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 182  O que são as desordens fisiológicas?
 
 As  desordens  ou  distúrbios  fisiológicos  compreendem  as 
@@ -3687,7 +3676,7 @@ armazenamento e transporte do produto.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 186 
 
 Quais  fatores  podem  contribuir  para  a  manifestação  das 
@@ -3737,7 +3726,7 @@ pelo frio.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 •	 Temperatura alta (t≥ 30 °C): distúrbio fisiológico causado 
 
 por altas temperaturas.
@@ -3789,7 +3778,7 @@ tecidos vegetais. Isso diminui a qualidade dos produtos.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 194 
 
 Os produtos podem ser congelados e descongelados sem 
@@ -3835,7 +3824,7 @@ há perda de massa e qualidade.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 197 
 
 Quais  desordens  podem  ocorrer  pela  influência  da 
@@ -3877,7 +3866,7 @@ apresentarem a devida manutenção.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 200 
 
 Sabendo-se  que  os  danos  causados  pelo  etileno  são 
@@ -3910,9 +3899,9 @@ compostos fenólicos endógenos presentes no tecido vegetal.
 109
 
 
- 500pr_pgnumber110
-
  500pr_pgnumber111
+
+ 500pr_pgnumber112
 8
 
 Fatores Pré-colheita
@@ -3920,7 +3909,7 @@ Fatores Pré-colheita
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 202 
 
 Qual  a 
@@ -3970,7 +3959,7 @@ negativos  em  duas  situações.  Quando  há  excesso  de  água  de
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 irrigação  ou  chuva,  as  plantas  ficam  com  muitas  folhas,  que  se 
 tornam quebradiças e são mais suscetíveis à podridão. Os períodos 
 secos, seguidos de fornecimento abundante de água, podem resultar 
@@ -4013,7 +4002,7 @@ molho, é colhido bem maduro.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Existem  hortaliças  que  são  consumidas  verdes  do  ponto  de 
 vista fisiológico, mas que estão no ponto ideal para o consumidor, 
 porque  apresentam  sabor  e  consistência  apreciados  dessa  forma. 
@@ -4053,7 +4042,7 @@ Devem  apresentar  cor  roxo-escuro  brilhante,  quase  preto,  polpa
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 macia e sementes pouco desenvolvidas. O fruto colhido muito novo 
 murcha rapidamente, enquanto o fruto colhido após o ponto ideal 
 fica com o sabor amargo devido ao desenvolvimento das sementes.
@@ -4095,7 +4084,7 @@ de 1,2 kg a 2 kg.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 215  Qual o ponto de colheita ideal para pimentão?
 
 O tamanho dos frutos depende da cultivar. Os frutos podem 
@@ -4135,7 +4124,7 @@ de  colheita  dos  morangos.  O  ponto  ideal  é  “maduro”  para  fins
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 industriais,  e  de  ½  maduro  a  ¾  maduro  para  comercialização  in 
 natura, ou seja, o fruto deve ter no mínimo 50% a 75% da superfície 
 de cor vermelho-brilhante, quando destinado para consumo fresco, 
@@ -4176,7 +4165,7 @@ comprimento.  Frutos  de  pepino  do  tipo  Aodai  devem  ser  verde-
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 escuros e ter casca lisa; pepinos do tipo caipira 
 devem  apresentar  frutos  verde-claros,  estrias 
 brancas e casca lisa; pepinos do tipo japonês 
@@ -4218,7 +4207,7 @@ acima  de  12  cm  e  com  coloração  verde  esbranquiçada  (pálida)
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 tendem  a  ser  fibrosos  e  duros.  Frutos  manuseados  sem  o  devido 
 cuidado tornam-se escuros rapidamente.
 
@@ -4246,9 +4235,9 @@ indica que estão ainda verdes.
 119
 
 
- 500pr_pgnumber120
-
  500pr_pgnumber121
+
+ 500pr_pgnumber122
 9
 
 Cuidados na Colheita
@@ -4258,7 +4247,7 @@ Rita de Fátima Alves Luengo
 Neide Botrel
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 227  Quais os cuidados mais importantes na colheita?
 
 São três os cuidados mais importantes na colheita: colher nas 
@@ -4300,7 +4289,7 @@ situações devem ser evitadas:
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 •	 Utilizar  caixas  de  madeira  ou  outros  recipientes  com 
 
 pregos salientes, cantos vivos e lascas.
@@ -4354,7 +4343,7 @@ noite.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 231  Como pode ser feita a colheita?
 
 A colheita pode ser manual ou mecânica. A colheita manual 
@@ -4393,7 +4382,7 @@ mecânica e não resistem ao empilhamento.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 233  O que é cura?
 
 A cura é um dos processos mais simples de reduzir a perda 
@@ -4437,7 +4426,7 @@ adversas,  com  alta  umidade  ou  chuvas,  a  cura  no  campo  pode
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 ser inviabilizada. Nessas condições, é promissor o uso de câmaras 
 estacionárias ou secadores contínuos para proceder a cura.
 
@@ -4490,7 +4479,7 @@ de luz elas tornam-se esverdeadas (solanina) e prejudiciais
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 236  Como o produto colhido deve ser transportado?
 
 Existem  práticas  simples  que  ajudam  a  manter  as  hortaliças 
@@ -4533,7 +4522,7 @@ colheita e o consumo.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 238  Por quanto tempo se pode armazenar hortaliças? 
 
 Cada  espécie  de  hortaliça  tem  um  tempo  de  conservação 
@@ -4580,7 +4569,7 @@ homem.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 240  Quando as hortaliças devem ser lavadas para consumo?
 
 O ideal é que as hortaliças sejam lavadas imediatamente antes 
@@ -4621,7 +4610,7 @@ para  repor.  O  conteúdo  de  umidade  da  maioria  das  hortaliças  é
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 elevado e a perda de peso durante o transporte e o armazenamento 
 pode ser um fator econômico sério, principalmente se a hortaliça 
 é vendida por peso. A aparência e frescor ficam prejudicados com 
@@ -4663,7 +4652,7 @@ evitar a perda do alimento.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 245  Por que as batatas ficam esverdeadas?
 
   As  batatas  ficam  verdes  por  causa  da  presença  de  luz  no 
@@ -4695,9 +4684,9 @@ por apodrecimento, causado por fungos e bactérias.
 131
 
 
- 500pr_pgnumber132
-
  500pr_pgnumber133
+
+ 500pr_pgnumber134
 10
 
 Perdas na Colheita  
@@ -4706,7 +4695,7 @@ e Pós-colheita
 Neide Botrel
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 247  Quais as estimativas das perdas de produtos vegetais?
 
 As estimativas de perda, em países desenvolvidos, estão entre 
@@ -4745,7 +4734,7 @@ vivos e, por isso, são inevitáveis. Os vegetais desenvolvem processos
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 biológicos essenciais a partir das 
 reservas  acumuladas  (açúcares, 
 ácidos,  etc)  durante  o  período 
@@ -4794,7 +4783,7 @@ forma geral, a cada 10 oC na redução da temperatura, tem-se uma
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 atividade  respiratória    de  duas  a  quatro  vezes  menor.  Com  isso, 
 quanto mais rápido o produto for armazenado nas suas condições 
 ideais, menor será o percentual de perda.
@@ -4832,7 +4821,7 @@ pelos materiais utilizados na embalagem.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 258 
 
 Por que a umidade relativa inadequada pode comprometer 
@@ -4873,7 +4862,7 @@ esses prejuízos.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 261 
 
 Por que o ponto de colheita inadequado pode influir nas 
@@ -4921,7 +4910,7 @@ o  telhado,  o  que  pode  reduzir  a  temperatura  interna  em
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 mais  de  3  °C;  evitar  iluminação  no  armazenamento;  e 
 uma  arborização  adequada  também  pode  melhorar  o 
 ambiente. Nas hortaliças folhosas, a iluminação associada 
@@ -4976,7 +4965,7 @@ de produtos sadios.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 •	 Planejar a quantidade de produtos a serem comercializados.
 •	 Evitar  empilhamento  excessivo  de  produtos  sensíveis, 
 
@@ -5005,7 +4994,7 @@ bilhões a cada safra.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 11
 
 Embalagens
@@ -5013,7 +5002,7 @@ Embalagens
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 267  Quais as funções da embalagem?
 
 As duas principais funções 
@@ -5056,7 +5045,7 @@ mamão.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 As caixas de madeira apresentam superfície áspera (madeira 
 não trabalhada) e são reutilizáveis, dessa forma provocam abrasão 
 nos  produtos  e  são  transmissoras  de  bactérias  e  fungos,  que 
@@ -5099,7 +5088,7 @@ paletizáveis, pois são resistentes e muito comuns no mercado.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 270 
 
 Quais  as  vantagens  e  desvantagens  das  embalagens  de 
@@ -5140,7 +5129,7 @@ produtos específicos, como cheiro-verde e alho.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 272 
 
 Quais  as  vantagens  e  desvantagens  das  embalagens  de 
@@ -5189,7 +5178,7 @@ no varejo. São comuns em batata e cebola, em capacidades de 20 kg
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 e 50 kg. Em função dos grandes volumes produzidos, principalmente 
 de  batata,  sua  participação  no  mercado  é  expressiva.  Apesar  de 
 seu baixo custo, não protegem o produto, provocando ferimentos 
@@ -5233,7 +5222,7 @@ impedindo assim seu consumo.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 277  Qual a tendência do mercado de embalagens?
 
 A tendência do mercado 
@@ -5278,7 +5267,7 @@ melhor usar embalagem retornável (com frete) ou de uso único.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 280  Quanto tempo dura uma caixa de plástico?
 
 A durabilidade das caixas de plástico depende de dois fatores: 
@@ -5318,7 +5307,7 @@ O ingrediente ativo é o cloreto de benzalcônio.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 283  Onde são vendidas embalagens para hortaliças?
 
 Normalmente,  as  embalagens  são  vendidas  em  lojas  de 
@@ -5359,7 +5348,7 @@ motivo de usar saco plástico para guardar em geladeira é para evitar
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 perda de água e murchamento do produto. A gaveta localizada na 
 parte inferior da geladeira é a destinada a hortaliças.
 
@@ -5373,7 +5362,7 @@ produto mais atraente e valorizado pelo cliente.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 12
 
 Doenças
@@ -5385,7 +5374,7 @@ Alice Maria Quezado-Duval
 Ailton Reis
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 288  O que são doenças de pós-colheita?
 
 As  doenças  de  pós-colheita  são  problemas  causados  por 
@@ -5426,7 +5415,7 @@ trada para patógenos causadores de doenças de pós-colheita. Essas
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 injúrias  mecânicas  ocorrem  nas 
 operações  de  colheita,  classifi-
 cação,  limpeza,  embalagem  e 
@@ -5469,7 +5458,7 @@ mole (Pectobacterium e Dickeya) são muito elevadas.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 294 
 
 Quais os sintomas causados pelas doenças bacterianas em 
@@ -5511,7 +5500,7 @@ isoladas, mas que depreciam comercialmente o produto.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 297  Como ocorrem as doenças de pós-colheita?
 
 As doenças de pós-colheita são resultado de uma interação 
@@ -5552,7 +5541,7 @@ pós-colheita em temperaturas variando de
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 300 
 
 Como  as  hortaliças  tornam-se  suscetíveis  aos  fungos  e 
@@ -5600,7 +5589,7 @@ foco inicial de uma doença, que pode ser um único fruto de tomate
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 atacado pelo fungo Rhizopus ou uma raiz de cenoura atacada pela 
 bactéria Dickeya (ou  Erwinia).  Se as condições ambientais forem 
 favoráveis, a contaminação pode ser por meio do contato direto entre 
@@ -5645,7 +5634,7 @@ cultivo.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 •	 Condição  climática  durante  o  desenvolvimento  das 
 
 culturas no campo.
@@ -5691,7 +5680,7 @@ bactericidas e desinfetantes.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Os métodos que utilizam princípios físicos são pautados em 
 controle de temperatura (calor ou frio), umidade relativa, irradiação, 
 entre outros. 
@@ -5739,7 +5728,7 @@ e de baixo custo.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 312 
 
 Quais os princípios físicos que podem ser empregados no 
@@ -5778,7 +5767,7 @@ se 1L de água sanitária em 5L de água.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 315 
 
 Quais  os  principais  fatores  que  interferem  na  eficiência 
@@ -5824,7 +5813,7 @@ fungos.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 316 
 
 Qual a concentração de cloro que se deve usar no controle 
@@ -5879,7 +5868,7 @@ colheita por meio de melhoramento genético convencional.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 •	 Uso de ferramentas de biotecnologia para inserção de genes 
 de  resistência,  genes  estruturais  ou  genes  que  interferem 
 em processos fisiológicos, como o tomate tipo longa vida.
@@ -5897,9 +5886,9 @@ entre outros.
 163
 
 
- 500pr_pgnumber164
-
  500pr_pgnumber165
+
+ 500pr_pgnumber166
 13
 
 Pragas
@@ -5911,7 +5900,7 @@ Marina Castelo Branco
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 319 
 
 Pode  ocorrer  o  ataque  de  pragas  em  hortaliças  após  a 
@@ -5960,7 +5949,7 @@ do produto provocada pelas galerias abertas e as alterações
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 na qualidade do mesmo (presença de ovos, fios de seda, 
 excrementos), o que acarreta a desvalorização do produto.
 
@@ -6006,7 +5995,7 @@ danos de acordo com a cultura, como o uso de inseticidas.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 324  Quais as pragas mais comuns na fase de pós-colheita?
 
 As pragas que causam mais danos na fase de pós-colheita são 
@@ -6047,7 +6036,7 @@ tece um casulo e se transforma em pupa.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 327  Quais as espécies que frequentemente atacam o alho?
 
 Existem  várias  espécies  de  traças,  algumas  muito  comuns 
@@ -6091,7 +6080,7 @@ a  fase  de  pós-colheita,  os  maiores  danos  são  ocasionados  pela
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 traça-da-batata Phthorimaea operculella (Lepidoptera: Gelechiidae), 
 que também afeta a cultura no campo. Trata-se de uma mariposa 
 pequena de cor cinza, com 10 mm a 12 mm de envergadura. As asas 
@@ -6132,7 +6121,7 @@ atacar ainda as folhas e a casca dos frutos.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 331 
 
 Qual a principal praga de pós-colheita de brássicas, como 
@@ -6182,7 +6171,7 @@ dano facilita a contaminação por patógenos.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 •	 A broca-pequena Neoleucinodes elegantalis (Lepidoptera: 
 Crambidae)  ocorre  a  partir  do  início  do  florescimento. 
 Os  ovos  são  colocados  nas  flores  e  as  larvas,  assim  que 
@@ -6223,7 +6212,7 @@ Curculionidae)  é  um  besouro  cujos  adultos  medem  de
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 3 mm  a 4 mm de comprimento, de cor castanha, e asas 
 com  estrias  longitudinais.  As  larvas  são  de  cor  branca  e 
 encurvadas.  Elas  causam  danos  ao  abrir  galerias  nos 
@@ -6268,7 +6257,7 @@ e, também, para os besouros carunchos do gênero Tribolium spp.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 337 
 
 Existem  inimigos  naturais  das  pragas  em  locais  de 
@@ -6317,7 +6306,7 @@ transcorrido entre a última aplicação na lavoura e a colheita.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 339 
 
 Quais medidas preventivas podem ser tomadas para evitar 
@@ -6361,7 +6350,7 @@ produtos na gôndola do mercado.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 343 
 
 Quais medidas podem ser tomadas para evitar o dano por 
@@ -6379,7 +6368,7 @@ contato com as pragas descritas anteriormente.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 14
 
 Qualidade  
@@ -6390,7 +6379,7 @@ Rita de Fátima Alves Luengo
 Neide Botrel
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 344  O que é qualidade?
 
 Qualidade é o conjunto de atributos que determinam o grau 
@@ -6437,7 +6426,7 @@ produto afetada.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 A cor é um componente muito importante, já que é função 
 de  processos  sintéticos  e  degradativos.  Há  diferentes  tipos  de 
 pigmentos envolvidos, como a clorofila, responsável pela coloração 
@@ -6478,7 +6467,7 @@ refratômetro, cromatografia líquida.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 A  acidez  diz  respeito  à  quantidade  de  ácidos  orgânicos, 
 normalmente  determinada  por  meio  de  titulação  (com  NaOH), 
 obtendo-se  acidez  total  titulável,  com  o  resultado  expresso  em 
@@ -6517,7 +6506,7 @@ patogênicos ao homem, como Escherichia coli e Salmonella.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 352  O que é classificação de hortaliças?
 
 Classificação  de  horta-
@@ -6558,7 +6547,7 @@ produto que comprou, mesmo sem vê-lo.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 354  Quais os benefícios da classificação?
 
 Os principais benefícios de se classificar hortaliças são:
@@ -6605,7 +6594,7 @@ assim haveria menor manuseio do produto, o que aumentaria seu
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 tempo de conservação, e o trabalho seria feito uma única vez, o que 
 economizaria tempo e dinheiro. 
 
@@ -6651,7 +6640,7 @@ saturada, e a umidade relativa do ar onde o produto está, regula a
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 transpiração  e  sua  intensidade.  Então,  bastaria  manter  a  umidade 
 relativa  (UR)  externa  à  hortaliça  em  100%.  Mas,  na  prática, 
 recomenda-se UR=90% a 95%, porque UR próxima a 100% favorece 
@@ -6694,7 +6683,7 @@ identificação do produtor evolui para a formação e uso de marcas.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 362  Quais os benefícios que a rotulagem traz para o produtor?
 
 São benefícios da rotulagem:
@@ -6734,7 +6723,7 @@ São benefícios da rotulagem:
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 364  A rotulagem onera o valor do produto a ser comercializado?
 
 Não. A rotulagem é fácil e barata.  O rótulo pode ser estampado 
@@ -6779,7 +6768,7 @@ da lavoura.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 Esse procedimento, se adotado em todas as Centrais do país, 
 irá  facilitar  a  rastreabilidade  da  produção,  tirando  o  produtor  do 
 anonimato.
@@ -6801,9 +6790,9 @@ venda pela leitura em equipamentos óticos.
 187
 
 
- 500pr_pgnumber188
-
  500pr_pgnumber189
+
+ 500pr_pgnumber190
 15
 
 Qualidade do  
@@ -6815,7 +6804,7 @@ Neide Botrel
 Jorge Ricardo de Almeida Gonçalves
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 370 
 
 Quais  os  principais  fundamentos  dos  sistemas  orgânicos 
@@ -6861,7 +6850,7 @@ pelo consumidor.
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 373 
 
 Quais os aspectos que levam o consumidor brasileiro de 
@@ -6903,7 +6892,7 @@ maior firmeza e quantidade de suco em algumas frutas.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 376 
 
 No  momento  da  compra,  como  distinguir  um  alimento 
@@ -6950,7 +6939,7 @@ social.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 •	 Classificação do produto.
 •	 Qualidade do produto.
 •	 Prazo de validade.
@@ -6996,7 +6985,7 @@ especial nas hortaliças folhosas (alface, couve, agrião, etc).
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 380  Por que os nitratos em excesso são prejudiciais à saúde?
 
 Valor  superior  a  3,65  mg  de  nitrato  por  quilo  de  massa 
@@ -7041,7 +7030,7 @@ podem assegurar a qualidade dos
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 produtos, incrementar a produção, produtividade e competitividade, 
 além de atender às exigências legislativas.
 
@@ -7090,7 +7079,7 @@ isolamento  e
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 materiais e substâncias cujo uso não esteja autorizado para a produção 
 orgânica.
 
@@ -7140,7 +7129,7 @@ como  produtos  orgânicos  e  os  que  apresentarem,  no  mínimo,
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 70%  desses  ingredientes,  serão  rotulados  como  produtos  com 
 ingredientes orgânicos, devendo constar nos rótulos as proporções 
 dos ingredientes orgânicos e não orgânicos. 
@@ -7184,9 +7173,9 @@ norteiam a agricultura orgânica e as características desses produtos.
 197
 
 
- 500pr_pgnumber198
-
  500pr_pgnumber199
+
+ 500pr_pgnumber200
 16
 
 Segurança Alimentar  
@@ -7197,7 +7186,7 @@ Leonora Mansur Mattos
 Celso Luiz Moretti
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 391 
 
  O que é alimento seguro?
@@ -7239,7 +7228,7 @@ um processo científico utilizado para se identificar perigos e estimar
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 os riscos que podem afetar a inocuidade de um alimento, visando 
 se estabelecer medidas de controle e corretivas nas diversas etapas 
 da cadeia produtiva de alimentos, incluindo-se frutas e hortaliças.  
@@ -7281,7 +7270,7 @@ verificação.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 398  Quantos e quais os principais perigos existentes?
 
 São três tipos de perigos: químico, físico e biológico. 
@@ -7326,7 +7315,7 @@ consumidor.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 401  Qual o agente sanificante mais amplamente utilizado?
 
 O agente sanificante mais utilizado é o hipoclorito de sódio. 
@@ -7365,7 +7354,7 @@ como as antenas podem ler produtos que não estejam ao alcance
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 visual.  Por  exemplo,  é  possível  identificar  os  produtos  dentro  de 
 um  caminhão  quando  esse  passa  por  um  portão,  não  sendo 
 necessário seu descarregamento. Consequentemente, existe ganho 
@@ -7406,7 +7395,7 @@ atesta que o produto atende aos requisitos pre-
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 estabelecidos. Deve ser feita por um organismo independente, que 
 atesta  por um sistema de rastreabilidade, atuando como uma ferra-
 menta de qualidade e fornecendo as diretrizes básicas de controle.
@@ -7437,9 +7426,9 @@ tomate de mesa e o industrial, dentre outros.
 205
 
 
- 500pr_pgnumber206
-
  500pr_pgnumber207
+
+ 500pr_pgnumber208
 17
 
 Processamento  
@@ -7450,7 +7439,7 @@ Celso Luiz Moretti
 Leonora Mansur Mattos
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 411  O que são produtos minimamente processados?
 
 Produtos  minimamente  processados  podem  ser  definidos 
@@ -7494,7 +7483,7 @@ pode inviabilizar o negócio.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 415 
 
 Qual  deve  ser  a  temperatura  do  ambiente  e  da  água 
@@ -7540,7 +7529,7 @@ cloro livre) por litro de água limpa.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 417  Quais os principais agentes sanitizantes utilizados?
 
 O  cloro,  em  suas  diver-
@@ -7581,7 +7570,7 @@ vida de prateleira do produto.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 420 
 
 Quais  as  principais  alterações  metabólicas  associadas  ao 
@@ -7622,7 +7611,7 @@ vinila (PVC), dentre outras.
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 423 
 
 As embalagens apresentam a mesma permeabilidade aos 
@@ -7668,7 +7657,7 @@ aos produtos minimamente processados.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 426 
 
 Existe  alguma  estratégia  que  pode  ser  utilizada  para 
@@ -7713,7 +7702,7 @@ de  gelatina  aplicadas  no  produto  após  o  processamento  mínimo
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 foram  eficientes  na  redução  do  esbranquiçamento  das  cenouras 
 processadas na forma de minicenouras. 
 
@@ -7746,7 +7735,7 @@ a 5 kg) e os preços praticados são menores por unidade de peso.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 18 
 
 Armazenamento  
@@ -7755,7 +7744,7 @@ Refrigerado
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 431 
 
 Por que temperaturas mais baixas prolongam o tempo de 
@@ -7811,7 +7800,7 @@ temperatura e umidade relativa para o seu armazenamento.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 isto é, o produto deve ser pré-resfriado, refrigerado, trans-
 portado,  armazenado  e  comercializado  sob  refrigeração, 
 para  evitar  danos  causados  por  condensação  de  água  e 
@@ -7855,7 +7844,7 @@ refrigerado  do  alho  é  0  °C.  A  umidade  relativa  do  ar  deve  estar
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 entre 65% e 70%. O ponto de congelamento é de -0,8 °C. Nessas 
 condições, o período de armazenamento é de 180 a 210 dias.
 
@@ -7896,7 +7885,7 @@ de -0,8 °C. O tempo de armazenamento sob condições ótimas é de
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 439 
 
 Qual a temperatura e umidade relativa de armazenamento 
@@ -7941,7 +7930,7 @@ a -0,7  °C.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 443 
 
 Qual  a  temperatura,  a  umidade  relativa  e  o  período  de 
@@ -7989,7 +7978,7 @@ sua temperatura de armazenamento refrigerado é de 8 °C a 12 °C.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 Pode ser armazenada por até 10 dias. A umidade relativa deve ser 
 de 90% a 95% e o ponto de congelamento é de -0,8 °C.
 
@@ -8034,7 +8023,7 @@ Pode ser armazenado por 30 a 60 dias, em temperaturas de
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 451 
 
 Qual  a  temperatura,  a  umidade  relativa  e  o  período  de 
@@ -8047,13 +8036,13 @@ ocorre a -1,1 °C
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 19 Resfriamento Rápido
 
 Celso Luiz Moretti
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 452  O que é resfriamento rápido?
 
 É  um  processo  utilizado 
@@ -8094,7 +8083,7 @@ para ser resfriada até 10 °C, ela levará também 2 horas para chegar
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 a 5 °C, mais 2 horas para chegar a 2,5 °C, e assim por diante. De 
 maneira similar, o tempo de 7/8 de resfriamento é equivalente a três 
 vezes o tempo de meio resfriamento e pode ser definido como o 
@@ -8137,7 +8126,7 @@ outros.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 459 
 
 Quais  os  fatores  que  interferem  no  resfriamento  rápido 
@@ -8181,7 +8170,7 @@ do produto.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 462 
 
 Quais as vantagens e desvantagens do método do ar frio 
@@ -8227,7 +8216,7 @@ produto não perde umidade durante o processo. Uma das principais
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 desvantagens  do  processo  é  que  a  água  utilizada  precisa  ter  sua 
 qualidade  monitorada  e  avaliada  periodicamente,  pois  pode  se 
 tornar  um  eficiente  meio  de  propagação  de  doenças.  O  método 
@@ -8271,7 +8260,7 @@ que emprega água gelada. Isso ocorre porque o gelo pode fornecer
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 frio de forma prolongada. Nessa 
 técnica,  o  gelo  é  adicionado  à 
 água, fazendo com que a capa-
@@ -8317,7 +8306,7 @@ evaporar a água da superfície do produto, resfriando-o. O princípio
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 470 
 
 Quais  as  vantagens  e  desvantagens  do  método  de 
@@ -8364,7 +8353,7 @@ do ar frio forçado.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 20 Como Comprar  
 
 e Conservar  
@@ -8373,7 +8362,7 @@ Hortaliças
 Rita de Fátima Alves Luengo
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 472  Como comprar e conservar abóbora madura?
 
 Os  frutos  devem  apresentar-se  com  a  casca  sem  brilho. 
@@ -8414,7 +8403,7 @@ saborosas. Quando já picadas e embaladas em filme plástico devem,
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 obrigatoriamente, estar em expositor refrigerado. Preste atenção ao 
 prazo  de  validade  e  não  compre  se  houver  formação  de  líquido 
 amarelado no fundo da embalagem, o que indica que o produto 
@@ -8457,7 +8446,7 @@ de cabeça. Também existem alfaces com folhas roxas ou folhas bem
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 recortadas. A alface tipo americana possui as folhas mais crocantes e 
 forma de cabeça. Quaisquer das alfaces citadas podem ser cultivadas 
 no  solo  ou  em  solução  nutritiva  (mistura  de  água  e  nutrientes).  
@@ -8501,7 +8490,7 @@ O almeirão pode ser mantido por até 3 dias na geladeira. Lave e
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 escorra bem a água das folhas e acondicione-as em saco plástico 
 próprio  para  alimentos  ou  em  vasilha  de  plástico  tampada.  Em 
 condição ambiente, as folhas devem ser mantidas com a parte de 
@@ -8541,7 +8530,7 @@ plástico e congele.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 478  Como comprar e conservar batata-doce?
 
 Ao  comprar  batata-doce,  deve-se  evitar  raízes  com  início 
@@ -8582,7 +8571,7 @@ consumo.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 A  berinjela  pode  ser  congelada  da  seguinte  maneira:  lave-a 
 e  corte-a  em  fatias  ou  cubos  de  1  cm.  Coloque  os  pedaços  em 
 água fervente por 2 a 4 minutos, no vapor por 3 minutos ou, ainda, 
@@ -8619,7 +8608,7 @@ não deve ser congelada, pois perde cor e sabor.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 481  Como comprar e conservar brócolis?
 
 Há dois tipos de brócolis no mercado: o ramoso (tradicional) 
@@ -8661,7 +8650,7 @@ aqueles  firmes,  sem  partes  mofadas  ou  amolecidas.  Pequenas
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 lesões na casca podem ser retiradas durante o descascamento, sem 
 prejudicar a qualidade interna.
 
@@ -8705,7 +8694,7 @@ pasta pode ser mantida em condição ambiente por até 25 dias.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 484  Como comprar e conservar cenoura?
 
 As  raízes  devem  ser  firmes  e  com  cor  laranja  intensa,  sem 
@@ -8746,7 +8735,7 @@ quebrar as suas folhas. Deve-se selecioná-la com cuidado, pelo seu
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 aspecto, evitando, por respeito aos outros consumidores, pegar em 
 todas as unidades que estão à venda.
 
@@ -8787,7 +8776,7 @@ talos firmes. As folhas de couve são comercializadas na forma de
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 maço. Deve-se escolher o maço 
 com cuidado, pelo seu aspecto, 
 evitando quebrá-lo ou machucá-
@@ -8829,7 +8818,7 @@ por 2 minutos, ou com vapor por 3 minutos. Em seguida, faça o
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 resfriamento, colocando a couve-chinesa em água com gelo. Escorra 
 bem a água, coloque a couve-chinesa em saco ou recipiente plástico 
 e leve ao congelador. Nessa condição, pode ser armazenada por até 
@@ -8870,7 +8859,7 @@ em sacos plásticos perfurados ou em vasilha de plástico rígido.
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 O espinafre não deve ser colocado no mesmo saco plástico 
 onde estão frutas maduras ou hortaliças, como o tomate, pois sua 
 cor mudará de verde para amarelo mais rapidamente. Para congelar, 
@@ -8913,7 +8902,7 @@ possível é de 12 meses.
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 492  Como comprar e conservar inhame?
 
 O inhame japonês apresenta rizomas grandes (100 g a 200 g), 
@@ -8956,7 +8945,7 @@ mantidas em geladeira doméstica. Em condição ambiente, deve-se
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 evitar embalar as raízes com plástico. A mandioquinha-salsa crua 
 pode ser congelada. As raízes devem ser lavadas, secas com papel 
 absorvente e colocadas em saco plástico, do qual se retira todo o ar 
@@ -8999,7 +8988,7 @@ mais desenvolvidos são de cor amarela fosca.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 O milho-verde perde a qualidade rapidamente após a colheita. 
 Em  condição  ambiente,  dura  no  máximo  1  dia.  Mesmo  quando 
 não  se  deterioram  nesse  período,  os  grãos  ficam  com  o  sabor  e 
@@ -9048,7 +9037,7 @@ brancas e casca lisa.
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 •	 Pepino  do 
 
 tipo 
@@ -9099,7 +9088,7 @@ serão adquiridos por outros consumidores.
 248
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 Os  frutos  podem  ser  conservados  em  condição  natural,  em 
 local  fresco,  por  2  a  4  dias.  Em  geladeira  doméstica,  podem  ser 
 mantidos por mais de uma semana, quando embalados em sacos 
@@ -9141,7 +9130,7 @@ compactas e sem rachaduras. As folhas devem estar livres de manchas
 249
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 escuras  e  de  perfurações.  Entre  as  cabeças  de  mesmo  tamanho, 
 escolha as mais pesadas. Ao escolher as cabeças, manuseie-as com 
 cuidado. Apesar de parecer resistente, o repolho machuca-se com 
@@ -9183,74 +9172,4 @@ ou  para  molho.  Evite  comprar  os  frutos  totalmente  verdes  (eles
 
 250
 
-
- 500pr_pgnumber251
-podem não amadurecer), com furos, com manchas ou ferimentos.  
-Ao escolher os frutos, deve-se evitar apertá-los ou jogá-los na banca 
-para não estragá-los.
-
-Os tomates se conservam bem fora da geladeira por poucos 
-dias. Tomates vermelhos se estragam rapidamente, por isso, se não 
-forem consumidos logo, devem ser colocados na geladeira, na parte 
-inferior, dentro de sacos plásticos perfurados. Tomates “de vez” devem 
-ser mantidos em ambiente natural até o completo amadurecimento. 
-O tomate cru (inteiro ou picado) não deve ser congelado. Somente 
-o molho de tomate pode receber esse tratamento.
-
-Referências
-
-BRASIL. Decreto-lei nº 5.452, de 1 de maio de 1943. Aprova a consolidação das leis do 
-trabalho. Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, 
-DF, 9 ago. 1943. Seção 1, p. 11937.
-
-BRASIL. Decreto nº 6.323, de 27 de dezembro de 2007. Regulamenta a Lei no 10.831, 
-de  23  de  dezembro  de  2003,  que  dispõe  sobre  a  agricultura  orgânica,  e  dá  outras 
-providências. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 28 dez. 
-2007
-
-BRASIL.  Ministério  da  Agricultura,  Pecuária  e  Abastecimento.  Ministério  da  Saúde. 
-Secretaria de Vigilância Sanitária. Instrução Normativa Conjunta n. 9, de 12 de novembro 
-de 2002. Aprova o regulamento técnico sobre classificação, acondicionamento, manuseio 
-e comercialização dos produtos hortícolas “in natura” em embalagens próprias para a 
-comercialização, visando à proteção, conservação e integridade dos membros. Diário 
-Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, DF, 2002.
-IBGE. Censo agropecuário de 1996. Rio de Janeiro: IBGE, 2008.
-IBGE. Pesquisa de orçamentos familiares 2002-2003. Rio de Janeiro: IBGE, 2004.
-IBGE. Pesquisa de orçamentos familiares 2008-2009. Rio de Janeiro: IBGE, 2011.
-
-NERY,  A.  A.;  CALBO,  A.  G.  Adapting  constant-volume  manometry  for  studying  gas 
-exchange  by  bulky  plant  organs.  Journal  of  The  American  Society  for  Horticultural 
-Sciences, Mount Vernon, v. 119, n. 6, p. 122-1229, 1994.
-
-251
-
-
- 500pr_pgnumber252
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000009
-
-•••
-
-
- 500pr_pgnumber253
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber254
-
- 500pr_pgnumber255
 

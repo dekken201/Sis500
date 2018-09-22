@@ -1,6 +1,8 @@
+# -*- coding: utf-8 -*-
 import re
 from core.functions import *
 from core.data import *
+import re
 
 def regexTest():
     result = run("qual a melhor epoca", "algodao")
@@ -23,7 +25,23 @@ def perguntaTest():
     print(r3)
     print(r3.lstrip('0123456789.- '))
 
+def splitTest():
+    rgx = '(?=\?\n)'
 
-#print(run("qual a melhor epoca", "abacaxi"))
+    stringteste = """A tolerância à seca desse acesso de espécie silvestre pode
+ser introgredida no amendoim cultivado? Qual a importância
+desse estudo para o Nordeste?
+
+Sim. Para o melhoramento do amendoim cultivado, um trabalho
+dessa natureza torna-se importante devido ao aproveitamento """
+    #print("["+stringteste.split("?",)[0]+"]")
+    #print("["+stringteste.split("?")[1]+"]")
+    #print("[" + stringteste.split("?")[2] + "]")
+    print(re.split(rgx, stringteste))
+
+#splitTest()
+
+#print(run("a tolerancia a seca desse", "amendoim"))
 #print(core.functions.run("testando testes","amendoim"))
-getAnswers(lista)
+#getAnswers(lista)
+

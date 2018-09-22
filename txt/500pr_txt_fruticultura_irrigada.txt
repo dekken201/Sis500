@@ -1,5 +1,5 @@
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 1
 
 Como o clima afeta a produção de plantas?
@@ -48,7 +48,7 @@ BA, é de 542 mm.
 20
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 O  período  chuvoso  concentra-se  entre  novembro  e  abril, 
 quando  chove  90%  do  total  anual.  De  janeiro  a  abril,  a  quadra 
 chuvosa contribui com 68% do total anual, destacando-se março 
@@ -95,7 +95,7 @@ do ar variam entre 24,2 °C e 28,2 °C e entre 24,5 °C e 28,6 °C.
 21
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 Com relação às normais de temperatura máxima e mínima, a 
 variação  é  entre  29,5  °C  e  33,9  °C,  e  entre  18,2  °C  e  22,1  °C, 
 respectivamente, em Bebedouro; e entre 29,4 °C e 33,7 °C, e entre 
@@ -141,7 +141,7 @@ quena  variação  anual  do  regime
 22
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 térmico, que, por sua vez, é dependente do regime de radiação solar 
 global anual, apresentando menores valores entre março e julho.
 
@@ -186,7 +186,7 @@ dacaru, em setembro.
 23
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 Os  menores  valores  ocorrem  no  período  chuvoso, 
 apresentando  valores  médios  de  139  km/dia  e  164,3  km/dia, 
 respectivamente, em Bebedouro e em Mandacaru. Em média, em 
@@ -232,7 +232,7 @@ incidente.
 24
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 •	  Anemômetro – Para medir a velocidade do vento.
 •	 Pluviômetro  –  Para  medir  a  quantidade  de  chuva,  em 
 milímetros,  num  determinado  período  de  tempo  e  local 
@@ -255,9 +255,9 @@ altos e próximos.
 25
 
 
- 500pr_pgnumber025
-
  500pr_pgnumber026
+
+ 500pr_pgnumber027
 2
 
 Relação Solo–Água–Planta
@@ -270,7 +270,7 @@ Luís Henrique Bassoi
 José Monteiro Soares
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 11
 
 O que é textura de um solo?
@@ -320,7 +320,7 @@ armazenados.
 28
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 Solos mal estruturados, como os solos compactados, apresen-
 tam maior adensamento das partículas, o que implica na redução 
 dos espaços vazios (poros) existentes entre as partículas do solo.
@@ -369,7 +369,7 @@ armazenamento de ar e de água no solo.
 29
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 Um solo com boa estrutura, apresenta boa porosidade e menor 
 densidade. Isso permite que exista mais espaço para armazenamento 
 de ar e de água.
@@ -420,7 +420,7 @@ vazios por perda de água, cessando a drenagem.
 30
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 19
 
 O que é água disponível de um solo?
@@ -469,7 +469,7 @@ determinada  lâmina  de  água  na  unidade  de  tempo,  que  tende  a
 31
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 estabilizar-se  ao  final  de  um  teste,  alcançando  a  condição  de 
 velocidade de infiltração básica.
 
@@ -514,7 +514,7 @@ albedo (razão entre a quantidade de luz difundida ou refletida por
 32
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 uma superfície e a quantidade de luz incidente sobre esta) de 23%, 
 em pleno desenvolvimento vegetativo, cobrindo uniformemente a 
 superfície do solo, sem restrição de água e de nutrientes, e sem o 
@@ -558,7 +558,7 @@ planta e com fase fenológica.
 33
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 28
 
 O que é precipitação efetiva (Pe)?
@@ -604,7 +604,7 @@ Isso depende dos seguintes fatores:
 34
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 •	 Das condições favoráveis nas camadas mais profundas do 
 solo (pH adequado, densidade global, ausência de lençol 
 freático, etc.).
@@ -629,9 +629,9 @@ subtraindo-se do valor da ETc o valor da precipitação efetiva (Pe).
 35
 
 
- 500pr_pgnumber035
-
  500pr_pgnumber036
+
+ 500pr_pgnumber037
 3 
 
 Fertilidade do Solo  
@@ -669,7 +669,7 @@ Davi José Silva
 Alessandra Monteiro Salviano Mendes
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 33
 
 O que é e para que serve a análise química do solo?
@@ -718,7 +718,7 @@ devem ser colocadas em recipientes diferentes, limpos e identificados.
 38
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 •	 As amostras de cada profundidade devem ser misturadas, 
 retirando-se uma amostra composta com aproximadamente 
 0,5 kg a 1,0 kg de solo, colocando-a num saco de plástico 
@@ -757,7 +757,7 @@ e guardar os resultados da análise anterior.
 39
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 35
 
 Quais  os  nutrientes  essenciais  para  o  desenvolvimento 
@@ -822,7 +822,7 @@ porque são absorvidos em pequenas quantidades.
 40
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 36
 
 O que é nível crítico de um elemento no solo?
@@ -877,7 +877,7 @@ que os calcários tradicionais.
 41
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 A qualidade do produto usado – e o custo de aplicação na 
 lavoura – são pontos fundamentais que o agricultor deve considerar 
 na escolha do corretivo. Corretivos de baixa qualidade geralmente 
@@ -942,7 +942,7 @@ características químicas e físicas do calcário ou material corretivo.
 42
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 Assim, quanto maior o PRNT, maior a eficiência desses materiais.
 
 Em  termos  práticos,  existem  dois  fatores  que  determinam  a 
@@ -991,7 +991,7 @@ e de drenagem eficiente.
 43
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 •	 Em  solos  que  apresentem  alumínio  (Al3+)  na  camada 
 
 subsuperficial.
@@ -1037,7 +1037,7 @@ de nutrientes.
 44
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 42
 
 Quais os adubos mais usados na adubação de base e na 
@@ -1128,7 +1128,7 @@ Variável
 45
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 Tabela 3. Fertilizantes como fonte de nutrientes mais utilizados na adubação 
 de cobertura.
 
@@ -1198,7 +1198,7 @@ a) 80 g de P2O5 ------------------- X g de superfosfato simples
 46
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 18 g de P2O5 ------------------ 100 g de superfosfato simples
  X = 445 g de superfosfato simples
 
@@ -1241,7 +1241,7 @@ amônia) ou a liberação de altas quantidades de amônia.
 47
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 Outro fator que aumenta a perda da ureia, na forma de amônia, 
 em alguns solos, é a calagem superficial, devido ao aumento do pH. 
 Uma das maneiras mais eficientes para reduzir as perdas de N por 
@@ -1286,7 +1286,7 @@ haver perdas de N por imobilização através dos microrganismos do
 48
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 solo, que vão necessitar desse elemento que estava disponível para 
 as culturas, para decompor o material vegetal.
 
@@ -1337,7 +1337,7 @@ adubos orgânicos mais alto que o dos adubos minerais.
 49
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 Assim,  torna-se  inviável  substituir  toda  a  adubação  mineral 
 pela adubação orgânica. Portanto, devem-se adotar as duas, sendo 
 uma complemento da outra.
@@ -1380,7 +1380,7 @@ se recomendar a adubação ideal.
 50
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 48
 
 Como se faz a amostragem de planta para análise foliar?
@@ -1431,7 +1431,7 @@ armazená-las em ambiente refrigerado.
 51
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 49
 
 O que é adubação foliar?
@@ -1479,7 +1479,7 @@ aumenta a absorção de cátions micronutrientes (Cu, Fe, Mn e Zn).
 52
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 No caso do Zn (zinco), a quelatização de óxido de zinco (de 
 baixa solubilidade), com DTPA, é mais eficiente que a de sulfato de 
 zinco, com o mesmo agente.
@@ -1510,9 +1510,9 @@ seja extensivo às safras seguintes.
 53
 
 
- 500pr_pgnumber053
-
  500pr_pgnumber054
+
+ 500pr_pgnumber055
 4  
 
 Manejo Orgânico do Solo
@@ -1522,7 +1522,7 @@ Tâmara Cláudia de Araújo Gomes
 Alineaurea Florentino Silva
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 53
 
 Considerando  os  aspectos  agronômicos  da  produção  de 
@@ -1569,7 +1569,7 @@ aspectos:
 56
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 •	 Protege o solo contra o impacto da chuva (evitando erosão).
 •	 Diminui a temperatura superficial do solo.
 •	 Prolonga a disponibilidade de água.
@@ -1613,7 +1613,7 @@ em  sua  maioria  produzem  restos  culturais  com  relação  C/N  mais
 57
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 elevada  (ricos  em  carbono),  proporcionando  a  permanência  da 
 cobertura no solo por mais tempo.
 
@@ -1661,7 +1661,7 @@ pelas plantas e mais concentrados.
 58
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 •	 Não  apresenta  problemas  de  imobilização  de  nutrientes 
 
 que ocorre no esterco fresco.
@@ -1708,7 +1708,7 @@ coco,  de  capim-elefante,  etc.)  devem  ser  picados  (pedaços  entre
 59
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 A pilha de resíduo deve ser mantida úmida, mas sem escorrer 
 quando comprimida nas mãos (teor de umidade entre 40% e 60%). 
 Essa pilha deve ser revirada (de 1 a 3 vezes por mês, conforme a 
@@ -1756,7 +1756,7 @@ elevado)
 60
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 61
 
 Como saber quando a temperatura da pilha de resíduos 
@@ -1801,7 +1801,7 @@ mesma terra.
 61
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 A  prática  da  rotação  de  culturas  pode  trazer  inúmeros 
 benefícios, desde a quebra do ciclo de alguns insetos, doenças e 
 ervas  espontâneas  até  a  melhoria  das  características  do  solo, 
@@ -1828,7 +1828,7 @@ economia de adubo nitrogenado na cultura que a sucede.
 62
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 5 
 
 Salinidade do Solo
@@ -1851,7 +1851,7 @@ Gilberto Gomes Cordeiro
 Cícero Antônio de Sousa Araújo
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 63
 
 O que significa salinização ou salinidade do solo e onde 
@@ -1904,7 +1904,7 @@ de murcha, mesmo após irrigação ou chuva.
 64
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 Com o aumento da con-
 centração de sais, o solo mos-
 tra-se sempre úmido, principal-
@@ -1945,7 +1945,7 @@ laboratório.
 65
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 67
 
 Quais análises devem ser solicitadas ao laboratório?
@@ -2021,7 +2021,7 @@ no solo e nas plantas.
 66
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 Tabela 2. Alterações observadas nos solos e nas plantas oriundas da salinização.
 Classe de solo
 
@@ -2096,7 +2096,7 @@ sódio e presença de íons tóxicos).
 67
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 De  acordo  com  esse  critério,  tem-se  conduzido  amplos 
 estudos  que  permitem  classificar  os  cultivos  segundo  tais  co m- 
    portamentos.
@@ -2170,7 +2170,7 @@ continuação da lixiviação dos sais pela lavagem do solo.
 68
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 Assim,  a  recuperação  desse  tipo  de  solo  deve  ser  feita 
 aplicando-se  corretivos  ricos  em  Ca  (cálcio),  para  substituir  o  
 Na (sódio) do complexo do solo e evitar a dispersão dos agregados, 
@@ -2213,9 +2213,9 @@ DC: USDA, 1969. 160 p. (USDA. Agriculture Handbook, 060).
 69
 
 
- 500pr_pgnumber069
-
  500pr_pgnumber070
+
+ 500pr_pgnumber071
 6  
 
 Irrigação
@@ -2226,7 +2226,7 @@ Tarcizio Nascimento
 Clemente Ribeiro dos Santos
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 74
 
 Como irrigar?
@@ -2271,7 +2271,7 @@ total dos emissores, por planta.
 72
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 77
 
 O que é eficiência de aplicação de água?
@@ -2324,7 +2324,7 @@ mínimos aceitáveis desse parâmetro devem ser superiores a 90% e
 73
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 Quando se trata da irrigação por aspersão, esse índice define 
 a uniformidade de distribuição da lâmina precipitada, denominada 
 coeficiente  de  uniformidade  de  christiansen  (CUC),  cujo  valor 
@@ -2371,7 +2371,7 @@ lateral.
 74
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 84
 
 Quais os principais fatores que afetam o desempenho do 
@@ -2421,7 +2421,7 @@ pela eficiência de aplicação (Ea) do sistema de irrigação.
 75
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 87
 
 O que é tensiômetro e como funciona?
@@ -2467,7 +2467,7 @@ centibar (cbar), basta dividir o valor da leitura em cca por 10.
 76
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 88
 
 Como  usar  o  tensiômetro  para  se  saber  o  momento  do 
@@ -2515,7 +2515,7 @@ tem incentivado a operação dos sistemas de irrigação no período
 77
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 noturno (das 21h30 às 5h30), principalmente daqueles com maiores 
 níveis de automação.
 
@@ -2562,7 +2562,7 @@ molhado. Em solos de textura arenosa, os bulbos tendem
 78
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 a  apresentar  seções  transversais  mais  estreitas,  quando 
 comparadas  com  as  dos  solos  de  textura  argilosa.  Nos 
 solos  aluviais,  onde  predomina  a  ocorrência  de  camadas 
@@ -2606,7 +2606,7 @@ diâmetro.
 79
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 Uma das extremidades desse tubo deve ter pequenos orifícios 
 (furos) numa extensão de 50 cm, para permitir a entrada e a saída de 
 água. A extremidade furada deve ser coberta com um pedaço de 
@@ -2652,7 +2652,7 @@ atualmente.
 80
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 Isso equivaleria a um ganho de 5 m3/ha.dia, que, multiplicado 
 pela  área  em  operação  nesse  perímetro,  que  é  de,  aproximada-
 mente,  22.000  ha,  resultaria  num  volume  de  água  da  ordem  de  
@@ -2699,7 +2699,7 @@ competição por água e nutrientes, elas dificultam o alcance
 81
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 do  raio  do  emissor,  comprometendo  a  porcentagem  da 
 área molhada projetada, por planta.
 
@@ -2748,7 +2748,7 @@ no eixo dessa bomba.
 82
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 Nota: a potência do motor deve ser calculada em função do tipo de energia 
 disponível na propriedade.
 
@@ -2771,9 +2771,9 @@ principais.
 83
 
 
- 500pr_pgnumber083
-
  500pr_pgnumber084
+
+ 500pr_pgnumber085
 7  
 
 Fertirrigação
@@ -2799,7 +2799,7 @@ José Maria Pinto
 Clemente Ribeiro dos Santos
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 98
 
 O que é fertirrigação?
@@ -2857,7 +2857,7 @@ uma vez por ano.
 86
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 100
 
 Quais as vantagens da fertirrigação?
@@ -2909,7 +2909,7 @@ injetores.
 87
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 •	 Pode  causar  danos  ambientais  com  a  contaminação  de 
 
 fontes de água.
@@ -2967,7 +2967,7 @@ no solo, são mais problemáticos para serem aplicados via fertirrigação.
 88
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 Nota: na fertirrigação, não são recomendados fertilizantes de baixa solubilidade.
 
 104
@@ -3270,7 +3270,7 @@ C
 89
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 A aplicação de Ca (cálcio) em água rica em bicarbonato forma 
 precipitados  de  gesso  que  levam  à  obstrução  dos  emissores  do 
 sistema de irrigação e dos filtros. A injeção de cloreto de potássio 
@@ -3307,7 +3307,7 @@ tubulações e nos emissores do sistema de irrigação.
 90
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Tabela 2. Solubilidade dos produtos recomendados para uso via fertirrigação.
 
 Conteúdo do nutriente 
@@ -3561,7 +3561,7 @@ Fonte: Borges e Silva (2002).
 91
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 106
 
 Como proceder ao manejo da fertirrigação?
@@ -3612,7 +3612,7 @@ pode-se adotar a frequência semanal.
 92
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 109
 
 Além  de  fertilizantes,  outros  produtos  químicos  podem 
@@ -3659,7 +3659,7 @@ confecção do equipamento e do produto aplicado na fertirrigação.
 93
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 112
 
 Há necessidade de equipamentos de segurança?
@@ -3683,7 +3683,7 @@ Training and Research Center; California: Polytechinic State University, 1995. 2
 94
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 8  
 
 Fitossanidade
@@ -3697,7 +3697,7 @@ José Adalberto de Alencar
 Daniela Biaggioni Lopes
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 113
 
 Como se deve coletar amostra de insetos para diagnóstico 
@@ -3742,7 +3742,7 @@ ou ramos mortos não se prestam a isolamentos.
 96
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 As  amostras  devem  ser  identificadas  e  encaminhadas  ao 
 
 laboratório de análise o mais rápido possível, contendo:
@@ -3786,7 +3786,7 @@ uma geladeira comum, por algum tempo.
 97
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 116
 
 Quais  os  principais  insetos  mastigadores  e  os  sintomas  
@@ -3830,7 +3830,7 @@ colônias da fumagina.
 98
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 119
 
 Por que a fumagina é prejudicial às plantas?
@@ -3876,7 +3876,7 @@ equivalente ao custo do controle por hectare.
 99
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 Se, por exemplo, uma infestação de 10% de pulgões na cultura 
 do  trigo  causasse  um  prejuízo  de  R$  150,00/ha  e  o  custo  para 
 pulverizar 1 ha de trigo fosse R$ 150,00, então o nível de controle 
@@ -3918,7 +3918,7 @@ do aplicador em função da maior evaporação do agrotóxico.
 100
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 127
 
 Nas  condições  do  Submédio  do  Vale  do  São  Francisco, 
@@ -3962,7 +3962,7 @@ de frutos ou de folhas.
 101
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 131
 
 O que significa DL 50?
@@ -4009,7 +4009,7 @@ insetos.
 102
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 Os  principais  predadores  são  as  joaninhas,  os  crisopídeos, 
 alguns  percevejos,  as  tesourinhas  e  algumas  larvas  de  moscas  da 
 família Syrphidae.
@@ -4054,9 +4054,9 @@ cabeça e tórax), abdome e quatro pares de pernas.
 103
 
 
- 500pr_pgnumber103
-
  500pr_pgnumber104
+
+ 500pr_pgnumber105
 9       
 
 Biotecnologia
@@ -4064,7 +4064,7 @@ Biotecnologia
 Natoniel Franklin de Melo
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 138
 
 O que é biotecnologia?
@@ -4109,7 +4109,7 @@ foliares, vasos condutores, etc.
 106
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 A  essa  característica  das  células  meristemáticas,  de  formar 
 novos  tecidos  até  o  organismo  completo,  chamamos  de  toti po-
 tencialidade celular.
@@ -4156,7 +4156,7 @@ materiais produzidos sem controle de qualidade.
 107
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 •	 Vulnerabilidade a novas doenças ou pragas, devido à uni-
 
 formidade decorrente da clonagem.
@@ -4202,7 +4202,7 @@ nochilos (Tapeinochilos ananasse).
 108
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 145
 
 Como é possível desenvolver novas cultivares de uvas sem 
@@ -4234,9 +4234,9 @@ como fungos e nematoides, provenientes de mudas contaminadas.
 109
 
 
- 500pr_pgnumber109
-
  500pr_pgnumber110
+
+ 500pr_pgnumber111
 10
 
 Colheita e  
@@ -4245,7 +4245,7 @@ Pós­Colheita
 Maria Auxiliadora Coelho de Lima
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 147
 
 Quais as principais mudanças que podem ocorrer durante 
@@ -4294,7 +4294,7 @@ uma  fruta  durante  o  amadurecimento,  é  possível  programar  a
 112
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 colheita, conforme a vida útil desejada. As frutas climatéricas podem 
 ser colhidas antes de completarem o amadurecimento.
 
@@ -4343,7 +4343,7 @@ na vida útil e na qualidade da fruta colhida é o manuseio.
 113
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 Assim, o empregado que faz a colheita deve ser orientado a 
 manusear  as  frutas  com  cuidado,  evitando  quedas,  movimentos 
 bruscos e compressão durante sua acomodação nos recipientes.
@@ -4391,7 +4391,7 @@ amadurecimento, resultando em menor vida útil.
 114
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Por sua vez, a umidade do ar determina a taxa de perda de 
 água  das  frutas  e  a  suscetibilidade  à  ocorrência  de  podridões, 
 enquanto a baixa umidade do ar propicia excessiva perda de água.
@@ -4438,7 +4438,7 @@ Reguladores de crescimento
 115
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 amadurecimento das frutas, retardando-os ou acelerando-os, con-
 forme o interesse.
 
@@ -4483,7 +4483,7 @@ própria fruta.
 116
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 158
 
 Quais os sintomas de injúria (lesão) causada por frio, em 
@@ -4529,7 +4529,7 @@ posição gasosa do ambiente de armazenamento.
 117
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 160
 
 Quais  as  consequências  da  exposição  das  frutas  a  tem­
@@ -4572,7 +4572,7 @@ excesso de umidade externa.
 118
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 11
 
 Processamento
@@ -4580,7 +4580,7 @@ Processamento
 Patrícia Moreira Azoubel
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 162
 
 O que é polpa de fruta e qual sua aplicação?
@@ -4632,7 +4632,7 @@ ou conservantes.
 120
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 166
 
 Quais os ingredientes necessários para se preparar geleia?
@@ -4678,7 +4678,7 @@ quantidades de material.
 121
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 170
 
 De que formas podem ser consumidas as frutas secas?
@@ -4704,7 +4704,7 @@ densidade.
 122
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 12
 
 Qualidade  
@@ -4713,7 +4713,7 @@ Mercadológica
 Mohammad Menhazuddin Choudhury
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 172
 
 O que é qualidade mercadológica?
@@ -4758,7 +4758,7 @@ supermercados.
 124
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 produtor  –  aumentará  significativamente,  eliminando  os 
 atravessadores.
 
@@ -4805,7 +4805,7 @@ câncer, diabetes, hipertensão e doenças cardíacas, entre outras.
 125
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 Além disso, os alimentos funcionais melhoram a qualidade e a 
 
 expectativa de vida dos consumidores.
@@ -4856,7 +4856,7 @@ amassamento.
 126
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 Danos  patológicos  –  Podem  ocorrer  devido  à  infecção  de 
 microrganismos  como  bactérias  e  fungos  nocivos.  Ex.:  o  fungo 
 Colletotrichum  gloeosporioides  causa  antracnose  em  manga,  em 
@@ -4897,7 +4897,7 @@ produtos e serviços sobre o meio ambiente.
 127
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 180
 
 O que são barreiras 
@@ -4946,7 +4946,7 @@ res, exportadores, importadores,
 128
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 processadores, atacadistas, varejistas e outros profissionais envolvi-
 dos na comercialização de alimentos, incluindo todos os principais 
 alimentos frescos, como também aqueles na forma minimamente 
@@ -4993,7 +4993,7 @@ pós-colheita.
 129
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 O elevado teor de produtos químicos tem causado toxidez e 
 doenças  crônicas  aos  consumidores.  Ex.:  agrotóxicos,  toxinas  de 
 cogumelos, micotoxinas, elementos tóxicos (chumbo, arsênio, zinco, 
@@ -5042,7 +5042,7 @@ de receita e de divisas para a região produtora de frutas.
 130
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 186
 
 O que é gestão da cadeia de suprimentos?
@@ -5074,9 +5074,9 @@ cipantes da cadeia de suprimento).
 131
 
 
- 500pr_pgnumber131
-
  500pr_pgnumber132
+
+ 500pr_pgnumber133
 13
 
 Comercialização
@@ -5084,7 +5084,7 @@ Comercialização
 José Lincoln Pinheiro Araújo
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 187
 
 Segundo  o  grau  de  participação,  qual  a  classificação 
@@ -5137,7 +5137,7 @@ manga, abacaxi, mamão e maracujá.
 134
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 189
 
 Atualmente,  como  é  organizado  o  mercado  europeu  de 
@@ -5185,7 +5185,7 @@ do Brasil, e depois exporta para os demais países da União Europeia.
 135
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 192
 
 No mercado internacional de frutas, o que são medidas 
@@ -5231,7 +5231,7 @@ Mercadorias e Serviços (ICMS).
 136
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 •	 Contribuição  para  Financiamento  da  Seguridade  Social 
 
 (Cofins).
@@ -5273,9 +5273,9 @@ defensivos agrícolas, indutores florais e embalagens.
 137
 
 
- 500pr_pgnumber137
-
  500pr_pgnumber138
+
+ 500pr_pgnumber139
 14      
 
 Manejo da  
@@ -5294,7 +5294,7 @@ Luís Henrique Bassoi
 José Adalberto de Alencar
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 197
 
 Quais as cultivares de banana recomendadas para a região 
@@ -5348,7 +5348,7 @@ Desvantagens:
 140
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 •	 Suscetível ao tombamento por ventos fortes.
 •	 Sabor inferior ao da ‘Prata Comum’ e ao da ‘Prata Anã’.
 
@@ -5394,7 +5394,7 @@ colheita e menor produtividade (20 t/ha/ciclo).
 141
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 202
 
  Quais variedades se destacam no comércio internacional?
@@ -5445,7 +5445,7 @@ poucas  folhas  estreitas  e  parcialmente  abertas,  com  altura  entre
 142
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 Chifrão – É o tipo ideal de muda, com 0,60 m a 1,50 m de 
 altura, com algumas folhas abertas, mas, na grande maioria, estreitas 
 e rizoma pesando acima de 3,0 kg.
@@ -5492,7 +5492,7 @@ plantio definitivo.
 143
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 206
 
 Quais  os  cuidados  a  serem  observados  no  plantio  das 
@@ -5539,7 +5539,7 @@ Nota: também é importante observar as épocas de melhores preços de mercado.
 144
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 210
 
 Quais  os  espaçamentos  recomendados  no  cultivo  da 
@@ -5585,7 +5585,7 @@ nizado mais duradouros.
 145
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 212
 
 Como pode ser feito o controle de plantas invasoras num 
@@ -5634,7 +5634,7 @@ partir da ponta do cacho em direção às pencas.
 146
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 Nota: o mangará é a ponta terminal da inflorescência da bananeira, formada pelas 
 brácteas que cobrem as pequenas pencas de flores abortadas; popularmente, é 
 também chamado de “coração” e de “umbigo”.
@@ -5682,7 +5682,7 @@ microaspersão, em solo de textura arenosa, é de 60 cm.
 147
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 219
 
 Que organismos podem causar doenças na bananeira?
@@ -5731,7 +5731,7 @@ no Submédio do Vale do São Francisco, já que as doenças fúngicas
 148
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 não  se  desenvolvem  bem  em  bananeiras  cultivadas  nessa  região. 
 Como  exemplo,  temos  baixa  incidência  de  sigatoka-amarela  em 
 nossos cultivos.
@@ -5780,7 +5780,7 @@ Práticas  culturais  como  uso  de  mudas  sadias  e  plantio  em
 149
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 sadio. As táticas de controle mais comumente empregadas são:
 
 Tratamento de mudas – São dois os tipos de tratamento de 
@@ -5831,7 +5831,7 @@ três maneiras:
 150
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 •	 Com matéria orgânica – Benefício para os antagonistas.
 •	 Com  micorrizas  arbusculares  –  Promovem  proteção 
 contra  danos  decorrentes  do  ataque  de  nematoides  de 
@@ -5884,7 +5884,7 @@ partir da última penca.
 151
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 •	 Pincelar  a  extremidade  cortada  com  pasta  de  fungicida 
 
 cúprico.
@@ -5938,7 +5938,7 @@ a 100 iscas, caso haja necessidade.
 152
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 228
 
 Como controlar o moleque­da­bananeira?
@@ -5989,7 +5989,7 @@ altura entre o solo e o cacho.
 153
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 Segundo operário – Segura o cacho pela ráquis masculina ou 
 
 o apoia sobre o ombro, para que este não atinja o solo.
@@ -6032,7 +6032,7 @@ tecido infectado e na perda da qualidade.
 154
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 233
 
 Após  a  colheita,  que  compostos  podem  ser  aplicados 
@@ -6061,9 +6061,9 @@ requer orientação de técnicos.
 155
 
 
- 500pr_pgnumber155
-
  500pr_pgnumber156
+
+ 500pr_pgnumber157
 15
 
 Manejo da  
@@ -6087,7 +6087,7 @@ Luís Henrique Bassoi
 Joston Simão de Assis
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 234
 
 A  cultura  da  goiabeira  é  importante  no  contexto  da 
@@ -6136,7 +6136,7 @@ e bem drenados, ricos em matéria orgânica e com pH entre 5,5 e 7,0.
 158
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 A  planta  só  não  prospera  bem  em  terras  pantanosas,  en-
 charcadas  ou  úmidas,  as  quais  provocam  o  aparecimento  de 
 arbustos raquíticos e doentes.
@@ -6182,7 +6182,7 @@ acionada  por  trator,  a  qual  deve
 159
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 ser usada quando o coveamento for feito em áreas mais extensas. 
 Por sua vez, a dimensão das covas deve ter 50 cm de comprimento, 
 50 cm de largura, por 50 cm de profundidade (fundura).
@@ -6229,7 +6229,7 @@ dos, conduzidos com ângulos de 45° em relação ao plano do terreno.
 160
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 Qual a importância da poda de frutificação da goiabeira?
 
 243
@@ -6278,7 +6278,7 @@ dos frutos, pagando mais por isso.
 161
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 246
 
 Quando se deve praticar o desbaste ou raleio de frutos em 
@@ -6327,7 +6327,7 @@ sua finalidade é obter uma colheita ininterrupta.
 162
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 Nota: a poda total também pode ser usada para formação da planta nos casos em 
 que se faz o encurtamento da copa, tentando evitar o fechamento das ruas ou a 
 fragilidade da planta em termos de quebra de galhos.
@@ -6377,7 +6377,7 @@ deixam-se  em  média,  2  frutos  por  galho  produtivo  ou  penca.
 163
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 Galhos vigorosos suportam até 3 frutos por penca, e galhos menos 
 vigorosos, 1 fruto por penca.
 
@@ -6424,7 +6424,7 @@ para as fases fenológicas:
 164
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 Crescimento  vegetativo  (F1)  –  de  0,35  a  0,60,  no  primeiro 
 
 ciclo; e 0,70, no segundo e no terceiro ciclo.
@@ -6473,7 +6473,7 @@ Vale do São Francisco?
 165
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 257
 
 Quais os sintomas ocasionados pelo psilídeo­da­goiabeira?
@@ -6523,7 +6523,7 @@ Submédio do Vale do São Francisco, constataram-se, associados ao
 166
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 psilídeo-da-goiabeira, as joaninhas (Cycloneda sanguinea e Scymnus 
 spp.),  (Coleoptera:  Coccinellidae),  espécimes  de  aracnídeos,  cri-
 sopídeos, sirfídeos e stafilinídeos.
@@ -6565,7 +6565,7 @@ moscas-das-frutas (Ceratitis capitata e Anastrepha sp.).
 167
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 264
 
 Quais  as  doenças  que  ocorrem  na  goiabeira,  na  região 
@@ -6610,7 +6610,7 @@ os animais e as plantas. Em sua maioria, os nematoides associados
 168
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 Nematoides fitoparasitas – Nematoides que causam danos às 
 plantas.  Ocorrem  em  variado  número  de  gêneros  e  espécies,  e 
 alimentam-se, exclusivamente, de plantas.
@@ -6661,7 +6661,7 @@ produção e na qualidade de frutos.
 169
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 270
 
 Como  é  o  ciclo  de  vida  do  nematoide­das­galhas,  nas 
@@ -6710,7 +6710,7 @@ identificam a espécie e quantificam a população do nematoide.
 170
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 273
 
 Quais os sintomas dessa doença, no campo?
@@ -6755,7 +6755,7 @@ identificação do agente, pois os sintomas podem falhar ou serem
 171
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 confundidos com outras causas. Contudo, a presença de galhas ou 
 forte nodulação caracteriza o ataque do nematoide.
 
@@ -6800,7 +6800,7 @@ de animais.
 172
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 Além  disso,  mudas  contaminadas  podem  disseminar  o  ne-
 matoide, inclusive, podendo ser responsáveis pelo aparecimento do 
 nematoide em locais distantes de quaisquer outros focos.
@@ -6843,7 +6843,7 @@ orientação técnica, recomendando-se as seguintes medidas:
 173
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 •	 Matéria orgânica.
 •	 Adubação e tratos culturais.
 •	 Resistência varietal.
@@ -6886,7 +6886,7 @@ matam por desidratação.
 174
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 280
 
 Em que situação é praticada a erradicação?
@@ -6929,7 +6929,7 @@ ocasião da renovação do pomar.
 175
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 282
 
 Como  as  plantas­armadilha  atuam  no  controle  do  nema­
@@ -6974,7 +6974,7 @@ spectabilis uma das mais eficientes.
 176
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 285
 
 De que forma a matéria orgânica controla os nematoides?
@@ -7023,7 +7023,7 @@ mais elementos nos tecidos foliares ou nas raízes.
 177
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 Por isso, é aconselhável que, anualmente, o produtor proceda 
 à  análise  do  solo,  para  avaliar  a  infestação  por  nematoides  e  a 
 fertilidade, visando a correção da deficiência nutricional.
@@ -7064,7 +7064,7 @@ avaliados e não controlam o nematoide-das-galhas da goiabeira.
 178
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 289
 
 Existe controle químico recomendado para o nematoide­
@@ -7111,7 +7111,7 @@ os tipos de mudas.
 179
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 292
 
 Que  medidas  devem  ser  tomadas,  quando  ainda  não 
@@ -7161,7 +7161,7 @@ nematoides.
 180
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 •	 Usar máquinas e equipamentos agrícolas desinfestados.
 •	 Adquirir mudas sadias.
 
@@ -7208,7 +7208,7 @@ Nota: a indicação dessa prática ainda requer mais estudos.
 181
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 297
 
 Após a erradicação das plantas doentes, quais as práticas 
@@ -7261,7 +7261,7 @@ desfavorecendo o ataque desses patógenos.
 182
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 300
 
 Quais os efeitos da exposição dos frutos de goiaba ao sol, 
@@ -7311,7 +7311,7 @@ firmes,  são  menos  suscetíveis  a  danos  mecânicos  e  podem  ser
 183
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 conservadas por mais tempo, já que apresentam atividade metabólica 
 relativamente mais lenta.
 
@@ -7356,7 +7356,7 @@ exigências do mercado e da distância em relação
 184
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 305
 
 Quais  as  características  ideais  da  goiaba  destinada  ao 
@@ -7400,7 +7400,7 @@ Nota: o descascamento por abrasão só é usado em frutos muito firmes.
 185
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 308
 
 Quais as variedades de goiaba mais indicadas na produção 
@@ -7443,7 +7443,7 @@ Os principais entraves são:
 186
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 •	 Carência  de  um  volume  constante  e  de  qualidade  para 
 
 exportar.
@@ -7460,9 +7460,9 @@ exportação devem ser as de polpa branca).
 187
 
 
- 500pr_pgnumber187
-
  500pr_pgnumber188
+
+ 500pr_pgnumber189
 16
 
 Manejo da  
@@ -7493,7 +7493,7 @@ Joston Simão de Assis
 Clemente Ribeiro dos Santos
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 312
 
 Qual a importância da análise do solo e da análise foliar 
@@ -7541,7 +7541,7 @@ magnésio),  contribui  para  o  aumento  da  disponibilidade  de  N
 190
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 (nitrogênio), P (fósforo), K (potássio), S (enxofre) e Mo (molibdênio), 
 e melhora a atividade microbiana do solo.
 
@@ -7587,7 +7587,7 @@ que a saturação por bases for inferior a 60%. A época mais indicada
 191
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 é o final da estação chuvosa, pois ainda se verifica umidade suficiente 
 no solo para a reação do corretivo, permitindo a incorporação do 
 calcário. Nos cultivos irrigados das regiões semiáridas, a aplicação 
@@ -7896,7 +7896,7 @@ dormência das gemas florais.
 192
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 314
 
 Quais  os  produtos  que  podem  ser  usados  na  adubação 
@@ -7938,7 +7938,7 @@ manganês e zinco.
 193
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 A necessidade de fornecimento desses micronutrientes depen-
 de  dos  resultados  das  análises  de  solo  e  das  análises  foliares, 
 enquanto  a  correção  das  respectivas  deficiências  pode  ser  feita 
@@ -7974,7 +7974,7 @@ de irrigação localizada, como gotejamento e microaspersão.
 194
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 317
 
 Num pomar de mangueira, quais os principais cuidados 
@@ -8014,7 +8014,7 @@ menores – plantios mais adensados – exigem podas mais rigorosas.
 195
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 319
 
 Quais os principais cuidados que se devem ter durante as 
@@ -8062,7 +8062,7 @@ pomar.
 196
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 322
 
 As podas diminuem a vida útil das plantas?
@@ -8114,7 +8114,7 @@ de paclobutrazol.
 197
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 326
 
 Qual a diferença entre a aplicação foliar do paclobutrazol 
@@ -8162,7 +8162,7 @@ dependerá:
 198
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 •	 Do tamanho da copa da árvore.
 •	 Da época de produção.
 •	 Do vigor da planta.
@@ -8204,7 +8204,7 @@ e de nutrientes para prover a planta no ciclo seguinte.
 199
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 331
 
 Quais os principais cuidados a serem tomados na aplicação 
@@ -8254,7 +8254,7 @@ de arrasta o produto para o solo.
 200
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 Nota:  as  aplicações  devem  ser  repetidas  até  que  50%  das  gemas  tenham  a 
 dormência quebrada.
 
@@ -8300,7 +8300,7 @@ vegetativos.
 201
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 Os coquetéis usados no manejo da indução floral na mangueira 
 são preparados, principalmente, com o etefon, o sulfato de potássio 
 e  um  terceiro  produto,  para  deixar  a  calda  com  pH  que  permita 
@@ -8347,7 +8347,7 @@ tas consti tuam panículas.
 202
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 339
 
 Qual a época mais adequada para se proceder à desfolha, 
@@ -8394,7 +8394,7 @@ conseguir absorver água suficiente para manter a transpiração.
 203
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 342
 
 Em decorrência da necessidade de irrigação, os consórcios 
@@ -8439,7 +8439,7 @@ A quantidade de água a ser aplicada deve ser calculada:
 204
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 344
 
 Quais os métodos mais comuns de propagação da man­
@@ -8485,7 +8485,7 @@ A repicagem dos porta-enxertos para o viveiro deve ser feita
 205
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 348
 
  Atualmente, qual a cultivar de mangueira mais promissora?
@@ -8530,7 +8530,7 @@ problemas  relacionados  ao  surgimento  de  pragas  e  de  doenças.
 206
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 Quando  a  variedade  Haden  estiver  sendo  cultivada,  o  produtor 
 deve associá-la a outra cultivar, para viabilizar a produção.
 
@@ -8575,7 +8575,7 @@ tolerância  ou  suscetibilidade  aos  diversos  patógenos.  A  cultivar
 207
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 Tommy Atkins é considerada resistente à antracnose, doença sem 
 incidência severa na região.
 
@@ -8616,7 +8616,7 @@ produção.
 208
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 355
 
 Com  quantos  anos  os  pomares  de  mangueira  iniciam  a 
@@ -8663,7 +8663,7 @@ o mercado em tais períodos.
 209
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 359
 
 Qual a melhor época para se explorar o mercado externo?
@@ -8704,7 +8704,7 @@ Uma produtividade acima de 25 t/ha pode ser considerada boa.
 210
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 363
 
 Quais  as  principais  pragas  da  mangicultura  irrigada,  no 
@@ -8749,7 +8749,7 @@ ao consumo, à comercialização e à industrialização.
 211
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 366
 
 Como  deve  ser  feito  o  monitoramento  das  moscas­das­
@@ -8798,7 +8798,7 @@ profundidade.
 212
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 Pode-se  fazer  também  o  controle  químico,  que  é  feito  com 
 aspersão de isca tóxica (1 L de hidrolisado de proteína + inseticida 
 +  100  L  de  água).  A  aspersão  é  feita  com  uma  brocha  de  pintar 
@@ -8845,7 +8845,7 @@ novas, panículas florais e frutos) no estádio (fase) de “chumbinho”.
 213
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 Nas folhas novas, ocorrem inúmeras pontuações contendo as 
 larvas em seu interior. Após a saída das larvas, essas pontuações 
 tornam-se  escuras  e  necrosadas,  podendo  ser  confundidas  com 
@@ -8896,7 +8896,7 @@ frutos, podendo ocasionar infestações severas:
 214
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 •	 Secamento de ramos.
 •	 Aparecimento de fumagina.
 •	 Exsudação de látex.
@@ -8939,7 +8939,7 @@ da-mangueira).
 215
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 •	 Mancha-de-alternária.
 •	 Malformação-vegetativa e floral (ou embonecamento).
 •	 Podridões-pedunculares.
@@ -8985,7 +8985,7 @@ de regiões nas quais há ocorrência desse patógeno.
 216
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 A  podridão-texana  é  causada  pelo  fungo  Phymatotrichopsis 
 omnivora (Phymatotrichum omnivorum), que ataca tanto as raízes 
 da  mangueira  como  também  de  outras  2  mil  espécies  vegetais, 
@@ -9035,7 +9035,7 @@ tornando-se massas escuras. Normalmente, as inflorescências mal
 217
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 formadas  não  frutificam,  mas  quando  frutificam,  proporcionam 
 poucos frutos, que, geralmente, caem prematuramente. A doença 
 pode acarretar a perda total da produção em áreas muito infestadas.
@@ -9082,7 +9082,7 @@ beira, maracujazeiro, cajueiro e mamoeiro.
 218
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 O fungo sobrevive em ramos secos e em restos culturais, sendo 
 disseminado tanto pelo vento como por insetos e por ferramentas 
 de poda.
@@ -9125,7 +9125,7 @@ de alguns tratos culturais, como:
 219
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 •	 Desinfestação das ferramentas de poda com água sanitária 
 
 (hipoclorito de sódio) a 2%.
@@ -9172,7 +9172,7 @@ O controle químico deve ser feito na fase de florescimento.
 220
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 388
 
 Quais os sintomas e os danos da antracnose?
@@ -9220,7 +9220,7 @@ alaranjadas no centro das lesões.
 221
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 389
 
 Em quais condições climáticas a antracnose pode causar 
@@ -9269,7 +9269,7 @@ antracnose.
 222
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 391
 
 Quais os sintomas e os danos da mancha­de­alternária?
@@ -9315,7 +9315,7 @@ culares que ocorrem na mangueira.
 223
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 Nas condições irrigadas do Semiárido, o fungo Lasiodiplodia 
 theobromae ou Botryodiplodia theobromae é o mais comum, mas 
 outros fungos, como Dothiorella sp., Alternaria sp. e Aspergillus sp., 
@@ -9364,7 +9364,7 @@ problema.
 224
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 As  podridões-pedunculares  causam  maiores  perdas  quando 
 os frutos são armazenados por longos períodos a baixas temperaturas 
 ou quando amadurecem em temperaturas acima de 28 oC.
@@ -9410,7 +9410,7 @@ manga-espada, manga-coquinho, etc.).
 225
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 Já  as  variedades  monoembriônicas  –  que  geralmente  apre-
 sentam  pouca  fibra  –  como  Kent,  Keitt,  Tommy  Atkins,  Haden  e 
 Palmer são mais suscetíveis a esse problema.
@@ -9457,7 +9457,7 @@ gundo semestre do ano e a ocorrência é maior nos frutos situados
 226
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 na região da copa que recebe os 
 raios de sol do poente (área que 
 recebe maior irradiação solar).
@@ -9505,7 +9505,7 @@ maturação, desencadeando a síntese ou a degradação de co m     postos.
 227
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 402
 
 Quais  as  características  que  definem  o  momento  da 
@@ -9553,7 +9553,7 @@ amarela.
 228
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 Entretanto, deve-se salientar que, mesmo que a produção seja 
 destinada ao mercado nacional, menos exigente quando comparado 
 ao  mercado  externo,  o  momento  da  colheita  não  deve  ser 
@@ -9609,7 +9609,7 @@ tratamentos  hidrotérmicos  permitem  o
 229
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 controle de doenças fúngicas, como a antracnose (imersão a 52 oC 
 durante 5 minutos), e moscas-das-frutas.
 
@@ -9655,7 +9655,7 @@ detergente na sua formulação.
 230
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 Um  neutralizador  de  látex  barato,  que  funciona  satis-
 fatoriamente, é o hidróxido de cálcio, que pode ser adicionado à 
 água de lavagem dos frutos a uma concentração de 0,4%.
@@ -9705,7 +9705,7 @@ Os principais produtos elaborados com manga são:
 231
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 •	 Sucos.
 •	 Néctares.
 •	 Geleias.
@@ -9749,7 +9749,7 @@ Fabricação de geleias – A mais indicada é a variedade Carlota,
 232
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 por  possuir  alguns  atributos  desejados,  como  cor,  aroma,  sabor, 
 rendimento e, sobretudo, elevado teor de sólidos solúveis (°Brix).
 
@@ -9772,9 +9772,9 @@ animal.
 233
 
 
- 500pr_pgnumber233
-
  500pr_pgnumber234
+
+ 500pr_pgnumber235
 17
 
 Manejo da  
@@ -9803,7 +9803,7 @@ José Lincoln Pinheiro Araújo
 Regina Ferro de Melo Nunes
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 414
 
 O que são uvas comuns ou rústicas?
@@ -9849,7 +9849,7 @@ ralmente, a consistência da polpa da baga é carnosa e crocante.
 236
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 416
 
 Quais  as  principais  cultivares  de  uvas  sem  sementes, 
@@ -9899,7 +9899,7 @@ posterior propagação.
 237
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 Seleção clonal – Seleção em que são feitas a identificação, a 
 seleção e a propagação de clones superiores advindos de mutação 
 somática  natural,  ocorrida  em  cultivares  tradicionais  e  hibridações 
@@ -9951,7 +9951,7 @@ uvas  de  mesa  com  sementes  e  uvas  de  vinho  (Vitis  vinifera  L.),
 238
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 enquanto para as cultivares de mesa sem sementes, além de IAC 
 572 e IAC 313, são usados outros porta-enxertos: IAC 766 (Campinas), 
 SO4, 420-A e Harmony.
@@ -9998,7 +9998,7 @@ de estacas em relação ao método de estacas imersas em água, por
 239
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 423
 
 Como  proceder  à  seleção  dos  ramos  para  propagação 
@@ -10046,7 +10046,7 @@ cortadeiras. O monitoramento permanente indicará a necessidade
 240
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 de  tratamentos  químicos  e  nutricionais.  As  mudas  devem  ser 
 mantidas livres de ervas invasoras.
 
@@ -10096,7 +10096,7 @@ principal sistema, por apresentar as seguintes vantagens:
 241
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 •	 Maior produtividade, quando comparada a outros sistemas 
 
 de condução.
@@ -10145,7 +10145,7 @@ das mudas até os 6 ou 8 meses de idade. Geralmente, esse período
 242
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 Poda de produção – A poda de produção tem como principal 
 objetivo  preparar  a  planta  para  a  frutificação,  mantendo-se  uma 
 quantidade  de  gemas  que  permita  obter  colheitas  satisfatórias  e 
@@ -10191,7 +10191,7 @@ brotações laterais vigorosas.
 243
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 É importante, ainda, despontar os brotos laterais, para equilibrar 
 a distribuição dos nutrientes ao longo do braço primário, de modo 
 a  favorecer  o  desenvolvimento  uniforme  de  todas  as  brotações 
@@ -10236,7 +10236,7 @@ daquele adotado para uvas com sementes.
 244
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 Em outras palavras, as cultivares sem sementes como Festival 
 e Thompson Seedless vêm sendo manejadas no Submédio do Vale 
 do São Francisco, em dois ciclos por ano, sendo um destinado à 
@@ -10284,7 +10284,7 @@ devendo ser feita antes da floração.
 245
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 Podem-se  fazer  desfolhas  eventuais,  para  retirar  folhas  com 
 doenças, como míldio e oídio, diminuindo assim a fonte de inóculo 
 da doença. Essas desfolhas devem ser feitas com cautela, para não 
@@ -10328,7 +10328,7 @@ com as concentrações usadas e com a época de aplicação.
 246
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 434
 
 Como aumentar o tamanho dos cachos e das bagas?
@@ -10378,7 +10378,7 @@ causas fisiológicas, como:
 247
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 •	 Carência  de  boro  (fundamental  para  a  viabilidade  da 
 
 fecundação), cálcio (Ca) e zinco (Zn).
@@ -10426,7 +10426,7 @@ ocorrência?
 248
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 •	 Umidade atmosférica relativamente baixa.
 •	 Vento muito forte.
 Quando ocorre o estresse hídrico, é sinal de que o conteúdo 
@@ -10470,7 +10470,7 @@ a maior parte da radiação solar absorvida pelas folhas, o fechamento
 249
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 dos estômatos poderá causar aumento excessivo na temperatura das 
 folhas,  provocando  distúrbios  metabólicos,  como  a  redução 
 progressiva  da  sua  taxa  fotossintética,  além  de  outros  danos 
@@ -10515,7 +10515,7 @@ diferenciação floral.
 250
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 441
 
 O que fazer para induzir a quebra de dormência das gemas 
@@ -10560,7 +10560,7 @@ valores mais elevados sido obtidos de setembro a dezembro, cujos
 251
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 valores podem ser obtidos no site da Embrapa Semiárido2 ou por 
 meio de dados climáticos obtidos em estações meteorológicas.
 
@@ -10636,7 +10636,7 @@ A profundidade média das raízes da videira depende:
 252
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 •	 Da altura do lençol freático.
 •	 Do sistema de irrigação adotado.
 Tem-se constatado, para os porta-enxertos IAC 572, Salt Creek, 
@@ -10677,7 +10677,7 @@ Os elementos essenciais são os seguintes:
 253
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 •	 B (boro).
 •	 Cu (cobre).
 •	 Fe (ferro).
@@ -10746,7 +10746,7 @@ tanto  com  a  quantidade  de  nutrientes  exportados  pela  cultura
 254
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 (nutrientes  retirados  do  solo  para  produção  de  cachos)  no  ciclo 
 anterior, como com a usada para o crescimento das plantas.
 
@@ -10864,7 +10864,7 @@ K2O(1) (kg/ha)
 255
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 448
 
 Na região do Submédio do Vale do São Francisco, quais as 
@@ -10915,7 +10915,7 @@ que foram coletadas.
 256
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 •	 Cultura.
 •	 Cultivar.
 •	 Se o problema está ou não generalizado na área cultivada.
@@ -10960,7 +10960,7 @@ desenvolvimento das plantas e danificar as bagas.
 257
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 454
 
 Como identificar a broca­dos­ramos?
@@ -11006,7 +11006,7 @@ dispersão por serem alados.
 258
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 Podem desenvolver resistência aos diferentes grupos químicos 
 usados  no  seu  controle.  Mas,  também,  dependem  do  nível  de 
 infestação  do  grande  número  de  plantas  hospedeiras  que  se 
@@ -11057,7 +11057,7 @@ ao marrom-escuro, sendo mais encontrado na inflorescência.
 259
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 462
 
 Quais os danos provocados pelos tripes à videira?
@@ -11106,7 +11106,7 @@ capturadas. Por sua vez, a isca deve ser substituída a cada 45 dias.
 260
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 466
 
 Quando se deve fazer controle das moscas­das­frutas?
@@ -11158,7 +11158,7 @@ videira são as seguintes:
 261
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 •	 Queima-bacteriana  (Xanthomonas  ampelina  =  Xylophilus 
 
 ampelinus).
@@ -11205,7 +11205,7 @@ como:
 262
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 •	 Na poda seca.
 •	 Na floração.
 •	 No início da frutificação (fase de chumbinho).
@@ -11251,7 +11251,7 @@ Ocorrem as seguintes formas de disseminação:
 263
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 material propagativo infectado que é usado em enxertia e 
 na formação de mudas.
 
@@ -11300,7 +11300,7 @@ também pode infectar as cultivares Brasil, Patrícia, Benitaka e Ribier.
 264
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 478
 
 Em quais Unidades da Federação o cancro­bacteriano já 
@@ -11347,7 +11347,7 @@ alternativos dessa bactéria.
 265
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 481
 
 Quais as medidas preventivas recomendadas para evitar a 
@@ -11397,7 +11397,7 @@ assim como a ocorrência de infecção.
 266
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 483
 
 Quais os produtos recomendados no controle ao cancro­
@@ -11447,7 +11447,7 @@ cultivares  destinadas  ao  consumo  in  natura,  usando-se  “chapéu-
 267
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 chinês”,  uma  espécie  de  cone  feito 
 com  papel-manilha,  com  TNT 
 (tecido não tecido) ou com saco de 
@@ -11487,7 +11487,7 @@ a videira como suporte.
 268
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 489
 
 Quais os principais problemas observados na conservação 
@@ -11535,7 +11535,7 @@ a operação de resfriamento dos cachos.
 269
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 491
 
 Qual  a  importância  do  resfriamento  rápido  para  a  con­
@@ -11575,7 +11575,7 @@ de Botrytis cinerea.
 270
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 493
 
 Existem  diferenças  técnicas  entre  as  uvas  destinadas 
@@ -11621,7 +11621,7 @@ quais preferem frutas mais doces e menos ácidas.
 271
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 494
 
 Que produtos podem ser obtidos a partir da uva?
@@ -11666,7 +11666,7 @@ de uvas-passas. Entretanto, as mais indicadas são as cultivares sem
 272
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 sementes, como Thompson Seedless e Superior Seedless (Festival 
 ou Sugraone).
 
@@ -11706,7 +11706,7 @@ contemplando a minimização dos impactos ambientais.
 273
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 500
 
 Quais  os  meses  mais  favoráveis  para  se  exportar  a  uva 
@@ -11736,43 +11736,4 @@ SOUSA,  J.  S.  I.  de.  Uvas  para  o  Brasil.  2.  ed.  rev.  atual.  Piracica
 
 274
 
-
- 500pr_pgnumber274
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000008
-
-•••
-
-
- 500pr_pgnumber275
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber276
-
- 500pr_pgnumber277
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-O papel utilizado nesta publicação foi produzido conforme 
-
-a certificação da Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber278
 

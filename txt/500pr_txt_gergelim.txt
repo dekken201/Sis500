@@ -1,15 +1,5 @@
 
- 500pr_pgnumber017
-1
-
-Origem e Evolução
-
-Nair Helena Castro Arriel
-
-Napoleão Esberard de Macêdo Beltrão
-
-
- 500pr_pgnumber018
+ 500pr_pgnumber019
 1
 
 Qual é o local de origem do gergelim?
@@ -56,7 +46,7 @@ genéticos e botânicos reforçados por marcadores moleculares, está
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 estabelecido  que  o  gergelim  foi  domesticado  no  subcontinente
 indiano e em seguida, levado para a região da Mesopotâmia.
 
@@ -102,7 +92,7 @@ Birmânia  e  Assam,  há  o  centro  básico  de  origem  de  variedades
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 cultivadas e, na China, o centro secundário, em cujas regiões do
 centro e oeste se encontram grupos endêmicos de variedades anãs.
 
@@ -149,7 +139,7 @@ usados  no  desenvolvimento  de  novas  cultivares.  A  formação  e
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 manutenção de um Banco de Germoplasma se constituem na etapa
 inicial para dar suporte a um programa de melhoramento genético.
 
@@ -196,7 +186,7 @@ mento e enriquecimento do BAG.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 14
 
 Qual  é  a  importância  dos  resultados  de  avaliação  dos
@@ -253,7 +243,7 @@ www.cenargen.embrapa.br).
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 16
 
 Onde se localiza a coleção
@@ -299,7 +289,7 @@ habitat),  na  forma  de  sementes,  acondicionadas  em  embalagens
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 herméticas  e  armazenadas  em  câmaras  frias,  geralmente  com
 temperatura de -20 °C e umidade relativa do ar em torno de 40 %.
 Esse tipo de conservação permite o armazenamento de sementes
@@ -343,7 +333,7 @@ agronômicas, levando-se em consideração:
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 • Posição, formato e tamanho das folhas.
 • Cor e pigmentação da corola.
 • Comprimento e formato dos frutos.
@@ -385,7 +375,7 @@ duplicação de acessos mantidos no BAG de gergelim.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 22
 
 De que forma os resultados de pesquisa obtidos no BAG
@@ -401,7 +391,7 @@ características de interesse no melhoramento da cultura do gergelim.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 2
 
 Taxonomia,
@@ -416,7 +406,7 @@ Rosiane de Lourdes Silva de Lima
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 23
 
 Qual é a classificação taxonômica do gergelim cultivado?
@@ -464,7 +454,7 @@ mucronada (ápice de ponta curta e dura) alongada pilosa deiscente
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 de comprimento, dependendo da variedade. A cor das sementes varia
 do  branco  ao  preto.  As  sementes  são  pequenas;  1.000  sementes
 pesam entre 2 g e 4 g, dependendo da cultivar e do ambiente.
@@ -514,7 +504,7 @@ Das espécies até hoje conhecidas, a S. indicum L. (S. orientale)
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 parcialmente cultivadas são S. auriculatum, em Creta, S. radiatum,
 em Alta Guiné, S. prostratum e S. indicatum, na Índia, S. malabaricum
 e S. occidentalis, na África e na Índia, S. laciniatum, na Índia, S.
@@ -560,7 +550,7 @@ laciniatum e S. prostratum, 2n=2x=32,
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 e  para  S.  radiatum,  S.  occidentale,  S.  Schinzianum,  2n=2x=64.
 Portanto, existem espécies e/ou variedades de gergelim diploides
 (2n=2x)  com  o  número  básico  (x)  de  cromossomos  igual  a  13
@@ -609,7 +599,7 @@ desenvolvimento de novas variedades, uma vez que de cruzamentos
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 de parentais geneticamente diferentes são desenvolvidas populações
 com variabilidade genética, para aplicação de métodos apropriados
 de  avaliação  e  seleção  de  características  superiores.  Porém,
@@ -655,7 +645,7 @@ frequente alogamia) e alógamas. Apesar de ser considerado uma
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 espécie predominantemente autógama (autofecundação), o gergelim
 pode  apresentar  taxa  de  alogamia  (fecundação  entre  plantas  ou
 polinização  cruzada)  variando  entre  3,0  %  e  6,7  %.  Porém,  em
@@ -700,7 +690,7 @@ perfurações externas na base da corola ou penetrando no interior da
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 flor.  O  pólen  coletado  pelas  abelhas  nas  anteras  das  flores  é
 transportado para outra flor nas patas e regiões do abdômen ou do
 tórax.  Em  estudos  conduzidos  em  caixas  teladas,  o  cruzamento
@@ -743,7 +733,7 @@ lojas. Cada carpelo tem duas cavidades.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 45
 
 É fácil a realização de polinização artificial no gergelim?
@@ -789,7 +779,7 @@ tubo da corola nunca se abre completamente.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 48
 
 Quanto tempo leva para ocorrer a abertura das flores e
@@ -837,7 +827,7 @@ do gergelim.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 52
 
 O padrão de florescimento do gergelim é o mesmo tanto
@@ -885,7 +875,7 @@ possui pelo menos três formas diferentes de folhas: as inferiores, que
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 são ovais, as medianas, que
 são estreitas, e as superiores,
 que são lanceoladas e ainda
@@ -930,7 +920,7 @@ pesam entre 2,0 g e 3,0 g), tem muita energia, cerca de 560 cal/100 g.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 3 Melhoramento  Genético
 
 Nair Helena Castro Arriel
@@ -942,7 +932,7 @@ Francisco Pereira de Andrade
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 58
 
 Quando  se  iniciaram  as  pesquisas  de  melhoramento
@@ -989,7 +979,7 @@ recomendavam o incentivo a essa cultura na Região Nordeste.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 61
 
 Qual foi o objetivo principal de se estruturar a pesquisa com
@@ -1034,7 +1024,7 @@ disponível. Na comparação dos tipos exóticos e locais, as cultivares
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 introduzidas  dos  Estados  Unidos  apresentavam  ciclo  de  90  dias,
 enquanto os tipos locais amadureciam aos 120 dias.
 
@@ -1079,7 +1069,7 @@ de Tecnología Agropecuária da Argentina (Inta).
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 66
 
 Qual é a importância da Embrapa no desenvolvimento da
@@ -1125,7 +1115,7 @@ características podem ser reunidas em um só genótipo.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 69
 
 O  trabalho  do  melhoramento  genético  finaliza  com  a
@@ -1172,7 +1162,7 @@ considerada um método de melhoramento.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 72
 
 Existem  outras  instituições  de  pesquisa  desenvolvendo
@@ -1230,7 +1220,7 @@ instituições  (empresas  de  pesquisa,  universidades,  cooperativas,
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 associações  de  produtores  rurais),  desenvolveu  e/ou  vem
 desenvolvendo projetos de pesquisas para o fomento da cultura nos
 seguintes estados:
@@ -1281,7 +1271,7 @@ escala  tem  demandado  a  obtenção  de  genótipos  adaptados  a
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 diferentes sistemas de cultivos. Em função disso, ações de pesquisas
 vêm sendo conduzidas a partir de uma rede de ensaios para avaliação
 de linhagens e cultivares de gergelim em diferentes localidades do
@@ -1321,7 +1311,7 @@ processos de industrialização de novos produtos, aplicações, etc.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 78
 
 Quais  são  as  perspectivas  futuras  dos  trabalhos  de  me-
@@ -1339,7 +1329,7 @@ germoplasma ou por hibridação.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 4 Cultivares
 
 Nair Helena Castro Arriel
@@ -1355,7 +1345,7 @@ Francisco Pereira de Andrade
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 79
 
 O que é uma cultivar?
@@ -1402,7 +1392,7 @@ e com muita ramificação). Há registros na literatura de 118 tipos de
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 gergelim,  cada  um  com  inúmeras  cultivares.  Nas  chaves  para
 identificação dos tipos, leva-se em consideração o número de flores
 por axila, cor e textura do tegumento das sementes, cor e pelos da
@@ -1446,7 +1436,7 @@ provoca prejuízos, como a proliferação de doenças e depreciação
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 comercial  dos  produtos,  além  da  perda  de  produtividade  e
 uniformidade.
 
@@ -1491,7 +1481,7 @@ características agronômicas são: porte
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 alto (até 180 cm), ciclo tardio (130–140 dias) e hábito de crescimento
 ramificado. Apresenta um fruto por axila com sementes de coloração
 creme e cinza, possui suscetibilidade às doenças mancha-angular,
@@ -1535,7 +1525,7 @@ doença da cultura.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 91
 
 Quais são as características da Cultivar BRS 196 (CNPA G4)?
@@ -1581,7 +1571,7 @@ e é recomendada para as regiões Nordeste, Sudeste e Centro-Oeste.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 94
 
 Por  que  uma  cultivar  é  considerada  resistente  a  uma
@@ -1629,9 +1619,9 @@ sementes de coloração preta para futuro lançamento como cultivar.
 55
 
 
- 500pr_pgnumber056
-
  500pr_pgnumber057
+
+ 500pr_pgnumber058
 5 Clima
 
 Napoleão Esberard de Macêdo Beltrão
@@ -1641,7 +1631,7 @@ Nair Helena Castro Arriel
 Rosiane de Lourdes Silva de Lima
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 97
 
 O clima exerce influência sobre o cultivo do gergelim?
@@ -1683,7 +1673,7 @@ das sementes.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 101
 
 Qual é a temperatura média ideal para o crescimento da
@@ -1733,7 +1723,7 @@ produtores  de  gergelim  caracteriza-se  por  apresentar  baixa
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 variabilidade espacial e temporal, com valores superiores a 20 °C no
 período chuvoso, e amplitude térmica constante ao longo do ano.
 A  média  anual  varia  entre  23,1  °C  e  26,4  °C,  as  máximas  entre
@@ -1780,7 +1770,7 @@ grandes os prejuízos, incluindo até a morte da cultura.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 109
 
 Chuvas intensas são prejudiciais ao gergelim?
@@ -1825,7 +1815,7 @@ normalidade. As cultivares de hábito de crescimento ramificado e
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 de ciclo médio apresentam, geralmente, maior estabilidade e maior
 adaptabilidade em locais com problemas de deficiência de umidade
 no solo.
@@ -1868,7 +1858,7 @@ altura da planta e do número de frutos por planta.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 115
 
 É  possível  cultivar  o  gergelim  somente  com  a  umidade
@@ -1917,7 +1907,7 @@ existindo uma correlação positiva entre o número de horas de brilho
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 solar  e  o  tempo  de  florescimento  das  plantas.  Assim,  existem
 cultivares, de dias curtos, requerendo menos de 12 horas de luz diária
 para florescer, e cultivares de dias longos, requerendo mais de 12
@@ -1959,7 +1949,7 @@ precipitação.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 122
 
 Qual  é  a  importância  da  umidade  relativa  do  ar  no
@@ -2004,7 +1994,7 @@ de gergelim.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 125
 
 Considerando-se  os  elementos  climáticos  descritos
@@ -2050,7 +2040,7 @@ implantação de quebra-ventos.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 128
 
 Qual é o principal elemento climático a ser considerado para
@@ -2095,7 +2085,7 @@ luminosidade (80 % a 100 % do máximo, o que equivale a um valor
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 que varia de 80.000 lux a 110.000 lux) e temperatura alta, superior a
 30  °C.  O  gergelim,  por  ter  pronunciada  heterofilia  e  hábito  de
 crescimento  geralmente  ramificado,  apresenta  crescimento
@@ -2121,7 +2111,7 @@ podem alterar o padrão de crescimento e produção da planta.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 6 Solo, Calagem
 
 e Adubação
@@ -2133,7 +2123,7 @@ Napoleão Esberard de Macêdo Beltrão
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 132
 
 Quais as condições de solo mais adequadas para o plantio
@@ -2181,7 +2171,7 @@ metabolismo das plantas.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 No caso de solos ácidos, deve-se fazer a calagem pelo menos
 2 meses antes do plantio e na quantidade recomendada em função
 da análise do solo, tomando como base os seguintes elementos: pH,
@@ -2231,7 +2221,7 @@ Deve-se coletar amostras da camada arável do solo de 0 cm a
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 dações  de  adubação,  evidenciando  sempre  as  relações  de  custo-
 benefício que poderão ser obtidas com a prática da adubação orgânica.
 
@@ -2276,7 +2266,7 @@ relação  à  casualização  dos  pontos  da  área  a  ser  amostrada,  a
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 profundidade  de  amostragem,  ao  recipiente  usado  para  enviar  a
 amostra  ao  laboratório,  ao  número  mínimo  de  amostras  simples
 a serem tomadas e à frequência de amostragem. Em princípio, a
@@ -2318,7 +2308,7 @@ corretivos, o que lhes confere diferentes poderes de neutralização.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 144
 
 Que métodos são usados para se determinar a necessidade
@@ -2370,7 +2360,7 @@ A eficiência do poder relativo de neutralização total do calcário
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 neutralização  (PN),  que  depende  das  quantidades  relativas  de
 CaCO3, MgCO3, CaO, MgO e outros constituintes do calcário, e o
 CaCO3 tem índice de neutralização igual a 1, e o maior índice é o
@@ -2412,7 +2402,7 @@ PRNT = poder relativo de neutralização total do calcário.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 148
 
 Qual tipo de corretivo ideal a ser aplicado para corrigir a
@@ -2459,7 +2449,7 @@ feitas para manter o pH do solo na faixa desejada. A melhor maneira
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 de determinar a necessidade de uma nova calagem é por meio de
 uma nova análise do solo.
 
@@ -2509,7 +2499,7 @@ em  suas  sementes  –  que  são  substâncias  de  elevado  conteúdo
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 energético  –,  a  planta  gasta  muita  energia  para  fabricá-los,
 demandando  grande  quantidade  de  nitrogênio  (N),  fósforo  (P)  e
 enxofre (S) para a síntese de proteínas e de óleo em suas sementes.
@@ -2552,7 +2542,7 @@ nutricional,  usando-se  como  indicadores  folhas  normais  em
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 comparação com folhas apresentando sintomas, tem-se observado
 que o nitrogênio e o potássio são os mais absorvidos.
 
@@ -2599,7 +2589,7 @@ folhas mais velhas onduladas e encarquilhadas para cima. Além disso,
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 as folhas apresentam inicialmente clorose mosqueada alaranjada,
 que se torna acobreada com a severidade da deficiência. Não se
 observa queda de folhas.
@@ -2644,7 +2634,7 @@ planta; a planta diminui seu ciclo de vida e sua produtividade.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 166
 
 Quais são os adubos orgânicos mais utilizados para a cultura
@@ -2689,7 +2679,7 @@ absorção.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 169
 
 Que micronutriente quando em quantidades elevadas reduz
@@ -2717,7 +2707,7 @@ distribuir o adubo em sulcos, a uns 10 cm a 20 cm da planta.
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 7
 
 Sistemas de Cultivo
@@ -2732,7 +2722,7 @@ Rosiane de Lourdes Silva de Lima
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 171
 
 Qual o sistema de cultivo mais usado pelos produtores do
@@ -2779,7 +2769,7 @@ as plantas de porte mais elevado para o aproveitamento da madeira e,
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 em  seguida,  procede-se  à  derrubada  da  vegetação  remanescente,
 utilizando-se tratores ou meios manuais. O fogo é recomendado apenas
 nas coivaras; depois de  serem  queimadas,  suas  cinzas  devem  ser
@@ -2823,7 +2813,7 @@ tipo de solo, de preferência com arado de aiveca.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 178
 
 Como deve ser preparado o solo úmido nas nossas condições
@@ -2870,7 +2860,7 @@ de  água,  grau  de  compactação  e  nível  de  controle  de  plantas
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 daninhas. O uso de grade aradora isoladamente – evento já bastante
 comum no nosso país – é bastante prejudicial ao solo, pois o perfil
 preparado é muito superficial (10 cm a 15 cm de profundidade), o
@@ -2915,7 +2905,7 @@ de agregados, porosidade do solo e controle de plantas daninhas.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 A umidade estará muito alta se a desagregação for difícil, ou seja, se
 a terra ficar aderida entre os dedos, isso dificulta sua retirada.
 
@@ -2961,7 +2951,7 @@ verde, e que permitam o cultivo do gergelim sem a necessidade de
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 revolver o solo, e ainda o uso de herbicidas para o controle de plantas
 competidoras.  No  Brasil,  essa  prática  ainda  não  é  usada  com  o
 gergelim.
@@ -3010,7 +3000,7 @@ maioria das cultivares de gergelim em uso apresenta deiscência dos
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 frutos,  ou  seja,  estes  se  abrem  após  a  maturação  completa.
 A incidência de chuvas e elevada umidade relativa do ar na colheita
 pode tornar as sementes enegrecidas, com coloração fora do padrão
@@ -3056,7 +3046,7 @@ por cova. Em sulcos, deve-se distribuir em torno de 30 sementes por metro.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 196
 
 Que espaçamentos são recomendados para o gergelim?
@@ -3103,7 +3093,7 @@ produção por planta.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 200
 
 Podem ser usadas outras configurações de plantio?
@@ -3155,7 +3145,7 @@ densidade populacional pretendida.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 205
 
 Qual é o número ideal de plantas por hectare?
@@ -3200,7 +3190,7 @@ excedentes.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 208
 
 Quando deve ser realizado o desbaste ou raleamento?
@@ -3248,7 +3238,7 @@ quilos de fertilizantes nitrogenados por hectare.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 212
 
 O sistema de cultivo em consórcio é usado com o gergelim?
@@ -3294,7 +3284,7 @@ permite o aproveitamento de resíduos de fertilizantes, concorre para
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 reduzir  a  sazonalidade  da  mão  de  obra,  reduz  os  custos  de
 implantação das culturas consorciadas, aumenta o nível de matéria
 orgânica e a atividade biológica do solo, protege o solo da radiação
@@ -3337,7 +3327,7 @@ monetárias – ocorreram quando o gergelim foi semeado entre 15 e
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 216
 
 O gergelim é tolerante ao encharcamento do solo?
@@ -3382,7 +3372,7 @@ número de ramos por planta, número de cápsulas por planta, número
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 de sementes por cápsula, peso da casca da semente e produção total
 de fitomassa, além da população de plantas.
 
@@ -3425,7 +3415,7 @@ pequena,  usa-se  o  peso  de  1.000  sementes  (3,0  g  em  média).
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 Por exemplo: num espaçamento de 1,0 m x 0,20 m, a população
 máxima será de 50.000 plantas/ha. Considerando que cada fruto
 contém em média 80 sementes e que cada planta produz em torno
@@ -3466,7 +3456,7 @@ processo de colheita.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 224
 
 Quais são as medidas essenciais que o produtor deve tomar
@@ -3480,7 +3470,7 @@ adequados.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 8
 
 Controle de
@@ -3491,7 +3481,7 @@ Napoleão Esberard de Macêdo Beltrão
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 225
 
 O que é necessário fazer para que o controle de plantas
@@ -3535,7 +3525,7 @@ crescimento, etc.) e outros.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 228
 
 Qual é o processo mais utilizado no combate às plantas
@@ -3583,7 +3573,7 @@ de preferência, realizada com o solo próximo ao ponto de friabilidade.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 232
 
 Em geral, quantas limpas são necessárias durante um ciclo
@@ -3630,7 +3620,7 @@ em  pré-emergência  e  foram  eficientes  no  controle  de  plantas
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 daninhas. O produtor deve preparar a área, plantar em solo úmido
 e, logo depois, aplicar o herbicida. Em solo Bruno Não Cálcico de
 textura  franco-arenosa,  as  dosagens  de  0,50  kg  mais  0,75  kg  do
@@ -3673,7 +3663,7 @@ se ter o cuidado para a terra cobrir bem as sementes e para que elas
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 não  fiquem  muito  na  superfície,  como  1  cm  a  1,5  cm,  pois
 dependendo  das  características  químicas  e  físicas  do  herbicida,
 poderá haver lixiviação e, assim, o produto poderá entrar em contato
@@ -3682,7 +3672,7 @@ com as sementes do gergelim e danificá-las.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 9 Mecanização
 
 Odilon Reny Ribeiro Ferreira Silva
@@ -3692,7 +3682,7 @@ Nair Helena Castro Arriel
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 238
 
 Quais são as recomendações para se semear manualmente
@@ -3739,7 +3729,7 @@ uma espécie de tampa. Para montar a plantadora, basta encaixar a
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 lata na fenda da madeira de forma que o furo coincida com a fenda
 e amarrá-la com a liga de borracha.
 
@@ -3788,7 +3778,7 @@ PVC.  Este  é  colocado  sobre  um  chassi
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 dotado  de  uma  roda  de  bicicleta  aro  16",  na  parte  dianteira,  de
 sulcador tipo facão, cobridor de sementes, roda compactadora e
 rabiças. A semeadora aproveita o movimento da roda para acionar o
@@ -3836,7 +3826,7 @@ adequado para a semeadura de sementes pequenas e sensíveis (como
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 é o caso do gergelim), que podem sofrer danos durante a distribuição,
 seleção e controle da vazão.
 
@@ -3881,7 +3871,7 @@ adubadora manual.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 254
 
 Como  funciona  a  semeadora  de  operação  manual,
@@ -3932,7 +3922,7 @@ dependendo da cultura, apresenta uma série de furos para acomodar
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 a semente ou grupo de sementes e conduzi-las a uma roda defletora,
 que retira o excesso, para logo caírem no sulco de plantio. A correia
 se  movimenta  em  sentido  contrário  ao  do  deslocamento  da
@@ -3980,7 +3970,7 @@ satisfatório.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 263
 
 Qual é o pulverizador mais adequado para o produtor?
@@ -4023,7 +4013,7 @@ circular.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 267
 
 Existem máquinas tratorizadas que poderão ser utilizadas
@@ -4071,7 +4061,7 @@ manual  das  plantas  para  formação  dos
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 feixes e medas para secarem ao sol, e quando as plantas estiverem
 secas, utiliza-se a máquina para coleta dos feixes e posterior extração
 e limpeza das sementes.
@@ -4093,7 +4083,7 @@ quanto à frequência de vibração, à distribuição do vento e à abertura.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 10 Irrigação
 
 José Renato Cortez Bezerra
@@ -4102,7 +4092,7 @@ Nair Helena Castro Arriel
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 272
 
 Qual  é  o  método  de  irrigação  ideal  para  o  cultivo  do
@@ -4148,7 +4138,7 @@ desenvolvimento ou mesmo morte das plantas em situações de altos
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 teores de sais. Concentrações salinas que têm pouco ou nenhum
 efeito sobre a cultura do algodão ou do girassol, por exemplo, podem
 ser fatais para a cultura do gergelim.
@@ -4192,7 +4182,7 @@ um bom planejamento e correto manejo para seu uso agrícola.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 279
 
 A  quantidade  de  água  necessária  para  uma  boa  produ-
@@ -4241,7 +4231,7 @@ de forma a umedecer esse perfil do solo.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 282283
 
 Com relação ao manejo da irrigação, em que consiste o
@@ -4289,7 +4279,7 @@ apresentam baixa capacidade de retenção de água.
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 282287
 
 Quais são os aspectos agronômicos básicos a serem levados
@@ -4332,7 +4322,7 @@ permeabilidade dentro do perfil.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 282290
 
 Qual é a ferramenta mais utilizada para calcular a velocidade
@@ -4348,9 +4338,9 @@ cilindro infiltrômetro para determinar a velocidade de infiltração.
 123
 
 
- 500pr_pgnumber124
-
  500pr_pgnumber125
+
+ 500pr_pgnumber126
 11 Pragas
 
 José Janduí Soares
@@ -4358,7 +4348,7 @@ José Janduí Soares
 Nair Helena Castro Arriel
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 291
 
 A planta de gergelim é atacada por insetos?
@@ -4403,7 +4393,7 @@ modo a manter o equilíbrio ecológico.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 294
 
 A ocorrência de pragas em gergelim é influenciada pelo
@@ -4453,7 +4443,7 @@ custo  podem  evitar  grande  parte  dos  problemas  verificados.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 Elas incluem o conhecimento das pragas na região, a escolha de
 cultivares precoces para reduzir o número de gerações do inseto por
 ciclo de cultivo e a escolha da época de plantio mais favorável, de
@@ -4498,7 +4488,7 @@ programas de melhoramento.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 282302
 
 O controle químico é muito usado em lavouras comerciais?
@@ -4543,7 +4533,7 @@ cigarrinha-verde e mosca-branca.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 282306
 
 Qual é a importância dessas pragas na cultura?
@@ -4588,7 +4578,7 @@ lagarta.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 282309
 
 O que fazer numa lavoura atacada pela lagarta-enroladeira?
@@ -4631,7 +4621,7 @@ influindo negativamente na produção.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 282312
 
 Qual é o dano indireto provocado pela mosca-branca?
@@ -4677,7 +4667,7 @@ culturas conduzidas sob irrigação e/ou em consórcio com algodoeiro.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 282316
 
 Quais são os sintomas de ataque dos pulgões no gergelim?
@@ -4722,7 +4712,7 @@ cigarrinha-verde (Empoasca sp.). As cigarrinhas são insetos sugadores
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 que se alimentam das folhas, sugando a seiva e inoculando toxinas
 que comprometem o desenvolvimento da planta e sua produção.
 As plantas atacadas apresentam-se verde-amareladas, com as bordas
@@ -4767,7 +4757,7 @@ desenvolvimento.  O  controle  químico  por  meio  de  iscas  tóxicas
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 granuladas é muito utilizado, mas só é eficiente para determinadas
 espécies e deve ser evitado em dias chuvosos e em solos úmidos. As
 iscas devem ser distribuídas em porções ou dentro de porta-iscas, ao
@@ -4812,7 +4802,7 @@ Filho  e  Alberto  Dorval  da  Faculdade  de  Engenharia  Florestal  da
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 Universidade  Federal  de  Mato  Grosso,  observou-se  que  iscas
 granuladas à base de farinhas de folhas de gergelim numa proporção
 de 15 % apresentam-se como alternativa de controle de Atta sexdans
@@ -4823,7 +4813,7 @@ necessário para atingir o nível máximo de controle.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 12 Doenças
 
 Nair Helena Castro Arriel
@@ -4831,7 +4821,7 @@ Nair Helena Castro Arriel
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 282323
 
 O gergelim é afetado por doenças?
@@ -4878,7 +4868,7 @@ presença de manchas arredondadas, mais ou menos regulares, com
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 o centro de coloração cinza-claro a esbranquiçado e bordas marrons;
 nos caules e pecíolos, as lesões são largas e elípticas, chegando a
 formar  cancros  com  áreas  necrosadas  e  deprimidas.  Quando  a
@@ -4924,7 +4914,7 @@ preventivas com fungicidas que tenham como ingrediente ativo o
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 sulfato de cobre, quando as plantas atingirem a altura de 25 cm a
 30 cm, tem proporcionado controle eficiente dessa doença.
 
@@ -4964,7 +4954,7 @@ induzindo à desfolha nessa região.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 282333
 
 A  mancha-angular  também  pode  ser  transmitida  via
@@ -5012,7 +5002,7 @@ utilização de cultivares resistentes. No cultivo em áreas de baixa
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 umidade relativa (< 60 %) e altas temperaturas (> 28 °C), os danos
 foliares são mínimos.
 
@@ -5058,7 +5048,7 @@ longitudinalmente, podendo alcançar o broto terminal da planta.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 Em plantas adultas, à medida que o dano avança, ramos, cápsulas e
 folhas secam. As plantas afetadas murcham e morrem. Nos tecidos
 necrosados, podem ser observadas várias pontuações negras, que
@@ -5101,7 +5091,7 @@ severidade e ocasionando prejuízos à cultura.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 282343
 
 Que  fatores  favorecem  o  desenvolvimento  da  podridão-
@@ -5146,7 +5136,7 @@ visa a reduzir a densidade de inóculo do patógeno no solo.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 282346
 
 Existem cultivares resistentes à podridão-negra-do-caule?
@@ -5193,7 +5183,7 @@ enegrecimento dos tecidos do sistema vascular.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 Quando o fungo se estabelece nos vasos do xilema, ele passa
 a secretar enzimas pectolíticas que atuam sobre substâncias pécticas
 dos  tecidos  vasculares,  ocorrendo  a  produção  de  melaninas  de
@@ -5241,7 +5231,7 @@ pobres em nitrogênio e fósforo, alto conteúdo de potássio e pH entre
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 282354
 
 Em que locais essa doença ocorre com mais frequência?
@@ -5289,7 +5279,7 @@ panhadas de vento e é transmitida através da semente. Pode sobreviver
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 em restos de cultura de plantas infectadas e persiste no solo durante
 4 a 6 meses. Em solos com alto teor de nitrogênio, tem-se verificado
 maior severidade da doença.
@@ -5331,7 +5321,7 @@ transmitido através da semente.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 282361
 
 Que medidas de controle podem ser adotadas para evitar a
@@ -5373,7 +5363,7 @@ evitar a eliminação dos inimigos naturais.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 282364
 
 Existem outros agentes causadores de doenças no gergelim?
@@ -5421,7 +5411,7 @@ saltadores e sugadores que se alimentam do floema ou do xilema.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 Existem  quatro  famílias  da  subordem  homóptera:  Cicadellidae,
 Cercopidae,  Fulgoridae  e  Psyllidae.  No  gergelim,  as  cigarrinhas-
 verdes,  comuns  em  plantios  de  gergelim,  são  relatadas  como  os
@@ -5450,9 +5440,9 @@ ainda, de cultivares de gergelim resistentes a essa moléstia.
 151
 
 
- 500pr_pgnumber152
-
  500pr_pgnumber153
+
+ 500pr_pgnumber154
 13 Colheita e
 
 Beneficiamento
@@ -5462,7 +5452,7 @@ Nair Helena Castro Arriel
 Napoleão Esberard de Macêdo Beltrão
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 282370
 
 Qual é o ciclo completo do gergelim?
@@ -5506,7 +5496,7 @@ dias, enquanto os frutos ainda se encontram fechados.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 282374
 
 Como se procede a colheita manual na cultura do gergelim?
@@ -5551,7 +5541,7 @@ se as sementes e faz-se sua limpeza
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 com uma peneira de malha fina, agitando-a com movimentos verticais
 para que o vento natural ou provocado por ventiladores retire as
 impurezas contidas. Em seguida ao processo de limpeza manual, as
@@ -5594,7 +5584,7 @@ semeadura. É mais aconselhável, para a Região Nordeste, realizar o
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 expurgo ou fumigação (fosfina), que elimina os insetos presentes na
 massa de sementes em diversas fases de seu ciclo evolutivo, desde o
 ovo até a fase adulta.
@@ -5617,9 +5607,9 @@ um período de 6 meses sem prejuízo de sua germinação.
 157
 
 
- 500pr_pgnumber158
-
  500pr_pgnumber159
+
+ 500pr_pgnumber160
 14 Produção
 
 de Sementes
@@ -5631,7 +5621,7 @@ Tarcísio Marcos de Souza Gondim
 Rosiane de Lourdes Silva de Lima
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 282381
 
 Quais  são  o  objetivo  e  a  importância  da  produção  de
@@ -5672,7 +5662,7 @@ isolamento e roguing.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 282384
 
 Qual é a faixa de isolamento mínima, com e sem barreiras
@@ -5717,7 +5707,7 @@ comercialização.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 282387
 
 Como deve ser o processo das embalagens das sementes
@@ -5759,7 +5749,7 @@ insetos e microrganismos.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 282390
 
 Que  cuidados  devem  ser  tomados  para  uma  boa  con-
@@ -5805,7 +5795,7 @@ distribuição geral.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 282394
 
 Quando se considera uma semente como certificada?
@@ -5853,7 +5843,7 @@ sementes silvestres e material inerte.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 282399
 
 Qual é o teste-padrão para determinação de umidade de
@@ -5896,7 +5886,7 @@ germinador e a segunda, no sexto dia.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 282401
 
 Como se realiza o teste de vigor?
@@ -5942,7 +5932,7 @@ tamanho e alterar o formato da semente, facilitando o seu plantio
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 direto em campo. No caso do gergelim, a semente passa da forma
 achatada para a redonda, ficando uma semente em cada unidade
 revestida, o que permite o plantio de precisão (uma semente por
@@ -5994,9 +5984,9 @@ semeadora à tração animal ou à tração mecânica.
 167
 
 
- 500pr_pgnumber168
-
  500pr_pgnumber169
+
+ 500pr_pgnumber170
 15 Agroindustrialização
 
 Paulo de Tarso Firmino
@@ -6005,7 +5995,7 @@ Nair Helena Castro Arriel
 Ayicê Chaves Silva
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 282406
 
 Quais  são  os  principais  componentes  nutricionais  das
@@ -6066,7 +6056,7 @@ e aumentar a probabilidade de se desenvolver o mal de Parkinson.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 Já a vitamina B1, também conhecida como tiamina, é importante
 para o bom funcionamento do sistema nervoso, dos músculos e do
 coração, e melhora o raciocínio, entre outros efeitos benéficos. Sua
@@ -6115,7 +6105,7 @@ oleico (C18:1) é insaturado.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 O linoleico (C18:2) é essencial para o organismo humano e
 ajuda  a  preservar  o  ácido  graxo  oleico  (ômega-9),  que  garante
 estabilidade  e  preservação  do  óleo  e  de  suas  propriedades
@@ -6162,7 +6152,7 @@ responsáveis pela formação das proteínas. Além de construir células
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 e consertar os tecidos, eles formam anticorpos para combater as
 bactérias e vírus que invadem o organismo. Na natureza já foram
 descobertos aproximadamente 500 tipos de aminoácidos, mas só
@@ -6202,7 +6192,7 @@ Isso se dá pois muitos dos nutrientes localizam-se na casca.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 282414
 
 Qual  é  o  valor  de  calorias  encontrado  na  semente  de
@@ -6246,7 +6236,7 @@ desenvolvimento,  na  manutenção  e  em  outras  funções  normais,
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 possuindo  uma  ou  mais  funções-alvo  no  organismo  humano,
 promovendo a saúde e o bem-estar, ou reduzindo problemas e/ou
 doenças. Além do mais, é rico em nutrientes variados em quantidade
@@ -6291,7 +6281,7 @@ e de saúde em crianças, notadamente nas desnutridas.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 282420
 
 O que é a “torta” do gergelim? Qual é a sua composição
@@ -6335,7 +6325,7 @@ paladar, muito apreciado por crianças e adolescentes.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 282422
 
 Quais são as características físicas do óleo de gergelim?
@@ -6382,7 +6372,7 @@ germinação e seu vigor.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 Nas indústrias farmacêuticas e cosméticas, vem sendo usado
 como veículo fixador de princípio ativos de vermífugo, e ainda na
 cosmética é considerado como o melhor óleo hidratante e restaurador
@@ -6448,7 +6438,7 @@ apresenta traços.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 282425
 
 Por  que  o  interesse  de  se  consumir  ácidos  graxos  mo-
@@ -6497,7 +6487,7 @@ um procedimento mais adequado. Uns são mais extensos e envolvem
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 mais processos, outros são mais simplificados. Mas, de modo geral,
 os  procedimentos  básicos  são:  limpeza  das  sementes,  torração,
 moagem, prensagem e decantação ou filtração.
@@ -6539,7 +6529,7 @@ tratamento térmico (torração).
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 282431
 
 Existem quantos processos de extração do óleo de gergelim
@@ -6569,7 +6559,7 @@ refinado a partir da semente limpa?
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 282433
 
 Como  é  feita  a  separação  do  material  obtido  junto  ao
@@ -6616,7 +6606,7 @@ acordo com o Ministério da Saúde e a FAO, o óleo de gergelim deve
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 apresentar as seguintes características:
 
 • Densidade relativa (20 °C/água a 20 °C): 0,915 – 0,923.
@@ -6657,7 +6647,7 @@ gergelim  é  acentuada  em  função  da  presença  da  sesamina
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 282439
 
 Que  tipo  de  óleo  de  gergelim  tem  a  melhor  atividade
@@ -6702,7 +6692,7 @@ Federal  da  Paraíba  e  a  Empresa
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 Júnior de Engenharia Mecânica (Tecmec), desenvolveu uma prensa
 de  baixo  custo,  feito  com  aço  inoxidável,  de  fácil  manuseio  e
 transporte e com boa capacidade de extração, sendo um processo
@@ -6745,7 +6735,7 @@ com cereais, dentre outros.
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 282444
 
 Quais  são  os  alimentos  derivados  do  gergelim  mais
@@ -6788,7 +6778,7 @@ favoráveis e que tornará a semente imprópria para o uso.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 282447
 
 Como é efetuada a retirada da película no processo químico?
@@ -6832,7 +6822,7 @@ sobretudo os da merenda escolar.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 282450
 
 Na área medicinal, de que forma é usado o óleo de gergelim?
@@ -6879,7 +6869,7 @@ como adstringente para diarreias, do óleo para a produção de loções
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 para alopecia, de emplastros para queimaduras e de galactagogos.
 O óleo tem sido usado em tratamentos contra o reumatismo e é tido
 como bom anti-inflamatório. Ainda é empregado como óleo-base
@@ -6927,7 +6917,7 @@ minerais, fibras, aminoácidos e vitaminas.
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 282454
 
 Como se apresenta a proteína do gergelim?
@@ -6974,7 +6964,7 @@ gergelim cultivada no Brasil. Nesse caso, é para se observar as grandes
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 diferenças da composição química, tanto entre as diferentes cultivares
 quanto ao local de cultivo, mas ainda não se estabeleceu o critério
 de padronização do óleo e da semente de gergelim.
@@ -7020,7 +7010,7 @@ refinado são: cor clara e quase inodoro.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 282461 O que ocorre no refino do óleo de gergelim?
 
 O  óleo  de  gergelim  é  extraído  de  sementes  não  torradas  e
@@ -7034,7 +7024,7 @@ de quantidades apreciáveis de sesamol e sesaminol.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 16 Aspectos  Econômicos
 
 Joffre Kouri
@@ -7044,7 +7034,7 @@ Nair Helena Castro Arriel
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 282462
 
 Em quantos países o gergelim é cultivado?
@@ -7091,7 +7081,7 @@ hectares) e China (621 mil hectares). Juntos, esses países respondem
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 por  aproximadamente  71  %  da  área  cultivada  mundialmente.
 Destaca-se  que,  à  exceção  da  China,  que  apresenta  uma
 produtividade de aproximadamente 1.000 kg de grãos por hectare,
@@ -7136,7 +7126,7 @@ aproximadamente 1 milhão de toneladas de grãos.
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 282469
 
 Qual  é  o  valor  do  gergelim  em  grãos  transacionado  no
@@ -7184,7 +7174,7 @@ A produção mundial de óleo de gergelim é de aproximadamente
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 aproximadamente 60 % da produção mundial de grãos. Em 2007,
 os  principais  países  produtores  de  óleo  foram  China  (226  mil
 toneladas), Myanmar (198 mil toneladas) e Índia (134 mil toneladas),
@@ -7227,7 +7217,7 @@ direcionam a maior parte da produção para o consumo interno.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 282476
 
 Do total do gergelim produzido mundialmente, quanto é
@@ -7270,7 +7260,7 @@ hectares,  produção  de  26  mil  toneladas  e  rendimento  médio  de
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 282478
 
 Quais  são  os  países  da  América  do  Sul  com  maior  par-
@@ -7315,7 +7305,7 @@ hectare.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 De 1995 a 2007, o cultivo do gergelim no Brasil sofreu poucas
 alterações em termos de área plantada e produção, apesar de existirem
 novas tecnologias de cultivo à disposição dos agricultores. Nesse
@@ -7358,7 +7348,7 @@ salgados e biscoitos, dentre outros).
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 No mercado brasileiro, os agricultores comercializam gergelim
 em  grãos  –  diretamente  ou  via  intermediários  –  nas  feiras  e
 supermercados  ou  para  as  indústrias  de  extração  de  óleo,  de
@@ -7402,7 +7392,7 @@ possibilidade de negociar contratos de fornecimento do produto.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 Em se tratando de pequenos produtores, o ideal é a venda da
 produção mediante contratos de fornecimento, firmados por meio
 de  suas  organizações  (associações  ou  cooperativas).  Essas
@@ -7448,7 +7438,7 @@ que o mercado for capaz de absorver as produções colhidas.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 282489
 
 Qual é a importância do gergelim no mercado brasileiro de
@@ -7493,7 +7483,7 @@ comercialização.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 282492
 
 Como a cultura do gergelim pode ser beneficiada dentro
@@ -7539,7 +7529,7 @@ tecnologias capazes de explorar o potencial de produção da cultura.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 282495
 
 Como se caracteriza o sistema de cultivo do gergelim no
@@ -7580,7 +7570,7 @@ adaptadas para a colheita do gergelim.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 282497
 
 Quais são os principais pontos fracos da fase agrícola da
@@ -7622,7 +7612,7 @@ produção regular.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 282498
 
 Quais são os componentes básicos e os coeficientes técnicos
@@ -7724,7 +7714,7 @@ e  conhecimento  oriundo  de  suas  experiências  em  seu  contexto.
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 A  seguir,  descreve-se  como  são  realizadas  as  operações  básicas
 identificadas:
 
@@ -7770,7 +7760,7 @@ e as cápsulas da base já iniciaram o processo de abertura.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 É feito o corte das plantas com foice ou facão e, ao mesmo
 tempo, organizam-se os feixes que são distribuídos ao longo
 das  linhas  de  plantas  onde  podem  ficar  secando  por
@@ -7803,43 +7793,4 @@ o que significa ocupação para milhares de trabalhadores rurais.
 
 209
 
-
- 500pr_pgnumber210
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000005
-
-•••
-
-
- 500pr_pgnumber211
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber212
-
- 500pr_pgnumber213
-Impressão e acabamento
-
-Embrapa  Informação  Tecnológica
-
-O  papel  utilizado  nesta  publicação  foi  produzido  conforme
-
-a certificação da Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber214
 

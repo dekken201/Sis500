@@ -1,14 +1,5 @@
 
- 500pr_pgnumber015
-Classificação e
-Descrição Botânica
-
-1
-
-Janay Almeida dos Santos-Serejo
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 Qual a classificação botânica da mangueira?
@@ -56,7 +47,7 @@ verdes.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 O sistema radicular é caracterizado por uma raiz pivotante e
 por raízes de superfície, as quais apresentam ramificações compostas
 por raízes finas e fibrosas.
@@ -81,9 +72,9 @@ embora a ocorrência de plantas com maior número de cromossomos
 17
 
 
- 500pr_pgnumber018
-
  500pr_pgnumber019
+
+ 500pr_pgnumber020
 2 Variedades
 
 Nelson Fonseca
@@ -94,7 +85,7 @@ Fernanda Vidigal Duarte Souza
 Janay Almeida dos Santos-Serejo
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 6
 
 O que é uma variedade?
@@ -142,7 +133,7 @@ As principais variedades americanas introduzidas no Brasil são:
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 • Haden
 • Keitt
 • Kent
@@ -185,7 +176,7 @@ variedade Coquinho, com fruto de cor amarelo-clara a esverdeada,
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 pesando de 120 a 150 g, muito utilizada como porta-enxerto, em
 São Paulo.
 
@@ -232,7 +223,7 @@ plo das comercializadas em mercados regionais.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 13
 
 Que  variedades  podem  ser  indicadas  como  opções  de
@@ -289,7 +280,7 @@ Atkins’.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 17
 
 Como é realizada a seleção de variedades?
@@ -337,7 +328,7 @@ No Brasil, foram obtidas, por seleção, as seguintes variedades:
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 • Augusta.
 • Brasil, entre outras.
 
@@ -384,7 +375,7 @@ pela indústria como ao natural.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 Para a indústria, as principais variedades são:
 
 • Imperial.
@@ -425,7 +416,7 @@ natural, as seguintes variedades:
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 24
 
 Como  se  distribuem  as  variedades  nacionais  quanto  ao
@@ -485,7 +476,7 @@ Filipinas.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 29
 
 O que é uma coleção de germoplasma e qual sua impor-
@@ -540,7 +531,7 @@ que encurtam o tempo de obtenção de uma nova variedade. É um
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 instrumento eficaz na propagação de plantas e na exploração da
 variabilidade genética.
 
@@ -585,9 +576,9 @@ no Brasil.
 29
 
 
- 500pr_pgnumber030
-
  500pr_pgnumber031
+
+ 500pr_pgnumber032
 3 Clima e Solo
 
 Nelson Fonseca
@@ -595,7 +586,7 @@ Nelson Fonseca
 Laerte Scanavaca Júnior
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 35 Que condições climáticas são favoráveis ao cultivo da man-
 
 gueira?
@@ -644,7 +635,7 @@ Para a variedade Tommy Atkins são necessários de 30 a 40 dias de
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 frio a 18oC dia/10oC noite para a ocorrência do florescimento nos
 ramos maduros e lignificados.
 
@@ -690,7 +681,7 @@ aproximadamente, 5 dias.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 42
 
 Como a precipitação pluvial pode influenciar o floresci-
@@ -738,7 +729,7 @@ do pigmento antocianina.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 44
 
 Como a mangueira se comporta  em relação ao fotoperio-
@@ -790,7 +781,7 @@ utilizadas diversas espécies de frutí-
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 feras, entre elas as bananeiras, com 3 a 4 linhas de plantas instaladas
 entre talhões de plantio, e os coqueiros, nas margens externas do
 plantio.
@@ -840,7 +831,7 @@ agrícolas.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 Outras características do solo são importantes, como a profun-
 didade efetiva (espaço em sentido vertical de exploração pelas raízes),
 drenagem, textura e estrutura, fertilidade natural e pH. Essas caracte-
@@ -850,9 +841,9 @@ pomar.
 37
 
 
- 500pr_pgnumber038
-
  500pr_pgnumber039
+
+ 500pr_pgnumber040
 4 Propagação
 
 Nelson Fonseca
@@ -863,7 +854,7 @@ Fernanda Vidigal Duarte Souza
 Laerte Scanavaca Junior
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 52
 
 Quais os principais meios de propagação da mangueira?
@@ -916,7 +907,7 @@ ao sistema radicular.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 57
 
 Que tipo de planta deve ser
@@ -965,7 +956,7 @@ conseguir sementes fora do período de safra natural.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 62
 
 A germinação da semente de mangueira é demorada?
@@ -1014,7 +1005,7 @@ da muda pronta para enxertia.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 66
 
 Qual a melhor posição da amên-
@@ -1070,7 +1061,7 @@ simples e 500 g de cloreto de potássio.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 70
 
 Pode-se usar outro tipo de substrato?
@@ -1117,7 +1108,7 @@ ocorre entre 2 e 3 semanas depois da semeadura, quando as plântulas
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 já tiverem desenvolvido um certo número de folhas (de duas a qua-
 tro, aproximadamente).
 
@@ -1166,7 +1157,7 @@ mudas.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 78
 
 Em  quanto  tempo  as  mudas  ficam  prontas  para  en-
@@ -1213,7 +1204,7 @@ planta.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 82
 
 Quais as pragas mais fre-
@@ -1267,7 +1258,7 @@ formar uma única planta, que é expressa pela variedade copa.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 88
 
 Quais os principais fatores de êxito na enxertia?
@@ -1317,7 +1308,7 @@ evitar a introdução de doenças.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 93
 
 O que é uma planta matriz?
@@ -1364,7 +1355,7 @@ problemas fitossanitários.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 97
 
 Que  cuidados devem ser tomados antes de fazer a enxertia?
@@ -1419,7 +1410,7 @@ Sim. São as variedades porta-enxertos:
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 • IAC 100 Bourbon.
 • IAC 101 Coquinho.
 • IAC 102 Touro.
@@ -1468,7 +1459,7 @@ metro), produção e qualidade dos frutos.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 106
 
 Existem porta-enxertos tolerantes à salinidade do solo?
@@ -1517,7 +1508,7 @@ de papel, alcança-se sucesso semelhante ao da enxertia sob telado.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 111
 
 Quais os principais métodos de garfagem usados na enxertia?
@@ -1568,7 +1559,7 @@ um dos lados do porta-enxerto (contato com o tecido cambial).
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
  Em seguida, ata-se a zona de união com fita de plástico, co-
 brindo  o  enxerto  com  um  saquinho  de  plástico  para  evitar  seu
 ressecamento e facilitar a brotação.
@@ -1614,7 +1605,7 @@ nho de plástico a fim de evitar o ressecamento dos tecidos e a pe-
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 netração de água. Corta-se a ponta do porta-enxerto para quebrar a
 dominância apical.
 
@@ -1662,7 +1653,7 @@ meses após a enxertia).
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 118
 
 Como é feita a borbulhia em placa ou escudo?
@@ -1712,7 +1703,7 @@ da estão em fase de desenvolvimento. É preciso ainda contornar os
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 problemas considerados mais limitantes para a aplicação com êxito
 dessa tecnologia, em mangueira.
 
@@ -1732,9 +1723,9 @@ fatores de difícil controle.
 57
 
 
- 500pr_pgnumber058
-
  500pr_pgnumber059
+
+ 500pr_pgnumber060
 Instalação do
 Pomar
 
@@ -1745,7 +1736,7 @@ Nelson Fonseca
 Manoel Teixeira de Castro Neto
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 123
 
  Que fatores devem ser considerados na instalação do pomar
@@ -1795,7 +1786,7 @@ raízes situar-se na camada superficial do solo
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 128
 
 Que práticas devem ser realizadas no preparo da área de
@@ -1848,7 +1839,7 @@ local onde serão feitas as aberturas de covas.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 133
 
 Como é feita a abertura da cova para o plantio da muda?
@@ -1897,7 +1888,7 @@ tar possíveis rachaduras provocadas pela incidência direta da radia-
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 136
 
 Em  que  época  deve  ser  realizado  o  plantio  da  muda  no
@@ -1945,7 +1936,7 @@ de que não seja hospedeiro de alguma praga da mangueira.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 140 O que é o tutoramento da muda?
 
 É o uso de uma haste de
@@ -1991,7 +1982,7 @@ tar os custos de produção.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 145
 
  Que cuidados devem ser observados na área de plantio?
@@ -2039,7 +2030,7 @@ sem boca, colocado no solo ao redor do caule.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 149
 
 Quais as fruteiras consideradas hospedeiras de insetos?
@@ -2085,7 +2076,7 @@ capinas, devem ser retirados da área para evitar possíveis hospedeiros.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 152
 
 Como é feito o controle de plantas daninhas na área de
@@ -2132,7 +2123,7 @@ As plantas companheiras mais comuns são:
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 156
 
  O que é adubo verde?
@@ -2180,7 +2171,7 @@ Que leguminosa tem efeito alelopático no controle da tiririca
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 Adubação e
 Calagem
 
@@ -2191,7 +2182,7 @@ Antônia Fonseca de Jesus Magalhães
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 161
 
 Que critérios devem ser observados na amostragem de solo
@@ -2237,7 +2228,7 @@ da aração e/ou gradagem, o que permite incorporação mais profunda.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 Pode-se, também, fazer uma aplicação na cova de plantio,
 calculando-se a quantidade do produto em relação ao volume de
 terra da cova ou metro linear de sulco.
@@ -2308,7 +2299,7 @@ cie, sem incorporação.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 168
 
 Qual a seqüência de absorção dos nutrientes pela mangueira,
@@ -2358,7 +2349,7 @@ dos:
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 • 0,20 kg de Mg.
 • 0,15 kg de P.
 • 0,15 kg de S.
@@ -2403,7 +2394,7 @@ de calagem, com o suprimento de sulfato ou nitrato de Mg (100 a
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 175
 
 Como se faz a coleta de folhas para análise foliar?
@@ -2450,7 +2441,7 @@ livre.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 178
 
 Como solicitar análises de nutrientes no solo e na planta?
@@ -2500,7 +2491,7 @@ e compactação.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 • No aumento da capacidade de retenção de água.
 • No favorecimento das operações de preparo do solo e em
 
@@ -2549,7 +2540,7 @@ dos dois lados da planta, em largura igual ao raio da copa, sendo
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 Aplica-se todo o fósforo em cobertura no início das chuvas,
 antes  do  florescimento  das  plantas,  incorporando-o  com  grade
 semipesada na projeção da copa ou na entrelinha, com a primeira
@@ -2595,7 +2586,7 @@ redução da incidência de colapso interno.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 B
 
 Zn
@@ -2642,7 +2633,7 @@ pouco antes da floração em virtude do efeito benéfico do boro na
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 inflorescência (aumento do número de flores hermafroditas, resul-
 tando em melhor pegamento dos frutos e maior produtividade).
 
@@ -2807,15 +2798,15 @@ O
 79
 
 
- 500pr_pgnumber080
-
  500pr_pgnumber081
+
+ 500pr_pgnumber082
 7 Irrigação
 
 Eugênio Ferreira Coelho
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 190
 
 A escolha do método de irrigação deve basear-se em quê?
@@ -2869,7 +2860,7 @@ posta em anel ao redor da planta, com cinco a seis gotejadores igual-
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 mente espaçados, ou uma ramificação por planta (rabo de porco),
 ou ainda duas linhas de gotejadores por fileira de plantas.
 
@@ -2917,7 +2908,7 @@ frutos.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 200
 
 Quando se calcula a demanda hídrica da mangueira com os
@@ -2968,7 +2959,7 @@ O momento adequado de irrigação da mangueira corresponde
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 bilidade  de  água.  Esse  momento  pode  ser  detectado  por  sen-
 sores  de  umidade  ou  de  potencial  de  água  do  solo,  como  os
 tensiômetros.
@@ -3014,7 +3005,7 @@ e a profundidades iguais ou inferiores a 0,6 m.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 208
 
 Qual  a  maneira  mais  adequada  para  fazer  o  manejo  de
@@ -3058,7 +3049,7 @@ do solo.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 210
 
 Conhecendo a lâmina bruta a ser aplicada à mangueira,
@@ -3076,9 +3067,9 @@ necessidade.
 87
 
 
- 500pr_pgnumber088
-
  500pr_pgnumber089
+
+ 500pr_pgnumber090
 8 Fertirrigação
 
 Ana Lúcia Borges
@@ -3086,7 +3077,7 @@ Ana Lúcia Borges
 Eugênio Ferreira Coelho
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 211
 
 O que é fertirrigação?
@@ -3136,7 +3127,7 @@ irrigadas. Essa prática, em comparação com a adubação convencio-
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 nal, tem proporcionado melhores resultados em solos arenosos, em
 razão da necessidade de se parcelar os nutrientes, principalmente os
 de maior mobilidade no solo, como o nitrogênio.
@@ -3184,7 +3175,7 @@ vendo-se considerar seu índice salino/unidade (ISu). Por exemplo,
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 deve-se substituir o cloreto de potássio (ISu=1,98) pelo nitrato de
 potássio (ISu=1,30) ou sulfato de potássio (ISu=0,96). Recomenda-
 se também, nesses casos, empregar a uréia (ISu=1,70), não sendo
@@ -3241,7 +3232,7 @@ em função da análise foliar.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 223
 
 Com que freqüência deve ser
@@ -3292,7 +3283,7 @@ mento. Na fase de produção, quantidades de K a serem aplicadas
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 são definidas pelo teor do nutriente no solo e pela produtividade
 esperada.
 
@@ -3322,7 +3313,7 @@ do com o esperado ou permitido.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 9 Podas
 
 Nelson Fonseca
@@ -3330,7 +3321,7 @@ Nelson Fonseca
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 228
 
 Como é caracterizado o crescimento das mangueiras?
@@ -3376,7 +3367,7 @@ larizando seu vigor, florescimento e produção.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 As  podas  também  proporcionam  a  manutenção  do  porte
 e  do  bom  estado  sanitário  da  planta,  além  de  frutos  de  melhor
 qualidade.
@@ -3423,7 +3414,7 @@ circulação tende ao desenvolvimento reprodutivo.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 233
 
 Quais os tipos de podas realizadas nas mangueiras?
@@ -3475,7 +3466,7 @@ da, capaz de sustentar boas cargas de frutos.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 A  primeira  poda  é  feita  abaixo  do  nó  do  enxerto,  em
 ramo maduro, a uma altura de cerca de 60 cm do solo. Após a
 brotação, selecionam-se três ramos em localização alternada do
@@ -3523,7 +3514,7 @@ voltados em direção ao solo.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 240
 
 Existe variação na quantidade de ramos?
@@ -3574,7 +3565,7 @@ nos ramos deve ser retirado para não
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 atrasar o formato ideal da planta, com um número desejado de ra-
 mos, e distribuídos a uma altura conveniente.
 
@@ -3625,7 +3616,7 @@ improdutivos, proporcionando melhor asseio e evitando focos de
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 doenças. Os ramos com frutificação tardia também são eliminados
 na colheita ou logo em seguida.
 
@@ -3677,7 +3668,7 @@ mos interiores, além de melhorar a coloração dos frutos.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 254
 
 Por que se faz a poda de equilíbrio das mangueiras?
@@ -3728,7 +3719,7 @@ principais sadios. Consiste na elimi-
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 nação de toda a folhagem e de ramos secundários, deixando apenas
 a estrutura dos ramos principais. As brotações vegetativas serão esti-
 muladas e uma nova copa será formada na mangueira.
@@ -3747,7 +3738,7 @@ de desejada.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 Florescimento e
 Frutificação
 
@@ -3760,7 +3751,7 @@ Janay Almeida dos Santos-Serejo
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 259
 
 O que é fenologia de uma planta cultivada?
@@ -3806,7 +3797,7 @@ de frutificação, e naturalmente no Hemisfério Norte, o período de
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 colheita ocorre nos meses de junho a agosto. Em seguida, tem-se a
 ocorrência dos fluxos vegetativos e radiculares, seguidos do período
 de repouso vegetativo da planta.
@@ -3851,7 +3842,7 @@ ultrapassa 5 anos.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 265
 
 A idade dos ramos das mangueiras tem influência sobre o
@@ -3899,7 +3890,7 @@ para a ocorrência de falhas no processo de polinização.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 268
 
 Já que a mangueira produz muitas flores, por que tantos
@@ -3952,7 +3943,7 @@ de relativa, chuva, ventos e umidade do solo).
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 272
 
 É possível eliminar a alternância de produção das mangueiras
@@ -4002,7 +3993,7 @@ ais para o florescimento da mangueira. Os períodos chuvosos, prin-
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 cipalmente nas regiões tropicais, favorecem as emissões de fluxos
 vegetativos, sendo quase inexistentes os de florescimento.
 
@@ -4048,7 +4039,7 @@ fácil e mais efetivo entre outros métodos.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 279
 
 Qual  é  o  efeito  do  PBZ  sobre  o  florescimento  da  man-
@@ -4095,7 +4086,7 @@ mos, pelos caules jovens e pelas folhas.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 282
 
 Existe condição de reverter a ação das doses elevadas de
@@ -4147,7 +4138,7 @@ do o plantio em altas densidades.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 287
 
 Após as podas drásticas, quando deve ser feita a aplicação
@@ -4197,7 +4188,7 @@ de vegetação (normal ou compactada), recomendam-se de 70% ou
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 Na época fria (de junho a agosto), é recomendada a dose de
 0,5 g a 0,7 g de PBZ por metro de diâmetro de copa, se for o 1º ano
 de  aplicação.  Para  o  2º  ano  de  aplicação,  dependendo  do  tipo
@@ -4246,7 +4237,7 @@ folhas (as folhas estão mais voltadas para baixo dos ramos), além de
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 serem quebradiças quando amassadas com a mão. As folhas mais
 novas podem apresentar certa palidez na coloração, murchamento
 ou até mesmo seca do limbo.
@@ -4297,7 +4288,7 @@ são sais que resultam da combinação do ácido nítrico com uma base.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 300
 
 Qual o objetivo do uso de nitratos na época da indução floral
@@ -4372,7 +4363,7 @@ floral demora mais a brotar que uma vegetativa.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 304
 
 Quando devem ser iniciadas as aplicações dos nitratos?
@@ -4425,7 +4416,7 @@ feitos em diferentes estágios fisiológicos da planta e frutos:
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 • No  intumescimento  de  ge-
 mas,  na  indução  e  inibição
 do florescimento (para causar
@@ -4478,7 +4469,7 @@ dem ser usados.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 310
 
 Há restrições de uso dos produtos orgânicos para quebra de
@@ -4531,7 +4522,7 @@ gueira ‘Tommy Atkins’, principalmente na região do Submédio do
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 Rio São Francisco (Juazeiro, BA e Petrolina, PE), consiste no uso do
 PBZ em regime de irrigação constante da planta, de nitratos e de
 adubações químicas à base de macro e micronutrientes.
@@ -4577,7 +4568,7 @@ novos ramos (entre 1 e 2 meses de idade), inicia-se o déficit hídrico
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 monitorado, retirando-se a água de irrigação, gradualmente ou de
 uma só vez, e faz-se a remoção dos ramos novos que surgirem.
 
@@ -4593,7 +4584,7 @@ de cultivo, ocorre na época de florescimento pleno da mangueira.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 Monitoramento e
 Controle de Pragas
 
@@ -4604,7 +4595,7 @@ Antônio Souza do Nascimento
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 314 Quais as principais pragas da
 
 mangueira?
@@ -4650,7 +4641,7 @@ e armadilhas com atrativos, sexual ou alimentar.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 318 Que tipos de armadilha são
 
 utilizados?
@@ -4704,7 +4695,7 @@ o hidrolizado de proteína a 7%, que deve ser aspergida sobre a copa
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 das plantas com brocha de caiação ou com pulverizador costal, ou
 motorizado, com bico em leque.
 
@@ -4756,7 +4747,7 @@ brotos terminais de mudas, plantas jovens e adultas.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 329
 
 Qual a relação entre o ácaro das gemas, e o emboneca-
@@ -4808,7 +4799,7 @@ mente na superfície das folhas, próximo à nervura central.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 334
 
 Há outra parte da planta que pode ser danificada pelo tripes?
@@ -4856,7 +4847,7 @@ pessoal treinado.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 338
 
 O que são pragas quarentenárias?
@@ -4891,9 +4882,9 @@ Ministério da Agricultura, Pecuária e Abastecimento (Mapa).
 129
 
 
- 500pr_pgnumber130
-
  500pr_pgnumber131
+
+ 500pr_pgnumber132
 Monitoramento e
 Controle de Doenças
 
@@ -4904,7 +4895,7 @@ Hermes Peixoto Santos Filho
 Aristóteles Pires de Matos
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 341
 
 Quais as doenças mais importantes da cultura da mangueira?
@@ -4949,7 +4940,7 @@ e cultivadas.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 345
 
 As  condições  climáticas  influenciam  a  severidade  da
@@ -4995,7 +4986,7 @@ gitudinais, escuras e deprimidas.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 Os frutos podem ser afetados em qualquer estágio de seu de-
 senvolvimento e, quando novos, tornam-se mumificados ou caem.
 Nos frutos maiores, o patógeno pode, a princípio, ficar latente e de-
@@ -5039,7 +5030,7 @@ ramento.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 350
 
 Quais as medidas culturais recomendadas para o controle
@@ -5086,7 +5077,7 @@ sistêmico.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 353
 
 Existem variedades de mangueira resistentes à antracnose?
@@ -5132,7 +5123,7 @@ polinizadores.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 356
 
 Quais os sintomas do oídio?
@@ -5181,7 +5172,7 @@ São consideradas tolerantes ao oídio as variedades:
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 • Brasil.
 • Carlota.
 • Espada.
@@ -5228,7 +5219,7 @@ períodos de maior precipitação e calor.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 363
 
 Como  identificar  uma  planta  afetada  pela  seca-da-
@@ -5273,7 +5264,7 @@ de goma, consegue-se em alguns casos encontrar o local da infecção.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 Nesse ponto, os tecidos, tanto da casca como do cilindro central do
 galho, apresentam-se necrosados.
 
@@ -5321,7 +5312,7 @@ isso, as mudas devem ser produzidas no próprio local, desde que
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 não infectado pelo fungo, ou adquiridas de viveiristas instalados em
 regiões comprovadamente livres da doença.
 
@@ -5368,7 +5359,7 @@ fungo:
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 • Manga d’água.
 • Carabao.
 • Pico.
@@ -5416,7 +5407,7 @@ deficiência de cálcio, falta de poda de limpeza, não proteção após a
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 poda, não proteção dos ferimentos naturais das bifurcações e per-
 manência no solo de tecidos vegetais da planta.
 
@@ -5462,7 +5453,7 @@ dratação do pecíolo das folhas mais novas, seguida de crescimento
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 de cor acinzentada do fungo, tornando as folhas um pouco mur-
 chas, que, em seguida, perdem o vigor e ficam quebradiças. Aconte-
 ce, então, o secamento de cima para baixo e toda a planta enegrece
@@ -5513,7 +5504,7 @@ inóculo no campo.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 • Eliminação de materiais vegetativos de mangueira, ainda que
 sadios, deixados no chão, uma vez que estes são, em segui-
 da, parasitados pelo fungo.
@@ -5563,7 +5554,7 @@ bactéria Xanthomonas campestris pv. mangiferaeindicae. As perdas
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 importantes  causadas  pela  bacteriose  em  alguns  pomares  de
 regiões produtoras do Estado de São Paulo estão convertendo essa
 doença em séria ameaça à expansão da mangicultura, em certas
@@ -5609,7 +5600,7 @@ minando posteriormente seu secamento.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 Nos frutos, a doença causa inicialmente lesões circulares de
 coloração verde-escura e aspecto úmido, com bordos salientes que
 mais tarde enegrecem. As lesões tanto podem se distribuir de forma
@@ -5656,7 +5647,7 @@ antes da enxertia.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 • Proteção do pomar com quebra-ventos, a fim de evitar que
 o atrito entre folhas, frutos e partículas carregadas pelo vento
 ocasionem  ferimentos  que  facilitem  a  penetração  da
@@ -5707,7 +5698,7 @@ lhas, principalmente nas mais velhas, os sintomas se expressam na
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 forma de manchas necróticas, isoladas ou coalescentes, arredonda-
 das ou ovaladas, algumas poligonais, de coloração inicialmente púr-
 pura e, posteriormente, pardo-acinzentada, com bordos escuros e
@@ -5758,7 +5749,7 @@ dos porta-enxertos de uma sementeira.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 394
 
 O fungo da murcha-de-escleródio ataca as plantas no pomar?
@@ -5809,7 +5800,7 @@ causada por Fusarium subglutinans (F. sacchari), um dos mais sérios
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 problemas da mangueira em razão dos prejuízos que acarretam na
 produção. Atualmente, descobriu-se que fungos do gênero Fusarium
 são  os  agentes  causais,  tendo  o  ácaro  das  gemas,  Eriophyies
@@ -5855,7 +5846,7 @@ nas, resultando na redução do número de flores perfeitas.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 400
 
 Por  que  essa  doença  tem  assumido  tanta  importância,
@@ -5906,7 +5897,7 @@ gemas axilares a produzir novas panículas.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 • Fazer  a poda dos ramos que apresentam continuamente os
 sintomas da doença, a partir do nó em que se detectou o
 problema pela primeira vez.
@@ -5959,7 +5950,7 @@ talmente imprestável para consumo.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 405
 
  É verdade que esse problema só ocorre em regiões quentes?
@@ -6010,7 +6001,7 @@ que algumas das variedades comerciais como Tommy Atkins e Van
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 Dyke apresentam, em alguns anos, até 100% de incidência, o que
 desvaloriza o fruto tanto no mercado internacional quanto no mer-
 cado interno.
@@ -6059,7 +6050,7 @@ dos pedúnculos próximo ao fruto, jorra grande quantidade de seiva
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 Quando essa seiva escorre sobre os frutos e não é removida
 rapidamente,  pode  ocasionar  a  queimadura  das  lenticelas,  for-
 mando  uma  mancha  escura  e  irregular  na  superfície  dos  frutos.
@@ -6108,7 +6099,7 @@ que podem provocar podridões pedunculares.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 414
 
 O que fazer para diminuir a incidência da queima pelo sol?
@@ -6133,9 +6124,9 @@ papel, ou pulverizando-os com cal, na concentração de 1,5%.
 157
 
 
- 500pr_pgnumber158
-
  500pr_pgnumber159
+
+ 500pr_pgnumber160
 Colheita e
 Pós-Colheita
 
@@ -6144,7 +6135,7 @@ Pós-Colheita
 Márcio Eduardo Canto Pereira
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 415
 
 Que  alterações  ocorrem  durante  o  amadurecimento  da
@@ -6195,7 +6186,7 @@ munidas de cesto em uma das extremidades.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 419
 
 Que cuidados podem ser tomados na colheita para melhor
@@ -6242,7 +6233,7 @@ de 10 minutos após limpeza com detergente neutro.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 423
 
 Quais as etapas de pós-colheita da manga?
@@ -6289,7 +6280,7 @@ cortados em tanque com água e cal (hidróxido de cálcio) a 1%.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 426
 
 Qual a vantagem em usar cera?
@@ -6337,7 +6328,7 @@ gurança quarentenária ao fruto destinado à exportação.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 431
 
 Em que condições é feito o tratamento térmico?
@@ -6387,7 +6378,7 @@ ser respeitadas as dimensões do palete-padrão brasileiro, que é de
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 434
 
 Pode-se usar caixas de madeira para embalar os frutos?
@@ -6439,7 +6430,7 @@ compostos aromáticos e da qualidade da polpa.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 439
 
 Existem tecnologias novas para a conservação da manga?
@@ -6452,7 +6443,7 @@ de irradiação e de bloqueadores da síntese e da ação do etileno.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 14 Processamento
 
 Rossana Catie Bueno de Godoy
@@ -6460,7 +6451,7 @@ Rossana Catie Bueno de Godoy
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 440
 
 A manga tem bom valor nutricional?
@@ -6511,7 +6502,7 @@ finalidade de uso – mergulhar rapidamente o fruto em água fervente,
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 ou  ainda  adicionar,  no  processamento  da  polpa,  substâncias
 antioxidantes, como o ácido cítrico.
 
@@ -6567,7 +6558,7 @@ de de microrganismos presentes).
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 446
 
 Como se conserva a polpa de manga?
@@ -6617,7 +6608,7 @@ ao natural. No entanto, em condições normais de congelamento,
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 em freezers domésticos, permanece uma pequena quantidade de
 água que pode migrar para o interior da polpa, causando alterações.
 Como conseqüência, ocorrem perdas de até 70% na vitamina C.
@@ -6666,7 +6657,7 @@ rilização com água quente, à temperatura de 149oC a 163oC.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 455
 
 Quais as vantagens da polpa de manga produzida no sistema
@@ -6721,7 +6712,7 @@ e, finalmente, resfriados.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 459
 
 A manga para geléia deve estar em que ponto de maturação?
@@ -6771,7 +6762,7 @@ As fatias são aferventadas em calda de açúcar não muito concentra-
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 da, por 15 minutos. Em seguida, as fatias permanecem em repouso,
 nessa calda, durante 24 horas. Depois são drenadas e secas em estu-
 fa durante 48-72 horas, até a umidade final cair para 25%.
@@ -6819,7 +6810,7 @@ carnes em geral.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 468
 
 O  que  são  mangas
@@ -6850,9 +6841,9 @@ tecnológicos.
 175
 
 
- 500pr_pgnumber176
-
  500pr_pgnumber177
+
+ 500pr_pgnumber178
 15 Comercialização
 
 Clóvis Oliveira de Almeida
@@ -6862,7 +6853,7 @@ Carlos Estevão Leite Cardoso
 Marcelo do Amaral Santana
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 471
 
 Que estados mais produzem
@@ -6922,7 +6913,7 @@ por tonelada, em 2002, foi estimado em R$ 300,00.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 476
 
 Qual o consumo per capita de manga, no Brasil?
@@ -6971,7 +6962,7 @@ Nordeste.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 481
 
 Que região mais exporta manga, no Brasil?
@@ -7022,7 +7013,7 @@ São os supermercados.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 487
 
 Qual  o  preço  médio  da  manga  brasileira  exportada,  nos
@@ -7070,7 +7061,7 @@ oferta.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 491
 
 Qual a época em que a manga alcança os melhores preços,
@@ -7122,7 +7113,7 @@ são:
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 • Rubi.
 • Smith.
 • Palmer.
@@ -7168,7 +7159,7 @@ cificações para uma caixa com 4 kg são as seguintes:
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 • 8 frutos de 500 g ou 14 frutos de 290 g.
 • 10 frutos de 400 g ou 16 frutos de 250 g.
 Mesmo variando de 6 a 16 frutos por caixa, as mangas mais
@@ -7195,41 +7186,4 @@ hab./ano).
 
 184
 
-
- 500pr_pgnumber185
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000002
-
-•••
-
-
- 500pr_pgnumber186
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber187
-Impressão  e  acabamento
-
-Embrapa  Informação  Tecnológica
-
-185
-
-
- 500pr_pgnumber188
-
- 500pr_pgnumber189
 

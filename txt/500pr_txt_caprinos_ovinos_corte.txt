@@ -1,25 +1,5 @@
 
- 500pr_pgnumber015
-1 Organização e Gestão
-
-da Unidade Produtiva
-
-Alcido Elenor Wander
-
-Evandro Vasconcelos Holanda Júnior
-
-Hévila Oliveira Salles Figueiredo
-
-Helenira Ellery Marinho Vasconcelos
-
-Espedito Cezário Martins
-
-Raimundo Nonato Braga Lôbo
-
-15
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 Saber  criar  caprinos  e  ovinos  de  corte  é  suficiente  para
@@ -62,7 +42,7 @@ pode-se ficar mais preparado para enfrentar desafios no novo negócio.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 3
 
 Onde conseguir informações técnicas sobre a exploração
@@ -106,7 +86,7 @@ pode adotar de acordo com seu modelo físico de exploração.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 Em alguns casos, algumas tecnologias são complementares
 entre si, ou seja, a adoção de uma delas implica a necessidade de
 adotar uma outra. Assim, o pacote a ser adotado por um produtor
@@ -154,7 +134,7 @@ ração. Em seguida, deve-se definir o sistema de produção, incluindo
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 a duração do intervalo entre partos (IEP) a ser perseguido e programar
 e implementar estações de monta e de partos ao longo do ano,
 tomando também os cuidados que garantam a sobrevivência e o
@@ -198,7 +178,7 @@ processo.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 11
 
 Que ferramentas estão disponíveis no mercado para orga-
@@ -246,7 +226,7 @@ que possui atividade de exploração animal.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 Escrituração zootécnica é o mecanismo de descrição formal
 
 de toda a estrutura da propriedade:
@@ -293,7 +273,7 @@ ou informatizada.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 Na escrituração manual, o produtor utiliza fichas individuais
 para o registro do desempenho de cada animal e fichas coletivas
 para o controle das práticas de manejo, como coberturas, partos,
@@ -342,7 +322,7 @@ dificuldades de manejo por não ficar bem visível à distância.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 As  placas  metálicas  podem  ser  interessantes  uma  vez  que
 podem ser confeccionadas com o número de interesse. Assim, cada
 sistema depende muito das condições do produtor.
@@ -387,7 +367,7 @@ permitam a identificação de ineficiências nas três fases da exploração,
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 isto é, na produção, na recria e no acabamento, e que podem resultar
 em sua correção ou em mudanças no sistema de produção. Servem,
 ainda, de parâmetro para o administrador decidir em que alternativa
@@ -437,7 +417,7 @@ no registro das entradas e saídas com suas respectivas datas.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 22
 
 Quais as condições iniciais para se estabelecer um sistema
@@ -485,7 +465,7 @@ tenção de forrageiras perenes, com ciclo maior que um ano.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 • Impostos e taxas, além da remuneração do capital investido.
 A  remuneração  deste  último  corresponde  aos  juros  que  o
 produtor obteria se tivesse aplicado o valor dos investimentos em
@@ -526,7 +506,7 @@ gira ao redor de R$ 1,75/kg a R$ 2,25/kg (US$ 0,57 – US$ 0,73/kg).
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 27
 
 Quanto custa 1 kg de cordeiro acabado em pastagem culti-
@@ -576,7 +556,7 @@ Devem ser considerados os seguintes fatores:
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 • A natureza e o grau de intensificação da produção.
 • O nível de eficiência técnica e gerencial da produção.
 • A importância das despesas para a obtenção dos meios de
@@ -631,7 +611,7 @@ mercado consumidor.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 Entretanto, existe a tendência de aumentar o lucro à medida
 
 que aumenta a eficiência biológica do sistema.
@@ -677,7 +657,7 @@ negociação. A alternativa a ser usada deve ser a formação de associa-
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 Oferta maior e constante pode assegurar melhores condições
 
 de negociação com os parceiros comerciais.
@@ -728,7 +708,7 @@ adicionais oriundas da comercialização de produtos, como:
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 • Vísceras.
 • Urina.
 • Chifres.
@@ -771,7 +751,7 @@ em geral, do que a aquisição de animais.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 No entanto, caso o rebanho de matrizes do produtor ainda esteja
 muito aquém do padrão desejado, é aconselhável adquirir esses
 animais de outros rebanhos de melhor qualidade.
@@ -816,7 +796,7 @@ propriedades ou suprir outras necessidades das famílias envolvidas.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 43
 
 Qual o melhor sistema de produção?
@@ -863,7 +843,7 @@ saúde, idade e expectativas e interesses da população.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 45
 
 O que são sistemas tradicionais de exploração?
@@ -909,7 +889,7 @@ os riscos de perdas na produção, causadas pela escassez de água.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 48 Quando um sistema de produção é considerado “extensivo”?
 
 O sistema extensivo é caracterizado por baixa produtividade,
@@ -921,9 +901,9 @@ em pastagem.
 35
 
 
- 500pr_pgnumber036
-
  500pr_pgnumber037
+
+ 500pr_pgnumber038
 2 Infra-estrutura para
 
 Produção de Caprinos
@@ -932,7 +912,7 @@ e Ovinos de Corte
 José Ubiraci Alves
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 49
 
 Qual  a  infra-estrutura  básica  para  a  montagem  de  uma
@@ -979,7 +959,7 @@ atentar, também, para o fato de que as cercas são também instalações.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 52
 
 Como as instalações podem afetar o desempenho produtivo
@@ -1025,7 +1005,7 @@ são:
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 55
 
 De que forma as instalações podem contribuir para melhorar
@@ -1071,7 +1051,7 @@ reservado (isolado), para
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 servir  de  depósito  das  fezes  dos  animais,  resguardando-os  da
 contaminação  ou  reinfestação  de  alguns  agentes  causadores  de
 doenças.
@@ -1117,7 +1097,7 @@ necessário que o curral, ou aprisco, tenha divisões internas, de modo
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 a permitir a distribuição dos animais em lotes homogêneos, com o
 objetivo de promover melhor arraçoamento dos animais.
 
@@ -1170,7 +1150,7 @@ chácaras. Para os outros casos recomenda-se o aprisco de “chão batido”.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 63
 
 Que altura deve ter o piso de um aprisco suspenso em relação
@@ -1217,7 +1197,7 @@ na contenção dos animais, com segurança para o animal e o mane-
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 jador durante a realização de práticas de manejo, como vacinação,
 vermifugação e castração.
 
@@ -1262,7 +1242,7 @@ boa resistência e alta durabilidade.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 68
 
 Nas cercas de arame, quantos fios são necessários para conter
@@ -1313,7 +1293,7 @@ PVC ou madeira.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 De modo geral, recomenda-se 0,25 m linear de cocho para
 cada animal adulto. Assim, utilizam-se quatro animais para cada metro
 linear de cocho, quando os animas têm acesso somente por um lado
@@ -1359,7 +1339,7 @@ aparecimento de doenças no rebanho. Nas pastagens devem ser
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 localizados de forma a facilitar o acesso dos animais, evitando sua
 concentração em determinadas áreas.
 
@@ -1406,7 +1386,7 @@ fundido nº 14 ou 16 e barras de ferro T de ¾” e lisas.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
  Nesse tipo de forma, podem-se ensilar quantidades inferiores
 a 7.000 kg, com média em torno de 5.000 kg de matéria verde. O pro-
 cesso de ensilagem ocorre pela colocação do material verde na fôrma,
@@ -1451,7 +1431,7 @@ roçadeira costal motorizada.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 Para  o  revolvimento  da  forragem  pode  ser  utilizado  garfo,
 rastelo ou outra ferramenta apropriada. Os fardos de feno podem ser
 feitos com enfardadeiras simples, construídas com materiais e facili-
@@ -1466,9 +1446,9 @@ segadeira manual com barra de corte, o rendimento pode ser de até
 49
 
 
- 500pr_pgnumber050
-
  500pr_pgnumber051
+
+ 500pr_pgnumber052
 3 Aspectos Gerais
 
 de Produção
@@ -1483,7 +1463,7 @@ Francisco Beni de Sousa
 Raimundo Nonato Braga Lôbo
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 Fase de Cria
 
 81
@@ -1533,7 +1513,7 @@ muito leves.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 Descartam-se ainda:
 • Os  machos  portadores  de  assimetria  epididimária  e/ou
 
@@ -1580,7 +1560,7 @@ qualidade à vontade.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 85
 
 Como evitar o problema de rejeição da cria por parte da
@@ -1629,7 +1609,7 @@ terço da prenhez.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 • Pelo consumo de colostro, pela cria, imediatamente após o
 
 nascimento.
@@ -1678,7 +1658,7 @@ causar doenças, como:
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 Portanto, deve ser dada atenção especial ao corte e à desinfeção
 
 do cordão umbilical.
@@ -1727,7 +1707,7 @@ de um parto por matriz a cada oito meses.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 • Redução da idade de desmama por serem as crias induzidas
 
 a consumir alimentos sólidos mais cedo.
@@ -1775,7 +1755,7 @@ mais rápido das fêmeas à vida reprodutiva.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 94
 
 Como  manejar  as  crias  para  minimizar  o  estresse  da
@@ -1823,7 +1803,7 @@ da castração.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 A castração dos machos torna-se necessária quando a infra-
 estrutura da unidade de produção não permite a separação das crias
 por sexo, podendo ocorrer coberturas indesejáveis. Nesse caso, deve-
@@ -1867,7 +1847,7 @@ mada de 100 dias.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 100
 
 É possível manter todas as categorias animais juntas em uma
@@ -1914,7 +1894,7 @@ controle de umidade e de correntes de ar.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 102
 
 Qual  a  importância  da  recria  de  caprinos  e  ovinos  para
@@ -1960,7 +1940,7 @@ tipo de animais. O desejável é que não exista recria, ou seja, que os
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 animais passem diretamente do desmame para a fase de acabamento.
 Considerando esse aspecto, é muito importante que no transcorrer
 da  fase  de  produção  os  animais  sejam  manejados  para  que  se
@@ -2007,7 +1987,7 @@ não existe, em princípio, a necessidade de fazer a separação por
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 sexo. Mas quando os machos permanecem inteiros, é recomendável
 fazer a separação quando da realização do desmame.
 
@@ -2049,7 +2029,7 @@ produtiva envolvida.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 109
 
 Quais  as  vantagens  de  fazer  acabamento  de  cabritos  e
@@ -2102,7 +2082,7 @@ brasileiro.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 111
 
 Em que região do País cabritos e cordeiros podem ser acaba-
@@ -2148,7 +2128,7 @@ adulto, essas características vão se modificando. As mudanças mais
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 significativas são a redução gradativa da suculência e da maciez e a
 acentuação  da  cor  e  do  odor,  cuja  conseqüência  é  uma  queda
 considerável em sua qualidade.
@@ -2199,7 +2179,7 @@ da carcaça.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 A alimentação das matrizes deve ser melhorada no terço final
 
 da prenhez e nos primeiros 30 dias de lactação.
@@ -2248,7 +2228,7 @@ especialmente no Semi-Árido do Nordeste brasileiro, onde a umidade
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 do ambiente é muito baixa, somente dois aspectos merecem especial
 atenção.
 
@@ -2294,7 +2274,7 @@ gordura na carcaça.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 Além disso, há necessidade de maior quantidade de energia
 ingerida por unidade de gordura depositada na carcaça do que para
 a deposição da mesma quantidade de músculo na carcaça.
@@ -2336,7 +2316,7 @@ garantia da sustentabilidade econômica do sistema de produção.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 122
 
 O  acabamento  no  pasto  é  mais  econômico  do  que  em
@@ -2382,7 +2362,7 @@ soal que tenha experiência no manejo de área irrigada.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 No pasto irrigado, o regime de manejo animal fica mais fácil
 porque a taxa de lotação deve ser constante ao longo do ano, em
 virtude da disponibilidade e qualidade da forragem.
@@ -2428,7 +2408,7 @@ uma cobertura de 15% a 20%.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 É racional evitar o adensamento das árvores, pois essa prática
 pode favorecer a ocorrência de acidentes e mortes de animais por
 raio.
@@ -2474,7 +2454,7 @@ realização de práticas de manejo, como coleta de fezes e pesagens,
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 dentre outras. As instalações devem estar situadas em local seco, ter
 piso de terra ou brita fina e ser cobertas.
 
@@ -2519,7 +2499,7 @@ dias de ocupação.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 • O pasto pode estar degradado e, nesse caso, começam a
 aparecer ervas daninhas de baixo valor nutritivo e o capim
 perde vigor, sendo a principal causa a superlotação. Nessas
@@ -2568,7 +2548,7 @@ a pastagem e o solo estão em avançado estágio de degradação. Nessa
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 condição, devem-se adotar as recomendações para o estabeleci-
 mento da espécie, acrescidas da rigorosa adoção das técnicas de
 conservação do solo, ressemear a mesma espécie ou introduzir outras
@@ -2614,7 +2594,7 @@ produção de ovinos. Algumas dessas culturas são:
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 135
 
 É recomendável a criação de animais de espécies diferentes
@@ -2637,7 +2617,7 @@ terísticas e não venha causar queda na produtividade do rebanho.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 4 Sanidade Animal
 
 Raymundo Rizaldo Pinheiro
@@ -2651,7 +2631,7 @@ Antônio Cézar Rocha Cavalcante
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 136
 
 Qual a importância da prevenção de doenças na exploração
@@ -2700,7 +2680,7 @@ ser tratados com medicamentos homeopáticos.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 139
 
 Os três regimes de manejo, isto é, extensivo, semi-intensivo
@@ -2746,7 +2726,7 @@ permanecer nessa instalação até seu completo restabelecimento.
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 142
 
 Ao identificar um animal doente no rebanho, que providên-
@@ -2792,7 +2772,7 @@ e 8oC, evitando que entrem em contato direto com o gelo, a fim de
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 impedir o congelamento. Deve-se impedir a incidência direta de raios
 solares, bem como observar o prazo de validade.
 
@@ -2844,7 +2824,7 @@ Entre as viroses citam-se:
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 A presença de doenças nos rebanhos é fortemente influenciada
 pelas condições ambientais e pelo regime de manejo utilizado no
 sistema de produção.
@@ -2898,7 +2878,7 @@ que estes se rompam espontaneamente. Quando os pêlos sobre o
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 abscesso estiverem caindo, abrir o abscesso no sentido vertical, do
 meio para baixo, retirar todo o material purulento de dentro e, em
 seguida, aplicar iodo a 10%, internamente e externamente.
@@ -2944,7 +2924,7 @@ Os animais devem passar pelo pedilúvio, duas vezes ao dia, no
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 mínimo.  Outra  medida  profilática  é  a  aplicação  de  vacinas
 produzidas de cepas da região.
 
@@ -2992,7 +2972,7 @@ mais que chegam à propriedade.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 • Não comprar ou manter no rebanho animais com despigmen-
 
 tação das pálpebras e da mucosa ocular.
@@ -3041,7 +3021,7 @@ seguintes medidas:
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 • Aplicar compressas mornas e frias intercaladas.
 • Tratar os animais com antibiótico local e sistêmico.
 No caso de matrizes velhas ou de pouco valor genético, deve-
@@ -3084,7 +3064,7 @@ Os sintomas são caracterizados pelo aparecimento de vesículas
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 adultos. Já foram observadas, também, vesículas na língua, vulva e
 pálpebras.
 
@@ -3130,7 +3110,7 @@ veis à essa doença.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 Pessoas que tratam dos animais doentes podem transportar o
 vírus nas mãos, roupas e calçados e, dessa forma, levá-lo até outros
 animais. O mesmo pode acontecer com ferramentas, veículos ou
@@ -3173,7 +3153,7 @@ até 30%.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 163
 
 Quais os principais sintomas apresentados pelos caprinos e
@@ -3218,7 +3198,7 @@ cimento de surtos de verminose, como:
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 • Na ocorrência de chuvas torrenciais em plena época seca.
 • Ao se transferir os animais de uma área de pastejo para outra.
 • Quando da introdução de novos animais no rebanho.
@@ -3262,7 +3242,7 @@ mente no pastejo rotacionado, são curtos variando de 21 a 40 dias.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 Esse período de descanso, na maioria das situações, não é suficiente
 para permitir redução significativa da contaminação da pastagem.
 Além disso, as larvas infectantes podem sobreviver durante várias
@@ -3305,7 +3285,7 @@ número de ovos por grama (OPG) for superior a 800.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 169
 
 No  sistema  de  acabamento  no  pasto,  que  esquema  de
@@ -3352,7 +3332,7 @@ simultâneo de resistência anti-helmíntica a produtos pertencentes a
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 vários grupos químicos. Deve-se evitar a alternância de princípios
 ativos dentro do mesmo grupo químico mantendo o mesmo princípio
 ativo.
@@ -3399,7 +3379,7 @@ semanais com solução hipersaturada de cloreto de sódio (sal de
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 cozinha), até a completa eliminação do ectoparasita. Além disso,
 podem ser utilizados banhos com folhas de melão-de-são-caetano
 ou ata (fruta do conde), na proporção de 1 kg de folhas verdes para
@@ -3444,7 +3424,7 @@ e  ao  desenvolvimento  corporal  dos  indivíduos.  Esse  antibiótico,
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 entretanto, deve ser administrado, de preferência, no sal mineral e/
 ou na mistura concentrada.
 
@@ -3491,7 +3471,7 @@ Os principais ectoparasitas de caprinos e ovinos são:
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 • Os ácaros, agentes que causam as sarnas.
 • As larvas de moscas responsáveis pelas miíases ou bicheiras.
 Esses agentes acarretam elevadas perdas econômicas devidas,
@@ -3539,7 +3519,7 @@ de tamanhos variados, na pele.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 179
 
 Como controlar as sarnas em caprinos e ovinos?
@@ -3585,7 +3565,7 @@ nascidos.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 As miíases secundárias ocorrem em lesões onde existe tecido
 
 necrosado.
@@ -3634,7 +3614,7 @@ associados ou não a um broncodilatador.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 182
 
 Como prevenir a ocorrência de doenças respiratórias no
@@ -3682,7 +3662,7 @@ se essa for a causa.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 185
 
 Que medida deve ser utilizada pelos produtores para preve-
@@ -3732,7 +3712,7 @@ láticas são:
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 • Quarentena em animais adquiridos ou tomados de emprés-
 
 timos.
@@ -3746,9 +3726,9 @@ douros e comedouros.
 101
 
 
- 500pr_pgnumber102
-
  500pr_pgnumber103
+
+ 500pr_pgnumber104
 5 Reprodução Animal
 
 Ângela Maria Xavier Eloy
@@ -3757,7 +3737,7 @@ Aurino Alves Simplício
 Alice Andrioli Pinheiro
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 189
 
 O que é taxa de reprodução?
@@ -3808,7 +3788,7 @@ implantadas de modo a garantir bem-estar animal, por meio da limpeza
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 e higiene das instalações, de sombra nas áreas de pasto, etc, e também
 pelo manejo alimentar adequado, respeitando as necessidades de
 matrizes e reprodutores de acordo com a fase de produção em que
@@ -3852,7 +3832,7 @@ não reprodutiva.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 194
 
 A eficiência reprodutiva é mais influenciada pela genética
@@ -3899,7 +3879,7 @@ espermograma e teste de capacidade de serviço.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Em relação às fêmeas, observar o úbere quanto à presença de
 alteração, assimetria, e seu desenvolvimento. Aconselha-se a compra
 de animais de fertilidade comprovada, porém que sejam jovens, entre
@@ -3943,7 +3923,7 @@ A puberdade é influenciada principalmente pela:
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 • Nutrição, particularmente, no período de cria e na fase de recria.
 • Saúde.
 Existem raças que são sexualmente mais precoces, como a
@@ -3986,7 +3966,7 @@ adultas de sua raça ou grupo genético.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 200
 
 Qual a importância do estro ou cio?
@@ -4037,7 +4017,7 @@ tórios quanto à sincronização do estro é o “efeito macho”. Após a
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 sincronização,  as  fêmeas  devem  ser  cobertas  ou  inseminadas.
 No entanto, em modelo físico de exploração em que a monta natural
 é a única alternativa, recomenda-se manter uma relação macho
@@ -4078,7 +4058,7 @@ dos machos.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 205
 
 Quais as vantagens em concentrar os nascimentos?
@@ -4126,7 +4106,7 @@ nascimento até a idade de desmame e abate.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 A adoção da EM propicia redução nos custos de produção e
 ainda favorece a seleção dos animais jovens para serem incorporados
 ao rebanho, como futuros reprodutores e/ou matrizes, bem como
@@ -4175,7 +4155,7 @@ intensivo ou intensivo, o rebanho estará mais ou menos sujeito aos
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 efeitos de fatores do meio ambiente, dentre os quais a intensidade de
 precipitação e a curva de distribuição pluvial na região, que reper-
 cutem na disponibilidade e na qualidade das forragens, bem como
@@ -4221,7 +4201,7 @@ uma duração de 63 dias, para as cabras e de 51 dias, para as ovelhas.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Após a realização de uma ou duas estações de monta no reba-
 nho, associada à execução de descarte orientado, o qual objetiva a
 retirada dos animais improdutivos do rebanho ou dos menos produ-
@@ -4265,7 +4245,7 @@ costados e flancos sempre que é cortejada pelo macho.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 Nem todas essas características, porém, são evidentes na mesma
 fêmea caprina ou ovina, além de variarem em diferentes períodos de
 estro.
@@ -4309,7 +4289,7 @@ Na maioria das vezes, a cópula ocorre durante o terço médio do
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 estro.  Dessa  forma,  quando  a  monta  é  feita  no  capril  ou  ovil,
 recomenda-se realizar a primeira cobrição 8 horas e 12 horas após a
 fêmea ter sido observada em estro e repeti-la uma vez mais, obede-
@@ -4354,7 +4334,7 @@ Se isso não for possível, recomenda-se o descarte.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 216
 
 Que destino deve ser dado às cabras e ovelhas que não apre-
@@ -4404,7 +4384,7 @@ disseminação de doenças da esfera reprodutiva.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 • Permite  o  uso  do  sêmen  de  bons  reprodutores  que  já
 morreram ou que estejam impossibilitados de realizar a monta
 natural.
@@ -4458,7 +4438,7 @@ interferem nos resultados, dentre os quais:
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 • A técnica usada para fazer a inseminação.
 • A condição corporal das fêmeas a serem inseminadas.
 • A qualidade quali-quantitativa da dose inseminante.
@@ -4507,7 +4487,7 @@ por tempo indeterminado.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 222
 
 Quais as diferentes vias para a inseminação artificial da cabra
@@ -4556,7 +4536,7 @@ de ovulação, isto é, do número
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 de  óvulos  liberados  por  fêmea  e  da  quantidade  de  células
 espermáticas contidas no ejaculado ou na dose inseminante, quando
 se usa a inseminação artificial.
@@ -4602,7 +4582,7 @@ Entre os diversos métodos de diagnóstico de prenhez aplicados
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 • A ultra-sonografia ou ecografia.
 • A dosagem de progesterona no soro sangüíneo.
 • A determinação do antígeno específico da gestação.
@@ -4645,7 +4625,7 @@ parto.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 230
 
 Em que circunstância se deve intervir no parto?
@@ -4689,7 +4669,7 @@ uterina, podendo levar a matriz à morte.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 233
 
 O aparecimento do primeiro estro após o parto é influen-
@@ -4733,7 +4713,7 @@ da sexta ordem de parto o número de crias nascidas por fêmea e por
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 parto  tende  a  diminuir.  O  onhecimento  desses  fatores  deve  ser
 considerado ao se fazer a reposição anual de fêmeas e ao se proceder
 ao descarte orientado.
@@ -4776,7 +4756,7 @@ fêmea/ano.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 238
 
 Que fatores maternos contribuem para o intervalo entre
@@ -4801,7 +4781,7 @@ descanso reprodutivo atuando favoravelmente na redução do IEP.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 6 Recursos Genéticos
 
 Raimundo Nonato Braga Lôbo
@@ -4810,7 +4790,7 @@ Francisco Luiz Ribeiro da Silva
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 239
 
 Quais as principais raças de ovinos exploradas para corte,
@@ -4858,7 +4838,7 @@ regime de manejo da exploração.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 As raças mais recomenda-
 
 das são:
@@ -4901,7 +4881,7 @@ De forma genérica, são precoces as raças:
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 • Ile-de-France.
 • Suffolk.
 
@@ -4948,7 +4928,7 @@ resultados ainda são insuficientes.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 É sabido que os caprinos, em geral, são bons produtores de
 peles, e que os tipos nativos e os “Sem Raça Definida”, explorados
 no Nordeste brasileiro, apresentam destaque. No entanto, a raça
@@ -4994,7 +4974,7 @@ grupos de animais. Percebe-se que a generalização do termo não é
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 adequada,  uma  vez  que  se  está  agrupando  animais  de  diversas
 origens e características em grupamento único, o que causa confusão
 e dúvida sobre a que grupo se está referindo.
@@ -5046,7 +5026,7 @@ indicam que esses animais apresentam:
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 • Idade no primeiro parto entre 490 e 532 dias.
 • Fertilidade no parto de cerca de 80% e 85%.
 • Prolificidade de 1,35 crias/parto.
@@ -5092,7 +5072,7 @@ pré-desmama é de 112 g/dia. Seu peso adulto gira em torno de 80 a
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 253
 
 O que poder ser dito a respeito dos aspectos produtivos da
@@ -5144,7 +5124,7 @@ respectivamente.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 • Peso adulto gira em torno de 40 a 60 kg, nos machos, e de
 
 30 a 50 kg, nas fêmeas.
@@ -5192,7 +5172,7 @@ ainda incipientes.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 Entretanto, dados de mais de 20 anos, na África do Sul, em
 condições de pastagem nativa, com precipitação pluviométrica de
 cerca de 450 mm/ano, indicam que a raça apresenta:
@@ -5244,7 +5224,7 @@ mento de animais pertencentes a grupos genéticos diferentes, cujos
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 resultados – indivíduos F1 – são destinados ao abate), por favorecer
 a conjugação das características dos dois grupos genéticos e as crias
 apresentarem maior vigor híbrido, na primeira geração.
@@ -5291,7 +5271,7 @@ todos os genes, isto é, os elementos que definem as características de
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 um ser vivo, de uma raça, fossem exclusivos dela, e assim, um indiví-
 duo seria puro se somente tivesse os genes pertencentes àquela raça.
 Entretanto, diz-se que um indivíduo é “puro”, quando apresenta
@@ -5343,7 +5323,7 @@ critérios de seleção.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 • Avaliações e identificação dos indivíduos superiores.
 • Seleção  de  machos  e  fêmeas  destinados  à  reprodução,
 
@@ -5391,7 +5371,7 @@ relacionadas às características do objetivo de seleção, como:
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 • Peso total das crias ao nascimento e na desmama.
 • Peso adulto.
 • Idade no primeiro parto.
@@ -5440,7 +5420,7 @@ As provas mais comuns são os testes de desempenho e de progênie.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 Na primeira, um gru-
 po homogêneo da mesma
 faixa etária de potenciais
@@ -5482,7 +5462,7 @@ o ganho genético seja conseguido mais eficientemente.
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 Entretanto, sua utilização isoladamente não dá a certeza de
 promover melhoramento. É necessário que os animais multiplicados
 por essas técnicas de manejo reprodutivo, sejam avaliados pelos
@@ -5527,7 +5507,7 @@ velocidades  de  ganho  de  peso
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 atingem pesos maiores em idades mais jovens. Na prática, o critério
 utilizado é que o animal apresente, no mínimo, 60% de seu peso
 adulto para ser coberto, ou artificialmente inseminado, pela primeira
@@ -5571,7 +5551,7 @@ com as finanças do produtor.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 271
 
 O que é mais importante para o aumento da produção de
@@ -5615,7 +5595,7 @@ avaliar se compensa adquirir esse sêmen.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 273
 
 O desempenho produtivo do animal é garantia de que ele é
@@ -5661,7 +5641,7 @@ de características com baixa herdabilidade, nas quais o desempenho
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 do animal isoladamente não é um bom indicativo, deve-se observar
 o máximo de informações, inclusive dos pais e dos filhos desse animal.
 Se os pais de um animal foram bons, e se ele e seus filhos também
@@ -5707,7 +5687,7 @@ decorrência da estagnação do progresso genético.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 A  endogamia  ocorre  com  o  acasalamento  de  indivíduos
 parentes, que aumenta de probabilidade quando se mantém animais
 por muito tempo no rebanho. Todavia, teoricamente, quando se está
@@ -5751,7 +5731,7 @@ cruzamento entre essas raças.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 Os produtos dos cruzamentos são conhecidos como mestiços.
 Realiza-se o cruzamento quando se deseja obter o vigor híbrido ou
 heterose, que é a superioridade da progênie em relação à média dos
@@ -5794,7 +5774,7 @@ de várias raças no mesmo animal, realiza-se o cruzamento rotativo
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 ou alternado, que consiste em ir alternando no acasalamento, uma
 raça e outra, sucessivamente. Por exemplo, com um rebanho de fêmeas
 SRD, acasalam-se essas fêmeas com reprodutores Santa Inês, depois
@@ -5838,7 +5818,7 @@ tico desse tipo de cruzamento.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 284
 
 O uso do cruzamento absorvente nas condições do Nordeste
@@ -5881,7 +5861,7 @@ indicadas para serem maternas.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 O segundo passo é acasalar essas raças para gerar os produtos
 meio-sangue  (fêmeas  e  machos)  que  serão  destinados  ao  abate.
 É muito comum a utilização de fêmeas SRD como base para os cruza-
@@ -5925,7 +5905,7 @@ de seu grande efetivo.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 289
 
 Que raças ovinas são mais indicadas para cruzamento industrial?
@@ -5973,7 +5953,7 @@ deslanada considerada no cruzamento, bem como do objetivo do
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 produtor.  Pesquisas  indicam  semelhanças  no  desempenho  para
 crescimento e sobrevivência dos meio-sangue Hampshire Down, Ile-
 de-France, Suffolk, Texel com os meio-sangue Santa Inês, mas com
@@ -5997,9 +5977,9 @@ geração, isto é, com grau de sangue de 31/32.
 153
 
 
- 500pr_pgnumber154
-
  500pr_pgnumber155
+
+ 500pr_pgnumber156
 7 Alimentação Animal
 
 Nelson Nogueira Barros
@@ -6013,7 +5993,7 @@ João Ambrósio de Araújo Filho
 Eneas Reis Leite
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 Fase de Cria
 
 293
@@ -6063,7 +6043,7 @@ Para fazer feno de boa qualidade é preciso:
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 • Fazer feno de plantas que apresentem preferencialmente
 
 caules finos para facilitar o processo de corte e secagem.
@@ -6118,7 +6098,7 @@ visto que em ambas as situações, as matrizes recebem uma dieta
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 para atender suas necessidades, nesse período. Nesse caso, o fato
 que deve pesar mais na escolha de uma ou outra fonte de alimentação
 deve ser o custo. A opção mais econômica deve ser escolhida.
@@ -6166,7 +6146,7 @@ ano.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Em caatinga enriquecida, necessita-se de 0,1 a 0,4 ha/cab./ano,
 
 para ovino, e de 0,3 a 0,5 ha/cab./ano, para caprino.
@@ -6213,7 +6193,7 @@ ser  fornecida  deve  levar  em  conta  sua  condição  corporal,  não
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 podendo ultrapassar 600 g/cab./dia. Durante a estação de monta,
 deve-se manter a mesma alimentação.
 
@@ -6257,7 +6237,7 @@ deve-se suplementá-las durante os dois primeiros meses pós-parto.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 305
 
 Como deve ser feito o manejo nutricional das matrizes duran-
@@ -6305,7 +6285,7 @@ lidade ajustada à carga animal. Esses aspectos, além de favorecerem
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 o  consumo,  contribuem
 para  reduzir  o  dispêndio
 de energia com o desloca-
@@ -6349,7 +6329,7 @@ diversas doenças das mães para as crias. Quanto mais cedo, em
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 relação ao momento do nascimento, as crias de pequenos ruminantes
 domésticos mamarem o colostro, maior será a chance de sobrevi-
 vência.
@@ -6392,7 +6372,7 @@ de forragens verdes picadas ou na forma de pasto.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 313
 
 Feno de leguminosas é uma boa opção para crias caprinas e
@@ -6440,7 +6420,7 @@ separadamente.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 317
 
 O que é e como funciona o creep-feeding?
@@ -6487,7 +6467,7 @@ atender às necessidades dos animais.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 320
 
 O sal de cozinha pode ser usado como substituto do sal
@@ -6526,7 +6506,7 @@ minerais.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 Fase de Recria
 
 321
@@ -6572,7 +6552,7 @@ sua composição, tem apresentado bons resultados.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 323
 
 Quais os micronutrientes e as vitaminas mais importantes
@@ -6618,7 +6598,7 @@ matriz.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 Assim, o volumoso a ser utilizado para essa categoria animal
 deve ser da melhor qualidade possível para minimizar a utilização
 de ração concentrada.
@@ -6662,7 +6642,7 @@ coast cross são muito apreciados pelos animais. Os fenos podem ser
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 facilmente armazenados e são de fácil transporte. É importante utilizar
 fenos de boa qualidade para a obtenção dos resultados desejáveis,
 além de considerar a relação benefício/custo.
@@ -6706,7 +6686,7 @@ reduzir o estresse calórico.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 Considerando a necessidade de maximizar a ingestão de forra-
 gem, é conveniente que a suplementação seja realizada em horários
 de menor ingestão de forragem por pastejo.
@@ -6755,7 +6735,7 @@ como um alimento essencial aos indivíduos jovens, pois além de se
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 encontrarem em fase de crescimento e desenvolvimento, esses animais
 estão sendo preparados para serem incorporados à fase de produção
 ou de acabamento.
@@ -6802,7 +6782,7 @@ trado  o  componente  de  maior  peso,  o  tipo  e  a  quantidade  de
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 concentrado a ser fornecido aos animais são de fundamental impor-
 tância para a economicidade da prática.
 
@@ -6848,7 +6828,7 @@ corte/ha.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 337
 
 Como utilizar leguminosas em rações para cabritos e cordei-
@@ -6895,7 +6875,7 @@ nitrogênio como uréia e feno de leguminosas.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 340
 
 Como preparar a mistura cana-de açúcar + uréia?
@@ -6948,7 +6928,7 @@ Na fase de rotina, deve-se usar 1% de uréia pecuária (para cada
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 Caso os animais deixem de receber alimentos com uréia por
 dois dias consecutivos, o trabalho de adaptação deve ser reiniciado.
 
@@ -6990,7 +6970,7 @@ alimentar de 3,13.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 345
 
 Como usar resíduos de destilaria de álcool na alimentação
@@ -7036,7 +7016,7 @@ bastante energética. Por essa razão, pode substituir parte do milho
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 da ração. Em ração em que a polpa de citros constituía 25% do total
 para cordeiros ¾ Suffolk + ¼ Sem Raça Definida, em confinamento,
 o ganho médio foi de 307 g/dia e a conversão alimentar de 3,47.
@@ -7082,7 +7062,7 @@ Brasileira, respectivamente.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 350
 
 O caroço de algodão pode ser utilizado em rações para
@@ -7133,7 +7113,7 @@ de peso. Sua utilização, porém, deve ficar limitada à quantidade que
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 não ultrapasse 7% de extrato etéreo na dieta total, isto é, volumoso e
 concentrado. O uso desse tipo de suplemento energético tem como
 vantagens:
@@ -7181,7 +7161,7 @@ um volumoso de boa qualidade, pois
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 contém  muita  proteína  e  fibra  de  boa  digestibilidade.  Deve-se,
 entretanto, utilizar somente o terço superior da planta, isto é, a parte
 enfolhada, onde o talo é tenro. Esse volumoso deve ser triturado e
@@ -7226,7 +7206,7 @@ umidade.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 Na Região Nordeste, em virtude de sua diversidade de ambien-
 tes e do pasto nativo abundante na época das águas, podem ser
 cultivados desde o já regionalmente popular capim-búfel cv. aridus,
@@ -7273,7 +7253,7 @@ Para a Região Nordeste, além das nativas, pode-se cultivar:
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 Quanto às leguminosas para a Região Centro-Oeste, os estilo-
 santes são bem adaptados e produtivos, devendo-se apenas atentar
 para a questão de palatabilidade para ovinos.
@@ -7317,7 +7297,7 @@ zado  o  cálculo  real,  deve-se  considerar  que  há  diferenças  de
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 produção do pasto entre a época seca e a chuvosa, e que o animal
 vai ganhando peso, e por isso seu consumo deve ser ajustado, tempo-
 rariamente, e que o animal não permanece em acabamento o ano
@@ -7365,7 +7345,7 @@ atender suas necessidades
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 de  consumo,  vão  pastejar  a  uma  altura  cada  vez  mais
 próxima do solo. Com isso, os novos brotos que surgem serão
 rapidamente  consumidos,  não  dando  tempo  de  a  planta
@@ -7410,7 +7390,7 @@ hectare.
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 364
 
 Qual a diferença entre a lotação contínua (pastejo contínuo)
@@ -7457,7 +7437,7 @@ qualidade inferior.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 366
 
 Que manejo deve ser feito para aumentar a capacidade de
@@ -7503,7 +7483,7 @@ dez anos sem entrar em processo de degradação.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 368
 
 A partir de quanto tempo depois de plantado um pasto pode
@@ -7550,7 +7530,7 @@ possui, escolher qual a melhor opção.
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 Tratando-se caso de poucos animais, a vedação na segunda
 
 metade da época chuvosa é mais vantajosa.
@@ -7600,7 +7580,7 @@ de peso vivo. Uma UA
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 corresponde ao consumo diário de 12 kg de matéria seca, quantia
 requerida por um bovino de 454 kg. Entretanto, os mesmos 12 kg de
 matéria seca são requeridos por apenas 240 kg de ovinos ou caprinos.
@@ -7641,7 +7621,7 @@ transformar  uma  área  de  capineira  em  pastejo,  são  necessárias
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 algumas mudanças estruturais, como a colocação de cercas divisórias
 para estabelecer o manejo rotacionado.
 
@@ -7687,7 +7667,7 @@ ruminantes domésticos contribuem com proteína, que é o principal
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 nutriente para a formação de carne. Ademais, as leguminosas podem
 estar presentes na dieta dos animais quando consorciada no pasto
 ou como banco de proteína. As leguminosas favorecem também a
@@ -7732,7 +7712,7 @@ maior  escassez  de  alimentos  (estação  seca),  quando  não  se  usa
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 irrigação. Geralmente, o pasto fica pobre em quantidade e qualidade,
 daí a necessidade de suplementação com misturas múltiplas e con-
 centrados comerciais associados ao uso de volumoso, como banco
@@ -7778,7 +7758,7 @@ animais e pela quantidade de sal ou mistura e obtém-se, assim, a
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 quantidade a ser fornecida diariamente. Ao multiplicar essa quanti-
 dade pelo número de dias de fornecimento do sal mineral ou da
 mistura, tem-se a quantidade total para suplementar os animais em
@@ -7813,7 +7793,7 @@ de um técnico.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 8 Abate, Cortes de Carcaça
 
 e Processamento de
@@ -7826,7 +7806,7 @@ Ana Cristina Richter Krolow
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 385
 
 Por que a carne caprina não é bem aceita pela maioria dos
@@ -7873,7 +7853,7 @@ cias dos mercados.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 387
 
 A glândula que existe no interior de cada pernil é responsável
@@ -7923,7 +7903,7 @@ brancas e vermelhas.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 • Câmaras de resfriamento e de congelamento.
 • Equipamentos de tratamento dos efluentes do abate e dos
 
@@ -7978,7 +7958,7 @@ ou purulentas.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 393
 
 Quais as recomendações para o transporte dos animais ao
@@ -8027,7 +8007,7 @@ mento geral do organismo, favorecendo a sangria, a esfola ou retirada
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 da pele e, também, bom aspecto da carcaça. Ao passo que o jejum
 de sólidos facilita as operações de retirada dos conteúdos gastrintestinais.
 
@@ -8074,7 +8054,7 @@ para o fabrico de ração animal.
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 401
 
 Do ponto de vista do Serviço de Inspeção Sanitária de Carnes,
@@ -8124,7 +8104,7 @@ o sexo, o estado nutricional, a idade e a localidade (origem) do
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 animal. Assim, registram-se rendimentos de carcaças de caprinos que
 vão de 42% a 50%. Os menores porcentuais são encontrados nas
 raças nativas (Moxotó, Repartida, Marota, Canindé, Gurgueia), e a
@@ -8169,7 +8149,7 @@ hipercolesterolêmicas.  Segundo  alguns  pesquisadores,  a  carne
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 caprina apresenta menor teor de gordura do que peito de frango (ou
 ao menos se assemelha), apresentando teor maior somente quando
 comparada com carne de peixe.
@@ -8218,7 +8198,7 @@ momento da compra.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 411
 
 Quais os cortes padronizados de carcaça de caprinos e ovinos
@@ -8263,7 +8243,7 @@ Os cortes atingem, em média, as seguintes proporções:
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 414
 
 A técnica do fatiamento de cortes padronizados pode ser
@@ -8310,7 +8290,7 @@ PVC,  com  peso  máximo  de
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 Os  cortes  desossados  podem  ser  embalados  tanto  a  vácuo
 quanto em bandeja com película de PVC, devendo ser comerciali-
 zados congelados, mesmo no varejo.
@@ -8358,7 +8338,7 @@ barreiras impostas pelas distâncias, tanto dentro como fora do País.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 O processamento industrial viabiliza o aproveitamento de carnes de
 qualidade inferior, como as carcaças de animais idosos.
 
@@ -8406,7 +8386,7 @@ tipo de gordura, além da já existente na carne, mantendo assim
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 características de maciez e fatiabilidade similares às encontradas em
 embutido tradicional de boa qualidade.
 
@@ -8450,7 +8430,7 @@ todos de boa qualidade.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 426
 
 Existem tecnologias disponíveis para a fabricação de pro-
@@ -8470,9 +8450,9 @@ tem teor de gordura final bastante reduzido.
 209
 
 
- 500pr_pgnumber210
-
  500pr_pgnumber211
+
+ 500pr_pgnumber212
 9 Produção e
 
 Processamento de Peles
@@ -8481,7 +8461,7 @@ Caprinas e Ovinas
 Nelson Nogueira Barros
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 427
 
 Por que as peles de animais deslanados são tão apreciadas
@@ -8527,7 +8507,7 @@ da pele.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 • Ardimento e man-
 chas  de  fermen-
 tação  em  decor-
@@ -8575,7 +8555,7 @@ sos, um estrago ainda maior.
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 As injeções devem ser aplicadas, preferencialmente abaixo da
 linha ventral, devendo as subcutâneas serem feitas na região anterior
 ou posterior da paleta, ao passo que as aplicações intramusculares
@@ -8622,7 +8602,7 @@ favorecer o desprendimento parcial da pele. O processo com ar
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 comprimido requer o uso de compressor de ar, mas na falta desse
 equipamento pode-se usar uma bomba de pneu de carro com uma
 agulha de injeção na ponta.
@@ -8670,7 +8650,7 @@ escrotal, úbere, prepúcio e cauda). Feito isso, procede-se à lavagem
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 da pele, tendo o cuidado de retirar todos os resíduos de sangue e
 excrementos.
 
@@ -8719,7 +8699,7 @@ os processos de esfola e armazenamento da pele.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 441
 
 Existe alternativa ao sistema de exploração caprina e ovina
@@ -8766,7 +8746,7 @@ ectoparasitas e estocadas em ambiente seco e ventilado.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 444
 
 As peles devem ser consideradas subprodutos nas explo-
@@ -8808,7 +8788,7 @@ que produzem tanino.
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 10
 
 Mercado e
@@ -8833,7 +8813,7 @@ Raymundo Rizaldo Pinheiro
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 447
 
 O que é mercado?
@@ -8879,7 +8859,7 @@ representa 13.773 t.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 450
 
 Quais os principais países importadores de carnes caprina e
@@ -8921,7 +8901,7 @@ com 12% e o Piauí, com 10%.
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 453
 
 Qual  o  tamanho  real  do  mercado  interno  de  caprinos  e
@@ -8967,7 +8947,7 @@ exportadores  líquidos  de  peles  de  ovinos,  os  valores  de  suas
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 exportações superaram as
 importações em 100 e 40
 milhões de dólares, respec-
@@ -9011,7 +8991,7 @@ classificadas na Região Nordeste, apenas 3% podem ser consideradas
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 de primeira categoria. A grande maioria (66%) é classificada como
 peles de quarta categoria. Do total de peles classificadas, 5% e 6%
 são consideradas de segunda e terceira categorias, respectivamente,
@@ -9055,7 +9035,7 @@ cabra e ovelha, cana-de-açúcar, entre outros produtos. O agronegócio
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 abrange desde a produção de insumos, a produção primária (carne
 e peles), o abate e o processamento até a distribuição e o consumo.
 No Brasil, as atividades ligadas ao agronegócio movimentam
@@ -9100,7 +9080,7 @@ pação de agroindústrias (frigoríficos) e de pontos comerciais formais.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
  Entretanto, o desenvolvimento de alguns pólos econômicos
 na região Semi-Árida, como o de Petrolina, em Pernambuco, e o de
 Juazeiro, na Bahia, tem estimulado investimentos públicos e privados
@@ -9146,7 +9126,7 @@ consumidor é o mais curto.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 Quando o processo de comercialização envolve terceiros, tem-
 se maior complexidade e maior extensão do canal de comerciali-
 zação.
@@ -9191,7 +9171,7 @@ ruminantes domésticos depende,
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 muitas vezes, da compra de insumos oriundos de outras regiões ou
 países, e o destino da produção pode vir a ser outro país. Assim sendo,
 as variações de oferta e demanda de insumos em um país influenciam
@@ -9236,7 +9216,7 @@ de expansão dos mercados consumidores.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 Os novos mercados consumidores, entretanto, são bem mais
 exigentes em termos de qualidade e de normas de comercialização,
 forçando os agentes da cadeia produtiva da caprinocultura e da
@@ -9279,7 +9259,7 @@ animais, o que significa escala de produção com padronização, ou
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 seja, características semelhantes no tocante à idade, sexo e peso,
 permitindo melhor remuneração pelos abatedouros-frigoríficos.
 
@@ -9328,7 +9308,7 @@ tivas, o pequeno produtor pode aumentar seu poder de barganha
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 junto  aos  mercados  de
 insumos  e  de  produtos.
 Assim, os produtores têm
@@ -9372,7 +9352,7 @@ baixo custo de produção, padronização e a marca, certificação dos
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 produtos, segurança alimentar, flexibilidade na compra, agilidade na
 entrega e respeito às leis de preservação ambiental.
 
@@ -9422,7 +9402,7 @@ quantidade e qualidade requeridas pela demanda.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 • A empresa prefere assumir compromissos com um número
 menor de agropecuaristas com maior escala de produção,
 de forma a reduzir os custos de transação.
@@ -9471,7 +9451,7 @@ produtos competem com as carnes de caprinos e ovinos.
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 Se por acaso os preços de todos eles apresentarem tendência
 crescente, o produtor de caprinos e ovinos pode auferir lucros se
 tiver condições de comercializar seu produto a preços menores.
@@ -9519,7 +9499,7 @@ produtos prontos para o consumo. Isso pode ser feito em convênio
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 com supermercados, onde
 os  produtores  colocam
 estandes para a exposição
@@ -9564,7 +9544,7 @@ tor tenha acesso às informações de mercado.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 Recomenda-se ainda a formalização de contratos de compra e
 venda com abatedouros e frigoríficos, que estimulem a qualidade, a
 quantidade, a freqüência de entrega e preços. Esse mecanismo é efi-
@@ -9610,7 +9590,7 @@ pode elevar os ganhos. Mais uma vez, as formas de organização de
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 produtores em grupos, associações e cooperativas, são uma alternativa
 razoável para a aquisição dos insumos por menores preços.
 
@@ -9656,7 +9636,7 @@ deve  observar  atentamente  as  informações  existentes  sobre  as
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 variações  dos  preços  praticados.  Dispondo  de  informações  que
 permitam fazer inferências sobre preços futuros, o produtor pode
 analisar diferentes estratégias, como vender os animais agora ou no
@@ -9702,7 +9682,7 @@ controle individual dos animais, registrando todas as ocorrências
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 relevantes desde o nascimento até o abate. A rastreabilidade é outro
 meio de agregar valor, pois o mercado tem acesso a todo o histórico
 do produto.
@@ -9748,7 +9728,7 @@ produtos cárneos originários de caprinos e ovinos.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 Assim, a obtenção da rastreabilidade e da certificação assegura
 o acesso a mercados exigentes e com grande poder de compra, como
 UE, Estados Unidos e Japão.
@@ -9795,7 +9775,7 @@ que  visam  conter  ou  prevenir  a  entrada  de  enfermidades  em
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 municípios,  estados,  re-
 giões ou países. Esse con-
 trole é exercido por órgãos
@@ -9837,88 +9817,5 @@ danos à saúde das populações e danos financeiros aos produtores,
 em virtude das dificuldades impostas à comercialização dos produtos.
 
 241
-
-
- 500pr_pgnumber242
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber243
-Caprinos
-
-Embrapa Caprinos, para comemorar 30 anos de 
-serviços prestados à sociedade brasileira, produ-
-ziu esta obra, que se destina a estudantes, técni-
-cos, extensionistas e produtores, cujo objetivo princi-
-pal é atender à crescente demanda nacional por informa-
-ções sobre caprinos e ovinos de corte.
-
-Fruto  do  trabalho  conjunto  da  equipe  técnica  da 
-Embrapa Caprinos e de alguns de seus colaboradores, esta 
-publicação  foi  elaborada  a  partir  de  dúvidas  e  questio-
-namentos feitos pelos clientes, em cartas, e-mail e fax, bem 
-como  durante  treinamentos,  dias-de-campo  e  palestras.
-As respostas trazem os resultados de 30 anos de pesquisa da 
-Embrapa Caprinos e as experiências de seus pesquisadores 
-e colaboradores nas principais áreas da produção animal, 
-como: sanidade, reprodução, alimentação e manejo geral. 
-Além disso, apresentam informações sobre administração 
-rural, especificamente nas áreas de organização da produ-
-ção  e  da  comercialização,  abordando  também  aspectos 
-diretamente ligados aos produtos carne e pele.
-
-Espera-se  que  esta  publicação  seja  útil  e  fonte  de 
-consulta para o meio rural e o acadêmico e, sobretudo, 
-possa contribuir para o sucesso dos agronegócios da capri-
-nocultura e da ovinocultura de corte em todo o território 
-nacional.
-
-1
--
-8
-1
-3
--
-3
-8
-3
-7
--
-5
-8
- 
-N
-B
-S
-
-I
-
-8
-8
-1
-3
-3
-8
-
-3
-7
-5
-8
-8
-7
-
-9
-
-4
-3
-3
-5
- 
-E
-P
-G
-C
 
 

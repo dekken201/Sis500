@@ -1,19 +1,5 @@
 
- 500pr_pgnumber015
-1 Origem, Evolução e 
-
-Melhoramento Genético
-
-Eduardo Caierão
-
-Pedro Luiz Scheeren
-
-Ricardo Lima de Castro
-
-Márcio Só e Silva
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  Qual é a origem do trigo?
 
 O trigo é uma gramínea origina­
@@ -56,7 +42,7 @@ Espécie: várias, principalmente Triticum aestivum L.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 4  Quais são as principais espécies de trigo existentes no mundo?
 
 As espécies de trigo se caracterizam por possuir diferentes nú­
@@ -104,7 +90,7 @@ Grossa, PR.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 Contudo, antes disso, em 1914, o engenheiro químico Jorge 
 Polyssú, selecionou, no Paraná, dois sacos de trigo, adquiridos em 
 Guaporé,  RS,  constituindo  a  cultivar  Polyssú,  que  representa  um 
@@ -149,7 +135,7 @@ por vários anos, até se obter uma nova cultivar.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 9 
 
 Que cultivares de trigo desenvolvidas no Brasil merecem 
@@ -209,7 +195,7 @@ deve ser suficiente para compensar esses custos adicionais.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 11  O que é trigo “peladinho”?
 
 É  uma  definição  popular  refe­
@@ -248,7 +234,7 @@ exigência em fotoperíodo e em temperatura.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 A planta possui de 6 a 9 folhas e sua inflorescência é deno­
 minada  espiga.  O  ciclo  do  trigo  varia  muito,  conforme  o  grupo 
 bioclimático e o componente genético das cultivares. No Brasil, a 
@@ -296,7 +282,7 @@ que sob condição de dias longos.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 16 
 
 Quais são as diferenças entre trigos duros europeus e as 
@@ -345,7 +331,7 @@ em parcelas experimentais.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 Em lavouras comerciais, esse potencial dificilmente é alcançado 
 mas,  frequentemente,  encontram­se  lavouras  com  rendimentos 
 superiores a 5 t/ha.
@@ -391,7 +377,7 @@ bactérias)  estão  em  constante  interação.  Uma  cultivar  de  trigo  é
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 resistente  a  determinada  doença,  quando  a  planta  possui  um  ou 
 vários genes que confere essa reação. Entretanto, os fungos e demais 
 patógenos estão em constante evolução e mutação, determinando o 
@@ -434,7 +420,7 @@ podem ser cultivadas sem água. Dentre as indicações atuais, para
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 cultivo em regime de sequeiro, na região do Cerrado, a BR 18 tem 
 apresentado melhores respostas ao longo dos anos.
 
@@ -479,7 +465,7 @@ parâmetros de qualidade:
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 •  Força de glúten.
 •  Relação tenacidade/extensibilidade (P/L).
 •  Número de queda (NQ).
@@ -521,7 +507,7 @@ No mundo, destacam­se os seguintes bancos de germoplasma:
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 •  Centro  Internacional  de  Melhoramento  de  Milho  e  Trigo 
 
 (Cimmyt), no México.
@@ -564,7 +550,7 @@ Triticum durum. Desde 1919 (início das atividades de melhoramento
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 de trigo no País), inúmeras empresas já atuaram no melhoramento 
 genético de trigo no Brasil. Contudo, atualmente, podem­se destacar:
 
@@ -614,7 +600,7 @@ Cultivares (SNPC).
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 Referências
 
 BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Instrução 
@@ -639,9 +625,9 @@ no Brasil e instituições criadoras – 1922 a 2014. Brasília, DF: Embrapa, 2014.
 29
 
 
- 500pr_pgnumber030
-
  500pr_pgnumber031
+
+ 500pr_pgnumber032
 2 Bioclimatologia e 
 
 Zoneamento Agrícola
@@ -659,7 +645,7 @@ Anderson Santi
 Jorge Alberto de Gouvêa
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 31 
 
 Quais são as fases do ciclo de desenvolvimento do trigo e 
@@ -707,7 +693,7 @@ por  genes  ligados  à  resposta  ao  fotoperíodo/comprimento  do  dia
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 intrínseca  (genes  earliness  per  se  –  Eps),  que  juntos  condicionam 
 a sucessão de estádios/fases e definem a duração do ciclo de uma 
 dada cultivar conforme as disponibilidades de recursos do ambiente 
@@ -759,7 +745,7 @@ vernalização.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 •  Trigos de inverno são aqueles que não possuem alelos domi­
 nantes da série de genes Vrn-1 (Vrn-A1, Vrn-B1 e Vrn-D1), 
 necessitando  de  um  tempo  de  exposição  a  temperaturas 
@@ -802,7 +788,7 @@ No caso do trigo, sendo uma planta de dias longos, significa que
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 essa  espécie  acelera  o  seu  desenvolvimento  com  a  elevação  do 
 fotoperíodo (até o limite de 20 horas/dia).
 
@@ -849,7 +835,7 @@ especialmente em anos em que há bastante inóculo do patógeno
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 no ar e coincide com ambiente úmido e quente a partir do espiga­
 mento do trigo.
 
@@ -895,7 +881,7 @@ de afilhamento, até a metade do alongamento (2 a 3 nós
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 visíveis). O evento mais importante nessa etapa é expansão 
 da área foliar, sendo desejável que, no final dessa etapa, a 
 cultura tenha área foliar suficiente para interceptar a maior 
@@ -939,7 +925,7 @@ produzir grãos.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 Nesse  período  crítico,  condições  de  ambiente  desfavoráveis 
 (baixa disponibilidade de radiação solar e temperatura do ar elevada) 
 refletirão negativamente na definição do número de flores férteis no 
@@ -985,7 +971,7 @@ por unidade de superfície cultivada (o componente de rendimento
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 que mais explica as variações de rendimento em trigo entre anos, 
 locais, épocas de semeadura e cultivares). A ação da radiação solar, 
 nesse  caso,  dá­se  por  intermédio  do  quociente  fototermal  (razão 
@@ -1031,7 +1017,7 @@ ou nula e condições térmicas mais favoráveis.
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 43 
 
 Quais são as principais características ambientais das zonas 
@@ -1077,7 +1063,7 @@ de  maior  aptidão  para  cultivo  de  trigo  são  as  de  altitude  elevada
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 800 m). Nelas, na época seca do ano (entre maio e setembro), sob 
 irrigação,  para  cultivares  de  trigo  com  pouca  exigência  em  frio  e 
 que  apresentam  certa  insensibilidade  fotoperiódica,  as  condições 
@@ -1123,7 +1109,7 @@ divisões, uma parte fria (Região 1) e outra quente (Região 2); uma região
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 moderadamente seca e quente (Região 3), porém, ainda passível de 
 cultivo de trigo sem irrigação, localizada no norte do Paraná, no sul 
 do Estado de São Paulo e em parte do território do Mato Grosso do 
@@ -1172,7 +1158,7 @@ agricultura, que foi posto em prática no Brasil, em 1996, pelo governo
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 federal, para fazer frente às taxas de dano por adversidades climáticas 
 elevadas que caracterizavam a agricultura brasileira na época.
 
@@ -1221,7 +1207,7 @@ federação.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 •  Período 4 (1º a 10 de fevereiro).
 •  Período 5 (11 a 20 de fevereiro).
 •  Período 6 (21 a 28/29 de fevereiro).
@@ -1267,7 +1253,7 @@ adequado para a semeadura de trigo exige que sejam considerados
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 vários  critérios.  O  primeiro  e  mais  relevante  envolve  a  avaliação 
 das características do meio físico (clima e solo) frente às exigências 
 fisiológicas do trigo.
@@ -1316,7 +1302,7 @@ tecnológica do produto que será colhido.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 Na  busca  pela  melhor  época  de  semeadura,  é  necessário 
 tomar decisões embasadas em integração de informações e seguir 
 o  calendário  preconizado  pelo  Zoneamento  Agrícola  de  Risco 
@@ -1357,7 +1343,7 @@ fazendo com que o vapor d’água presente no ar passe diretamente
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 para a fase sólida (sublimação), formando o gelo que se deposita 
 na  superfície  de  objetos.  Vale  ressaltar  a  diferença  entre  geada  e 
 orvalho congelado, que é o congelamento das gotas de orvalho que 
@@ -1408,7 +1394,7 @@ do País.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 54 
 
 Quando podem ser avaliados os danos causados por geadas 
@@ -1453,7 +1439,7 @@ dependentes do genótipo e do ambiente.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 A  tolerância  das  plantas  ao  resfriamento  pode  aumentar,  se 
 essas forem aclimatadas por exposição prévia a baixas temperaturas. 
 Assim,  o  dano  por  resfriamento  pode  ser  minimizado  se  a 
@@ -1496,7 +1482,7 @@ trigo e em outros cultivos de inverno no Brasil:
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 •  Controle  natural  de  plantas  daninhas  remanescentes  do 
 
 verão.
@@ -1543,7 +1529,7 @@ sob  condições  ótimas  de  temperatura,  de  umidade  e  de  luz,  os
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 grãos não germinam) e facilitam o início da germinação dos grãos na 
 espiga, quando ocorrem chuvas no período de colheita. Em resumo, 
 para que o problema se manifeste, duas condições são necessárias: 
@@ -1587,7 +1573,7 @@ de  temperatura,  exercem  forte  influência  na  duração  do  período
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 de dormência. Portanto, a interação entre as características gené­
 ticas  das  cultivares  e  as  condições  de  ambiente,  principalmente 
 meteorológicas, é que define a ocorrência ou não de germinação 
@@ -1630,7 +1616,7 @@ colheita antecipada.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 63 
 
 Quais  são  os  principais  problemas  relacionados  com  a 
@@ -1673,7 +1659,7 @@ do contato com a umidade do solo.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 A sensibilidade ao acamamento é geneticamente controlada, 
 sendo que as cultivares de porte mais elevado são as mais sensíveis. 
 Outro  fator  que  também  pode  predispor  as  plantas  de  trigo  ao 
@@ -1720,7 +1706,7 @@ O fenômeno El Niño – Oscilação Sul (Enos) possui duas fases:
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 •  Fase quente (El Niño).
 •  Fase fria (La Niña).
 O  comportamento  da  temperatura  das  águas  do  Oceano 
@@ -1769,7 +1755,7 @@ impactos positivos são maioria.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 Esse comportamento pode ser explicado pela influência que 
 o  fenômeno  Enos  exerce  nas  anomalias  de  chuva  nos  períodos 
 de primavera e de começo do verão no Sul do Brasil, região que 
@@ -1815,7 +1801,7 @@ de colhedoras como na secagem do produto colhido.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 •  Não proceder generalização regional sobre efeitos meteoro­
 lógicos  na  qualidade  das  safras  de  trigo,  em  anos  de 
 El  Niño.  Existe  grande  variabilidade  dentro  da  região  Sul 
@@ -1861,9 +1847,9 @@ agricultura.gov.br/arq_editor/file/Agrot%C3%B3xicos/IN2.pdf>. Acesso em
 57
 
 
- 500pr_pgnumber058
-
  500pr_pgnumber059
+
+ 500pr_pgnumber060
 3 Manejo do Solo 
 
 e Sistema Plantio Direto
@@ -1872,7 +1858,7 @@ José Eloir Denardin
 Antonio Faganello
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 71  O que é solo?
 
 Sob o enfoque elementar, solo é um corpo componente da 
@@ -1917,7 +1903,7 @@ plantas.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 •  Capacidade para armazenar e difundir calor.
 •  Adequada permeabilidade à água e ao ar ou a gases.
 •  Reação do solo ou pH do solo, preferencialmente, na faixa 
@@ -1962,7 +1948,7 @@ retiradas de fitomassa por meio de colheitas, etc.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 Dependendo da intensidade e do modo como essas interferên­
 cias humanas são processadas, elas poderão resultar na conservação 
 ou na degradação do agroecossistema e, inclusive, dos sistemas do 
@@ -2007,7 +1993,7 @@ orgânica  que  será  gerada  nesse  solo.  Portanto,  são  as  espécies
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 vegetais  e  animais  componentes  dos  modelos  de  produção  que 
 determinam  a  intensidade  da  atividade  biológica  do  solo.  Sob  o 
 ponto  de  vista  agronômico,  é  a  atividade  biológica  que  define  a 
@@ -2048,7 +2034,7 @@ defesa de ecossistemas que não devem sofrer qualquer intervenção
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 ou  alteração  causada  por  humanos,  tanto  de  forma  direta  –  pela 
 exploração  de  seus  componentes  –  quanto  de  forma  indireta, 
 pelo impacto resultante da exploração de sistemas vizinhos. Áreas 
@@ -2091,7 +2077,7 @@ e diversifiquem a adição de material orgânico.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 79  O que é conservação do solo?
 
 Conservação  do  solo  é  a  ciência  que  estuda,  desenvolve  e 
@@ -2135,7 +2121,7 @@ do  solo,  prevenindo  poluição,  contaminação  e  degradação  de
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 ecossistemas  e  demais  sistemas  do  entorno,  reduzindo  o  uso  de 
 combustíveis fósseis e equilibrando a taxa de emissão de gases de 
 efeito estufa.
@@ -2182,7 +2168,7 @@ das culturas.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 •  Diversificação de espécies, em rotação, consorciação e/ou 
 
 sucessão de culturas.
@@ -2229,7 +2215,7 @@ direto ou de semeadura direta, apenas ressaltando a necessidade de
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 manutenção dos resíduos de planta da cultura anterior na superfície 
 do solo. Entretanto, esse aspecto não assegura a adoção de:
 
@@ -2274,7 +2260,7 @@ linha  ou  na  cova  de  semeadura  ou  de  plantio,  manutenção  dos
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 restos de cultura na superfície do solo e diversificação de espécies 
 em modelos de produção, via rotação de culturas, consorciação de 
 culturas e/ou sucessão de culturas.
@@ -2325,7 +2311,7 @@ por ano.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 85 
 
 Pode­se esperar maior produtividade da cultura de trigo no 
@@ -2371,7 +2357,7 @@ na atmosfera.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 88 
 
 Qual é a quantidade de biomassa produzida pela cultura 
@@ -2419,7 +2405,7 @@ conter a enxurrada e controlar a erosão hídrica, independentemente:
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 •  Do tipo de solo que apresenta.
 •  Do manejo praticado.
 É  importante  salientar  que  a  palha  na  superfície  do  solo  o 
@@ -2459,7 +2445,7 @@ superfície.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 93  Quais são os tipos de terraços?
 
 Os terraços são classificados da seguinte maneira:
@@ -2509,7 +2495,7 @@ mas não eliminá­la.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 A maximização do controle da erosão é obtida com a associação 
 de práticas conservacionistas e não com práticas individualizadas. 
 Assim, o efeito do terraceamento na redução do processo erosivo 
@@ -2554,7 +2540,7 @@ tida  entre  dois  terraços  sem  que  haja  risco  de  erosão  provocada
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 pela enxurrada, na faixa de lavoura protegida por eles. Em outras 
 palavras,  o  espaçamento  entre  terraços  torna­se  crítico  quando  a 
 capacidade erosiva da enxurrada supera a capacidade do solo e da 
@@ -2603,7 +2589,7 @@ de infiltração de água no solo, promovendo:
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 •  Pequeno volume de água armazenada no solo para servir as 
 plantas, gerando perdas de produtividade, e para alimentar o 
 lençol freático, comprometendo a qualidade e a quantidade 
@@ -2647,7 +2633,7 @@ o desenvolvimento radicular das plantas.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 98 
 
 Quais  são  os  métodos  para  diagnosticar  problemas  de 
@@ -2696,7 +2682,7 @@ de solo, adjacentes à lavoura, ainda sob vegetação natural.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 Sugere­se que a avaliação da compactação do solo, mediante 
 o  uso  de  penetrômetro,  seja  feita  24  horas  após  uma  chuva  que 
 tenha saturado o solo na camada de 0 cm a 30 cm de profundidade.
@@ -2747,7 +2733,7 @@ po em que o solo permanecerá livre de nova compactação. Portan­
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 to, a descompactação do solo só é efetivada quando associa práticas 
 mecânicas a práticas vegetativas, seja no ato da operação de des­
 compactação, seja no manejo a ser adotado a partir desta operação.
@@ -2792,7 +2778,7 @@ dução é estruturado e de como o sistema de produção é manejado.
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 Para prevenir a compactação ou a degradação do solo, há que 
 se  considerar  os  princípios  da  agricultura  conservacionista,  tanto 
 para  compor  o  modelo  de  produção  a  ser  adotado  quanto  para 
@@ -2835,7 +2821,7 @@ reduz o armazenamento e a disponibilidade de água para as plantas;
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 reduz o fluxo de ar ou de gases no solo; reduz a permeabilidade do 
 solo à água e ao ar e gases; normalmente, baixa o pH do solo; e 
 interfere na disponibilidade de nutrientes para as plantas.
@@ -2881,7 +2867,7 @@ indicado, porque gera problemas como:
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 •  Pragas.
 •  Doenças.
 •  Plantas daninhas sem controle.
@@ -2926,7 +2912,7 @@ por exemplo, cultivar milho/trigo, pois essas duas culturas pertencem
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 à mesma família, isto é, à família das poáceas. Quando se cultiva 
 milho na safra de verão, imediatamente após a colheita desse milho, 
 sugere­se  que  seja  cultivado  nabo  forrageiro,  por  exemplo,  como 
@@ -2976,7 +2962,7 @@ matricial do solo depende da estrutura desse solo, ou seja, depende
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 da  relação  entre  a  quantidade  de  macroporos,  a  quantidade  de 
 microporos e da granulometria do solo. A relação entre macroporos 
 e microporos do solo é o principal fator determinante do grau de 
@@ -3009,7 +2995,7 @@ quanto doenças e plantas daninhas.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 4 Calagem, Adubação 
 
 de Base e Inoculação 
@@ -3024,7 +3010,7 @@ José Pereira da Silva Júnior
 Sirio Wiethölter
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 111  Quais são as exigências nutricionais da cultura do trigo?
 
 O  adequado  crescimento  e  desenvolvimento  da  planta  de 
@@ -3071,7 +3057,7 @@ nutricional  e  na  indicação  de  adubação  da  cultura  do  trigo  de
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 duas formas: 1) na geração de cultivares com base na seleção de 
 plantas com maior eficiência; 2) na geração de cultivares de elevada 
 produtividade.
@@ -3117,7 +3103,7 @@ elevadas.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 O  nível  tecnológico  da  propriedade  diz  respeito  ao  plano 
 de  rotação/sucessão  adotado  pela  propriedade,  ao  arranjo  de 
 semeadura definido e à qualidade de distribuição de sementes, à 
@@ -3162,7 +3148,7 @@ A amostragem do solo é feita em duas fases:
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 •  Primeira fase – Deve­se considerar a divisão da propriedade 
 em glebas homogêneas (quando não feita por amostragem 
 em  grade  ou  grid  –  no  caso  da  agricultura  de  precisão), 
@@ -3208,7 +3194,7 @@ as amostragens devem ser realizadas na camada de 0 cm a 20 cm.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 No sistema plantio direto consolidado, as amostras devem ser 
 coletadas na camada de 0 cm a 10 cm, o que não impede que sejam 
 realizadas amostragens adicionais na camada de 10 cm a 20 cm no 
@@ -3254,7 +3240,7 @@ bilidade  ou  tolerância  à  acidez  do  solo  (Al  tóxico)  em  menor  ou
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 maior grau é intrínseca de cada cultivar de trigo. Informações com 
 relação à tolerância ao Al das cultivares de trigo devem ser fornecidas 
 pelos obtentores das cultivares.
@@ -3298,7 +3284,7 @@ de PRNT e não apenas o custo por tonelada de calcário.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 Vale lembra que, além do PRNT, outros fatores são importantes 
 a  se  considerar  na  compra  do  calcário  como  o  teor  de  Mg,  cuja 
 deficiência pode ser determinante na produção do trigo em diversas 
@@ -3345,7 +3331,7 @@ recomenda­se a correção da acidez do solo quando o pH estiver
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 abaixo  de  6,0.  Outros  critérios  adotados  são  o  percentual  de 
 saturação da CTCpH7,0 e a saturação da CTCefetiva por Al.
 
@@ -3391,7 +3377,7 @@ corretivo da acidez do solo deve ser aplicado a lanço, na superfície.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 128 
 
 Existe  diferença  na  frequência  de  calagem  entre  plantio 
@@ -3434,7 +3420,7 @@ lavoura de trigo.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 130 
 
 Que dose de N deve ser aplicada no cultivo do trigo e qual 
@@ -3481,7 +3467,7 @@ período for baixa.
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 Essa é a principal razão por que se aplica todo o P recomendado, 
 diretamente,  no  sulco  de  semeadura  (disposto  2,5  cm  ao  lado  e 
 abaixo  da  semente)  do  trigo,  usando  como  fonte  os  fertilizantes 
@@ -3526,7 +3512,7 @@ em termos de proporções de nutrientes disponíveis à planta.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 Ao  longo  do  tempo,  o  uso  indiscriminado  de  fórmulas  co­
 merciais  causa  grandes  desequilíbrios  no  balanço  de  nutrientes 
 disponíveis às plantas na lavoura, o que acaba afetando a produção, 
@@ -3569,7 +3555,7 @@ mento da implantação da lavoura e
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 diretamente na linha de semeadura da cultura do trigo. Parte do N 
 é aplicada na semeadura (aproximadamente 20 kg/ha a 30 kg/ha) e 
 parte em cobertura, em duas épocas que coincidem com o estádio 
@@ -3615,7 +3601,7 @@ crescimento vegetativo.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 Deficiência de fósforo (P) – Folhas velhas sofrem bronzeamento 
 que evolui da ponta para a base da folha. O avanço da deficiência 
 de P causa secamento das folhas mais velha, baixo crescimento da 
@@ -3662,7 +3648,7 @@ podem ser aproveitados pela cultura subsequente.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 Geralmente,  por  questão  de  segurança,  recomenda­se  fazer 
 análise  de  solo  nas  áreas  que  registraram  perdas  de  produção 
 expressivas, de modo que o técnico tenha subsídios mais precisos 
@@ -3708,7 +3694,7 @@ fertilizante que servem de fonte desses nutrientes. Mais importante
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 do  que  a  escolha  do  fertilizante  é  o  diagnóstico  preciso  de  qual 
 micronutriente se encontra limitante na planta, o que é obtido, na 
 análise foliar.
@@ -3754,7 +3740,7 @@ separadas para aplicação de defensivos e de micronutrientes, ainda
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 há pouca informação com relação a essas misturas e o quanto se 
 pode prejudicar (ou favorecer) a eficiência do defensivo agrícola ou 
 do aproveitamento do micronutriente mediante essa prática.
@@ -3801,7 +3787,7 @@ da  propriedade  rural  ou  se  encontra  em  abundância  na  região
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 onde o trigo está sendo cultivado, ou seja, trata­se de uma fonte de 
 nutrientes de baixo custo para a lavoura. O material orgânico pode 
 ser importante para quem pratica a agricultura orgânica e tem seu 
@@ -3846,7 +3832,7 @@ matéria orgânica e dos resíduos culturais.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 O balanço entre essas fontes de N para a cultura vai depender 
 do  nível  de  matéria  orgânica  do  solo,  das  condições  climáticas 
 durante o período de cultivo e da cultura que antecede o trigo no 
@@ -3862,7 +3848,7 @@ disponibilidade de água no solo.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 5 Semeadura, Práticas 
 
 de Manejo e Adubação 
@@ -3877,7 +3863,7 @@ Henrique Pereira dos Santos
 Fabiano Daniel De Bona
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 146 
 
 Quais são os principais fatores promotores do rendimento 
@@ -3931,7 +3917,7 @@ O  sucesso  do  cultivo  de  trigo  está  associado  à  rentabilidade  da
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 cultura e ao respeito ao ambiente. Pode­se usar tecnologia de ponta 
 e ao mesmo tempo montar sistemas poupadores de insumos.
 
@@ -3977,7 +3963,7 @@ ou gramíneas.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 149  Qual é a importância da rotação de culturas para trigo?
 
 A rotação de culturas é de suma importância para os cereais de 
@@ -4021,7 +4007,7 @@ preparo  convencional  de  solo  como  no  sistema  plantio  direto,
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 somente  um  inverno  sem  trigo  já  é  o  suficiente  para  a  cultura 
 retornar na mesma área de cultivo, sem diminuir o rendimento de 
 grãos. Um exemplo de um sistema de rotação para trigo é trigo/soja 
@@ -4073,7 +4059,7 @@ critérios.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 As  informações  podem  ser  obtidas  no  portal  do  Mapa 
 
 (BRASIL, 2015).
@@ -4117,7 +4103,7 @@ Atividade Agropecuária (Proagro).
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 157 
 
 Que  aspectos  devem  ser  levados  em  consideração  na 
@@ -4167,7 +4153,7 @@ colheita  em  momentos  distintos.  Cultivares  de  diferentes  ciclos,
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 semeadas em épocas distintas, dependendo do planejamento feito 
 e de questões ambientais, podem atingir a maturação de colheita 
 em  datas  bastante  próximas.  Por  exemplo,  se  no  início  da  época 
@@ -4212,7 +4198,7 @@ o rendimento de grãos. Populações muito baixas são muito depen­
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 dentes das condições de ambiente (como disponibilidade hídrica) 
 e  nutricionais  para  garantir  níveis  de  afilhamento  adequados. 
 Já em populações muito elevadas, a produção será baseada, quase 
@@ -4255,7 +4241,7 @@ dossel (permitindo maior contribuição de folhas de partes baixas da
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 planta na fotossíntese) e maior espaço para aproveitamento de água 
 e nutrientes.
 
@@ -4301,7 +4287,7 @@ na linha e na entrelinha).
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 165  Qual é a população de plantas indicada para trigo?
 
 O  trigo  apresenta  uma  faixa  de  população  de  plantas  que 
@@ -4345,7 +4331,7 @@ de sementes a ser utilizada.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 167 
 
 Como se calcula a quantidade de sementes necessária para 
@@ -4398,7 +4384,7 @@ mais profundas. Outra questão relacionada com a profundidade de
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 semeadura é a possibilidade do ataque da semente por patógenos 
 presentes na área ou trazidos pela própria semente.
 
@@ -4445,7 +4431,7 @@ fundas, baixa disponibilidade de água, entre outras).
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 Alguns trabalhos verificaram que em semeaduras profundas, 
 sementes maiores emergem mais rápido que sementes pequenas e 
 tendem a apresentar plântulas maiores. Entretanto, isso não garante 
@@ -4488,7 +4474,7 @@ ser  misturado  às  sementes  com  tambor  rotatório,  com  máquina
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 de  tratamento  de  sementes  ou  outros  mecanismos,  desde  que 
 sejam eficientes na distribuição. É importante observar as seguintes 
 recomendações:
@@ -4539,7 +4525,7 @@ manter o suprimento de nitrogênio (N) em níveis suficientes para o
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 crescimento adequado das plantas, a potencialização do rendimento 
 de grãos e a formação da qualidade tecnológica da cultivar utilizada.
 A aplicação de N na semeadura é muito importante para o 
@@ -4578,7 +4564,7 @@ benefício.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 176 
 
 Na adubação de cobertura, existe diferença na eficiência 
@@ -4625,7 +4611,7 @@ existem vários tipos de equipamentos disponíveis, dos mais simples
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 aos dotados de sensores que avaliam, em tempo real, a condição 
 das plantas e variam a dose aplicada em cada parte da lavoura, a 
 chamada “aplicação em taxa variável”.
@@ -4671,7 +4657,7 @@ elevadas, atingindo quantidades maiores que 100 kg/ha de N.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 181 
 
 Qual é a eficiência e os resultados na qualidade tecnológica 
@@ -4718,7 +4704,7 @@ de  vários  fatores.  Mesmo  com  adequado  suprimento  de  N,  não
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 há  garantia  de  obtenção  de  satisfatória  qualidade  tecnológica  da 
 cultivar de trigo. Fatores como época de semeadura, precipitação 
 pluvial e temperatura, entre outras, também definem se a qualidade 
@@ -4769,7 +4755,7 @@ plantas e aumentar a resistência do colmo, entre outras.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 185  No caso do trigo, o que é regulador de crescimento?
 
 Regulador de crescimento ou redutor de crescimento é uma 
@@ -4810,7 +4796,7 @@ aplicação do referido produto.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 188 
 
 Usar redutor de crescimento, fora do momento indicado, 
@@ -4853,7 +4839,7 @@ trigo em pré­colheita. A aplicação deve seguir as recomendações do
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 fabricante a fim de que não potencializem o risco de contaminação 
 dos grãos com resíduos de agrotóxicos com potencial risco de dano 
 a saúde humana e animal. A relação custo/risco e benefício desta 
@@ -4876,9 +4862,9 @@ p. 135­184.
 127
 
 
- 500pr_pgnumber128
-
  500pr_pgnumber129
+
+ 500pr_pgnumber130
 6 Manejo e Controle 
 
 de Plantas Daninhas
@@ -4886,7 +4872,7 @@ de Plantas Daninhas
 Leandro Vargas
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 191 
 
 Qual é o período crítico de competição entre plantas dani­
@@ -4938,7 +4924,7 @@ cultura.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 de introdução de sementes de plantas daninhas oriundas de outros 
 locais,  principalmente,  em  áreas  ainda  não  infestadas.  O  con­
 trole  cultural  consiste  em  usar  qualquer  condição  ambiental  ou 
@@ -4983,7 +4969,7 @@ e  assim  as  sementes  das  plantas
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 daninhas concentram­se na superfície do solo, ficando mais expostas 
 às intempéries e à ação do clima e de agentes biológicos (insetos, 
 fungos,  etc.).  Além  disso,  no  plantio  direto,  a  palhada  que  cobre 
@@ -5028,7 +5014,7 @@ de 20 a 30 dias entre a aplicação
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 e a semeadura. O indicador mais importante é observar se as plan­
 tas  daninhas  presentes  na  área  –  e  motivo  da  aplicação  –  foram 
 controladas, ou seja, não se deve semear a cultura com plantas da­
@@ -5075,7 +5061,7 @@ da  planta  e  de  cobertura  de  solo,  elementos  que  determinam  a
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 aptidão competitiva do material. Resumidamente, o produtor deve 
 optar por cultivares com crescimento rápido, ou seja, que cubram, 
 rapidamente, a entrelinha, evitando infestação das plantas daninhas.
@@ -5124,7 +5110,7 @@ movimentação  da  água  existente  no  solo).  Já  a  umidade  do  ar  é
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 importante no momento da aplicação, pois está relacionada com o 
 tempo de vida das gotas no deslocamento da ponta de aspersão, até 
 o alvo (a planta daninha ou o solo).
@@ -5172,7 +5158,7 @@ o pulverizador deve proporcionar  distribuição uniforme.  Assim,  o
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 volume de calda vai depender do equipamento e pode variar de 
 50 L/ha a 200 L/ha.
 
@@ -5221,7 +5207,7 @@ propargyl.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 213 
 
 A partir de que fase do plantio pode­se usar herbicida pós­
@@ -5270,7 +5256,7 @@ propargyl controlam eficientemente o azevém.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 218 
 
 Quais os sintomas de fitotoxicidade mais frequentes decor­
@@ -5307,7 +5293,7 @@ serem espécies naturalmente tolerantes a esse herbicida.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 7 Controle de Doenças
 
 Douglas Lau
@@ -5324,7 +5310,7 @@ Márcia Soares Chaves
 Maria Imaculada Pontes Moreira Lima
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 221  Quais são as causas das doenças em plantas de trigo?
 
 A  exemplo  de  outras  culturas  de  interesse  econômico,  o 
@@ -5373,7 +5359,7 @@ disseminado por vento, água e organismos vetores, entre outros.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 223 
 
 As doenças do trigo são as mesmas em todas as regiões do 
@@ -5419,7 +5405,7 @@ para  se  identificar  uma  doença.  Em  se  tratando  de  doenças  mais
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 comuns da cultura, é possível que apenas 
 com base nessas duas características, seja 
 possível identificá­las. Contudo, também 
@@ -5473,7 +5459,7 @@ resistência genética.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 Entre  os  métodos  de  controle  cultural,  estão  a  rotação  de 
 culturas, as escolhas de épocas e locais de plantio que favoreçam o 
 escape a doença, e a eliminação de plantas hospedeiras que atuam 
@@ -5519,7 +5505,7 @@ graminis var. tritici); e podridões­radiculares (Fusarium spp.);
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 •  Doenças foliares: oídio (Blumeria graminis f. sp. tritici), man­
 cha­amarela (Pyrenophora tritici-repentis), mancha­marrom 
 (Cochliobolus  sativus),  mancha­da­gluma  (Phaeosphaeria 
@@ -5564,7 +5550,7 @@ com  fungicidas,  estão  os  que  causam  manchas  foliares  (Bipolaris
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 sorokiniana,  Drechslera  spp.)  e 
 o carvão (Ustilago tritici). Além 
 disso, o tratamento de sementes 
@@ -5611,7 +5597,7 @@ provoca necrose negra nas raízes.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 233 
 
 O mal­do­pé ainda é uma doença de importância econô­
@@ -5656,7 +5642,7 @@ quase negras, sem o halo amarelo típico de mancha­amarela. É uma
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 doença predominante em regiões mais quentes em relação às regi­
 ões de prevalência de mancha­amarela. 
 
@@ -5705,7 +5691,7 @@ quais os fungicidas registrados para cada patógeno do trigo.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 238 
 
 Na ocorrência de manchas­foliares logo após a emergência, 
@@ -5752,7 +5738,7 @@ de trigo com resistência genética. O controle químico de oídio de
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 trigo em cultivares suscetíveis é mais econômico via tratamento de 
 sementes com fungicidas sistêmicos do que por meio de aplicação 
 de fungicidas nos órgãos aéreos.
@@ -5797,7 +5783,7 @@ ferrugem­da­folha são temperaturas amenas, entre 15 °C e 25 °C,
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 e  períodos  de  molhamento  foliar  de  no  mínimo  3  horas,  pois  os 
 esporos necessitam desse filme d’água sobre as folhas, para germinar.
 
@@ -5845,7 +5831,7 @@ No  Brasil,  porém,  a  função  epidemiológica  dos  teliosporos
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 de  hospedeiros  alternativos.  Assim,  os  uredosporos  são  a  mais 
 importante fonte de inoculo da doença. O inoculo inicial parece ser 
 proveniente de plantas de trigo voluntárias no próprio local ou em 
@@ -5889,7 +5875,7 @@ Canadá e Estados Unidos.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 246 
 
 Qual é a importância e quais são os impactos da giberela 
@@ -5934,7 +5920,7 @@ coloração branco­rosada a pardo­clara.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 As  condições  mais  favoráveis  às  epidemias  são  períodos 
 prolongados  de  precipitação  pluvial  (chuva)  de  48  a  72  horas  e 
 temperatura de 20 °C a 25 °C, a partir do espigamento. Essa condição 
@@ -5978,7 +5964,7 @@ consideráveis. Esse fato ocorre, principalmente, devido à combinação
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 de dois aspectos: indisponibilidade de cultivares de trigo resistentes 
 à  doença,  e  baixa  eficiência  do  controle  químico  da  brusone  na 
 parte aérea das plantas, especialmente, nas espigas.
@@ -6020,7 +6006,7 @@ das plantas, não demonstrou eficiência para controlar a doença.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 253 
 
 A adubação potássica é eficiente na redução da brusone 
@@ -6065,7 +6051,7 @@ surgir as primeiras doenças. Na região Sul, é comum o surgimento de
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 oídio a partir do perfilhamento, podendo ser necessária aplicações 
 de  fungicidas  a  partir  desse  estádio.  Entretanto,  em  determinadas 
 regiões do Brasil, essa doença não ocorre, como é o caso da maioria 
@@ -6110,7 +6096,7 @@ aplicação do fungicida.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 Considerando­se todas essas questões, não existe um valor de 
 LDE  fixo,  pois  vários  fatores  bastante  dinâmicos  estão  envolvidos 
 com sua determinação.
@@ -6156,7 +6142,7 @@ entanto, são mais leves e mais sensíveis à deriva causada pelo vento.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 259  Qual é a melhor ponta/ bico para ser utilizada?
 
 O  melhor  bico  é  aquele  que  seja  capaz  de  produzir  gotas 
@@ -6198,7 +6184,7 @@ numa mesma solução.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Toda vez que um fabricante de fungicida deseja avaliar o efeito 
 de misturas, para obter uma nova formulação, faz­se necessário um 
 registro especial temporário (RET) que é controlado pelo Ministério 
@@ -6242,7 +6228,7 @@ sistemas de apoio à tomada
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 de decisão e ferramenta de grande utilidade para agricultores e as­
 sistentes técnicos, para fornecer informações referentes ao manejo 
 de doenças, notadamente com relação ao uso de fungicidas.
@@ -6295,7 +6281,7 @@ redução  do  crescimento  e  atraso  no  desenvolvimento  da  planta.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 A  redução  de  crescimento  não  se  restringe  à  altura  (nanismo). 
 Também podem ser reduzidos o número de afilhos, a massa foliar e 
 a massa do sistema radicular.
@@ -6340,7 +6326,7 @@ de inseticidas no tratamento de sementes e em parte aérea.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 Para  combater  o  mosaico­comum­do­trigo,  em  áreas  com 
 histórico da doença, a principal medida é usar cultivares resistentes 
 ao vírus.
@@ -6384,7 +6370,7 @@ havendo multiplicação do inóculo de uma cultura para outra. Em
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 casos como a giberela, o inóculo primário, proveniente da palha do 
 milho,  é  menos  importante  que  o  inóculo  presente  nas  correntes 
 de  ar.  Por  sua  vez,  sendo  o  milho  uma  gramínea,  assim  como  o 
@@ -6401,9 +6387,9 @@ subsequente.
 163
 
 
- 500pr_pgnumber164
-
  500pr_pgnumber165
+
+ 500pr_pgnumber166
 8 Manejo Integrado 
 
 de Pragas
@@ -6418,7 +6404,7 @@ Antônio Ricardo Panizzi
 José Roberto Salvadori
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 271 
 
 Quais os principais insetos­praga que atacam a cultura do 
@@ -6465,7 +6451,7 @@ vejos­barriga­verde  (Dichelops  furcatus  e Dichelops  melacanthus),
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 o percevejo­verde (Nezara viridula), o percevejo­do­trigo (Thyanta 
 perditor – Pentatomidae) e o percevejo­raspador, percevejo­do­ca­
 pim ou percequito (Collaria scenica – Miridae).
@@ -6509,7 +6495,7 @@ o potencial de produção do trigo, como o Barley Yellow Dwarf Virus
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 ­cevada (VNAC), e o Cereal Yellow Dwarf Virus (CYDV) ou vírus­
 ­do­nanismo­amarelo­dos­cereais. Esses vírus são disseminados de 
 plantas infectadas para sadias, exclusivamente através da saliva do 
@@ -6554,7 +6540,7 @@ do­se aleatoriamente locais nas bordas e no interior das lavouras,
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 que proporcionem um resultado médio representativo da densida­
 de de insetos.
 
@@ -6599,7 +6585,7 @@ população.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 Os níveis de ação são determinados pelo monitoramento da 
 lavoura para contagem e identificação dos insetos­praga e são os 
 seguintes:
@@ -6648,7 +6634,7 @@ de trigo, deve­se usar a segunda abordagem, baseando­se no con­
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 trole e no monitoramento dos insetos a campo, e nos níveis de ação 
 estabelecidos.
 
@@ -6694,7 +6680,7 @@ em todas as regiões produtoras. Além disso, numa mesma área, as
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 populações flutuam naturalmente. O não revolvimento do solo, para 
 fins de semeadura, favorece a sobrevivência dos corós. A crescente 
 adoção  de  sistemas  conservacionistas  de  manejo  do  solo,  como 
@@ -6738,7 +6724,7 @@ chuvas excessivas.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 281 
 
 O que determina o aumento da população de pulgões no 
@@ -6788,7 +6774,7 @@ e reduz consideravelmente o número de aplicações de inseticidas.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 Quando  a  aplicação  de  inseticidas  for  necessária,  deve­se 
 utilizar  aqueles  registrados  no  Ministério  da  Agricultura,  Pecuária 
 e  Abastecimento  (Mapa)  para  o  inseto­praga  e  a  cultura,  dando 
@@ -6831,7 +6817,7 @@ ingestão, sistêmico). Por exemplo, para lagartas com aparelho bucal
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 mastigador, que consomem área foliar, pode­se aplicar um produto 
 que fique depositado na superfície da folha, atuando por ingestão 
 ou contato. Entretanto, para insetos sugadores, o mais adequado é 
@@ -6877,7 +6863,7 @@ da situação encontrada no campo.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 286 
 
 Quais os principais cuidados que devem ser tomados para 
@@ -6928,7 +6914,7 @@ desnecessárias.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 288 
 
 O que é seletividade de um inseticida e por que essa carac­
@@ -6977,7 +6963,7 @@ dores e entomopatógenos.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 •  Rotação  de  culturas  com  plantas  não  hospedeiras  de 
 
 pragas da cultura do trigo.
@@ -7020,7 +7006,7 @@ dos níveis de ação e o uso de inseticidas seletivos.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 293 
 
 Qual é a importância dos inimigos naturais no controle de 
@@ -7062,7 +7048,7 @@ causar danos econômicos.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 296 
 
 Como estabelecer um programa de manejo integrado de 
@@ -7109,7 +7095,7 @@ malmente  é  do  tamanho  da
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 presa e cuja fase larval se alimenta do conteúdo de um único hos­
 pedeiro para completar seu ciclo de desenvolvimento. O adulto tem 
 vida livre. Existem diversas espécies de parasitoides atacando pragas 
@@ -7155,7 +7141,7 @@ ou muito frios.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 301 
 
 O aumento nas doses de neonicotinoides, no tratamento 
@@ -7206,7 +7192,7 @@ químicas e biológicas do solo, auxiliando:
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 •  No controle de plantas infestantes, doenças e pragas.
 •  Na reposição de restos orgânicos.
 •  Na proteção do solo da ação de agentes climáticos.
@@ -7249,7 +7235,7 @@ tecidos e a morte do inseto em poucos dias.
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 305 
 
 Quais  são  as  principais  características  do  Bacillus 
@@ -7297,7 +7283,7 @@ dos e podem ser divididas em:
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 Pragas primárias – Têm capacidade de romper e danificar o 
 
 tegumento de grãos sadios e íntegros.
@@ -7354,7 +7340,7 @@ armazenamento  são  a  fumigação  e  a  aplicação  de  inseticidas
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 químicos, ambas associadas a procedimentos de limpeza de toda 
 a  estrutura  armazenadora.  Formas  alternativas  de  controle  como 
 o uso de baixas temperaturas e pós­inertes (terra de diatomáceas) 
@@ -7417,7 +7403,7 @@ dimentos realizados.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 A implementação desse programa deve ser gradual, mas para 
 que ele tenha sucesso, todas as práticas adotadas devem se tornar 
 processos a serem praticados rotineiramente.
@@ -7465,7 +7451,7 @@ de  temperatura  e  pressão,  se  apresentam  no  estado  gasoso  e,
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 assim,  possuem  grande  capacidade  de  expansão.  Geralmente, 
 esses  inseticidas  não  deixam  resíduos  tóxicos  e,  quando  usados 
 em dosagens e tempos de exposição adequados, são eficientes no 
@@ -7509,7 +7495,7 @@ de grãos.
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 315 
 
 O que fazer com as informações obtidas no processo de 
@@ -7539,9 +7525,9 @@ principal_agrofit_cons.>. Acesso em: 15 out. 2015.
 189
 
 
- 500pr_pgnumber190
-
  500pr_pgnumber191
+
+ 500pr_pgnumber192
 9 Mecanização, 
 
 Colheita, Secagem 
@@ -7553,7 +7539,7 @@ José Eloir Denardin
 Luiz Eichelberger
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 316 
 
 Como  deve  ser  feita  a  regulagem  da  semeadora  numa 
@@ -7610,7 +7596,7 @@ das culturas de verão, são:
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 •  Colhedora sem picador ou sem espalhador de palha.
 •  Picador ou espalhador de palha mal regulado.
 Esses  equipamentos  devem  ser  ajustados  para  distribuir  a 
@@ -7658,7 +7644,7 @@ solo.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 Os  discos  de  corte  estriado  e  corrugado  comportam­se  de 
 forma intermediária aos anteriores quanto à necessidade de força 
 vertical  para  cortar  a  palha  e  penetrar  no  solo.  Discos  de  corte 
@@ -7699,7 +7685,7 @@ Para as mesmas condições, discos de corte com diâmetro menor
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 a  empurrar  para  frente  a  palha  presente  na  superfície  do  solo, 
 ocasionando problemas de embuchamento.
 
@@ -7744,7 +7730,7 @@ a distribuição de sementes de trigo com espaçamentos normais e
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 aumentar as falhas e duplos. À medida que aumenta a velocidade de 
 operação, diminui a regularidade da profundidade de deposição de 
 sementes e aumenta a mobilização de solo na linha de semeadura.
@@ -7789,7 +7775,7 @@ no solo constitui um dos principais fatores para a uniformidade de
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 emergência das plantas e o estabelecimento da cultura. O controle 
 de profundidade de semeadura pode ser feito mediante regulagem 
 da pressão exercida pelas molas sobre os sulcadores (rompedores 
@@ -7840,7 +7826,7 @@ mecanismos rompedores.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 •  Palha murcha é difícil de ser cortada pelos discos, provo­
 
 cando embuchamento.
@@ -7891,7 +7877,7 @@ abertura entre cilindro e côncavo é:
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 •  Grão de trigo seco: 20 mm na frente e 15 mm atrás.
 •  Grão de trigo úmido: 10 mm na frente e 7 mm atrás.
 Outra  regulagem  importante  está  relacionada  à  altura  da 
@@ -7934,7 +7920,7 @@ de 1 m2 em três locais distintos da área, antes da colheita).
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 •  Determinar o rendimento da lavoura (colheita com colhe­
 
 dora e pesagem de grãos de uma área de 100 m2).
@@ -7985,7 +7971,7 @@ Antes de iniciar a colheita, deve­se fazer três medições de
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 Terceiro passo – Perdas na plataforma de corte:
 
 Deve­se colher uma área pequena, até completar, aproxima­
@@ -8038,7 +8024,7 @@ verno.  No  mercado  nacional,
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 cada fabricante dispõe de vários modelos (com e sem motorização, 
 com  diferentes  capacidades  de  trilha  e  de  armazenamento),  cada 
 um voltado para um segmento de agricultores (pequenos, médios 
@@ -8086,7 +8072,7 @@ velocidade dever ser situada entre 5 km/h e 8 km/h.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 •  Fazer  ajustes  básicos  na  colhedora,  segundo  indicações 
 do  Manual  de  Operação.  Colher  uma  área  delimitada  e 
 verificar os grãos que estão sendo colhidos, bem como as 
@@ -8131,7 +8117,7 @@ reparados ou trocados em tempo hábil.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 Antes de cada safra, deve­se checar os pontos vitais, lubrificar 
 corretamente a máquina e fazer todas as regulagens básicas, para o 
 início de nova colheita.
@@ -8176,7 +8162,7 @@ aparelhos determinadores de umidade por condutividade elétrica).
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 Para se descontar a umidade, deve­se usar a seguinte fórmula:
 
 Desconto = 100 x
@@ -8223,7 +8209,7 @@ elevada umidade.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 As  máquinas  que  separam  as  impurezas  são  chamadas  de 
 máquinas de ar e peneiras. O ar separa as impurezas pelo princípio 
 do peso dessas impurezas, ou seja, separa apenas as impurezas mais 
@@ -8268,7 +8254,7 @@ temperatura superior e inferior que podem ser letais.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 Tabela 1. Ação sobre a massa de grãos com base na temperatura e no efeito
 
 Ação
@@ -8344,7 +8330,7 @@ interior do grão se desloque para a superfície).
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 344  Que cuidados devem ser observados na secagem do trigo?
 
 Os cuidados mais importantes são a secagem imediata após a 
@@ -8389,7 +8375,7 @@ entre 0,6 m³/min/t e 0,9 m³/min/t.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 Contudo, esse processo é altamente dependente das condições 
 ambientais. Assim, para se definir períodos de aeração, devem­se 
 observar o teor de umidade do produto e a umidade relativa do ar 
@@ -8434,7 +8420,7 @@ de combustível de até 30%.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 A  passagem  pelas  primeiras  camadas  de  grãos  aquece  o  ar 
 minimizando  o  choque  térmico  e,  em  consequência,  diminui  o 
 trincamento de grãos obtendo­se grãos de melhor qualidade. Esse 
@@ -8482,7 +8468,7 @@ de ataque de insetos e do controle com inseticidas recomendados.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 Microrganismos  –  Fungos  e  bactérias  são  responsáveis  por 
 perdas  na  qualidade  dos  grãos  pela  produção  de  micotoxinas. 
 Podem ser controlados com o manejo adequado dos grãos e pela 
@@ -8529,7 +8515,7 @@ manejo da aeração.
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 Neste contexto, a aeração também tem função de secagem e 
 
 de resfriamento dos grãos, tendo como resultado econômico:
@@ -8578,7 +8564,7 @@ principalmente, seus efeitos. Quando o silo é projetado para fazer
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 apenas aeração de manutenção, as vazões do ar da aeração podem 
 ser bastante baixas, entre 0,05 m³/min/t e 0,2 m³/min/t, com baixo 
 consumo de energia.
@@ -8627,7 +8613,7 @@ procede­se à continuidade da aeração de manutenção.
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 350  Como é feito o expurgo?
 
 É  um  tratamento  curativo  feito  com  pastilhas  para  expurgo. 
@@ -8662,7 +8648,7 @@ repetida a cada 30 dias.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 10 O Trigo na 
 
 Integração 
@@ -8679,7 +8665,7 @@ Ricardo Lima de Castro
 Cláudia De Mori
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 351  O que é trigo de duplo propósito?
 
 Trigo  de  duplo  propósito  é  aquele  que  é  usado  com  duas 
@@ -8721,7 +8707,7 @@ valor  nutritivo,  com  concentração  de  proteína  bruta  superior  a
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 Quando  a  silagem  de  planta  inteira  de  trigo  é  comparada  com  a 
 de milho, pode­se destacar a concentração de proteína favorável à 
 silagem de trigo (10% x 8%), mas com menor digestibilidade (60% x 
@@ -8764,7 +8750,7 @@ Grosso do Sul, já que precisa de frio para se desenvolver.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 357 
 
 É possível cultivar trigo de duplo propósito fora da região 
@@ -8811,7 +8797,7 @@ para  otimizar  propriedades  que  praticam  a  integração  lavoura­
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 ­pecuária  (ILP)  para  terminação  de  bovinos  em  pastagens  no  pe­
 ríodo de inverno e, especialmente, dedicadas à produção leiteira. 
 Também  é  utilizado  para  outras  espécies  animais  como  ovinos, 
@@ -8859,7 +8845,7 @@ semente para cada cultivar.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 361  Como deve ser implantado o trigo de duplo propósito?
 
 O trigo de duplo propósito possui o subperíodo da emergência 
@@ -8904,7 +8890,7 @@ pastejo  é  iniciado  quando  as  plantas  rebrotarem  até  a  altura  de
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 ocorre em cerca de 20 a 30 dias. Destaca­se que quanto menor a 
 altura de resteva, maior será o intervalo entre pastejos (período de 
 descanso).
@@ -8950,7 +8936,7 @@ com dois ciclos de pastejo, devem ser adicionados 60 kg/ha de N
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 de  pastejo).  Esse  adicional  visa  repor  o  N  consumido,  embora 
 grande parte retorne via urina e fezes, uma vez que a distribuição 
 na pastagem da excreta é desuniforme.
@@ -8994,7 +8980,7 @@ leite superior a 20 kg/dia, que geralmente recebem suplementação
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 (silagem mais ração formulada) equivalente a cerca da metade da 
 dieta,  são  usadas  lotações  de  2  a  3  vacas  por  hectare  (1.200  kg 
 PV/ha a 2.000 kg PV/ha).
@@ -9042,7 +9028,7 @@ plantas, quando o meristema de crescimento (futura espiga) estiver
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 abaixo do nível de pastejo dos animais. A formação do primeiro nó 
 basilar visível é um indicador prático.
 
@@ -9088,7 +9074,7 @@ ocorrência de compactação.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 No método rotacionado, o pastejo iniciado quando as plantas 
 atingirem  altura  de  20  cm  a  30  cm,  com  resíduo  de  7,0  cm  ou 
 maior na saída dos animais, conjugado com período de descanso 
@@ -9133,7 +9119,7 @@ outros cereais de inverno, como cevada, aveia, triticale e centeio.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 376  Qual a recomendação de colheita do trigo para ser ensilado?
 
 Para  colheita  direta,  sem  pré­murchamento,  a  concentração 
@@ -9178,7 +9164,7 @@ ou  pastejos  há  uma  redução  da  altura  média  das  plantas,  com
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 maior uniformidade do crescimento dos perfilhos e diminuição do 
 comprimento dos entrenós. O pastejo funciona como um redutor 
 de crescimento natural.
@@ -9223,7 +9209,7 @@ trigo  de  duplo  propósito  como  fonte  de  forragem  para  o  gado  e
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 produção de grãos comparados com sistemas que usam a pastagem 
 “guaxa” (germinação natural de azevém e outras gramíneas) obti­
 verem rendimentos médios superiores a 14,0% (variando de 2,3% 
@@ -9232,7 +9218,7 @@ a 25,6%).
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 11 Trigo no 
 
 Brasil Central 
@@ -9246,7 +9232,7 @@ Julio Cesar Albrecht
 Jorge Henrique Chagas
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 381 
 
 Quais são os locais indicados para cultivo de trigo de se­
@@ -9290,7 +9276,7 @@ altitude em tipos de solos que não sejam arenosos, com menos de
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 384 
 
 Qual época de semeadura é indicada para trigo irrigado, 
@@ -9337,7 +9323,7 @@ e prolongados de chuvas. Por isso, sugere­se diversificar cultivares
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 e  época  de  semeadura  para  diluir  os  riscos  e  a  probabilidade  de 
 ocorrência dessa doença.
 
@@ -9381,7 +9367,7 @@ prevenir a ocorrência de acamamento.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 389 
 
 Quais são as indicações em termos de adubação com boro 
@@ -9425,7 +9411,7 @@ mento ou 10 dias antes do aparecimento do primeiro nó do colmo
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 principal da cultura, não se deve usar redutor de crescimento. Na 
 fase de elongação da cultura (com o primeiro nó visível), sugere­
 ­se a aplicação de trinexapaque­etíl na dose de 0,4 L/ha. Contudo, 
@@ -9469,7 +9455,7 @@ da Embrapa (EMBRAPA CERRADOS, 2015).
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 392  O que é tensiômetro?
 
 É um equipamento que 
@@ -9509,7 +9495,7 @@ sem romperem­se jamais.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 394 
 
 Como se deve conduzir a irrigação para diminuir os riscos 
@@ -9554,7 +9540,7 @@ em: <http://hidro.cpac.embrapa.br/index.php>. Acesso em? 15 out. 2015.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 12 Biotecnologia
 
 Sandra Patussi Brammer
@@ -9564,7 +9550,7 @@ Sandra Maria Mansur Scagliusi
 Elene Yamazaki Lau
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 396  O que é biotecnologia?
 
 A biotecnologia compreende quaisquer processos ou produtos 
@@ -9610,7 +9596,7 @@ toxidez de alumínio.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 398 
 
 Quais são os principais empregos de técnicas biotecnológi­
@@ -9655,7 +9641,7 @@ realidade na seleção assistida ao melhoramento de trigo.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 399 
 
 O trigo europeu produz normalmente 7 t/ha. O que está 
@@ -9701,7 +9687,7 @@ melhoramento  genético  de  trigo,  a  haploidização  (produção  de
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 plantas  duplo­haploides)  é  uma  das  mais  antigas  e  largamente 
 empregadas.  Sua  contribuição  se  baseia  no  avanço  do  processo 
 de  formação  de  plantas  completamente  homozigotas  numa 
@@ -9746,7 +9732,7 @@ possível “genótipo­alvo” (com características desejáveis).
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 402 
 
 O que são organismos geneticamente modificados (OGM) 
@@ -9792,7 +9778,7 @@ graminis var. tritici, Rhizoctonia cerealis, Cochliobolus sativus), vírus
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 (ex.  Barley  yellow  mosaic  virus  –  BaYMV;  Wheat  yellow  mosaic 
 vírus – WSMV; Wheat streak mosaic virus – WYMV, causador do 
 mosaico estriado do trigo; Barley yellow dwarf virus – BYDV, um dos 
@@ -9841,7 +9827,7 @@ genético­moleculares  podem  ser  aplicados  para  incorporar  genes
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 por melhoramento tradicional, usando a variabilidade presente na 
 própria espécie ou por cruzamentos interespecíficos, explorando a 
 variabilidade presente em espécies ancestrais. Também podem ser 
@@ -9884,7 +9870,7 @@ em trigo são:
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 •  Seleção de genitores.
 •  Confirmação de hibridações e de autofecundações.
 •  Seleção assistida e mapeamento de genes de interesse.
@@ -9930,7 +9916,7 @@ finalizar o mapeamento do genoma do trigo.
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 411 
 
 No Brasil, as pesquisas em biotecnologia são promissoras? 
@@ -9960,7 +9946,7 @@ para o agronegócio brasileiro.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 13 Produção 
 
 de Sementes
@@ -9968,7 +9954,7 @@ de Sementes
 Luiz Eichelberger
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 412  Qual é a diferença entre semente e grão?
 
 As  sementes  são  destinadas  à  semeadura,  sendo  capazes 
@@ -10017,7 +10003,7 @@ tores  de  sementes  e  garantia  de  aporte  de  recursos  para
 248
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 as instituições de pesquisa para desenvolvimento de novas 
 tecnologias.
 
@@ -10060,7 +10046,7 @@ credenciados no Registro Nacional de Sementes e Mudas (Renasem).
 249
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 Ao final do processo de produção, a semente recebe o certi­
 ficado de conformidade, emitido pela entidade certificadora, que 
 tem as seguintes obrigações:
@@ -10114,7 +10100,7 @@ segunda geração – S2.
 250
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 Tabela  1.  Sementes  de  diferentes  classes  (básica,  certificada  C1, 
 certificada C2, não certificada S1 e não certificada S2).
 
@@ -10160,7 +10146,7 @@ envolvem características relacionadas:
 251
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 •  Ao potencial de produtividade.
 •  À resistência a estresses bióticos e abióticos.
 •  À precocidade.
@@ -10205,7 +10191,7 @@ de  trigo,  de  acordo  com  a  Instrução  Normativa  n°  45,  de  17  de
 252
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 setembro de 2013, dizem respeito ao peso máximo do lote, ao peso 
 mínimo das amostras, percentual de limite de ocorrência de semente 
 pura, material inerte, outras sementes (de outras espécies cultivadas, 
@@ -10252,7 +10238,7 @@ perda de área útil.
 253
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 421 
 
 Que cuidados o produtor de sementes deve ter na adubação 
@@ -10300,7 +10286,7 @@ bém,  a  possibilidade  de  ocorrência  de  contaminações  físicas,
 254
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 especialmente  aquelas  oriundas  de  espécies  de  difícil  separação, 
 como cevada, triticale e centeio.
 
@@ -10345,7 +10331,7 @@ A necessidade de purificação é definida através de contagens em
 255
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 amostras do campo de produção, confrontadas com os padrões de 
 campo fixados pela legislação.
 
@@ -10390,7 +10376,7 @@ na lavoura.
 256
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 As  colhedoras  axiais  reduzem,  consideravelmente,  esses 
 danos.  Devem­se  avaliar  danos  mecânicos  no  início  e  durante  a 
 colheita. Os efeitos dos danos mecânicos sobre as sementes podem 
@@ -10435,7 +10421,7 @@ a colhedora deve ser regulada para a ocorrência de mínimos danos
 257
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 mecânicos. Estudos mostram que o menor dano mecânico ocorre 
 em trigo colhido com 16% de umidade.
 
@@ -10478,7 +10464,7 @@ mento propriamente dito, ou seja, passagem das sementes por má­
 258
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 quinas  que  eliminam  material  inerte,  sementes  mal  formadas  ou 
 deterioradas  e  ainda  separam  sementes  de  espécies  cultivadas, 
 espécies silvestres e espécies nocivas, deixando o lote de sementes 
@@ -10511,7 +10497,7 @@ utilização, definidas pela Instrução Normativa n° 9, de 2 de junho
 259
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 de 2005 (BRASIL, 2005), as sementes prontas para comercialização 
 devem  estar  obrigatoriamente  acondicionadas  em  embalagem 
 nova, de papel multifoliado, polipropileno trançado, algodão, juta 
@@ -10554,7 +10540,7 @@ Federativa do Brasil, Brasília, DF, 6 ago. 2003.
 260
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 BRASIL. Decreto n° 5.153 de 23 de julho de 2004. Aprova o Regulamento da 
 Lei n° 70.711, de 5 de agosto de 2003, que dispões sobre o Sistema Nacional 
 de Sementes e Mudas – SNSM, e dá outras providências. Diário Oficial [da] 
@@ -10572,9 +10558,9 @@ com.br/site/index.php/instrucao­normativa­no­45/>. Acesso em: 15 out. 2015.
 261
 
 
- 500pr_pgnumber262
-
  500pr_pgnumber263
+
+ 500pr_pgnumber264
 14 Qualidade 
 
 Tecnológica do Trigo
@@ -10584,7 +10570,7 @@ Eliana Maria Guarienti
 Martha Zavariz de Miranda
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 429  Qual é a composição química do grão de trigo?
 
 Segundo o Departamento de Agricultura dos Estados Unidos, 
@@ -10630,7 +10616,7 @@ seus derivados, como massas alimentícias e pães, são considerados
 264
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 como alimentos fonte de energia. Como os demais cereais, o trigo é 
 deficiente no aminoácido essencial lisina, não apresentando assim 
 proteína completa com todos os aminoácidos essenciais, como as 
@@ -10673,7 +10659,7 @@ prolina.
 265
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 massa. O glúten é a substância que permanece quando a massa de 
 farinha de trigo é lavada para se removerem os grânulos de amido 
 e os demais componentes solúveis. É a rede de glúten que vai reter 
@@ -10715,7 +10701,7 @@ adaptação onde ocorrerá o plantio.
 266
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 Na condução da lavoura – Proceder ao plantio e ao manejo 
 da  lavoura,  de  acordo  com  as  indicações  técnicas  para  a  cultura 
 do  trigo  e,  finalmente,  não  deixar  esse  cereal  no  campo  após  a 
@@ -10761,7 +10747,7 @@ cor vermelha e cor amarela, respectivamente).
 267
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 •  Alveografia  (força  de  glúten,  tenacidade,  extensibilidade, 
 
 índice de intumescimento e índice de elasticidade).
@@ -10808,7 +10794,7 @@ o  processo  de  amassamento,  no  qual,  após  a
 268
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 formação da rede de glúten, se ainda continuarem sendo aplicadas 
 deformações,  essa  rede  começará  a  enfraquecer.  Quando  isso 
 ocorre, diz­se que a massa está “sobre amassada” ou misturada em 
@@ -10849,7 +10835,7 @@ Grupo, Classe e Tipo.
 269
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 O Grupo diz respeito ao uso proposto:
 Grupo I – Trigo destinado diretamente à alimentação humana.
 Grupo II – Trigo destinado à moagem e a outras finalidades.
@@ -10952,7 +10938,7 @@ Fonte: Brasil (2010).
 270
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 Tabela 2. Tipos do trigo do grupo IV, destinado à moagem e outras finalidades, 
 segundo Anexo VI da Instrução Normativa n° 38, de 30 de novembro de 20101.
 
@@ -11072,7 +11058,7 @@ parâmetros para classificação desse cereal.
 271
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 441  A qualidade do trigo difere por região?
 
 Atualmente, o Brasil está dividido em quatro regiões tritícolas, 
@@ -11117,7 +11103,7 @@ seguinte frase: Indicações técnicas para trigo e triticale.
 272
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 443 
 
 Por que a classificação comercial da variedade de trigo é 
@@ -11165,7 +11151,7 @@ as  condições  edafoclimáticas  de  cada  região,  de  acordo  com  a
 273
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 aptidão tecnológica das variedades/cultivares, ou seja, em regiões 
 onde as condições ambientais de clima e solo favorecem o plantio 
 de trigo soft, planta­se trigo soft e, da mesma forma, para os demais 
@@ -11290,7 +11276,7 @@ secas
 274
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 Tabela 3. Continuação.
 
 W 
@@ -11440,7 +11426,7 @@ ele ficará macio, pois ocorrerá a vaporização do pouco que ainda
 275
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 restava de água no miolo. Contudo, com o passar do tempo, o vapor 
 sairá, deixando­o muito mais seco e duro.
 
@@ -11483,7 +11469,7 @@ grãos, afetando a qualidade tecnológica. Além do regime térmico,
 276
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 as ocorrências de baixa e alta umidade relativa do ar e precipitação 
 pluvial influenciam a deposição de amido e de proteínas nos grãos, 
 o  que  traz,  como  consequência,  alteração  da  qualidade  do  trigo. 
@@ -11533,7 +11519,7 @@ muito escura.
 277
 
 
- 500pr_pgnumber278
+ 500pr_pgnumber279
 451  Como evitar a germinação pré­colheita em trigo?
 
 A escolha da cultivar a ser semeada em função da tolerância/
@@ -11576,7 +11562,7 @@ trigo produzida.
 278
 
 
- 500pr_pgnumber279
+ 500pr_pgnumber280
 454 
 
 As  altas  temperaturas  de  secagem  causam  perdas  na 
@@ -11624,7 +11610,7 @@ mais frequente de apresentação), além de causar danos:
 279
 
 
- 500pr_pgnumber280
+ 500pr_pgnumber281
 •  Na mucosa bucal (estomatite aftosa de repetição).
 •  Nas articulações (algumas artrites).
 •  Nos rins (nefropatia por IgA).
@@ -11664,7 +11650,7 @@ de salvar a colheita, os aldeões esfregaram as espigas queimadas,
 280
 
 
- 500pr_pgnumber281
+ 500pr_pgnumber282
 retiraram  os  grãos  e  descobriram  que  depois  de  torrados  eram 
 saborosos.
 
@@ -11694,9 +11680,9 @@ TRITICALE, 8., 2014, Canela, RS. Informações técnicas para trigo e triticale
 281
 
 
- 500pr_pgnumber282
-
  500pr_pgnumber283
+
+ 500pr_pgnumber284
 15 Produção Integrada 
 
 e Gestão da Qualidade 
@@ -11705,7 +11691,7 @@ na Pós­Colheita
 Casiane Salete Tibola
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 459  O que é produção integrada?
 
 A produção integrada (PI) surgiu na década de 1970, na Euro­
@@ -11752,7 +11738,7 @@ Requisitos de Avaliação da Conformidade para Produção Integrada
 284
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 Agropecuária – PI Brasil (INMETRO, 2011). A certificação na PI Brasil 
 é de adesão voluntária e consiste no reconhecimento formal de que 
 o  conjunto  de  características  do  produto  está  de  acordo  com  os 
@@ -11800,7 +11786,7 @@ em tempo real, via Internet.
 285
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 463 
 
 Como transmitir e compartilhar informações nos sistemas 
@@ -11846,7 +11832,7 @@ endereço e contato. A partir daí, é feito o
 286
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 cadastro de novos usuários, sendo incluídos endereço, e­mail (do 
 usuário) e senha pessoal.
 
@@ -11891,7 +11877,7 @@ elaboração de produtos finais específicos.
 287
 
 
- 500pr_pgnumber288
+ 500pr_pgnumber289
 467 
 
 Quais são as principais vantagens da segregação de trigo, 
@@ -11934,7 +11920,7 @@ implementação de sistemas de gestão da qualidade.
 288
 
 
- 500pr_pgnumber289
+ 500pr_pgnumber290
 Os  procedimentos  operacionais  padrão  (POP’s)  são  boas 
 práticas  de  manejo,  que  incluem  procedimentos  descritos  com 
 instruções sequenciais para execução das operações de rotina de 
@@ -11979,7 +11965,7 @@ de alimentos.
 289
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 471 
 
 O que é a ISO 22000:2005 – Sistemas de Gestão da Segu­
@@ -12022,7 +12008,7 @@ de metais pesados).
 290
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 •  Natureza física (fragmentos de insetos, vidros, pedras e ma­
 
 teriais estranhos).
@@ -12069,7 +12055,7 @@ inferior a 13%.
 291
 
 
- 500pr_pgnumber292
+ 500pr_pgnumber293
 •  Armazenamento adequado – baixa umidade e temperatura 
 
 na massa de grãos.
@@ -12110,7 +12096,7 @@ zearalenona.
 292
 
 
- 500pr_pgnumber293
+ 500pr_pgnumber294
 Os sintomas típicos são espiguetas despigmentadas, coloração 
 esbranquiçada ou cor de palha, que contrastam com o verde normal 
 de espiguetas sadias, e aristas retorcidas. Em espiguetas atacadas, 
@@ -12154,7 +12140,7 @@ nados  à  alimentação  infantil  deve  ser  de  200  partes  por  bilhão
 293
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 trigo  integral  e  de  1.750  ppb  para  farinha  de  trigo.  A  partir  da 
 publicação da legislação, para produtos destinados à alimentação 
 infantil, os níveis são menores e com vigência imediata. Nos demais 
@@ -12210,7 +12196,7 @@ As estratégias mais promissoras são:
 294
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 •  Métodos físicos – Uso de ar, peneiras e mesa gravitacional 
 para retirada de impurezas e sujidades, além de grãos leves 
 e danificados.
@@ -12260,7 +12246,7 @@ da  giberela  no  campo;  por  exemplo,  quando  ocorre  no
 295
 
 
- 500pr_pgnumber296
+ 500pr_pgnumber297
 início da floração, pode comprometer a formação de grãos 
 e ocasionar perda total na produção.
 
@@ -12306,7 +12292,7 @@ home/standards/management­standards/iso22000.htm>. Acesso em: 22 out. 2014.
 296
 
 
- 500pr_pgnumber297
+ 500pr_pgnumber298
 16 Aspectos Comerciais 
 
 e Econômicos 
@@ -12315,7 +12301,7 @@ do Trigo
 Claudia De Mori
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 484  Quais são os principais destinos no consumo do trigo?
 
 O trigo apresenta amplo uso na alimentação humana (pães, 
@@ -12358,7 +12344,7 @@ representa, aproximadamente, 30% da produção mundial de grãos.
 298
 
 
- 500pr_pgnumber299
+ 500pr_pgnumber300
 Com  área  média  cultivada  de  219,0  milhões  de  hectares,  a 
 produção anual média desse cereal, no período de 2011 a 2013, foi 
 de 694,4 milhões de toneladas. Nesse período, o consumo mundial 
@@ -12403,7 +12389,7 @@ tadores  mundiais  de  trigo  foram:  Estados  Unidos  (20,1%),  União
 299
 
 
- 500pr_pgnumber300
+ 500pr_pgnumber301
 Europeia (15,9%), Austrália (13,2%), Canadá (13,0%), Rússia (10,1%), 
 Cazaquistão (5,4%), Ucrânia (4,9%) e Argentina (4,5%).
 
@@ -12444,7 +12430,7 @@ cereal.
 300
 
 
- 500pr_pgnumber301
+ 500pr_pgnumber302
 493 
 
 Quais são os principais municípios produtores de trigo no 
@@ -12492,7 +12478,7 @@ comidas congeladas, etc.).
 301
 
 
- 500pr_pgnumber302
+ 500pr_pgnumber303
 •  Empresas de comércios atacadistas e varejistas (mercados, 
 
 super e hipermercados, lojas de conveniência, etc.).
@@ -12522,7 +12508,7 @@ outros).  Esses  produtos  podem  ser  armazenados  por  determinado
 302
 
 
- 500pr_pgnumber303
+ 500pr_pgnumber304
 tempo, sem perda significativa de qualidade e são comercializados 
 em grandes quantidades mediante contratos padronizados em bolsas 
 de mercadoria.
@@ -12568,7 +12554,7 @@ era  de  responsabilidade  do  governo  federal,  por  um  sistema  de
 303
 
 
- 500pr_pgnumber304
+ 500pr_pgnumber305
 cotas.  A  Lei  8.096,  de  21  de  novembro  de  1990,  acabou  com  o 
 monopólio  da  União  na  compra  e  venda  de  trigo.  Atualmente,  a 
 comercialização é de ordem privada, e a Instrução Normativa Mapa 
@@ -12613,7 +12599,7 @@ varia de 1% a 3% do valor) quando adquire o crédito, o produtor fica
 304
 
 
- 500pr_pgnumber305
+ 500pr_pgnumber306
 isento de pagar as obrigações financeiras em caso de prejuízos por 
 adversidades climáticas, caso tais fenômenos aconteçam na lavoura 
 financiada.  O  Proagro  Mais  é  destinado  a  atender  aos  pequenos 
@@ -12656,7 +12642,7 @@ de produção apresentaram variações de até 85%, entre locais.
 305
 
 
- 500pr_pgnumber306
+ 500pr_pgnumber307
 Em termos de itens de maior importância, os fertilizantes de 
 base e cobertura e a semente são os itens de maior participação na 
 composição dos custos. No entanto, há diferenças entre regiões e 
@@ -12702,7 +12688,7 @@ e capacidade diária de colheita.
 306
 
 
- 500pr_pgnumber307
+ 500pr_pgnumber308
 •  Respeito ao zoneamento evitando­se problemas climáticos.
 •  Escalonamento  da  produção  usando­se  cultivares  com 
 
@@ -12754,7 +12740,7 @@ quais são suas demandas e pontuando o que deseja dos governos
 307
 
 
- 500pr_pgnumber308
+ 500pr_pgnumber309
 municipal, estadual e federal, é um grande passo na resolução do 
 problema.
 
@@ -12798,25 +12784,4 @@ online. Disponível em: <http://apps.fas.usda.gov/psdonline/>. Acesso em:
 
 308
 
-
- 500pr_pgnumber309
-FAO. Faostat. 2014. Disponível em: <http://faostat.fao.org/site/339/default.
-aspx>. Acesso em: 11 set. 2014.
-
-IBGE. Sistema IBGE de recuperação automática. Disponível em: <http://www.
-sidra.ibge.gov.br/bda/tabela/listabl.asp?z=t&o=10&i=P&c=1612>. Acesso em: 
-12 set. 2014.
-
-
- 500pr_pgnumber310
-
- 500pr_pgnumber311
-
- 500pr_pgnumber312
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber313
 

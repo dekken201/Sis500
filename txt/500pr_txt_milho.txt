@@ -1,5 +1,102 @@
 
+ 500pr_pgnumber018
+1
+
+Como o clima influencia a cultura do milho?
+
+  A radiação solar (intensidade luminosa), a precipitação e a 
+temperatura são as variáveis que mais influenciam na produção de 
+grãos e de matéria seca da cultura do milho. 
+
+A radiação solar, necessária na fotossíntese para a produção 
+de biomassa, alterna-se com as chuvas, que abastecem o solo de 
+água e reduzem as  taxas de radiação por meio das nuvens, sendo 
+a  temperatura  importante  na  fisiologia  da  planta  e  na  sinergia  
+com o ambiente, regulada por essas alternâncias e pelas estações  
+do ano.  
+
+Nas regiões mais frias, por exemplo, as baixas temperaturas 
+provocam geadas, congelando o orvalho, e representam o fator mais 
+limitante  ao  desenvolvimento  da  cultura  em  algumas  épocas  do 
+ano.  E  em  regiões  menos  úmidas,  a  quantidade  de  chuvas,  no 
+período mais crítico da cultura, pode ser insuficiente para atender à 
+demanda  da  cultura,  resultando  em  quedas  no  rendimento.  No 
+Nordeste, baixa precipitação e chuvas concentradas em um período 
+estreito limitam drasticamente a produção de milho.
+
+2
+
+Qual a importância da luz solar para o desenvolvimento 
+do milho?
+
+O milho é uma planta C4, o 
+que  equivale  dizer  que  é  alta-
+mente  eficiente  na  presença  da 
+luz,  assim  como  tolera  altos  ní-
+veis  de  radiação  luminosa.  Em 
+todo  o  desenvolvimento  da  cul-
+tura, a luz é fundamental, pois é 
+por  meio  dela  que  se  realiza  o 
+processo da fotossíntese. 
+
+A  maior  sensibilidade,  no 
+entanto, à variação de luminosi-
+
+20
+
+
  500pr_pgnumber019
+dade é verificada no início da fase reprodutiva, ou seja, no período 
+correspondente  aos  primeiros  10–15  dias  após  o  pendoamento. 
+Nessa fase, a redução da radiação luminosa ocasiona a diminuição 
+da densidade dos grãos (massa específica). 
+
+Períodos de muita chuva e nebulosidade nessa fase vão resultar 
+num crescimento maior da planta, que se mantém vistosa com um 
+verde intenso, porém a produção de grãos cai. Em um período de 
+nebulosidade de 25 dias, a queda na produção pode chegar a 40%.
+
+3
+
+O milho é sensível a fotoperíodo? 
+
+Praticamente não. O milho é originalmente uma planta de dias 
+curtos, embora os limites dessas horas de luz não sejam idênticos 
+nem  definidos  para  as  diferentes  cultivares.  A  ocorrência  de  dias 
+longos  pode  promover  o  aumento  de  sua  fase  vegetativa  e  do 
+número de folhas, ocasionando o atraso no florescimento. Contudo, 
+verifica-se que plantas de milho são sensíveis ao fotoperíodo apenas 
+em latitudes superiores a 33oS, situação essa que ocorre no extremo 
+sul do País. 
+
+4
+
+Qual  é  o  efeito  da  temperatura  no  desenvolvimento  da 
+cultura e na produção de grãos?
+
+A 
+
+fator  muito 
+
+temperatura  é  um 
+
+importante  para  o 
+desenvolvimento do milho. O ideal é ter temperaturas em torno de 
+25 °C e 30 °C durante o dia e com noites frias, em torno de 16 °C e 
+19 °C. Noites e dias quentes aceleram o ciclo e perda de rendimento, 
+enquanto noites e dias frios aumentam em muito o ciclo, sem no 
+entanto  trazer  nenhuma  vantagem  para  o  rendimento  final.  Isso 
+acontece  porque,  com  a  temperatura  mais  baixa,  o  metabolismo 
+decresce e há um menor ganho de matéria seca diária. Importante 
+frisar  que 
+temperaturas  noturnas  altas  podem  comprometer 
+seriamente o rendimento dos grãos, uma vez que a planta passa a 
+ter  altas  taxas  de  respiração  e  vai  consumir  boa  parte  dos 
+
+21
+
+
+ 500pr_pgnumber020
 fotoassimilados  acumulados  durante  o  dia.  A  planta  para  respirar 
 utiliza  como  substrato  os  carboidratos  que  foram  metabolizados 
 pela fotossíntese. 
@@ -44,7 +141,7 @@ o tempo entre plantio e florescimento do milho está mais relacionado
 22
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 com  a  temperatura  (soma  térmica)  do  subperíodo  emergência-
 florescimento do que com o número de dias após o cultivo.
 
@@ -90,7 +187,7 @@ to  agrícola,  o  ciclo  é  baseado  no
 23
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 período de florescimento estimado com base na soma térmica ou 
 totais de unidades de calor (U.C.) entre 10 °C e 30 °C necessários 
 para  completar  o  período  compreendido  entre  a  emergência  e  o 
@@ -134,7 +231,7 @@ climatológicos de cada estado e o número de estações climatológicas
 24
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 de cada unidade federativa. A espacialização dos dados climáticos 
 e  as  interpolações  dependem  muito  do  número  de  estações  e, 
 consequentemente,  não  é  de  se  esperar  que  os  resultados  sejam 
@@ -179,7 +276,7 @@ ter conhecimento da classe de solo da área onde o mesmo faz o
 25
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 plantio, procura-se classificar a capacidade de água disponível no 
 solo em função de sua textura utilizando funções de pedotransferência. 
 Dentre  as  vantagens  de  utilizar  a  textura  podemos  considerar, 
@@ -189,7 +286,7 @@ e, em segundo lugar, é uma analise rápida e de baixo custo.
 26
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 2
 
 Fisiologia  
@@ -198,7 +295,7 @@ da Produção
 Paulo César Magalhães
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 14
 
 O  plantio  mais  profundo  vai  resultar  numa  maior 
@@ -237,7 +334,7 @@ plantio.
 28
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 16
 
 Quais  os  estádios  de  desenvolvimento  da  planta  mais 
@@ -284,7 +381,7 @@ totalmente desenvolvidas, não há necessidade de se replantar, uma
 29
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 vez que o ponto de crescimento das plantas ainda esta abaixo da 
 superfície do solo e portanto protegido do problema. Esse ponto de 
 crescimento é o meristema da planta de onde surgirão novas folhas 
@@ -329,7 +426,7 @@ que,  em  princípio,  ela  não  perfilhe.  Existem  fatores  que  podem
 30
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 quebrar  essa  dominância  e  o  resultado  é  o  perfilhamento.  Esses 
 fatores são: insetos e estresse por temperatura (altas, mais comuns, e 
 baixas). Se ocorrer, por exemplo seca, poderá ocorrer perfilhamento, 
@@ -373,7 +470,7 @@ tamanho normal existem cerca de 2 milhões a 5 milhões de grãos
 31
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 de pólen, o que equivale dizer que haverá uma proporção de cerca 
 de  2  mil  a  5  mil  grãos  de  pólen  para  fecundar  um  único  grão, 
 levando em consideração que uma espiga tenha em torno de 1.000 
@@ -416,7 +513,7 @@ o rendimento em mais de 20%.
 32
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 Durante a floração, 4 a 8 dias de seca diminuem a produção 
 em mais de 50%. O efeito do estresse hídrico sobre o crescimento 
 da  planta  será  diretamente  no  alongamento  celular,  enquanto  a 
@@ -460,7 +557,7 @@ não há possibilidade do mesmo vir a ser um grão normal.
 33
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 25
 
 Qual o significado da formação da camada preta no grão?
@@ -506,7 +603,7 @@ volvimento será reduzido da emergência ao pendoamento, uma vez
 34
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 que o metabolismo diminui com a baixa da temperatura. Após a 
 maturação fisiológica, o metabolismo vai continuar lento, com baixa 
 perda de umidade nos grãos e comprometimento na qualidade de 
@@ -551,7 +648,7 @@ Florescimento Masculino e Feminino (IFMF) é chamado de positivo.
 35
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 Às  vezes,  pode  acontecer  de  o  pendão  e  a  boneca  surgirem  na 
 planta simultaneamente. Nesse caso, o IFMF é igual a zero. O IFMF 
 desejável é o positivo e o mais curto possível, ou seja, assim que 
@@ -593,7 +690,7 @@ fileiras. A espiga de milho é uma tabuada de dois.
 36
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 3
 
 Mecanização 
@@ -605,7 +702,7 @@ José Geraldo da Silva
 João Batista Guimarães Sobrinho
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 33
 
 Qual  a  diferença  básica  entre  uma  semeadora  para  o 
@@ -650,7 +747,7 @@ menos embuchamento.
 38
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 A largura de sulco formado pelo disco liso, estriado e ondulado 
 é de até 3 cm, 5 cm e 7 cm, respectivamente, variando em função 
 das  condições  de  solo  (tipo,  umidade).  Sulcos  mais  estreitos  são 
@@ -692,7 +789,7 @@ depositando semente e/ou fertilizante no solo.
 39
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 36
 
 Qual o diâmetro ideal dos discos?
@@ -741,7 +838,7 @@ tiver adequadamente distribuída
 40
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 na superfície do solo. Havendo pouca palha na superfície do terre-
 no, pode-se dispensar os discos de corte e utilizar somente os me-
 canismos sulcadores com discos duplos desencontrados para efetu-
@@ -788,7 +885,7 @@ quando o solo estiver úmido.
 41
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 O  uso  de  sistema  de  facas  em  áreas  pedregosas  apresenta 
 limitações desde que não exista acoplamento do disco de corte à 
 faca. Em semeadoras equipadas com mecanismos tipo guilhotina, 
@@ -836,7 +933,7 @@ da semente a uma profundidade constante no sulco de semeadura.
 42
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 Controle de profundidade rústico é realizado pelo ajuste de curso 
 (maior  ou  menor)  dos  pistões  hidráulicos,  bem  como  nas  molas 
 helicoidais (maior ou menor pressão) e da retirada ou inclusão de 
@@ -882,7 +979,7 @@ os discos de corte e limpadores externos nos discos duplos.
 43
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 46
 
 Deve  haver 
@@ -933,7 +1030,7 @@ combinação de equipamentos mecânicos e de produtos químicos
 44
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 49
 
 Qual a velocidade de trabalho recomendada?
@@ -975,7 +1072,7 @@ de potência na barra de tração do trator praticamente duplica.
 45
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 50
 
 Quais  outros  problemas  podem  ocorrer  em  virtude  da 
@@ -1023,7 +1120,7 @@ de sementes que se obtém com a máquina parada é maior, pois não
 46
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 se  considera  a  patinagem  da  roda  motriz,  responsável  pela 
 distribuição da semente.
 
@@ -1074,7 +1171,7 @@ sionadores e de condutores de semente e fertilizante.
 47
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 • Manter  a  semeadora  sob  abrigo,  preferencialmente  sobre 
 
 cavaletes.
@@ -1121,7 +1218,7 @@ para  fora  da  plataforma  (maior  índice  de  perdas).  Velocidade
 48
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 baixa  faz  com  que  as  espigas  só  sejam  destacadas  no  final  do 
 rolo  espigador,  congestionando  a  alimentação  e  causando 
 embu chamentos.
@@ -1167,7 +1264,7 @@ auxiliados por fluxo de ar.
 49
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 A separação entre o rotor e o elemento fixo é maior, reduzindo 
 
 o atrito e, com isso, reduzindo os danos fisiológicos aos grãos.
@@ -1216,7 +1313,7 @@ quantitativas, ou seja, aquelas que ele enxerga. Entretanto, em milho,
 50
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 as perdas qualitativas são muito maiores  e muito mais importantes. 
 Em virtude de regulagens mal feitas, ocorrem quebras e amassamentos 
 de grãos pelos mecanismos de trilha. Essa quebra ou amassamento 
@@ -1257,7 +1354,7 @@ deve exceder a 4 km/h.
 51
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 4
 
 Irrigação
@@ -1273,7 +1370,7 @@ Ricardo Augusto Lopes Brito
 Reinaldo Lúcio Gomide
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 63
 
 Quando é viável irrigar o milho?
@@ -1317,7 +1414,7 @@ grão.
 54
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 66
 
 Cada  cultura  tem  sua  exigência  em  água?  Qual  é  a 
@@ -1363,7 +1460,7 @@ por  sulco  e  a  subirrigação.  Entretanto,  nos  grandes  projetos,  a
 55
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 irrigação  por  sulcos  está  sendo  substituída  pela  aspersão,  que  é 
 menos perdulária em água.
 
@@ -1408,7 +1505,7 @@ como coeficiente de cultura (Kc), fração da água disponível no solo e
 56
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 tensão  da  água  do  solo,  já  estão  determinados  e  à  disposição  dos 
 agricultores, tanto para o sistema convencional de preparo do solo 
 (aração e gradagem), como para o sistema plantio direto. Entretanto, 
@@ -1449,7 +1546,7 @@ chuva e computar a sua efetividade no manejo da água de irrigação.
 57
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 5
 
 Manejo do  
@@ -1473,7 +1570,7 @@ Ramon Costa Alvarenga
 João Herbert Moreira Viana
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 73
 
 Qual o conceito atual de preparo do solo?
@@ -1518,7 +1615,7 @@ raízes e a infiltração de água.
 60
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 A  segunda  etapa  é  constituída  por  operações  superficiais 
 subsequentes  ao  preparo  primário,  feitas  normalmente  com  duas 
 gradagens leves, sendo uma imediatamente após a aração, com o 
@@ -1562,7 +1659,7 @@ de água no solo, o que, por sua vez, vai favorecer maior escorrimento
 61
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 superficial e, consequentemente, a erosão, favorecida pelo fato de a 
 grade aradora provocar grande pulverização do solo. Além disso, 
 dificulta ou impede o desenvolvimento radicular do milho abaixo 
@@ -1607,7 +1704,7 @@ e resistência à compressão. O ponto de umidade ideal é aquele em
 62
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 que o trator opera com o mínimo esforço, produzindo os melhores 
 resultados  na  execução  do  serviço.  Com  o  solo  muito  úmido, 
 aumentam os problemas de compactação. Em solo muito seco, é 
@@ -1650,7 +1747,7 @@ importância para reduzir os danos à estrutura do solo e manter um
 63
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 perfil com boa drenagem, minimizando a sua degradação. Assim, 
 recomenda-se  por  ocasião  do  preparo  do  solo,  alternar  a 
 profundidade  de  trabalho,  a  cada  safra  agrícola,  e,  se  possível, 
@@ -1689,7 +1786,7 @@ superfície.
 64
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 82
 
 Qual  é  o  conceito  de  métodos  conservacionistas  de 
@@ -1732,7 +1829,7 @@ convencional reside no fato de que o escarificador possibilita que
 65
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 grande parte dos resíduos vegetais continue sobre a superfície do 
 solo. 
 
@@ -1775,7 +1872,7 @@ longo da linha de plantio. A pro-
 66
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 fundidade de semeadura pode ser afetada pelo excesso de rugosi-
 dade causada pelos restos culturais na superfície do solo, ora aflo-
 rando  na  superfície,  ora  muito  profundos,  o  que  prejudica  a 
@@ -1825,7 +1922,7 @@ de necessária.
 67
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 • Romper a zona de compactação para provocar seu desa-
 parecimento  onde  as  condições  de  compactação  do  solo 
 ocorrem. Arar com a roda do trator na superfície do solo em 
@@ -1873,7 +1970,7 @@ sociedade.
 68
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 88
 
 A  cultura  do  milho  é  adaptada  para  o  sistema  plantio 
@@ -1917,7 +2014,7 @@ sustentável.
 69
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 90
 
 Qual é a rotação mais comum envolvendo a cultura do 
@@ -1960,7 +2057,7 @@ plantas daninhas.
 70
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 Tem importância decisiva na fertilidade do solo, participando 
 na reciclagem de nutrientes. Em algumas áreas de plantio direto já 
 se constatou aumento do teor de matéria orgânica do solo, afetando 
@@ -2005,7 +2102,7 @@ dado a áreas onde se utiliza o cultivo de gramíneas, que apresentam
 71
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 alta  produção  de  massa  e  taxa  de  decomposição  mais  lenta.  
 Essa  situação  é  comum,  principalmente,  quando  implantada  em 
 áreas ainda em processo de recuperação e com baixos teores de 
@@ -2020,7 +2117,7 @@ em sistema plantio direto em integração lavoura e pecuária.
 72
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 6
 
 Exigências Nutricionais  
@@ -2032,7 +2129,7 @@ Antônio Marcos Coelho
 Flávia Cristina dos Santos
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 94
 
 Quais as etapas a serem seguidas para o estabelecimento 
@@ -2085,7 +2182,7 @@ utilizadas: diagnose visual, análise química do solo e análise foliar.
 74
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 Com  relação  aos  parâmetros  para  diagnose  do  potencial 
 produtivo dos solos e suas capacidades no suprimento de nutrientes, 
 têm sido amplamente utilizadas análises químicas e físicas. Por sua 
@@ -2129,7 +2226,7 @@ O tamanho da grade de amostragem é influenciado pela magnitude
 75
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 da variabilidade dos atributos dos solos. Assim, a recomendação do 
 espaçamento das grades pode variar em função da resolução desejada 
 (precisão) associada aos custos. Empresas prestadoras de serviços em 
@@ -2178,7 +2275,7 @@ de 0 cm a 20 cm e de 20 cm a 40 cm. Para lavouras sob sistema
 76
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 plantio direto consolidado (≥ 5 anos), as camadas amostradas devem 
 ser de 0 cm a 10 cm e de 10 cm a 30 cm. A coleta de amostras de 
 solos na camada subsuperficial (20 cm a 40 cm) é indicada para 
@@ -2223,7 +2320,7 @@ do solo (teores de argila, silte e areia).
 77
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 Atualmente,  tem  assumido  grande  importância  a  solicitação 
 das  análises  de  enxofre  e  micronutrientes  (boro,  cobre,  ferro, 
 manganês  e  zinco).  É  importante  mencionar  que,  atualmente  no 
@@ -2268,7 +2365,7 @@ tempo, por meio de plantio direto, manejo do resíduo da cultura, etc.
 78
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 101
 
 Quando e como utilizar a análise foliar como diagnóstico 
@@ -2308,7 +2405,7 @@ necessidades de correção indicadas pelo diagnóstico nutricional.
 79
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 102
 
 Qual é o nível de acidez do solo tolerado pelo milho e 
@@ -2352,7 +2449,7 @@ e profundidade de incorporação no solo.
 80
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 Vários  produtos  têm  ação  corretiva  da  acidez,  tais  como 
 calcários, cal virgem, cal hidratada, silicatos e escórias de siderurgia. 
 Porém, o calcário é o corretivo mais comumente encontrado nas 
@@ -2397,7 +2494,7 @@ quantidade  de  corretivo  a  aplicar  deverá  ser  corrigida  para  mais
 81
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 (profundidade  maior  que  20  cm)  ou  para  menos  (profundidade 
 menor que 20 cm), de modo a evitar o excesso ou a falta de calcário. 
 Visando  uma  melhor  distribuição  do  calcário  na  camada  de 
@@ -2441,7 +2538,7 @@ Assim, a gessagem possibilita o fornecimento de cálcio e a redução
 82
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 da toxidez por alumínio abaixo da camada de 20 cm. É importante 
 ressaltar  que  a  gessagem  não  substitui  a  calagem  e  não  propicia 
 elevação do pH do solo. O gesso pode ser também utilizado como 
@@ -2484,7 +2581,7 @@ tonelada de matéria seca produzida.
 83
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
   Com relação aos micronutrientes, as quantidades requeridas 
 pelas plantas de milho são muito pequenas. Entretanto, a deficiência 
 de um deles pode ter tanto efeito na desorganização de processos 
@@ -2528,7 +2625,7 @@ com  o  primeiro  ocorrendo  durante  a  fase  de  desenvolvimento
 84
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 vegetativo, V4 a V12 folhas, quando o número potencial de grãos 
 está  sendo  definido;  e  o  segundo,  durante  a  fase  reprodutiva  ou 
 formação da espiga, quando o potencial produtivo é atingido. Isso 
@@ -2572,7 +2669,7 @@ extraírem  e  exportarem  maiores  quantidades  de  nutrientes  e,
 85
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 portanto,  necessitarem  de  doses  diferentes  de  fertilizantes,  nas 
 recomendações  oficiais  de  adubação  para  a  cultura  do  milho  no 
 Brasil,  as  doses  dos  nutrientes  são  segmentadas  conforme  a 
@@ -2613,7 +2710,7 @@ de fertilizantes, principalmente nitrogenados e potássicos.
 86
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 112
 
 Quais  nutrientes  devem  ser  aplicados  na  semeadura  do 
@@ -2657,7 +2754,7 @@ de 60 kg/ha a 180 kg/ha de N, e de 60 kg/ha a 90 kg/ha de K2O,
 87
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 para produtividade esperada variando de 8 t/ha a 12 t/ha de grãos. 
 No caso do milho safrinha, a deficiência hídrica, que normalmente 
 ocorre  nas  lavouras,  limita  fortemente  o  potencial  de  produção, 
@@ -2701,7 +2798,7 @@ altas  doses  de  fertilizante;  e  quando  o  milho  for  cultivado  para
 88
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 produção  de  forragem,  para  o  que  normalmente  são  necessárias 
 doses mais altas de K em razão da maior exportação desse nutriente 
 e em solos arenosos.
@@ -2747,7 +2844,7 @@ incorporada  (±  5  cm)  e  foi  superior  à  da  aplicação  localizada  na
 89
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 superfície do solo. Esse é um aspecto importante, pois o método de 
 aplicação  a  lanço  possibilita  maior  rapidez  na  operação  de 
 distribuição dos fertilizantes. 
@@ -2790,7 +2887,7 @@ aditivos  – inibidores de nitrificação e urease).
 90
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 117
 
 Como definir a necessidade de adubação com micronu-
@@ -2836,7 +2933,7 @@ duas aplicações durante essa fase. O volume da calda pode variar
 91
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 de 150 L/ha  a 250 L/ha, sendo o maior volume utilizado quando os 
 micronutrientes são aplicados com algum tipo de inseticida para o 
 controle de pragas da parte aérea do milho.
@@ -2880,7 +2977,7 @@ das plantas (nutricional, climático, fitotoxicológico, hídrico, etc.).
 92
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 7
 
 Manejo e Uso da  
@@ -2892,7 +2989,7 @@ Egidio Arno Konzen
 Ivanildo Evódio Marriel
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 120
 
 O que é adubo orgânico?
@@ -2932,7 +3029,7 @@ tanques e lagoas para líquidos.
 94
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 122
 
 Como  obter  uma    compostagem  de  sólidos  de  forma 
@@ -2970,7 +3067,7 @@ Tabela 1. Valores médios encontrados em diferentes tipos de adubos orgânicos.
 95
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 diferentes  dejetos  animais,  o  de  aves  (cama  de  frango)  é  mais 
 concentrado em virtude do maior teor de matéria seca.
 
@@ -3015,7 +3112,7 @@ na mineralização, necessitando de menor tempo entre a aplicação
 96
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 e  o  plantio.  Como  o  esterco  lí-
 quido de suíno tem baixo efeito 
 residual, deve-se adubar os cul-
@@ -3059,7 +3156,7 @@ Herbaspirillum e Paenibacillus.
 97
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 129
 
 Existem inoculantes para milho no mercado?
@@ -3093,7 +3190,7 @@ cultivar para cultivar.
 98
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 8
 
 Cultivares  
@@ -3115,7 +3212,7 @@ Sidney Netto Parentoni
 Flávia França Teixeira
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 131
 
 A que profundidade deve ser feito o plantio do milho?
@@ -3162,7 +3259,7 @@ satisfeitas as necessidades de água pela planta.
 100
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 O atraso na época de plantio deve ser evitado, pois resultará 
 
 em: 
@@ -3206,7 +3303,7 @@ rendimento, além de um maior custo com o maior gasto de sementes
 101
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 por hectare. Além disso, é reconhecido que pode haver um aumento 
 na ocorrência de doenças, especialmente as podridões de colmo, 
 com o aumento na densidade de plantio. 
@@ -3256,7 +3353,7 @@ sistema plantio direto.
 102
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 135
 
 Quais são as vantagens de se utilizar espaçamento estreito 
@@ -3300,7 +3397,7 @@ geralmente é menor.
 103
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 137
 
 Existem problemas em plantar o milho em covas?
@@ -3343,7 +3440,7 @@ de sementes com um determinado número de sementes (geralmente
 104
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 139
 
 Qual é a vantagem de se plantar semente de variedade?
@@ -3387,7 +3484,7 @@ maior uniformidade de plantas e espigas. São também os mais caros.
 105
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 Os híbridos triplos são também bastante uniformes e seu potencial 
 produtivo  é  intermediário  entre  os  híbridos  simples  e  duplos.  
 O mesmo ocorre com o preço de suas sementes. Os híbridos duplos 
@@ -3435,7 +3532,7 @@ principais  doenças  que  ocorrem
 106
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 em sua região e procurar cultivares que sejam resistentes a 
 elas).
 
@@ -3478,7 +3575,7 @@ de alta estabilidade.
 107
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 143
 
 Quais  critérios  o  agricultor  deverá  ter  para  escolher  o 
@@ -3516,7 +3613,7 @@ Continua...
 108
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 Tabela 1. Continuação.
 
 Época de semeadura
@@ -3586,7 +3683,7 @@ umidade
 109
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 146
 
 O agricultor deverá plantar sempre uma mesma cultivar?
@@ -3632,7 +3729,7 @@ das  condições  climáticas  desfavoráveis  quanto  do  baixo  nível
 110
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 tecnológico utilizado, normalmente, não justificam a utilização de 
 sementes  híbridas,  de  maior  custo  e  que  não  vão  expressar  seu 
 potencial genético, exceto em algumas áreas da região onde ocorre  
@@ -3677,7 +3774,7 @@ cultura componente pode compensar.
 111
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 • Melhor controle das plantas daninhas em razão da presença, 
 nesse sistema, de uma comunidade de plantas mais competi-
 tivas no espaço e no tempo, do que no monocultivo.
@@ -3722,7 +3819,7 @@ conservação de materiais em bancos de germoplasma. Atualmente,
 112
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 o Banco de Germoplasma de Milho é mantido na Embrapa Milho e 
 Sorgo1, em Sete Lagoas, MG, e na Embrapa Recursos Genéticos e 
 Biotecnologia2, Brasília, DF. Essa coleção contém 3.835 acessos de 
@@ -3767,7 +3864,7 @@ lhos de cultivos vizinhos. Devem ser tomadas, no mínimo,
 113
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 50 g de sementes retiradas de espigas de 100 plantas, no mí-
 nimo. Além dos cuidados com a amostragem, é importante 
 também embalar as sementes adequadamente e com baixo 
@@ -3785,7 +3882,7 @@ Milho e Sorgo3.
 114
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 9
 
 Manejo de  
@@ -3796,7 +3893,7 @@ Décio Karam
 Maurílio Fernandes de Oliveira
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 154
 
 Quais os sintomas de fitotoxicidade mais frequentes em 
@@ -3841,7 +3938,7 @@ embora  herbicidas  de  outros  grupos
 116
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 químicos  também  podem  tornar-se  fitotóxico  para  estas  dependo 
 da  dose  utilizada  e  principalmente  das  condições  ambientais  no 
 momento da aplicação. O modo de ação destes herbicidas consiste 
@@ -3884,7 +3981,7 @@ aplicações conhecidas como plante e aplique, ressaltando que, se
 117
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 houver muita massa, poderá ocorrer a fitointoxicação das plantas de 
 milho.
 
@@ -3930,7 +4027,7 @@ Os métodos de controle existentes para a cultura do milho são:
 118
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 • Cultural, que visa aumentar a capaci-
 dade competitiva da cultura em detri-
 mento às plantas daninhas. 
@@ -3984,7 +4081,7 @@ tresse para as plantas da cultura.
 119
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 • Adubações adequadas à necessidade. 
 
 • Utilização  habitual  do  sistema  de  rotação  de  culturas,  vi-
@@ -4025,7 +4122,7 @@ daninhas.
 120
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 Quanto ao estádio do milho, este também vai variar, estando 
 a  aplicação  baseada  no  estádio  das  plantas  daninhas.  Alguns 
 herbicidas  podem  ocasionar  maiores  sintomas  de  fitointoxicação, 
@@ -4068,7 +4165,7 @@ ativos registrados são:
 121
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 • 2,4-D 
 • Acetochlor 
 • Alachlor 
@@ -4098,7 +4195,7 @@ Existem ainda registradas misturas formuladas, como:
 122
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 167
 
 Como controlar a tiririca na cultura do milho?
@@ -4142,7 +4239,7 @@ a adição de óleo mineral à calda.
 123
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 Apesar  da  eficiência  no  controle  de  diferentes  espécies  de 
 braquiárias, esse herbicida apresenta registro apenas para o capim-
 marmelada (Brachiaria plantaginea).
@@ -4186,7 +4283,7 @@ tardia,  embora  tenha-se  que  levar  em  consideração  os  limites  de
 124
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 aplicação dos herbicidas. Recomenda-se ainda que, após a colheita, 
 se  faça  um  manejo  para  eliminar  ou  diminuir  a  produção  de 
 sementes  dessa  espécie.  A  corda-de-viola  tem  apresentado  tole-
@@ -4229,7 +4326,7 @@ espécies respondem diferentemente umas das outras, sendo algumas
 125
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 mais sensíveis. Com isso, para que o produtor tenha uma segurança 
 maior de que o herbicida vai funcionar, é necessário atenção nas 
 condições climáticas, evitando aplicações, quando há previsões de 
@@ -4273,7 +4370,7 @@ só devem ser utilizados quando do uso de pontas apropriadas que
 126
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 permitam  tal  volume,  tomando-se  bastante  cuidado  com  as 
 condições ambientais no momento da aplicação, pois esse tipo de 
 pulverização apresenta grande probabilidade de deriva do herbicida.
@@ -4316,7 +4413,7 @@ tolerância diferenciada para as cultivares de milho comercializadas.
 127
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 Em razão disso, o fabricante aconselha consulta à Lista de Híbridos 
 e Variedades Recomendadas, impressa na embalagem ou disponível 
 nos distribuidores, para a utilização do produto.
@@ -4361,7 +4458,7 @@ desde que sejam respeitadas as condições para a aplicação, sendo
 128
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 elas  referentes  ao  estádio  de  desenvolvimento  da  cultura  e  das 
 condições  ambientais.  As  aplicações  devem  ocorrer  quando  as 
 plantas de milho estiverem no máximo com 6 folhas. Recomenda-
@@ -4402,7 +4499,7 @@ aplicado.
 129
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 180
 
 Mesmo com o controle das plantas daninhas na cultura 
@@ -4445,7 +4542,7 @@ utiliza o gramocil.
 130
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 182
 
 É  possível  aplicar  herbicida  depois  que  o  milho  tiver 
@@ -4489,7 +4586,7 @@ engenheiro agrônomo, que possa orientá-lo a respeito da aplicação.
 131
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 184
 
 A mistura de herbicida com inseticida pode ser feita para 
@@ -4527,7 +4624,7 @@ possibilidade de intoxicação.
 132
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 186
 
 Qual o procedimento que deve ser adotado para aplicação 
@@ -4571,7 +4668,7 @@ preto  (Bidens  ssp.),  corda-de-viola  (Ipomoea  ssp.),  trapoeraba
 133
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 está associada aos sistemas de cultivo das culturas sucedâneas, bem 
 como suas características adaptativas ao ambiente, principalmente 
 as  condições  de  temperatura  e  o  estresse  de  água.  As  espécies 
@@ -4614,7 +4711,7 @@ em  sistema  de  produção,  ele  deve  sempre  ter  conhecimento  dos
 134
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 efeitos  negativos,  principalmente  dos  herbicidas,  na  cultura  de 
 sucessão. 
 
@@ -4640,7 +4737,7 @@ res ou menores para paralisar o crescimento dessas pastagens.
 135
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 10
 
 Manejo  
@@ -4652,7 +4749,7 @@ Luciano Viana Cota
 Carlos Roberto Casela
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 191
 
 Quais as principais doenças da cultura do milho, no Brasil, 
@@ -4701,7 +4798,7 @@ considerarmos que os agentes causadores de ferrugens, por exemplo,
 138
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 são organismos que necessitam da presença de um hospedeiro vivo 
 para se multiplicarem, o plantio de safrinha contribuiu para que a 
 importância dessas doenças aumentasse nos últimos anos. 
@@ -4744,7 +4841,7 @@ tica das plantas resulta em maior
 139
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 translocação de fotoassimilados do colmo para as espigas, resultan-
 do num enfraquecimento e na predisposição do colmo ao ataque 
 de patógenos.
@@ -4790,7 +4887,7 @@ se tornado cada vez mais frequentes e com elevada severidade nas
 140
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 principais  regiões  produtoras  do  País.  Dentre  elas,  a  antracnose 
 (Colletotrichum  graminicola)  a  mancha-de-diplodia  (Stenocarpella 
 maydis  e  S.  macrospora)  e  a  ferrugem-branca  (Physopella  zeae) 
@@ -4833,7 +4930,7 @@ foliares, influencia diretamente o processo de enchimento dos grãos
 141
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 e,  consequentemente,  a  produtividade  da  cultura.  O  fator  com-
 plicador é que, justamente nessa fase em que as plantas requerem 
 o  máximo  de  sua  área  foliar  sadia,  elas  são  mais  predispostas  à 
@@ -4878,7 +4975,7 @@ culturais.
 142
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 cosporiose com alta severidade. Como o milho é o único 
 hospedeiro da Cercospora zeae-maydis, podem ser utiliza-
 das na rotação culturas como a soja, o sorgo, o girassol e o 
@@ -4927,7 +5024,7 @@ produzisse os sintomas característicos da mancha branca.
 143
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 Há também autores que afirmam ser os sintomas de mancha-
 branca causados por diferentes agentes causais (Phoma spp. Phoma 
 sorghina, Physlosticta maydis), produzindo sintomas semelhantes, e 
@@ -4972,7 +5069,7 @@ sensíveis ao ataque do patógeno e os sintomas são mais evidentes.
 144
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 201
 
 Quais  as  principais  medidas  de  controle  da  mancha-
@@ -5017,7 +5114,7 @@ Milho e Sorgo.
 145
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 203
 
 Como identificar corretamente as doenças causadas pelos 
@@ -5064,7 +5161,7 @@ cultura do milho:
 146
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 As ferrugens comum e polissora 
 podem ser identificadas a campo com 
 base na sintomatologia induzida pelos 
@@ -5107,7 +5204,7 @@ portanto, a sobrevivência ocorre apenas em tecidos vivos de plantas
 147
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 de  milho.  No  período  da  entressafra,  esse  patógeno  sobrevive 
 infectando  plantas  de  milho  que  permanecem  no  campo  após  a 
 colheita ou em outros plantios próximos. A ferrugem-comum-do-
@@ -5153,7 +5250,7 @@ graminicola,  ocorre  em  praticamente  todas  as  partes  da  planta.
 148
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 As  lesões  foliares  são,  normalmente,  observadas  em  plantas  nos 
 primeiros estágios vegetativos e, de modo geral, a antracnose é a 
 primeira doença detectada no campo. Os sintomas são caracterizados 
@@ -5197,7 +5294,7 @@ inexperiência por parte da maioria dos técnicos em reconhecer os
 149
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 sintomas dessa enfermidade no campo, permitindo que ela ocorra 
 em  elevadas  severidades,  resultando  em  perdas  significativas  à 
 cultura.
@@ -5239,7 +5336,7 @@ o que poderá comprometer a produtividade da lavoura.
 150
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 212
 
 Quais os principais patógenos relacionados às podridões 
@@ -5284,7 +5381,7 @@ ocorrência de vários tipos de estresse durante o ciclo da cultura, os
 151
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 quais promovem alterações no balanço normal de distribuição de 
 carboidratos na planta. Após as fases de polinização e fertilização, 
 inicia-se o período de enchimento dos grãos, que se estende até a 
@@ -5327,7 +5424,7 @@ solo.  Além  das  podridões,  fatores  como  peso  e  altura  de  espiga,
 152
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 dureza da casca e ocorrência de 
 ventos influenciam a ocorrência 
 de acamamento de plantas. 
@@ -5371,7 +5468,7 @@ palmente quanto à relação N/K, manejo de irrigação, controle de
 153
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 pragas,  de  plantas  daninhas  e  de  doenças,  densidade  de  plantas, 
 época  de  plantio  e  colheita,  são  de  fundamental  importância  e 
 devem ser considerados num programa de manejo das podridões 
@@ -5416,7 +5513,7 @@ reduzindo sua senescência precoce.
 154
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 216
 
 O que são grãos ardidos em milho?
@@ -5461,7 +5558,7 @@ forma integrada, como:
 155
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 • Utilizar cultivares com maior nível de resistência aos princi-
 pais patógenos que atacam as espigas, como os pertencen-
 tes aos gêneros Fusarium spp. e Stenocarpella spp. 
@@ -5509,7 +5606,7 @@ Esses  compostos  são  produzidos  naturalmente  pelos  fungos
 156
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 Aspergillus flavus, Aspergillus parasiticus e também por Aspergillus 
 nomius. 
 
@@ -5552,7 +5649,7 @@ enfezamento-pálido, causado por espiroplasma.
 157
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 Os  sintomas  do  enfezamen to-
 vermelho  caracterizam-se  pela  colo-
 ração avermelhada das folhas, por uma 
@@ -5596,7 +5693,7 @@ milho são:
 158
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 • Pratylenchus brachyurus. 
 • Pratylenchus zeae. 
 • Helicotylenchus dihystera. 
@@ -5637,7 +5734,7 @@ cercosporiose-do-milho).  A  importância  desse  conhecimento  está
 159
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 no fato de que o modo de sobrevivência e multiplicação do patógeno 
 pode influenciar no sistema de manejo a ser adotado. No caso de 
 plantio  direto,  é  fundamental  que  o  produtor  faça  a  rotação  de 
@@ -5680,7 +5777,7 @@ regiões do País. Tendo alcançado elevados níveis de produtividade,
 160
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 busca-se agregar valor a esses genótipos, por meio da incorporação 
 de  características  como  resistência  a  doenças,  resistência  à  seca, 
 maior eficiência no uso de água, entre outros. Portanto, trabalha-se 
@@ -5724,7 +5821,7 @@ a durabilidade da resistência e reduzir a vulnerabilidade à ação dos
 161
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 agentes patogênicos. O agricultor deve, em uma mesma época de 
 plantio,  plantar  mais  de  um  híbrido  que  possua  base  genética 
 diferenciada.  Muitas  vezes,  híbridos  produzidos  por  uma  mesma 
@@ -5768,7 +5865,7 @@ há uma redução do potencial de inóculo dos
 162
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 patógenos necrotróficos, bem como um aumento na durabilidade 
 da  resistência  presente  nos  híbridos.  A  associação  da  rotação  de 
 culturas à rotação de híbridos poderá reduzir consideravelmente a 
@@ -5810,7 +5907,7 @@ patógenos.
 163
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 229
 
 De que modo as aplicações de fungicidas, normalmente 
@@ -5851,7 +5948,7 @@ conferida durante o período de enchimento dos grãos.
 164
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 230
 
 Os fungicidas utilizados na cultura do milho interferem 
@@ -5896,7 +5993,7 @@ cultura,  Pecuária  e  Abstecimento  para
 165
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 o controle de doenças da parte aérea da cultura do milho. Desses, 
 12 são pertencentes aos grupos químicos dos triazóis e estrubiluri-
 nas, formulados isoladamente ou em misturas, e um pertencente ao 
@@ -5924,7 +6021,7 @@ de uma bactéria ser o agente causal da mancha-branca-do-milho,
 166
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 foi realizado, na Embrapa Milho e Sorgo, um ensaio in vitro visando 
 avaliar  a  eficiência  de  alguns  fungicidas  na  supressão  da  bactéria 
 Pantoea  ananatis.  Os  resultados  demonstraram  uma  elevada 
@@ -5969,7 +6066,7 @@ ferrugens e, em algumas situações a mancha-branca, podem incidir
 167
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 ainda  na  fase  vegetativa  da  cultura,  e,  numa  situação  de  uso  de 
 cultivares suscetíveis e de predominância de condições climáticas 
 favoráveis,  o  controle  químico  deve  ser  considerado  de  modo  a 
@@ -6003,7 +6100,7 @@ do ciclo da cultura.
 168
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 235
 
 Que  fatores  devem  ser  observados  num  programa  de 
@@ -6043,7 +6140,7 @@ aplicação de fungicidas para o controle de doenças, como estratégia
 169
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 11
 
 Manejo Integrado  
@@ -6056,7 +6153,7 @@ Paulo Afonso Viana
 Rodolfo Bianco
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 236
 
 Quantas pragas atacam o milho?
@@ -6100,7 +6197,7 @@ sil. No entanto, não são apenas lagartas que podem atacar a planta
 172
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 e ocasionar perda na produção. 
 A  lagarta-do-cartucho  é  consi-
 derada a principal praga do mi-
@@ -6139,7 +6236,7 @@ mais eficiente para o controle.
 173
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 239
 
 Quais as pragas que podem matar a planta de milho?
@@ -6182,7 +6279,7 @@ no  colmo  ou  no  pendão  do  milho.  Por  sua  vez,  a  identificação
 174
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 torna-se mais difícil quando o inseto fica abrigado no interior de um 
 casulo, no solo e junto à planta, como é o caso da lagarta-elasmo. 
 Também  é  difícil  reconhecer  a  presença  da  broca-da-cana-de-
@@ -6226,7 +6323,7 @@ competitiva  e  não  produz  o  seu  máximo.  Essa  redução  na
 175
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 produtividade da planta pelo ataque da praga varia em função da 
 espécie  de  inseto  e  também  em  função  do  número  de  insetos 
 presentes na área (densidade populacional). Por exemplo, a lagarta-
@@ -6270,7 +6367,7 @@ de  formulações  comerciais  de  inseticidas  para  uso  na  cultura  do
 176
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 milho, para o controle de pragas, e a escolha correta não é tarefa 
 fácil. Alguns indicativos devem ajudar na escolha. O inseticida, além 
 da  eficiência  em  relação  à  praga-alvo,  deve  possuir  outras 
@@ -6309,7 +6406,7 @@ biológico natural.
 177
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 246
 
 O tratamento de sementes com inseticidas é um tratamento 
@@ -6353,7 +6450,7 @@ outra.
 178
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 A utilização do controle dessas pragas mediante o tratamento 
 de  sementes  com  inseticidas  sistêmicos  propicia  retornos  muito 
 acima do custo de controle e, portanto, é uma medida de controle 
@@ -6394,7 +6491,7 @@ maior frequência, principalmente na sucessão soja-milho.
 179
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 249
 
 Qual a melhor tática de controle do percevejo?
@@ -6439,7 +6536,7 @@ pulverização  não  alcança  eficiência  superior  aos  60%,  principal-
 180
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 mente quando as áreas de cultivo 
 apresentam  boa  quantidade  de 
 restos vegetais e plantas daninhas, 
@@ -6480,7 +6577,7 @@ pelos insetos é a melhor estratégia.
 181
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 252
 
 Como fazer o controle das pragas iniciais caso o tratamento 
@@ -6521,7 +6618,7 @@ tratamento de sementes, é uma prática correta.
 182
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 254
 
 Quanto  tempo  dura  a  ação  do  tratamento  de  sementes 
@@ -6565,7 +6662,7 @@ especial com a tecnologia de aplicação. Controle realizado fora da
 183
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 época  e  a  utilização  de  equipamento  de  aplicação  inadequado 
 poderão causar riscos de intoxicação, de contaminação ambiental e 
 de  controle  inadequado  da  praga,  acarretando  prejuízos  para  o 
@@ -6609,7 +6706,7 @@ voluntárias ou não, acabam por inibir a atuação daqueles agentes
 184
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 de controle natural. Por exemplo, é bem conhecida e documentada 
 a eliminação de insetos benéficos na natureza pelo uso constante, e 
 sem  critérios,  de  inseticidas  químicos.  Com  a  eliminação  dos 
@@ -6654,7 +6751,7 @@ de  um  atraente  sexual  (feromônio)  sintético  direcionado  para  os
 185
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 machos da espécie. A parte física tem um formato de um triângulo 
 que é fixado numa haste por meio de arame, quando utilizado no 
 campo.  Dentro  da  estrutura  é  colocado  um  material  plástico 
@@ -6694,7 +6791,7 @@ de manejo integrado nas próximas safras.
 186
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 261
 
 Como é a tomada de decisão para o manejo da lagarta-do-
@@ -6737,7 +6834,7 @@ residual.
 187
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 262
 
 O que determina o aumento da população da lagarta-do-
@@ -6783,7 +6880,7 @@ milho da propriedade.
 188
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 263
 
 Uma só aplicação de inseticida basta para o manejo da 
@@ -6831,7 +6928,7 @@ pulverizações com inseticidas.
 189
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 265
 
 A vespinha tem a mesma eficiência do inseticida químico 
@@ -6876,7 +6973,7 @@ prejuízos podem ser totais. Geralmente, a infestação inicial ocorre
 190
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 em  plantas  espontâneas  na  borda  da  lavoura,  especialmente  em 
 capim-marmelada,  em  reboleiras.  Desses  locais,  migram  para  o 
 milho. Um olhar atento pode identificar os focos de modo a controlar 
@@ -6919,7 +7016,7 @@ mela-do-pendão, que poderia prejudicar a libe-
 191
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 ração dos grãos de pólen e impedir a completa polinização das es-
 pigas. Em altas populações, os pulgões também podem reduzir a 
 produtividade, já que o ataque diminui o peso médio dos grãos. 
@@ -6939,7 +7036,7 @@ focos
 192
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 12
 
 Controle Biológico
@@ -6949,7 +7046,7 @@ Ivan Cruz
 Fernando Hercos Valicente
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 270
 
 O que é controle biológico?
@@ -6993,7 +7090,7 @@ do-bicho-lixeiro, que sugam os sucos internos das vítimas.
 194
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 272
 
 Os insetos predadores alimentam-se de todas as pragas?
@@ -7039,7 +7136,7 @@ alimentam da planta de milho.
 195
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 275
 
 Os insetos com asas que parecem ser formadas com uma 
@@ -7084,7 +7181,7 @@ presas, mas seus estágios imaturos (larvas) se desenvolvem dentro
 196
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 que é destruído à medida que a larva completa seu desenvolvimento. 
 O hospedeiro pode ser um ovo, uma larva ou uma pupa da praga. 
 Esse grupo compreende algumas das mais importantes espécies de 
@@ -7128,7 +7225,7 @@ das  lagartas.  A  lagarta  parasitada,  no  entanto,  não  causa  danos
 197
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 econômicos  à  planta.  Existem  ainda  espécies  de  parasitoides  que 
 atacam lagartas em diferentes fases de desenvolvimento e até a fase de 
 pupa das pragas, como Campoletis sp. e Exasticolus fuscicornis, etc. 
@@ -7171,7 +7268,7 @@ mariposas (machos), para determinar o fluxo de entrada da praga.
 198
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 capturadas na armadilha três ou mais mariposas, sendo este valor 
 observado na primeira ou acumulado de outras vistorias, deve ser 
 iniciada  então  a  soltura  de  vespinhas  do  gênero  Trichogramma, 
@@ -7217,7 +7314,7 @@ de que são os vírus com o maior potencial de atuação como agentes
 199
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 de  controle  biológico  de  pragas,  sendo  conhecidos  mais  de  20 
 grupos de vírus patogênicos a insetos.
 
@@ -7264,7 +7361,7 @@ bioinseticida, inclusive tem utilizado o mesmo em vários ensaios
 200
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 com unidades demonstrativas. Para mais detalhes, contactar o Ser-
 viço de Atendimento ao Cliente (SAC) da Unidade4.
 
@@ -7273,7 +7370,7 @@ viço de Atendimento ao Cliente (SAC) da Unidade4.
 201
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 13
 
 Manejo de Milho  
@@ -7289,7 +7386,7 @@ Edílson Paiva
 Claudia Teixeira Guimarães
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 286
 
 O que são organismos geneticamente modificados (OGM) 
@@ -7335,7 +7432,7 @@ sensíveis a essa toxina.
 204
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 289
 
 O milho Bt controla todas as pragas da lavoura de milho?
@@ -7380,7 +7477,7 @@ para resistência a pragas na cultura do milho, há mais de uma dezena
 205
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 de  eventos,  mas  entre  os  que  estão  sendo  comercializados, 
 destacam-se os eventos que expressam as toxinas Cry 1A(b) e Cry 
 1F, com atividade sobre os lepidópteros, e o Cry3Bb1, para o controle 
@@ -7421,7 +7518,7 @@ Cry2Ab2). Ativo também contra lepidópteros-praga.
 206
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 293
 
 Existem  diferenças  entre  as  toxinas  do  Bt  quanto  à 
@@ -7466,7 +7563,7 @@ para controle de traça-da-cera em favos de mel.
 207
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 Para  predadores  do  gênero  Orius  e  outros  Heteropteros  e 
 Coccinellideos,  todas  as  pesquisas  realizadas  até  o  momento 
 indicam  ausência  de  efeito  negativo.  Uma  vantagem  dessa 
@@ -7505,7 +7602,7 @@ do que os híbridos Bt equivalentes.
 208
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 298
 
 Híbridos transgênicos com genes do Bt podem necessitar 
@@ -7554,7 +7651,7 @@ ele é estimado com base nas perdas de produtividade provocadas
 209
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 pela destruição de uma determinada área foliar. Mas o nível de ação 
 deve  ser  reconsiderado  e  ainda  não  há  dados  suficientes  para 
 garantir resultados conclusivos. Como o nível de ação é recomendado 
@@ -7598,7 +7695,7 @@ de  água  e  combustível,  entre  outros.  Outro  importante  benefício
 210
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 está  ligado  ao  menor  custo  e  à  qualidade  dos  alimentos,  por 
 receberem menor quantidade de inseticidas. Já foi comprovado que 
 o  milho  Bt  é  menos  atacado  pelos  fungos,  portanto,  apresenta 
@@ -7642,7 +7739,7 @@ em razão dos danos causados pelas lagartas.
 211
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 304
 
 A utilização do milho Bt requer algum cuidado especial 
@@ -7687,7 +7784,7 @@ ciclo  dos  insetos,  para  evitar  o  cruzamento  entre  dois  indivíduos
 212
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 sobreviventes no milho Bt. O refúgio estruturado deve ser desenhado 
 de acordo com a área cultivada com o milho Bt. Para glebas com 
 dimensões  acima  de  800  m,  cultivadas  com  milho  Bt,  serão 
@@ -7729,7 +7826,7 @@ por muito mais tempo.
 213
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 307
 
 Qual o risco para o produtor de não se adotar a estratégia 
@@ -7774,7 +7871,7 @@ só poderá ser feita a “posteriori”, comparando casos específicos.
 214
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 309
 
  A bordadura de isolamento usada para coexistência pode 
@@ -7819,7 +7916,7 @@ plantas  daninhas  é  fundamental  nessa  situação,  principalmente
 215
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 já 
 
 considerando  que 
@@ -7863,7 +7960,7 @@ glifosato e que possuam atividade no controle de folhas largas.
 216
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 14
 
 Manejo Integrado  
@@ -7877,7 +7974,7 @@ Raul Narciso Carvalho Guedes
 Irineu Lorini
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 313
 
 O que são insetos-praga de produtos armazenados?
@@ -7922,7 +8019,7 @@ presença  dos  insetos,  partes  deles  ou  detritos  derivados  de  sua
 218
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 atividade é outro fator de perda de qualidade dos mesmos, resultando 
 em  dano  econômico.  Além  disso,  tal  presença  pode  ocasionar 
 alteração de odor e sabor do produto e favorecer a incidência de 
@@ -7969,7 +8066,7 @@ e os danos diretos e indiretos que essas podem causar.
 219
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 A  unidade  armazenadora  de  grãos  deve  ser  conhecida,  no 
 aspecto  pragas,  em  todos  seus  detalhes,  por  seus  operadores  e 
 administradores,  desde  a  chegada  do  produto  à  recepção  até  a 
@@ -8012,7 +8109,7 @@ traças. No primeiro grupo, as espécies que causam maior prejuízo
 220
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 são Rhyzopertha dominica, Sitophilus oryzae, S. zeamais e Tribolium 
 castaneum, e, no segundo, Sitotroga cerealella, Ephestia elutella  e 
 Plodia interpunctella, que são as traças de maior importância. 
@@ -8055,7 +8152,7 @@ do produto.
 221
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 320
 
 O  que  são  fumigantes  e  qual  a  relevância  deles  para  o 
@@ -8097,7 +8194,7 @@ a esse fumigante em insetos-praga de produtos armazenados.
 222
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 322
 
 Como é realizado o expurgo na pequena propriedade?
@@ -8143,7 +8240,7 @@ varanda de cobertura é de 6 m (C) x 5 m (L) x 2,5 m (A).
 223
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 324
 
 O expurgo com fosfina mata os ovos e as larvas que ficam 
@@ -8186,7 +8283,7 @@ conforme o padrão de uso de inseticidas.
 224
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 326
 
 O uso de misturas inseticidas é medida efetiva contra a 
@@ -8227,7 +8324,7 @@ qualidade do grão.
 225
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 328
 
 Que resultados o manejo integrado traz ao armazenador 
@@ -8247,7 +8344,7 @@ centrais de armazenamento instaladas no País.
 226
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 15
 
 Armazenamento,  
@@ -8260,7 +8357,7 @@ Raul Narciso C. Guedes
 Irineu Lorini
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 329
 
 Qual a importância do armazenamento de grãos? 
@@ -8302,7 +8399,7 @@ forma adequada.
 228
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 330
 
 Qual deve ser o teor de umidade de milho na colheita, 
@@ -8342,7 +8439,7 @@ de colheita.
 229
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 331
 
 Por que o milho deve passar por uma limpeza antes de ser 
@@ -8388,7 +8485,7 @@ quebra dos grãos.
 230
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 333
 
 Qual o teor de umidade mais recomendado para o bom 
@@ -8433,7 +8530,7 @@ armazenamento.  A  maioria  das  espécies  de  insetos  e  de  fungos
 231
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 reduz  sua  atividade  biológica  a  15  oC,  portanto    a  aeração,  que 
 consiste  em  forçar  a  passagem  de  ar  através  da  massa  de  grãos, 
 constitui uma operação fundamental para abaixar e uniformizar a 
@@ -8472,7 +8569,7 @@ condensação  da  água  na  superfície.  Portanto,  a  migração  da
 232
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 umidade pode aumentar o risco de se criar condições ótimas para o 
 desenvolvimento  de  insetos  e  fungos,  favorecendo  a  deterioração 
 dos grãos. A migração da umidade pode ser evitada fazendo-se a 
@@ -8515,7 +8612,7 @@ rapidamente estragos por fungos e, às vezes, por bactérias.
 233
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 Um dos sintomas típicos desse fenômeno é a compactação da 
 superfície  dos  grãos,  que  deve  ser  encarado  como  um  sinal  de 
 advertência,  indicando  que  ações  devem  ser  estabelecidas  para 
@@ -8558,7 +8655,7 @@ possível porque o ar pode ser forçado através da massa de grãos,
 234
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 dando  propriedades  desejáveis  a  eles,  e  tais  propriedades  são 
 mantidas  (por  um  armazenamento  prolongado)  em  virtude  da 
 natureza isolante da massa. 
@@ -8602,7 +8699,7 @@ espécies animais (ruminantes), não só os grãos, mas também palhas
 235
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 e sabugos constituem alimentos. Nesse caso, o agricultor tritura a 
 espiga  integral  (grão,  palha  e  sabugo)  e  adiciona  uma  ração 
 concentrada, preparando o que eles chamam de “rolão de milho”. 
@@ -8647,7 +8744,7 @@ Existem vários outros tipos de paiol que podem ser construídos:
 236
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 • De madeira roliça e bambu. 
 • De alvenaria (paredes de tijolos). 
 Quanto  aos  métodos  de  combate  às  pragas,  existem 
@@ -8678,7 +8775,7 @@ milho do paiol e expurgar novamente.
 237
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 16
 
 O Milho na Nutrição  
@@ -8691,7 +8788,7 @@ Maria Cristina Dias Paes
 Valéria Aparecida Vieira Queiroz
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 343
 
 Qual a importância do uso do milho na alimentação de 
@@ -8735,7 +8832,7 @@ máximo  potencial  produtivo  das  aves  e  suínos,  deve  conter  os
 240
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 seguintes  nutrientes:  energia,  aminoácidos,  minerais  e  vitaminas. 
 Para cada fase de produção das aves e suínos, há uma concentração 
 ótima  de  cada  nutriente  e  uma  relação  ótima  entre  os  vários 
@@ -8774,7 +8871,7 @@ apresentado na Tabela 1 um conjunto dessas informações.
 241
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 Tabela  1.  Resultados  de  análises  químicas  e  experimentos  de  digestibilidade 
 com diferentes partidas de milho, na Embrapa Suínos e Aves.
 
@@ -8797,7 +8894,7 @@ nitrogênio  total  determinada  na  amostra.  Assim,  uma  maior  adu-
 242
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 bação nitrogenada de cobertura aumenta a absorção de nitrogênio 
 pela planta. Por conseguinte, o teor de nitrogênio aumenta no grão 
 de milho, assim como o teor de proteína bruta. Contudo, esse maior 
@@ -8840,7 +8937,7 @@ adicionar um ingrediente de alta concentração de energia, como o
 243
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 óleo de soja. Só que este custa, normalmente, muito mais caro que 
 o  milho.  Assim,  quando  o  teor  de  óleo  de  milho  é  maior  que  a 
 média, a sua contribuição para atender a exigência de energia dos 
@@ -8886,7 +8983,7 @@ estranhos de qualquer natureza, não oriundos do produto.
 244
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 352
 
 Há  redução do conteúdo de energia do milho  para fins 
@@ -8930,7 +9027,7 @@ dos nutrientes presentes na dieta, inclusive a energia.
 245
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 355
 
 O que é farelo de milho? É diferente do milho moído?
@@ -8961,7 +9058,7 @@ proporcione máximo desenvolvimento dos animais.
 246
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 357
 
 O milho moído finamente pode causar problemas para os 
@@ -9007,7 +9104,7 @@ propriedades, citam-se:
 247
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 360
 
 Qual  é  o  padrão  de  qualidade  para  milho  destinado  à 
@@ -9047,7 +9144,7 @@ milho e menor é o custo de produção de aves e suínos. A densidade
 248
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 é facilmente determinada e utilizada há muitos anos para a comer-
 cialização de cereais de inverno como o trigo, triticale e cevada.
 
@@ -9079,7 +9176,7 @@ azedo ou mofo será desclassificada.
 249
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 363
 
 A cor do milho afeta seu valor nutricional?
@@ -9124,7 +9221,7 @@ bruta  na  dieta  (Tabela  6).  A  inclusão
 250
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 pode ser de 5%, para animais em crescimento, 10%, para terminação 
 e lactação, e 15%, para animais de reposição.
 
@@ -9161,7 +9258,7 @@ nutricional.  Se  a  silagem  for  adequadamente  preparada,  é  um
 251
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 alimento altamente palatável, digestível, parcialmente acidificado e 
 com menor probabilidade de apresentar problemas de micotoxinas. 
 Há outras vantagens da silagem de grão de milho em relação ao 
@@ -9205,7 +9302,7 @@ silagens de grão de milho.
 252
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 Tabela 7. Composição nutricional média da silagem de grão úmido de milho.
 
 Valores expressos em base de matéria natural.
@@ -9213,7 +9310,7 @@ Valores expressos em base de matéria natural.
 253
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 369
 
 Uma vez pronta a silagem de grão úmido de milho, quais 
@@ -9256,7 +9353,7 @@ ração com milho seco.
 254
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 371
 
 Quais os cuidados na fase pós-colheita?
@@ -9301,7 +9398,7 @@ armazenagem e no próprio preparo das dietas na fábrica de rações
 255
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 constitui-se  em  importante  fator  para  a  contaminação  por  mi-
 cotoxinas.  Entretanto,  quando  ocorre  o  problema,  o  setor  de 
 produção de aves e suínos normalmente culpa o milho em primeiro 
@@ -9345,7 +9442,7 @@ pode estar associada à produção de micotoxinas.  As  mais frequentes
 256
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 no milho são a zearalenona, fumonisina e a aflatoxina. As principais 
 micotoxinas, fungos que as produzem e alimentos em que mais se 
 desenvolvem são apresentados na Tabela 8.
@@ -9374,7 +9471,7 @@ rapidez. Contudo, é impreciso e não é quantitativo.
 257
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 Para o diagnóstico de micotoxinas, os métodos mais utilizados são: 
 • ELISA (ensaio imunoenzimático). 
 • Cromatografia de camada delgada (TLC). 
@@ -9417,7 +9514,7 @@ brião  da  semente  do  milho,  representa  11%  do  grão  de  milho  e
 258
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 concentra quase a totalidade do óleo, da vitamina E e dos minerais 
 do  grão,  além  de  conter  quantidades  importantes  de  proteínas  e 
 açúcares. É dessa fração que se extrai o óleo de milho. O pericarpo 
@@ -9461,7 +9558,7 @@ e filmes biodegradáveis.
 259
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 380
 
 O que é amido de milho?
@@ -9505,7 +9602,7 @@ formas salgada e doce. O processo é chamado expansão por canhão.
 260
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 Porém,  o  floco  da  pipoca  obtido  a  partir  dos  grãos  de  milho  em 
 panelas  ou  microondas  é  uma  propriedade  apenas  do  milho  de 
 pipoca,  graças  ao  seu  pericarpo  mais  espesso  e  à  composição 
@@ -9546,7 +9643,7 @@ preparada sem óleo, manteiga ou gordura.
 261
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 385
 
 Qual o valor nutricional do minimilho?
@@ -9593,7 +9690,7 @@ minimilho, após colhidas, deverão ser armazenadas sob refrigeração
 262
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 em  temperatura  entre  5  °C  e  10  °C  para  evitar  perda  de  água  e 
 degradação  do  produto.  Durante  o  preparo  do  minimilho  mini-
 mamente  processado,  a  temperatura  do  ambiente  deverá  ser 
@@ -9648,7 +9745,7 @@ retirar o excesso de água, ou secar em papel toalha.
 263
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 • Organizar os minimilhos em bandejas de isopor de 15 cm x 
 15 cm, revestir com filme de PVC ou colocá-los em emba-
 lagem de polietileno tereftalato (PET).
@@ -9690,7 +9787,7 @@ na salmoura por pelo menos 15 dias antes de consumir.
 264
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 389
 
 Posso reutilizar vidros para fazer a conserva de minimilho?
@@ -9733,7 +9830,7 @@ para evitar que as tampas enferrugem.
 265
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 392
 
 Preciso armazenar os vidros de conserva de minimilho em 
@@ -9778,7 +9875,7 @@ até a de distribuição do produto já embalado. Dessa forma, para
 266
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 evitar que o milho-verde desidrate e a água condense na embalagem 
 formando gotículas (fique suando), é necessário que:
 
@@ -9812,7 +9909,7 @@ lado, de preferência, sob refrigeração.
 267
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 17
 
 O Milho na  
@@ -9825,7 +9922,7 @@ Miguel M. Gontijo Neto
 João Kluthcouski
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 395
 
 Por que a cultura do milho é fundamental em sistemas de 
@@ -9869,7 +9966,7 @@ volvimento inicial. O plantio da forrageira, alguns dias após o plantio
 270
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 do milho, ou a utilização de herbicidas graminicidas seletivos para 
 o  milho  em  baixa  dosagem,  paralisando  temporariamente  o 
 crescimento  do  capim,  favorece  a  produtividade  do  milho  con-
@@ -9914,7 +10011,7 @@ nosas  em  plantios  consorciados  com  milho  +  capim,  porém,  em
 271
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 princípio,  todas  as  espécies  de  leguminosas  não  trepadoras, 
 especialmente  forrageiras  como  o  guandu  e  o  estilosante,  podem 
 ser  consorciadas  com  o  milho.  O  calopogônio,  apesar  de  hábito 
@@ -9959,7 +10056,7 @@ tanto do milho quanto da pastagem. Nesse caso, a expectativa de
 272
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 ganhos tanto com a produção do cereal quanto com a de carne ou 
 leite aumenta.
 
@@ -10004,7 +10101,7 @@ consorciado, pode-se realizar a distribuição das sementes de capim
 273
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 a lanço antes do plantio do milho. Nesses casos, é recomendado 
 aumentar em 50% a 100% a taxa de semeadura da forrageira para 
 garantir uma boa formação da pastagem. Nas semeaduras do capim 
@@ -10047,7 +10144,7 @@ profundidade. Não realizar a semeadura muito próxima ao preparo
 274
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 do  solo,  sob  pena  de  ocorrer  dano  às  plântulas  em  virtude  do 
 processo inicial de decomposição dos resíduos orgânicos. Para isso, 
 em  torno  de  30  dias  antes  da  aração,  deve-se  proceder  a  uma 
@@ -10091,7 +10188,7 @@ deve-se optar pelo consórcio simultâneo e cultivares específicas.
 275
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 Como  a  colheita  do  milho  para  ensilagem  é  mais  cedo, 
 normalmente ainda existem condições climáticas adequadas (chuvas 
 e temperaturas) que vão favorecer o desenvolvimento da forrageira, 
@@ -10130,7 +10227,7 @@ e com inserção alta de espigas.
 276
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 410
 
 A adubação do consórcio milho-capim difere daquela da 
@@ -10175,7 +10272,7 @@ de  integração  lavoura-pecuária  (ILP),  em  áreas  intensivamente
 277
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 irrigadas, especialmente na sucessão milho e feijão o consórcio do 
 milho  com  a  braquiária  ruziziensis  já  está  sendo  utilizado  com  a 
 finalidade  de  produzir  palha  para  o  plantio  direto.  As  vantagens 
@@ -10191,7 +10288,7 @@ sucessão é beneficiado por essa palhada.
 278
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 18
 
 Produção e Uso  
@@ -10203,7 +10300,7 @@ Jackson Silva e Oliveira
 José Joaquim Ferreira
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 413
 
 As  cultivares  de  milho  para  silagem  são  as  mesmas 
@@ -10255,7 +10352,7 @@ gem.
 280
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 • Boa digestibilidade da parte fibrosa das plantas. 
 Essa  última  característica  demanda  um  histórico  de  análises 
 bromatológicas para sua constatação. Para as outras duas, basta o 
@@ -10298,7 +10395,7 @@ da silagem, principalmente em híbridos tropicais de porte alto. Além
 281
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 disso, pode-se aumentar o desgaste do solo em nutrientes, aumentar 
 o nível de acamamento, doenças e requeima. Podem ocorrer ainda 
 condições  climáticas  desfavoráveis,  como  seca,  em  que  a  pro-
@@ -10341,7 +10438,7 @@ a estrutura física e fertilidade natural do solo, de acordo com época
 282
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 de colheita da silagem e da região do plantio, tais como: tremoço-
 branco,  milheto,  guandu,  crotalária,  girassol,  canola,  sorgo,  aveia, 
 triticale, braquiárias, etc.
@@ -10384,7 +10481,7 @@ matéria seca da planta ou pelo nível de enchimento dos grãos.
 283
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 fermentação, 
 
 Pela porcentagem de matéria seca, a faixa ideal de ensilagem, 
@@ -10424,7 +10521,7 @@ planta de acordo com o estágio de maturação na colheita.
 284
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 Tabela 1. Potencial de produção de grãos e da planta e teor de matéria seca da 
 planta de milho conforme estágio de maturação. 
 
@@ -10463,7 +10560,7 @@ aplicar a fórmula:
 285
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 Qual é o melhor tamanho de partícula da silagem?
 
 421
@@ -10507,7 +10604,7 @@ massa/ha e sem ganhos econômicos expressi-
 286
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 vos. Além disso, a máquina ensiladeira convencional quebrava mui-
 to o eixo cardan no momento de ensilagem alta por trabalhar fora 
 do alinhamento. Em busca da melhor relação custo x benefício, fo-
@@ -10548,7 +10645,7 @@ de grãos úmidos.
 287
 
 
- 500pr_pgnumber278
+ 500pr_pgnumber279
 424
 
 Qual o tempo máximo para fechamento do silo?
@@ -10591,7 +10688,7 @@ da silagem. Com a compactação e fechamento, ocorre ausência de
 288
 
 
- 500pr_pgnumber279
+ 500pr_pgnumber280
 fermentação  anaeróbica 
 
 oxigênio, portanto esse primeiro grupo de bactérias morre e dá lugar 
@@ -10640,7 +10737,7 @@ com  os  mesmos  propósitos  e  para  as  mesmas  finalidades  que  o
 289
 
 
- 500pr_pgnumber280
+ 500pr_pgnumber281
 milho  convencional,  pois  as  toxinas  do  Bt  são  inócuas  para  os 
 animais domésticos, já que, durante o processo de fermentação, há 
 degradação dessas proteínas. 
@@ -10692,7 +10789,7 @@ acima de 5%.
 290
 
 
- 500pr_pgnumber281
+ 500pr_pgnumber282
 • Porcentagem  de  Carboidratos  não  fibrosos  (%CNF)  ou  % 
 Amido – Tem relação direta com %NDT e qualidade ener-
 gética da silagem, pois cerca de 65% da energia de um ru-
@@ -10738,7 +10835,7 @@ desempenho em plantios tardios, em regiões com baixas altitudes e
 291
 
 
- 500pr_pgnumber282
+ 500pr_pgnumber283
 com maior incidência de veranicos ou seca. Na verdade, o sorgo é 
 um grande parceiro do milho nessas ocasiões, sem perder qualidade 
 e ainda possuir rebrota. Uma silagem bem feita de sorgo tenderá a 
@@ -10782,7 +10879,7 @@ diferentes  raças,  condições  edafoclimáticas  desfavoráveis,  etc.
 292
 
 
- 500pr_pgnumber283
+ 500pr_pgnumber284
 O  fato  é  que  uma  plantação  nunca  deve  se  apoiar  em  uma  só 
 genética,  e  o  produtor  deve  sempre  seguir  as  recomendações  de 
 rotação  de  genes  em  uma  mesma  área,  evitando  problemas 
@@ -10826,7 +10923,7 @@ lagem, senão ocorrerá aumento sig-
 293
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 nificativo nas porcentagens de FDN e FDA, reduzindo o consumo e 
 a digestibilidade da silagem, respectivamente. Também verifique se 
 o produtor possui ensiladeira de área total ou automotriz, pois redu-
@@ -10870,7 +10967,7 @@ normal.
 294
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 Quando, por alguma razão, for pouca a contribuição esperada 
 de grãos na massa ensilada, o valor nutritivo da silagem será mais 
 dependente do valor nutritivo da fração vegetativa da planta, cujo 
@@ -10914,7 +11011,7 @@ ensilagem de milho, mas sem consistentes resultados de lucro, em
 295
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 produção de bovinos alimentados com as respectivas silagens feitas 
 com esses produtos. 
 
@@ -10941,7 +11038,7 @@ silagem na quantidade de 30 g/kg de silagem fresca.
 296
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 19
 
 Milhos Especiais:  
@@ -10954,7 +11051,7 @@ Israel Alexandre Pereira Filho
 José Carlos Cruz
 
 
- 500pr_pgnumber288
+ 500pr_pgnumber289
 440
 
 Qual a diferença entre milho-pipoca e milhos normais?
@@ -11000,7 +11097,7 @@ nitrogenada de cobertura deve levar em conta a cultura anterior, o
 298
 
 
- 500pr_pgnumber289
+ 500pr_pgnumber290
 sistema  de  plantio,  e  a  meta  da  produtividade.  O  manejo  e  as 
 práticas  de  cultivo  são  os  mesmos  utilizados  no  milho  normal, 
 devendo-se ter o cuidado, no manejo das plantas daninhas, com a 
@@ -11039,7 +11136,7 @@ também contribuem para aumentar a capacidade de expansão.
 299
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 445
 
 Por que o milho-pipoca de cor preta não é mais encontrado 
@@ -11077,7 +11174,7 @@ ainda, sementes de milho-pipoca e de milho-doce.
 300
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 447
 
 Qual é a densidade de plantio e adubação para obtenção 
@@ -11116,7 +11213,7 @@ do branco-pérola ao amarelo-claro.
 301
 
 
- 500pr_pgnumber292
+ 500pr_pgnumber293
 O minimilho, ainda na casca, deve ser resfriado imediatamente 
 após a colheita e, para isso, o melhor método é a imersão em água 
 gelada.  O  transporte  do  campo  até  os  locais  de  armazenamento 
@@ -11161,7 +11258,7 @@ Mais recentemente, as indústrias de conservas alimentícias do Brasil,
 302
 
 
- 500pr_pgnumber293
+ 500pr_pgnumber294
 a  exemplo  do  que  ocorre  nos  países  desenvolvidos,  vêm  dando 
 preferência ao milho-doce, por proporcionar conservas de melhor 
 sabor  e  qualidade  comercial.  Raramente,  encontra-se  nos  super-
@@ -11206,7 +11303,7 @@ transcorrer  de  sua  maturação.  O  amido  é  também  composto  de
 303
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 açúcares,  mas  não  tem  o  sabor  adocicado  acentuado  como  os 
 açúcares simples. A síntese da molécula do amido necessita da ação 
 de uma enzima que trabalha justamente associando esses açúcares 
@@ -11252,7 +11349,7 @@ mais compridas e mais largas, para uso na pamonha.
 304
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 457
 
 Com  quantos  dias  o  milho-verde  estará  no  ponto  de 
@@ -11298,7 +11395,7 @@ hectare.
 305
 
 
- 500pr_pgnumber296
+ 500pr_pgnumber297
 20
 
 Milho Safrinha
@@ -11320,7 +11417,7 @@ Frederico Campos Pereira
 Romeu Soares Filho
 
 
- 500pr_pgnumber297
+ 500pr_pgnumber298
 459
 
 O que é milho safrinha? 
@@ -11360,7 +11457,7 @@ virtude da diferença de clima para a região Centro-Sul.
 308
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 461
 
 Milho  safrinha  é  sinônimo  de  baixa  produtividade  e 
@@ -11401,7 +11498,7 @@ agrícola.
 309
 
 
- 500pr_pgnumber299
+ 500pr_pgnumber300
 462
 
 As  informações  existentes  sobre  a  safrinha  no  Paraná  e 
@@ -11446,7 +11543,7 @@ plantas.
 310
 
 
- 500pr_pgnumber300
+ 500pr_pgnumber301
 Quando a data de semeadura do milho safrinha ultrapassar o 
 período recomendado regionalmente, sugere-se fazer a rotação de 
 culturas,  substituindo-o  por  outras  espécies  de  importância  eco-
@@ -11491,7 +11588,7 @@ e/ou baixas temperaturas. O consórcio de milho safrinha e plantas
 311
 
 
- 500pr_pgnumber301
+ 500pr_pgnumber302
 forrageiras é um dos meios para aumentar a formação de palha para 
 cobertura  do  solo  e/ou  produzir  forragens  para  os  animais  na 
 entressafra,  proporcionando  melhorias  no  manejo  do  solo  e  na 
@@ -11536,7 +11633,7 @@ das sementes da forrageira: a lanço ou na  entrelinha.
 312
 
 
- 500pr_pgnumber302
+ 500pr_pgnumber303
 A distribuição das sementes a lanço é praticada principalmente 
 onde se utiliza espaçamento reduzido entre as linhas do milho, 50 
 cm ou similar, porque nesse espaçamento é difícil incluir uma linha 
@@ -11582,7 +11679,7 @@ Mapa, ter determinado esse período, ocorrem semeaduras antes do
 313
 
 
- 500pr_pgnumber303
+ 500pr_pgnumber304
 início liberado e após o limite máximo estabelecido em praticamente 
 todas as regiões aptas ao cultivo do milho safrinha, principalmente 
 em  função  dos  sistemas  de  produção  regionais.  Observa-se,  no 
@@ -11626,7 +11723,7 @@ mais tardias (geralmente, até fevereiro).
 314
 
 
- 500pr_pgnumber304
+ 500pr_pgnumber305
  • Características do solo – Como um dos fatores mais críticos 
 para a safrinha é a disponibilidade de água no solo nos está-
 dios finais de desenvolvimento em virtude do inverno seco, 
@@ -11672,7 +11769,7 @@ já  próximo  à  maturidade  fisiológica,  o  efeito  das  geadas  é  bem
 315
 
 
- 500pr_pgnumber305
+ 500pr_pgnumber306
 pequeno e quase que imperceptível. No entanto, caso a ocorrência 
 seja  em  pleno  estádio  vegetativo,  próximo  ao  florescimento  ou 
 ainda  no  início  do  período  de  enchimento  de  grãos,  o  efeito  no 
@@ -11719,7 +11816,7 @@ dentre as adaptadas regionalmente.
 316
 
 
- 500pr_pgnumber306
+ 500pr_pgnumber307
 471
 
 Cultivares  de  qual  ciclo  seriam  preferenciais  para  a 
@@ -11767,7 +11864,7 @@ de precipitação pluvial, a capacidade de retenção de água do solo,
 317
 
 
- 500pr_pgnumber307
+ 500pr_pgnumber308
 o nível de fertilidade natural do solo e a fertilização a ser adicionada, 
 entre  outros.  Todos  esses  fatores  devem  sempre  ser  considerados 
 para  ajuste  da  população  final  pretendida.  Em  razão  do  menor 
@@ -11811,7 +11908,7 @@ para colheita em espaçamentos reduzidos.
 318
 
 
- 500pr_pgnumber308
+ 500pr_pgnumber309
 474
 
 Como adubar o milho safrinha?
@@ -11851,7 +11948,7 @@ populações de plantas mais elevadas.
 319
 
 
- 500pr_pgnumber309
+ 500pr_pgnumber310
 476
 
 Deve-se fazer adubação de cobertura no milho safrinha? 
@@ -11895,7 +11992,7 @@ virtude da pressa no estabelecimento da cultura.
 320
 
 
- 500pr_pgnumber310
+ 500pr_pgnumber311
 O  controle  na  cultura  é  feito  quase  sempre  com  herbicidas 
 pós-emergentes, utilizando atrazine mais óleo vegetal ou mineral e, 
 dependendo das espécies predominantes, suas misturas com outros 
@@ -11939,7 +12036,7 @@ doenças apresentarem-se num nível de severidade maior no período
 321
 
 
- 500pr_pgnumber311
+ 500pr_pgnumber312
 toxidez  por  produtos  químicos 
 
 de cultivo da safrinha. Isso ocorre tanto para as doenças abióticas 
@@ -11986,7 +12083,7 @@ doenças”  e  não  como  a  única  alternativa.  Mesmo  apresentando
 322
 
 
- 500pr_pgnumber312
+ 500pr_pgnumber313
 eficácia, o uso de forma isolada não é adequado  do ponto de vista 
 epidemiológico  e  ambiental.  Pode-se  amenizar  a  ação  dos 
 patógenos,  atuando  de  forma  preventiva,  utilizando  as  seguintes 
@@ -12034,7 +12131,7 @@ no monitoramento prévio da palhada ou com base em histórico da
 323
 
 
- 500pr_pgnumber313
+ 500pr_pgnumber314
 481
 
 Que práticas agronômicas são importantes no manejo de 
@@ -12072,7 +12169,7 @@ possibilita o incremento e a manutenção dos inimigos naturais.
 324
 
 
- 500pr_pgnumber314
+ 500pr_pgnumber315
 21
 
 Economia
@@ -12084,7 +12181,7 @@ Jason de Oliveira Duarte
 João Carlos Garcia
 
 
- 500pr_pgnumber315
+ 500pr_pgnumber316
 482
 
 Qual a importância do milho entre as grandes explorações 
@@ -12118,7 +12215,7 @@ Fonte: FAO (2010b).
 326
 
 
- 500pr_pgnumber316
+ 500pr_pgnumber317
 484
 
  Quais os principais países exportadores de milho?
@@ -12151,7 +12248,7 @@ Fonte: FAO (2010b).
 327
 
 
- 500pr_pgnumber317
+ 500pr_pgnumber318
 485
 
 Quais são os principais países importadores de milho?
@@ -12182,7 +12279,7 @@ toneladas (Tabela 4).
 328
 
 
- 500pr_pgnumber318
+ 500pr_pgnumber319
 Tabela 4. Principais países produtores de carne suína (2001–2005).
 
 Fonte: FAO (2010a).
@@ -12200,7 +12297,7 @@ Fonte: FAO (2010a).
 329
 
 
- 500pr_pgnumber319
+ 500pr_pgnumber320
 487
 
 Quais  são  as  maiores  regiões  produtoras  de  milho,  no 
@@ -12226,7 +12323,7 @@ Fonte: Conab (2010).
 330
 
 
- 500pr_pgnumber320
+ 500pr_pgnumber321
 A produção do milho é feita em duas safras, sendo a safra de 
 verão, ou primeira safra, aquela que apresenta maior área plantada 
 e responde por aproximadamente 3/4 do abastecimento nacional.
@@ -12265,7 +12362,7 @@ te nas propriedades rurais do Brasil.
 331
 
 
- 500pr_pgnumber321
+ 500pr_pgnumber322
 489
 
 Quais são as regiões de maior produtividade na cultura do 
@@ -12310,7 +12407,7 @@ sempre que o preço de mercado se situa abaixo do preço mínimo.
 332
 
 
- 500pr_pgnumber322
+ 500pr_pgnumber323
 492
 
 Existe seguro para a cultura do milho?
@@ -12357,7 +12454,7 @@ in natura ou como matéria-prima industrial.
 333
 
 
- 500pr_pgnumber323
+ 500pr_pgnumber324
 494
 
 Por que o Brasil importa milho se tem excedente expor-
@@ -12394,7 +12491,7 @@ produção de etanol de milho.
 334
 
 
- 500pr_pgnumber324
+ 500pr_pgnumber325
 496
 
 Na safra 2008–2009, foi utilizada pela primeira vez, no 
@@ -12442,7 +12539,7 @@ forma:
 335
 
 
- 500pr_pgnumber325
+ 500pr_pgnumber326
 • Bovinocultura, 9%. 
 • Outros animais, 3%. 
 • Indústria moageira, 15%.  
@@ -12486,7 +12583,7 @@ desenvolvimento do País não será modificada.
 336
 
 
- 500pr_pgnumber326
+ 500pr_pgnumber327
 499
 
 Por que a cultura do milho perdeu área para a soja, no 
@@ -12529,132 +12626,5 @@ Dessa forma, existem regiões com melhor aptidão para a cultura de
 verão e outras, para o milho safrinha.
 
 337
-
-
- 500pr_pgnumber327
-Referências
-
-BAIDOO,  S.  K.;  SHIRES,  A.;  ROBBLEE,  A.  R.  Effect  of  kernel  density  on  the 
-apparent  and  true  metabolizable  energy  value  of  corn  for  chikens.  Poultry 
-Science, College Station, v. 70, p. 2102-2107, 1991.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. AGROFIT: sistema 
-de  agrotóxicos  fitossanitários.  Disponível  em:  <http://extranet.agricultura.gov.
-br/agrofit_cons/principal_agrofit_cons>. Acesso em: 10 jun. 2010.
-
-COMPÊNDIO brasileiro de alimentação animal. São Paulo: Sindirações: Anfal, 
-1998.
-
-CONAB.  Companhia  Nacional  de  Abastecimento.  Disponível  em:  <http://
-www.conab.gov.br/conabweb/download/safra/estudo_safra.pdf>. Acesso em: 1 
-ago. 2009.
-
-CONAB. Companhia Nacional de Abastecimento. Séries históricas. Disponível 
-em:<http://www.conab.gov.br/conteudos.php?a=1252&t=2&pagina_ 
-bjcmsconteudos=2#A_objcmsconteudos>. Acesso em: 22 out. 2010.
-
-FAO.  Faostat:  production.  Disponível  em:  <http://faostat.fao.org/site/569/
-default.aspx#ancor>. Acesso em: 22 out. 2010a.
-
-FAO.  Faostat:  trade.  Disponível  em:  <http://faostat.fao.org/site/535/default.
-aspx#ancor>. Acesso em: 22 out. 2010b.
-GIL, L. H. V. G.; LIMA, G. J. M. M. Micotoxinas: o perigo oculto nas rações. 
-In:  CURSO  DE  NUTRIÇÃO  DE  SUÍNOS  E  AVES,  1996,  Concórdia.  Anais... 
-Concórdia: EMBRAPA-CNPSA, 1996. p. 192-201.
-
-HEINRICH, B. Grain preservation by means of refrigeration in tropical countries. 
-Sulzer Technical Review, Winterthur, n. 4, p. 19-23, 1989.
-
-the  TMR  plant.  
-MAHANNA,  W.  Corn  management  and  breeding 
-1996.  Disponível  em:  <http://www.pioneer.com/usa/productsandtechnology/ 
-utrition>. Acesso em: 18 mar. 1997.
-
-PEREIRA  FILHO,  I.  A.;  CRUZ,  J.  C.  Praticas  culturais  do  milho.  In: 
-RECOMENDAÇÕES técnicas para o cultivo do milho. Brasília, DF: EMBRAPA-
-SPI, 1993. p. 113-127.
-
-338
-
-
- 500pr_pgnumber328
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000022
-
-•••
-
-
- 500pr_pgnumber329
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber330
-
- 500pr_pgnumber331
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-O papel utilizado nesta publicação foi produzido conforme 
-
-a certificação do Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber332
-A
-
-7
--
-6
-2
-5
--
-3
-8
-3
-7
--
-5
-8
--
-8
-7
-9
- 
-N
-B
-S
-
-I
-
-7
-6
-2
-5
-3
-8
-
-3
-7
-5
-8
-8
-7
-
-9
 
 

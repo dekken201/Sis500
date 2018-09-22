@@ -1,5 +1,5 @@
 
- 500pr_pgnumber015
+ 500pr_pgnumber016
 1 
 
 A falta de chuva prejudica o abacaxizeiro?
@@ -46,7 +46,7 @@ muito frio. Por essa razão, recomenda-se seu cultivo em regiões de
 16
 
 
- 500pr_pgnumber016
+ 500pr_pgnumber017
 baixa  altitude  (menos  de  400  m),  onde  se  localiza  a  maioria  dos 
 plantios.
 
@@ -92,7 +92,7 @@ ocorrência de doenças fúngicas e bacterianas. Mudanças bruscas
 17
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 na umidade do ar podem causar fendilhamento na inflorescência e 
 no fruto.
 
@@ -139,7 +139,7 @@ para a produção do abacaxizeiro.
 18
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 10  O clima influencia na produção de mudas pelo abacaxizeiro?
 
 Sim.  A  falta  de  chuva,  altas  temperaturas  e  baixa  umidade 
@@ -181,7 +181,7 @@ considerar  não  apenas  os  aspectos  técnicos,  mas  também  outros
 19
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 fatores relevantes e estratégicos para o sucesso do empreendimento, 
 relacionados à localização da área. Assim, as áreas de cultivo devem 
 ter estradas para facilitar o acesso de veículos e o escoamento da 
@@ -224,7 +224,7 @@ gos do gênero Phytophthora.
 20
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 16 
 
 Quais são os solos mais adequados ao plantio do abacaxi­
@@ -270,7 +270,7 @@ baixa.
 21
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 20 
 
 Que práticas agrícolas podem contribuir para melhorar a 
@@ -318,7 +318,7 @@ diazotróficas.  Os  fungos  beneficiam  o  abacaxizeiro  com  melhor
 22
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 nutrição, ao passo que as bactérias podem favorecer a planta pelo 
 fornecimento de fatores de crescimento e nitrogênio (N).
 
@@ -330,9 +330,9 @@ crescimento de mudas de abacaxi, dependendo do tipo de substrato.
 23
 
 
- 500pr_pgnumber023
-
  500pr_pgnumber024
+
+ 500pr_pgnumber025
 2 
 
 Variedades
@@ -341,7 +341,7 @@ Davi Theodoro Junghans
 José Renato Santos Cabral
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 23 
 
 Quais  são  as  cultivares  de  abacaxi  mais  plantadas  no 
@@ -384,7 +384,7 @@ cional.
 26
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 25 
 
 O  predomínio  de  uma  única  cultivar  na  produção  de 
@@ -436,7 +436,7 @@ externo).
 27
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 28 
 
 Quais  são  as  características  das  cultivares  destinadas  ao 
@@ -490,7 +490,7 @@ no ponto de colheita e pouco fibrosa.
 28
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 31  Quais são as diferenças entre as cultivares Pérola e Jupi?
 
 Elas são semelhantes nas características relacionadas à planta 
@@ -539,7 +539,7 @@ culturais.
 29
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 34  Quais são as características da cultivar IAC Gomo de Mel?
 
 •	 Elevado	número	de	folhas,	com	presença	de	espinhos	agres-
@@ -596,7 +596,7 @@ solúveis. Excelente sabor nas análises sensoriais.
 30
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 37  Quais são as características da cultivar BRS Vitória?
 
 •	 Planta	de	porte	médio,	com	folhas	verde-claras,	completa-
@@ -644,7 +644,7 @@ O produtor deve adotar as seguintes providências:
 31
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 •	 Eliminar	plantas	com	características	diferentes	do	padrão	da	
 variedade,  como  coroa  múltipla,  fruto  sem  coroa,  fruto 
 deformado, etc.
@@ -697,7 +697,7 @@ embora nem todas tenham origem genética comprovada.
 32
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 3 
 
 Propagação
@@ -711,7 +711,7 @@ Getúlio Augusto Pinto da Cunha
 Valmir Pereira de Lima
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 43 
 
 Que tipos de muda podem ser utili­
@@ -760,7 +760,7 @@ curto, colheita mais difícil, menor uniformidade em tamanho e peso,
 34
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 maior suscetibilidade à floração natural precoce e é produzida em 
 menor número do que as do tipo filhote.
 
@@ -805,7 +805,7 @@ o corte das plantas na base do pedúnculo (haste que sustenta o fruto
 35
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 e as mudas do tipo filhote), com facão ou roçadeira. Essa prática 
 estimula a produção de rebentões e facilita sua colheita.
 
@@ -846,7 +846,7 @@ A cura tem como finalidade:
 36
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 •	 Eliminar	o	excesso	de	umidade,	evitando	o	apodrecimento	
 
 da muda após o plantio.
@@ -890,7 +890,7 @@ fungicidas não têm efeito curativo sobre a fusariose. Para a prevenção
 37
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 de outras doenças, a exemplo da podridão-negra (Chalara paradoxa), 
 existem medidas mais simples, como a cura, o não amontoamento 
 e o descarte do material de plantio atacado. Mas o tratamento com 
@@ -933,7 +933,7 @@ ou em discos, com facão, guilhotina ou serra circular motorizada.
 38
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 63 
 
 Que cuidados devem ser observados na seleção das plantas 
@@ -976,7 +976,7 @@ registrados para a cultura do abacaxi.
 39
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 66 
 
 Como preparar o canteiro para o plantio dos pedaços de 
@@ -1022,7 +1022,7 @@ voltadas  para  cima.  Os  espaçamentos  mais  utilizados  são  de
 40
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 10 cm x 10 cm, 10 cm x 15 cm e 10 cm x 5 cm, para plantio em 
 posição vertical, inclinada ou horizontal, respectivamente.
 
@@ -1066,7 +1066,7 @@ plântulas não é necessário adubar, porque cada pedaço de caule
 41
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 possui reserva de nutrientes suficiente para atender às necessidades 
 nutricionais das plântulas.
 
@@ -1113,7 +1113,7 @@ plântulas, nos canteiros de propagação.
 42
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 78 
 
 É recomendável aplicar herbicidas após o plantio dos peda­
@@ -1159,7 +1159,7 @@ ser eliminado, em seguida.
 43
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 82 
 
 Que cuidados devem ser observados na colheita das plân­
@@ -1206,7 +1206,7 @@ qualidade  sanitária  do  material  produzido,  há  possibilidades  de
 44
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 maior  valoração  do  produto  por  parte  dos  abacaxicultores.  Essa 
 vantagem é aumentada caso o viveirista obtenha talos de plantação 
 própria, localizada próximo à área do viveiro. Contudo, na maioria 
@@ -1252,7 +1252,7 @@ distâncias curtas.
 45
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 •	 Possibilidade	de	contaminação	gradativa	do	material.
 •	 Maior	fragilidade	das	mudas.
 
@@ -1298,7 +1298,7 @@ sem o uso de herbicidas.
 46
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 92 
 
 Existem outros métodos de multiplicação rápida do abaca­
@@ -1346,7 +1346,7 @@ para uso na cultura do abacaxi.
 47
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 96  Qual é a quantidade de mudas obtidas por esse método?
 
 O número de mudas formadas em cada planta é muito variável, 
@@ -1391,7 +1391,7 @@ do tipo filhote.
 48
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 100 
 
 Qual  é  o  efeito  multiplicativo  da  cultura  de  tecidos  do 
@@ -1429,9 +1429,9 @@ pode ser usado na proporção de 20% do volume.
 49
 
 
- 500pr_pgnumber049
-
  500pr_pgnumber050
+
+ 500pr_pgnumber051
 4 
 
 Plantio
@@ -1441,7 +1441,7 @@ Domingo Haroldo R. C. Reinhardt
 Getúlio Augusto Pinto da Cunha
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 103 
 
 Como é feito o preparo do solo para implantação da cultura 
@@ -1486,7 +1486,7 @@ a colheita dos frutos e das mudas). Essa eliminação pode ser realizada
 52
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 pela incorporação da massa vegetal ao solo ou pela sua utilização 
 como  cobertura  morta  sobre  o  solo,  opção  tecnicamente  mais 
 recomendada,  ou  pela  queima  do  material,  opção  tecnicamente 
@@ -1536,7 +1536,7 @@ do período seco e o início do chuvoso. Entretanto, o plantio pode
 53
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 ser feito durante todos os meses do ano, desde que haja umidade no 
 solo, ou condições de irrigação, e disponibilidade de mudas sadias. 
 Deve-se evitar, porém, os períodos de chuvas intensas, em virtude 
@@ -1582,7 +1582,7 @@ verticalmente dentro da cova ou do sulco e coloca-se terra à sua
 54
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 volta,  até  1/3  do  seu  tamanho,  no  máximo,  para  que  ela  fique 
 firmemente enterrada. Cada talhão deve ser plantado com mudas 
 do mesmo tipo e peso, o que facilita os tratos culturais e a colheita. 
@@ -1627,7 +1627,7 @@ contaminados pelo fungo Phytophthora e infestados por nematoides.
 55
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 O  camalhão  favorece  o  desenvolvimento  do  sistema  radicular  da 
 planta, a drenagem do excesso de água, além de facilitar o tratamento 
 fitossanitário (no caso de fumigação contra nematoides).
@@ -1692,7 +1692,7 @@ Planta (ha)
 31.250
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 116 
 
 Que aspectos devem ser levados em conta na escolha do 
@@ -1734,9 +1734,9 @@ conta, em razão do destino da produção.
 57
 
 
- 500pr_pgnumber057
-
  500pr_pgnumber058
+
+ 500pr_pgnumber059
 5 
 
  
@@ -1752,7 +1752,7 @@ Aristóteles Pires de Matos
 Getúlio Augusto Pinto da Cunha
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 118 
 
 Quais  são  os  problemas  provocados  pelas  plantas  infes­
@@ -1799,7 +1799,7 @@ mais  prejudicial  durante  os  primeiros  meses  após  o  plantio,  que
 60
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 corresponde ao período de enraizamento e de crescimento lento do 
 abacaxizeiro. Na fase reprodutiva, isto é, após a indução floral do 
 abacaxizeiro,  a  competição  é  mínima  e  praticamente  não  afeta  a 
@@ -1840,7 +1840,7 @@ e porte baixo nas entrelinhas, por exemplo, arroz e milheto.
 61
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 123 
 
 Quais são as vantagens e as dificuldades do uso de cober­
@@ -1886,7 +1886,7 @@ em períodos chuvosos e demanda elevado número de capinas (em
 62
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 geral, de 8 a 14 durante o ciclo). O uso de cultivadores é limitado 
 aos primeiros 4 a 5 meses após o plantio, em decorrência da falta 
 de espaço para sua passagem em áreas com plantas mais velhas e 
@@ -1927,7 +1927,7 @@ abacaxi têm sido os pré-emergentes, aplicados logo após o plantio,
 63
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 em área total, sobre o solo ainda “limpo” (sem mato). Essa prática 
 permite  um  controle  bastante  eficiente  do  mato,  mas  prejudica  o 
 solo,  sobretudo  se  realizada  repetidas  vezes.  Por  isso,  as  boas 
@@ -1968,7 +1968,7 @@ cação do fabricante.
 64
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 133  Como é feita a diluição do herbicida em água?
 
 A  quantidade  do  produto  recomendada  para  1  ha  deve  ser 
@@ -2007,7 +2007,7 @@ mistura deve ser feita e utilizada seguindo recomendações técnicas.
 65
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 137 
 
 Que  outros  cuidados  são  necessários  para  assegurar  o 
@@ -2051,7 +2051,7 @@ cons>. Acesso em: 15 maio 2013.
 66
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 6 
 
  
@@ -2068,7 +2068,7 @@ Luiz Francisco da Silva Souza
 67
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 139 
 
 O abacaxizeiro é uma planta exigente do ponto de vista 
@@ -2111,7 +2111,7 @@ frutos.
 68
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 Como a associação entre produtividade e qualidade constitui 
 exigência  crescente,  é  importante  observar,  nas  adubações,  o 
 equilíbrio necessário entre as doses de nutrientes, a fim de satisfazer 
@@ -2154,7 +2154,7 @@ da planta. Entretanto, levando em consideração a necessidade de
 69
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 adotar  medidas  para  corrigir  possíveis  carências  nutricionais,  é 
 recomendável  antecipar  a  amostragem  para  o  período  entre  o  6º 
 mês após o plantio e a indução floral.
@@ -2198,7 +2198,7 @@ recurso qualitativo e sujeito a muitos erros de interpretação.
 70
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 147 
 
 É necessária a correção de acidez (calagem) do solo para o 
@@ -2242,7 +2242,7 @@ Zn, Cu, Fe e Mn).
 71
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 150  Quando deve ser feita a calagem?
 
 Havendo necessidade de correção 
@@ -2286,7 +2286,7 @@ Mg,  deve-se  dar  preferência  ao  calcário  dolomítico,  que  contém
 72
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 esse nutriente. Em algumas regiões, é muito comum a ocorrência de 
 sintomas foliares de deficiência de Mg (as folhas se tornam amarelas, 
 principalmente ao longo da parte central do limbo, permanecendo 
@@ -2328,7 +2328,7 @@ adubação para o abacaxizeiro, ba-
 73
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 seadas nos resultados analíticos do solo. Decisões sobre a adubação 
 da cultura sem considerar as análises de solo e/ou da planta podem 
 conduzir a erros grosseiros e comprometer a produtividade, a quali-
@@ -2372,7 +2372,7 @@ em relação ao preparo do solo e do plantio (de 3 a 6 meses antes),
 74
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 de modo que a aplicação e a incorporação do corretivo, se houver 
 necessidade,  possam  ser  feitas  simultaneamente  às  práticas  de 
 preparo do solo. Para facilitar os trabalhos, a coleta das amostras 
@@ -2413,7 +2413,7 @@ para os fosfatados.
 75
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 161 
 
 Que cuidados devem ser observados na aplicação de adubo 
@@ -2458,7 +2458,7 @@ frescas do dia (no início da manhã ou no final da tarde) para não
 76
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 ocorrer “queima” das folhas. É normal, principalmente em grandes 
 plantios,  a  realização  das  pulverizações  foliares  à  noite.  Como 
 formas  de  prevenir  danos  às  plantas,  deve-se  também  evitar  o 
@@ -2501,7 +2501,7 @@ cultura, respeitando-se o tempo necessário para o enraizamento da
 77
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 planta (período de 30 a 90 dias após o plantio). Também os ferti-
 lizantes fosfatados solúveis em água (como os superfosfatos) podem 
 ser aplicados no pós-plantio.
@@ -2545,7 +2545,7 @@ da adubação. Nessas situações, as adubações foliares via barras de
 78
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 pulverização  tracionadas  mecanicamente  ou  por  fertirrigação  são 
 normalmente  realizadas  em  intervalos  mensais,  quinzenais  e  até 
 semanais, no período compreendido entre o plantio e a indução do 
@@ -2590,7 +2590,7 @@ de ação corrosiva em tanques e tubulações, etc.
 79
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 171 
 
 São recomendáveis adubações após a indução do flores­
@@ -2641,7 +2641,7 @@ muito contraindicada, por se atribuir a esse fertilizante redução no
 80
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 peso do fruto e depreciação em sua qualidade. No entanto, o custo 
 mais  baixo  por  unidade  de  K2O,  comparado  ao  do  sulfato  de 
 potássio, e a existência de resultados experimentais que mostram 
@@ -2682,7 +2682,7 @@ recomendação de calagem, a aplicação pode ser feita em conjunto
 81
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 com o calcário, ou isoladamente, após a aplicação do calcário. As 
 aplicações isoladas justificam-se quando existem diferenças muito 
 grandes entre as quantidades dos dois materiais a serem aplicadas, 
@@ -2724,7 +2724,7 @@ seus plantios.
 82
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 180 
 
 Quais  são  os  micronutrientes  mais  importantes  para  a 
@@ -2769,7 +2769,7 @@ os sais dos respectivos nutrientes (sulfato ferroso na concentração
 83
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 de 1,0% a 3,0%, sulfato de zinco a 1%, oxicloreto de cobre a 0,15%, 
 bórax na concentração de 0,3%).
 
@@ -2810,7 +2810,7 @@ proveitos práticos dessas associações, pelo menos em larga escala.
 84
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 7 
 
 Irrigação
@@ -2818,7 +2818,7 @@ Irrigação
 Otávio Álvares de Almeida
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 187  Quais são as necessidades hídricas do abacaxizeiro?
 
 Em geral, as necessidades hídri-
@@ -2862,7 +2862,7 @@ crescimento dos frutos.
 86
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 191 
 
 Deficit  hídrico  em  fase  menos  crítica  do  ciclo  da  planta 
@@ -2915,7 +2915,7 @@ condições edafoclimáticas sejam ideais para o cultivo do abacaxi-
 87
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 zeiro, em condições de sequeiro, sem risco de perda da safra. Além 
 do mais, o deslocamento da época de colheita só é possível com o 
 uso de irrigação.
@@ -2958,7 +2958,7 @@ o próprio elemento humano (mão de obra).
 88
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 199 
 
 Por que a irrigação por superfície não é utilizada na cultura 
@@ -3009,7 +3009,7 @@ fertirrigação como trato cultural.
 89
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 202 
 
 Quais  são  os  inconvenientes  da  irrigação  localizada  na 
@@ -3051,7 +3051,7 @@ umidade próximo à planta. Entretanto, vários trabalhos conduzidos
 90
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 em  campo  mostraram  que  a  incidência  de  pragas  e  doenças  em 
 decorrência desse aumento de umidade é insignificante.
 
@@ -3096,7 +3096,7 @@ solo ou na combinação de dois ou mais deles.
 91
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 210 
 
 O que é turno de rega e como é utilizado para manejar a 
@@ -3139,7 +3139,7 @@ manchas de solo), nas profundidades de 0,15 cm e 0,30 cm, aplica-
 92
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 se a lâmina d’água de reposição todas as vezes que o tensiômetro 
 estiver marcando a tensão definida.
 
@@ -3182,7 +3182,7 @@ da água e do emissor, sempre há riscos de obstrução das tubulações
 93
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 e dos emissores, de origem química ou física, em decorrência de 
 precipitações e do desenvolvimento de colônias bacterianas.
 
@@ -3227,7 +3227,7 @@ atravessam os filtros em época mais conveniente para o produtor.
 94
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 220  Como se faz o tratamento corretivo?
 
 O tratamento corretivo consiste na injeção de água com pH2. 
@@ -3269,7 +3269,7 @@ O uso da fertirrigação resulta nas seguintes vantagens:
 95
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 •	 Os	 nutrientes	 incorporam-se	 à	 profundidade	 desejada	 e	
 ficam  disponíveis  para  as  plantas  em  tempo  real  para 
 absorção.
@@ -3311,7 +3311,7 @@ Seu  principal  inconveniente  é  a  variação  da  concentração  do
 96
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 nutriente que sai do tanque no decorrer da fertirrigação. Com isso 
 não é possível que um mesmo tanque seja utilizado para aplicação 
 em dois talhões distintos, visto que a concentração de nutrientes no 
@@ -3352,7 +3352,7 @@ elétrico, a solução fertilizante contida num reservatório a céu aberto
 97
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 água de irrigação e em concentração constante, à semelhança do 
 injetor Venturi.
 
@@ -3397,7 +3397,7 @@ desperdiçar água.
 98
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 236 
 
 Podem ocorrer obstruções dos emissores pelo uso da fertir­
@@ -3416,9 +3416,9 @@ com a fertirrigação seguinte, pode provocar entupimentos.
 99
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 8 
 
 Controle da Floração
@@ -3427,7 +3427,7 @@ Domingo Haroldo R. C. Reinhardt
 Getúlio Augusto Pinto da Cunha
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 237  Quais são as fases do ciclo da cultura do abacaxi?
 
 As fases do ciclo da cultura do abacaxi são:
@@ -3468,7 +3468,7 @@ das plantas.
 102
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 240 
 
 Qual é a duração do ciclo do abacaxizeiro, do plantio à 
@@ -3514,7 +3514,7 @@ mente  constantes,  a  floração  natural  do  abacaxizeiro  ocorre  em
 103
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 virtude da diminuição da radiação solar e da elevação da nebulo-
 sidade.
 
@@ -3564,7 +3564,7 @@ fitossanitários.
 104
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 •	 Reflete-se	de	modo	negativo	na	comercialização	do	fruto	
 que,  em  geral,  não  atinge  padrão  comercial  e  chega  ao 
 período de colheita em época de alta oferta (safra principal) 
@@ -3617,7 +3617,7 @@ que se possa fazer a indução floral antes de junho do ano seguinte.
 105
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 Entretanto, se a intenção é fazer a indução artificial a partir de 
 setembro, com intuito de realizar a colheita na entressafra (de feve-
 reiro a maio), é mais indicado fazer o plantio a partir de janeiro.
@@ -3665,7 +3665,7 @@ como temperaturas mais baixas durante a noite, e em virtude de sua
 106
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 maior  exposição  a  ventos.  Além  disso,  essas  plantas  têm,  muitas 
 vezes, porte maior por receberem mais luz do que as plantas do 
 meio da plantação, o que as deixa mais suscetíveis aos estímulos 
@@ -3711,7 +3711,7 @@ pois  cada  indutor  é  eficiente,  isoladamente,  quando  aplicado  de
 107
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 maneira correta. A mistura de fitorreguladores aumenta o risco de 
 doses excessivas, que resultam em efeitos negativos, como o apare-
 cimento de frutos malformados, tortos, sobre pedúnculos retorcidos, 
@@ -3752,7 +3752,7 @@ da diferenciação floral.
 108
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 A eficiência do carbureto líquido, pelo contrário, pode diminuir 
 se houver muita água no “olho” das plantas, pois causa o escorrimento 
 da  calda  indutora  para  o  solo.  A  eficiência  do  carbureto  líquido 
@@ -3794,7 +3794,7 @@ que a cv. Pérola.
 109
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 260  Como é feita a aplicação do ethephon?
 
 A solução aquosa do ethephon pode ser aplicada com o jato 
@@ -3837,7 +3837,7 @@ ou quando a folha mais comprida (folha “D”) atingir um mínimo de
 110
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 80 cm de comprimento ou 80 g de peso fresco. Normalmente, essas 
 condições são alcançadas entre o oitavo e o décimo terceiro mês 
 após  o  plantio,  dependendo  do  manejo  e  dos  tratos  culturais 
@@ -3883,7 +3883,7 @@ noite, o que permite à planta minimizar a perda de vapor d’água
 111
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 (transpiração).  Em  dias  menos  quentes  e  sob  condições  de  bom 
 suprimento de água, os estômatos permanecem abertos durante as 
 primeiras horas da manhã, fechando-se a seguir, e voltam a abrir um 
@@ -3927,7 +3927,7 @@ tratamento funcionou como esperado.
 112
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 271 
 
 Se a eficiência mostrar­se baixa, o tratamento de indução 
@@ -3977,7 +3977,7 @@ da terra.
 113
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 •	 Uniformização	da	frutificação	e	concentração	da	colheita,	
 
 com redução de custos.
@@ -4016,7 +4016,7 @@ direta em feiras livres.
 114
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 9 
 
 Pragas
@@ -4024,7 +4024,7 @@ Pragas
 Nilton Fritzons Sanches
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 276  Quais são as principais pragas do abacaxizeiro, no Brasil?
 
 As principais pragas do abacaxizeiro, no Brasil, são: 
@@ -4067,7 +4067,7 @@ faixa escura e externamente por uma franja esbranquiçada. As asas
 116
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 posteriores apresentam duas manchas alaranjadas, providas de uma 
 faixa  branca  na  região  central  e  terminadas  com  dois  pares  de 
 apêndices  caudais  filiformes  com  extremidade  branca.  A  face 
@@ -4108,7 +4108,7 @@ As posturas são feitas até o fechamento das últimas flores.
 117
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 285  Quais são os hábitos da broca­do­fruto na fase de larva?
 
 Logo após a eclosão, a larva, que é minúscula e muito ativa, 
@@ -4151,7 +4151,7 @@ marrom-escuras (de até 4 cm de diâmetro) sobre a casca do abacaxi.
 118
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 289  Que outros sintomas são ocasionados pela broca­do­fruto?
 
 As galerias abertas pela lagarta no interior do fruto enchem-se 
@@ -4197,7 +4197,7 @@ São empregados os seguintes métodos:
 119
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 293 
 
 Que métodos culturais são utilizados no controle da broca­
@@ -4241,7 +4241,7 @@ a melhor época para avaliar a efici-
 120
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 ência do controle da praga, pela facilidade em observar os danos 
 causados na inflorescência.
 
@@ -4281,7 +4281,7 @@ No banco de dados denominado Agrofit.
 121
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 301  O que é o Agrofit?
 
 É um banco de dados, disponível para consulta pública, no 
@@ -4326,7 +4326,7 @@ como broca-do-olho, broca-do-caule, broca-gigante ou lepidobroca.
 122
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 304  Em que regiões ocorre a broca­do­talo?
 
 Essa  broca  já  foi  encontrada  em  áreas  produtoras  do  Norte 
@@ -4368,7 +4368,7 @@ encontrada atacando as mudas de abacaxi.
 123
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 308  Quais são os sintomas de ataque da broca­do­talo?
 
 Em decorrência da destruição interna do talo, a planta apre-
@@ -4410,7 +4410,7 @@ nas uma larva por planta.
 124
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 311 
 
 O ácaro­alaranjado é uma praga de ampla ocorrência nos 
@@ -4453,7 +4453,7 @@ restos  de  cultura  (o  que  evita  novos  focos  de  infestação),  e  pelo
 125
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 controle químico da cochonilha D. brevipes (tratamento de mudas 
 por imersão e/ou pulverizações durante o ciclo vegetativo).
 
@@ -4496,7 +4496,7 @@ de plantio.
 126
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 320 
 
 Qual  é  o  fator  climático  que  mais  afta  a  população  de 
@@ -4546,7 +4546,7 @@ dores.
 127
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 324 
 
 A cochonilha­do­abacaxi é encontrada em outras plantas, 
@@ -4597,7 +4597,7 @@ e do ácaro-alaranjado.
 128
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 327 
 
 Uma vez que a cochonilha pode ocorrer durante todo o 
@@ -4646,7 +4646,7 @@ camente,  uma  inspeção  rigorosa  a  fim
 129
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 de detectar a presença de plantas com sintomas de murcha ou com 
 colônias de cochonilhas. Essa prática, chamada de monitoramento, 
 vai indicar a necessidade ou não de efetuar o controle químico.
@@ -4689,7 +4689,7 @@ um espalhante adesivo à calda para que haja uma boa distribuição
 130
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 e  fixação  na  superfície  da  planta.  Aplicar  de  30  mL  a  50  mL  de 
 calda por planta. Os produtos registrados no Mapa para o controle 
 da  cochonilha-do-abacaxizeiro  estão  descritos  no  site  do  Agrofit 
@@ -4704,9 +4704,9 @@ cons>. Acesso em: 15 maio 2013.
 131
 
 
- 500pr_pgnumber131
-
  500pr_pgnumber132
+
+ 500pr_pgnumber133
 10 
 
 Nematoides
@@ -4714,7 +4714,7 @@ Nematoides
 Cecília Helena Silvino Prata Ritzinger
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 332  O que são nematoides?
 
 São microrganismos que, embora sejam dificilmente visíveis a 
@@ -4758,7 +4758,7 @@ pelos nematoides, a planta tem difi-
 134
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 culdade na absorção de água e nutrientes e pode perder sua sus-
 tentação. Em ataque severo, não há sustentação dos frutos. Pode 
 ocorrer atraso na emissão da floração pelo fato de o estádio vege-
@@ -4802,7 +4802,7 @@ entes, estresse hídrico, queima por causa da utilização de pesticidas,
 135
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 ocorrência  de  viroses,  falta  de  aeração  do  solo  ou  mesmo  por 
 doenças relacionadas à destruição das raízes absorventes.
 
@@ -4844,7 +4844,7 @@ com reboleiras de plantas com sintomas simila-
 136
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 res como descritos anteriormente (ver pergunta 336). Pode-se efetu-
 ar uma amostra composta de duas a cinco subamostras, a depender 
 do tamanho da área. A coleta do solo pode ser feita com trado, pá, 
@@ -4887,7 +4887,7 @@ ajuda do homem para sua disseminação. Desde a implantação do
 137
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 pomar,  o  produtor  deve  optar  por  mudas  sadias  e  uniformes. 
 Eventualmente, deve-se proceder ao monitoramento da população 
 dos nematoides na área, por meio de coleta de solo e raízes para 
@@ -4929,7 +4929,7 @@ recomenda-se fazer o monitoramento. Se a população for elevada,
 138
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 recomenda-se não efetuar o plantio na área e realizar medidas que 
 favoreçam  sua  redução,  como  o  pousio  ou  a  rotação  de  cultura, 
 além de seguir as orientações descritas nas perguntas 335, 336, 338, 
@@ -4969,7 +4969,7 @@ ser colocado em solo úmido. Suas bordas devem ser vedadas para
 139
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 impedir a perda de calor. Sua eficiência é aumentada quando há o 
 revolvimento  do  solo  e  quando  não  há  nebulosidade  no  local, 
 impedindo a radiação que eleva a temperatura no solo. O solo não 
@@ -4995,7 +4995,7 @@ Abastecimento (Mapa).
 140
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 11 
 
 Doenças
@@ -5005,7 +5005,7 @@ Aristóteles Pires de Matos
 Paulo Ernesto Meissner Filho
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 347 
 
 Entre os problemas fitossanitários que afetam o abacaxi­
@@ -5052,7 +5052,7 @@ presença dessa substância na superfície de uma planta de abacaxi
 142
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 não significa, necessariamente, que essa planta está infectada por 
 F. guttiforme. Entretanto, é o melhor indicativo da doença.
 
@@ -5097,7 +5097,7 @@ vo,  devem-se  fazer  inspeções
 143
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 constantes no plantio, a fim de identificar e erradicar as plantas com 
 sintomas da doença.
 
@@ -5137,7 +5137,7 @@ e 25 °C, associada a períodos chuvosos.
 144
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 355  O que é podridão­do­olho do abacaxizeiro?
 
 A  podridão-do-olho  é  uma  doença  causada  por  um  fungo 
@@ -5181,7 +5181,7 @@ e a faixa-clorótica-do-abacaxi, causada pelo
 145
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 359 
 
 Quais  são  as  medidas  gerais  de  controle  da  murcha­do­
@@ -5235,7 +5235,7 @@ seiva infectada circula pela planta toda,
 146
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 incluindo  as  mudas.  Isso  significa  que,  mesmo  não  apresentando 
 sintomas, a muda está infectada com o vírus.
 
@@ -5280,7 +5280,7 @@ foram encontrados em plantas com murcha, um Ampelovirus e um
 147
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 Badnavirus. Porém, as informações hoje existentes indicam que o 
 vírus  associado  à  murcha-do-abacaxi  (Pineapple  mealybug  wilt-
 associated virus, PMWaV), um Closterovirus, é o agente causal da 
@@ -5327,7 +5327,7 @@ controlar as formigas doceiras, que são os agentes disseminadores
 148
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 das ninfas da cochonilha, bem como utilizar mudas livres de vírus 
 para o plantio.
 
@@ -5374,7 +5374,7 @@ foram relatados prejuízos de mais de 70% por causa da murcha.
 149
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 374 
 
 Em que idade o abacaxizeiro é suscetível ao vírus associado 
@@ -5405,7 +5405,7 @@ cons>. Acesso em: 15 maio 2013.
 150
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 12 
 
  
@@ -5418,7 +5418,7 @@ Domingo Haroldo R. C. Reinhardt
 Valmir Pereira de Lima
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 376 
 
 É  possível  aumentar  o  tamanho  e  o  peso  do  fruto  do 
@@ -5461,7 +5461,7 @@ peso.
 152
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 378  Como deve ser feito o desbaste de mudas?
 
 O desbaste consiste na eliminação manual de mudas do tipo 
@@ -5500,7 +5500,7 @@ do tipo filhote, o que é comum na cultivar Pérola. Se o desbaste
 153
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 for realizado com critério, isto é, eliminando-se apenas as mudas 
 menos vigorosas, permanecem em cada planta pelo menos quatro 
 filhotes,  o  que  é  suficiente  para  manter  e  até  ampliar  a  área  do 
@@ -5541,7 +5541,7 @@ independentemente de se realizar o desbaste ou não.
 154
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 385  A qualidade do fruto é afetada pelo desbaste das mudas?
 
 Não foi observado efeito negativo do desbaste de mudas sobre 
@@ -5588,7 +5588,7 @@ para a cultura, a sua concentração recomendada é de 1,5 L a 3,0 L
 155
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 do  produto  comercial  por  hectare  (1  mL  do  produto  por  litro  de 
 água), em quantidade de água suficiente para fazer uma pulverização 
 total da planta e do fruto (de 35 mL a 50 mL de calda por planta).
@@ -5634,7 +5634,7 @@ uniformização  da  maturação  aparente  (coloração  da  casca)  dos
 156
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 frutos, além da continuação da irrigação nos plantios em que essa 
 prática é adotada.
 
@@ -5677,7 +5677,7 @@ queima.
 157
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 397 
 
 De  que  forma  as  folhas  das  plantas  podem  proteger  os 
@@ -5727,7 +5727,7 @@ mercados.
 158
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 400 
 
 Como é feita a uniformização da maturação aparente (cor 
@@ -5774,7 +5774,7 @@ cialização.
 159
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 402 
 
 A aplicação de ethephon tem algum efeito sobre as mudas 
@@ -5824,7 +5824,7 @@ coloração da casca.
 160
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 405 
 
 Quais são as concentrações do ethephon usadas no trata­
@@ -5868,7 +5868,7 @@ manejo pós-colheita dos frutos.
 161
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 408 
 
 A  maturação  mais  uniforme  dos  frutos  de  abacaxi  pode 
@@ -5909,7 +5909,7 @@ cons>. Acesso em: 15 maio 2013.
 162
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 13 
 
  
@@ -5927,7 +5927,7 @@ Getúlio Augusto Pinto da Cunha
 Valdique Martins Medina
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 410  Quando o abacaxi deve ser colhido?
 
 Por ser um fruto considerado não climatérico, ou seja, que não 
@@ -5965,7 +5965,7 @@ A translucidez da polpa não deve ultrapassar 50%.
 164
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 414 
 
 Quantos frutos devem ser cortados para avaliar a translu­
@@ -6010,7 +6010,7 @@ uma vida pós-colheita muito curta.
 165
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 418  O etileno acelera o amadurecimento dos frutos?
 
 O etileno não melhora a qualidade interna do fruto quando 
@@ -6053,7 +6053,7 @@ balaios, cestos, caixas ou carrinhos de mão
 166
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 e levados até o veículo de transporte. Para facilitar a passagem do 
 colhedor  nas  entrelinhas,  pode-se  cortar  a  ponta  das  folhas  das 
 plantas. Não se deve dar pancada nos frutos.
@@ -6098,7 +6098,7 @@ solução de fungicida à base de captan (120 mL do ingrediente ativo
 167
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 para 100 L de água) ou triadimefon (7,5 g do ingrediente ativo para 
 100 L de água).
 
@@ -6139,7 +6139,7 @@ Há seis classes de peso:
 168
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 •	 Classe	4	–	de	1.801	g	a	2.100	g.
 •	 Classe	5	–	de	2.101	a	2.400	g.
 •	 Classe	6	–	acima	de	2.400	g.
@@ -6180,7 +6180,7 @@ dependendo  do  mercado,  pode  ser  vantajosa  em  virtude  dos
 169
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 benefícios no que se refere à manutenção de qualidade do fruto e à 
 veiculação da marca.
 
@@ -6223,7 +6223,7 @@ caminhões, inclusive os frutos exportados para os países vizinhos,
 170
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 sobretudo  para  a  Argentina.  Os  frutos  destinados  à  Europa  são 
 transportados em navio ou avião. Este último é restrito a volumes 
 reduzidos e de maior valor unitário.
@@ -6264,7 +6264,7 @@ rioração e perda da palatabilidade (sabor, odor).
 171
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 441 
 
 Que cuidados higiênicos devem ser tomados nas câmaras 
@@ -6287,7 +6287,7 @@ Disponível em: <http://www.ceagesp.gov.br>. Acesso em: 15 maio 2013.
 172
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 14 
 
  
@@ -6305,7 +6305,7 @@ Fernando César Akira U. Matsuura
 Marília Iêda da Silveira Folegatti Matsuura
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 442  Quais são os principais nutrientes do abacaxi?
 
 O abacaxi apresenta variação 
@@ -6345,7 +6345,7 @@ de  produção  e  de  frutos  fora  dos  padrões  para  comercialização
 174
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 in  natura  (não  comprometidos  quanto  à  qualidade  fisiológica  e 
 micro biológica),  o  aumento  do  tempo  de  conservação  e  comer-
 cialização dos produtos, a agregação de valor e a exploração de 
@@ -6386,7 +6386,7 @@ minimamente processados, a concentração deve ser de 20 mg/L.
 175
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 447 
 
 Quais são os principais produtos 
@@ -6428,7 +6428,7 @@ também  cozinha  o  produto,  seguido  do  resfriamento  (35  °C  a
 176
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 450 
 
 Quais  são  as  embalagens  utilizadas  para  o  abacaxi  em 
@@ -6472,7 +6472,7 @@ tante da primeira extração.
 177
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 Já no processo de extração não tradicional, o suco é extraído 
 a partir do abacaxi com casca, em moinhos de facas ou martelos. 
 Em seguida, ocorre a prensagem em prensas com rosca rotativa.
@@ -6514,7 +6514,7 @@ lavagem,  descascamento,  secagem  ao  sol  ou  secagem  mecânica
 178
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 com circulação forçada de ar (temperatura entre 60 °C e 70 °C), até 
 que  a  umidade  final  esteja  entre  20%  e  25%,  condicionamento, 
 embalagem e armazenamento.
@@ -6554,7 +6554,7 @@ durante o transporte, o armazenamento e a comercialização. Podem
 179
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 ser utilizadas embalagens plásticas de polietileno tereftalato (PET), 
 ou bandejas de poliestireno (isopor) recobertas com filme de cloreto 
 de polivinila (PVC).
@@ -6596,7 +6596,7 @@ bico e málico), álcool, torta para ração animal e, ainda, fatias, cubos
 180
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 e polpa prensada, que podem ser usados no preparo de saladas de 
 frutas, sorvetes, produtos desidratados, congelados e de confeitaria, 
 e bebidas (vinho, vinagre, licor, cerveja).
@@ -6643,7 +6643,7 @@ ser adequada ao processamento (tamanho e forma do fruto, cor da
 181
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 polpa, características químicas); a localização da unidade industrial, 
 que deve estar na região produtora ou próxima a ela, para minimizar 
 custos e perda da qualidade da matéria-prima.
@@ -6651,7 +6651,7 @@ custos e perda da qualidade da matéria-prima.
 182
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 15 
 
  
@@ -6665,7 +6665,7 @@ Domingo Haroldo R. C. Reinhardt
 Getúlio Augusto Pinto da Cunha
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 467  O que é soca do abacaxi?
 
 A soca é formada pelos rebentões que permanecem na planta 
@@ -6708,7 +6708,7 @@ menor que a do primeiro ciclo.
 184
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 472  Por que a produtividade da soca é menor?
 
 A  redução  da  produtividade  da  soca  é  uma  decorrência  da 
@@ -6753,7 +6753,7 @@ cerca de um mês antes do tratamento de indução floral.
 185
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 477  Quais são os cuidados com a indução floral na soca?
 
 Os produtos, as concentrações e as formas de aplicação são 
@@ -6797,7 +6797,7 @@ varas fincadas em distâncias adequadas para que fique bem esticado.
 186
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 480 
 
 É correta a prática de poda baixa das plantas após a colheita 
@@ -6838,7 +6838,7 @@ da escassez de terras para cultivo.
 187
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 484 
 
 Quais são as culturas que podem ser consorciadas com o 
@@ -6884,7 +6884,7 @@ principal, colhendo-se, de preferência, apenas a primeira safra. Em
 188
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 alguns  casos,  pode-se  também  colher  a  soca  (segunda  safra). 
 As filas de abacaxizeiro devem ser plantadas com 1,0 m a 1,5 m de 
 distância da projeção da copa das plantas da cultura principal.
@@ -6935,9 +6935,9 @@ ros 3 a 5 meses do ciclo da cultura do abacaxi.
 189
 
 
- 500pr_pgnumber189
-
  500pr_pgnumber190
+
+ 500pr_pgnumber191
 16 
 
 Economia
@@ -6947,7 +6947,7 @@ José da Silva Souza
 Clóvis Oliveira de Almeida
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 491 
 
 Qual é o maior produtor mundial 
@@ -6992,7 +6992,7 @@ o inverno. Não é por acaso que essa cultivar é a mais comercializada
 192
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 no  mundo,  pois  apresenta  as  características  de  sabor,  com  baixa 
 acidez e aparências interna e externa desejadas pelos consumidores 
 internacionais.
@@ -7032,7 +7032,7 @@ nos mercados consumidores.
 193
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 498 
 
 Quais  são  os  principais  estados  produtores  e  a  cultivar 
@@ -7073,197 +7073,4 @@ sérios problemas na cadeia de conservação a frio.
 
 194
 
-
- 500pr_pgnumber194
-Tabela 1. Coeficientes técnicos de produção de 1 ha de abacaxi não irrigado, no 
-espaçamento de 1,20 m x 0,40 m x 0,30 m (41.666 plantas).
-
-Especificação
-
-Unidade
-
-Quantidade
-
-Insumos
-Mudas 
-Ureia(1)
-Superfosfato simples(1,2)
-Cloreto de potássio(1,2)
-Calcário dolomítico
-Adubo foliar com micro
-Herbicida
-Inseticida/acaricida
-Fungicida
-Espalhante adesivo
-Formicida
-Indutor floral (ethephon)
-Jornal
-Grampos
-Preparo do solo, adubação e plantio
-Limpeza da área
-Aração
-Calagem
-Duas gradagens
-Seis aplicações de adubos
-Seleção de mudas
-Tratamento de mudas
-Marcação, coveamento e plantio
-Tratos culturais e fitossanitários
-Aplicação de herbicida
-Quatro capinas manuais
-
-Mil
-kg
-kg
-kg
-t
-L
-L
-L
-kg
-L
-kg
-L
-kg
-
-Caixa
-
-h/d
-h/tr
-h/tr
-h/tr
-h/d
-h/d
-h/d
-h/d
-
-h/d
-h/d
-
-46
-690
-450
-800
-2
-8
-5
-13
-8
-2
-3
-2,5
-170
-5
-
-7
-3
-2
-4
-30
-24
-8
-27
-
-3
-40
-
-Continua...
-
-195
-
-
- 500pr_pgnumber195
-Tabela 1. Continuação.
-
-Especificação
-
-Unidade
-
-Quantidade
-
-Quatro amontoas
-Cinco aplicações de defensivos
-Aplicação de indutor floral
-Cobertura dos frutos
-Colheita e beneficiamento
-
-Colheita/beneficiamento
-Produção esperada
-Frutos de 1ª (classes 3 e 4)(3)
-Frutos de 2ª (classes 1 e 2)(3)
-
-h/d
-h/d
-h/d
-h/d
-
-h/d
-
-Frutos
-Frutos
-frutos
-
-16
-20
-8
-30
-
-42
-
-33.300
-23.310
-9.990
-
-(1) Referem-se às recomendações máximas.
-(2) Podem ser alteradas conforme os resultados da análise do solo.
-(3) Classe 
-
-Peso do fruto
-De	0,90	kg	a	1,30	kg.
-De	1,30	kg	a	1,50	kg.
-De	1,50	kg	a	1,80	kg.
-Maior	que	1,80	kg.
-
-1	
-2	
-3	
-4	
-
-196
-
-
- 500pr_pgnumber196
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000025
-
-•••
-
-
- 500pr_pgnumber197
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber198
-
- 500pr_pgnumber199
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber200
 

@@ -1,12 +1,5 @@
 
- 500pr_pgnumber015
-1 Conceitos
-
-Luis Carlos Hernani – Embrapa Agropecuária Oeste
-Júlio Cesar Salton – Embrapa Agropecuária Oeste
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  O que são sistemas conservacionistas de manejo do solo? 
 
 São  conjuntos  de  técnicas  embasadas  em  práticas  vegetativas 
@@ -45,7 +38,7 @@ bém, para grãos.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 Geralmente, o plantio direto é aplicado no cultivo de suces-
 sões simples (tais como soja/milheto, soja/milho – safrinha (milho 
 semeado  de  dezembro  até  o  final  de  fevereiro),  soja/trigo,  soja/ 
@@ -88,7 +81,7 @@ atividade agrícola.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 7 
 
 Em que se fundamenta o Sistema Plantio Direto?
@@ -132,7 +125,7 @@ veis incluem, com frequência, áreas em que se adota semeadura
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 direta ou plantio direto sem rotação de culturas. A Federação Bra-
 sileira de Plantio Direto na Palha (FEBRAPDP), que congrega os 
 Clubes de Amigos da Terra e de Plantio na Palha estima que, em 
@@ -180,7 +173,7 @@ em
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 elevadas temperaturas máximas, onde a atividade agrícola tradi-
 cional com mais de dez anos tende a induzir processos de degra-
 dação  bastante  intensos,  mesmo  sob  condições  de  declividade 
@@ -219,14 +212,14 @@ lidade ambiental e que resultam na sustentabilidade da atividade.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 2 Adoção
 
 Júlio Cesar Salton – Embrapa Agropecuária Oeste
 Luis Carlos Hernani – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 15 
 
 Quais as principais razões para se adotar o Sistema Plantio 
@@ -277,7 +270,7 @@ podem ser relacionadas:
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 •	 Permite	atender,	com	mais	propriedade,	muitas	demandas	
 da  cultura  agrícola  e  do  solo,  sob  condições  de  clima 
 tropical,  levando  à  maior  produtividade  e  qualidade 
@@ -322,7 +315,7 @@ sem muitas plantas daninhas) e, a partir daí, incorporar as áreas piores.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 20 
 
 O  Sistema  Plantio  Direto  pode  ser  adotado  por 
@@ -373,7 +366,7 @@ rotação de culturas.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 22 
 
 A  adoção  do  Sistema  Plantio  Direto  em  áreas  arrendadas  é 
@@ -419,7 +412,7 @@ possibilidade de sucesso nas duas situações.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 25 
 
 A  declividade  do  terreno  pode  limitar  a  adoção  do 
@@ -466,7 +459,7 @@ interfiram no rendimento e nos custos dos cultivos posteriores.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 28 
 
 Qual deve ser a condição estrutural do solo para a implan-
@@ -512,7 +505,7 @@ adotadas antes de qualquer coisa:
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 •	 Fazer	 o	 diagnóstico	 das	 condições	 de	 cada	 gleba	 (solo,	
 vegetação, histórico de correções químicas, tipo de uso, 
 erosão, plantas daninhas presentes, etc.).
@@ -557,7 +550,7 @@ implantação do sistema. Aumenta a precisão do planejamento e
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 do  controle  do  uso  de  insumos,  de  tecnologia,  de  adoção  do 
 sistema de rotação de culturas e de avaliação da produtividade das 
 culturas e de todo o sistema.
@@ -604,7 +597,7 @@ originais do solo (sob floresta original). Pulverização da camada
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 mais superficial do solo, diminuição ou até desaparecimento da 
 camada rica em matéria orgânica, com perda da coloração mais 
 escura dos primeiros centímetros do solo, presença de compactação 
@@ -652,7 +645,7 @@ função do manejo inadequado da pastagem ou da acidez e baixa
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 fertilidade do solo. No primeiro caso – degradação da pastagem 
 devido  ao  seu  manejo  inadequado  –  a  recuperação  pode  ser 
 efetuada com aplicação superficial a lanço de insumos (calcário, 
@@ -696,7 +689,7 @@ produtividade das culturas.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 40  Como fazer quando não se tem a semeadora específica?
 
 Semeadoras convencionais podem ser adaptadas em oficinas 
@@ -742,7 +735,7 @@ relativamente  caros  podendo,  às  vezes,  ter  efeito  tóxico  não  só
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 sobre as plantas, mas também sobre o homem, exigindo cuidados 
 técnicos específicos (umidade relativa do ar, por exemplo) quanto 
 à técnica de aplicação.
@@ -787,7 +780,7 @@ esta: o resultado final é positivo ou negativo? Para implantar o SPD,
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 é  necessário  que  a  fazenda  seja  subdividida  em  glebas.  Isto  vai 
 possibilitar  o  estabelecimento  de  um  programa  de  rotação  de 
 culturas,  escalonamento  de  semeadura,  diversificação  de  varie-
@@ -831,7 +824,7 @@ câmbio (Clube Amigos da Terra, grupos de
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 Plantio  Direto  na  Palha,  etc).  Existem,  também,  publicações  e 
 páginas  na  Internet,  como  a  da  Embrapa  Agropecuária  Oeste. 
 É preciso, também, que o agricultor esteja muito bem informado 
@@ -842,9 +835,9 @@ palestras, programas de televisão, etc.
 35
 
 
- 500pr_pgnumber036
-
  500pr_pgnumber037
+
+ 500pr_pgnumber038
 3 Palha
 
 João Carlos Heckler – Embrapa Agropecuária Oeste
@@ -853,7 +846,7 @@ Luis Carlos Hernani – Embrapa Agropecuária Oeste
 Carlos Pitol – Fundação MS
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 48 
 
 Por que é necessária a existência de palha sobre a superfície 
@@ -897,7 +890,7 @@ físicos, químicos e biológicos e, portanto, a qualidade do solo.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 49  Como a palha é produzida?
 
 O dossel – ou massa vegetal – ao ser trabalhado através de 
@@ -948,7 +941,7 @@ com relação C:N (carbono:nitrogênio) mais elevada (acima de 40:1)
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 estejam distribuídos uniformemente e cobrindo, no mínimo, 80% 
 da superfície do solo durante a maior parte do ano, de tal forma 
 que efeitos benéficos sobre a temperatura, a umidade, o controle 
@@ -990,7 +983,7 @@ várias substâncias orgânicas (ácidos fúlvicos, húmicos e humina)
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 que constituirão o que se denomina matéria orgânica do solo. Além 
 disso, também são formadas ou liberadas substâncias mineralizadas 
 contendo cálcio, magnésio, fósforo, potássio, nitrogênio e enxofre, 
@@ -1032,7 +1025,7 @@ permanecer coberta) corresponde a uma boa cobertura.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 56  Que características devem ter as culturas de cobertura?
 
 Devem apresentar as seguintes características:
@@ -1077,7 +1070,7 @@ se destacar que no caso de gramíneas forrageiras estas suplantam
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 em muito as leguminosas na produção de biomassa devido ao seu 
 metabolismo  fotossintético  mais  eficiente.  Porém,  ambas  são 
 importantes e devem ser consideradas, pois não se recomenda o 
@@ -1120,7 +1113,7 @@ do solo.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 61 
 
 Espécies  para  cobertura  do  solo  podem  ser  utilizadas 
@@ -1168,7 +1161,7 @@ pesquisa mais intensos sobre esse tema, algumas espécies como o
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 milheto, têm sido semeadas dessa forma, aumentando o aprovei-
 tamento da umidade do solo e resultando em ganhos de tempo e 
 em extensão de áreas semeadas.
@@ -1214,7 +1207,7 @@ drástica na cobertura e na fertilidade do solo. Esse procedimento
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 pode ser adotado apenas em parte da área, onde o sistema já está 
 consolidado e a intervalos de dois ou mais anos.
 
@@ -1262,7 +1255,7 @@ preferência, com culturas em desenvolvimento.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 70 
 
 Qual a importância da rotação de culturas para a formação 
@@ -1307,7 +1300,7 @@ microrganismos do solo.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 73  Quais os efeitos da palha sobre a umidade do solo?
 
 Os efeitos da palha sobre a umidade do solo são os seguintes:
@@ -1347,7 +1340,7 @@ solo à ação da chuva e do sol.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 75 
 
 Em  áreas  com  SPD  implantado  há  muitos  anos,  pode 
@@ -1397,9 +1390,9 @@ como elementos protetores do solo.
 49
 
 
- 500pr_pgnumber050
-
  500pr_pgnumber051
+
+ 500pr_pgnumber052
 4 Manejo do
 
  
@@ -1417,7 +1410,7 @@ Odo Primavesi – Embrapa Pecuária Sudeste
 Dimas Vital Siqueira Resk – Embrapa Cerrados
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 77  O que é mineralização da matéria orgânica do solo?
 
 É  um  processo  dinâmico  caracterizado  pela  transformação 
@@ -1463,7 +1456,7 @@ tamanho das partículas de palha mais rápida é sua decomposição.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 80 
 
 Qual a estratégia de manejo da cultura para proporcio nar 
@@ -1504,7 +1497,7 @@ podem fragmentar demasiadamente o material.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 82 
 
 Considerando a reciclagem de nutrientes, propagação de 
@@ -1550,7 +1543,7 @@ facilitando sua decomposição. A aveia ou
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 outra cultura de inverno pode ser semeada com máquina provida 
 de disco de corte de palha, o que resolveria o problema. Entretanto, 
 em algumas situações com grande quantidade de palha, em que a 
@@ -1595,7 +1588,7 @@ na fase recomendada.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 88  Como regular e operar o rolo-faca?
 
 A  regulagem  deste  equipamento  é  bastante  simples, 
@@ -1638,7 +1631,7 @@ por plantas daninhas perenes, é excelente opção.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 91 
 
 Após a dessecação do milheto, é necessário passar algum 
@@ -1681,9 +1674,9 @@ estar completamente fechados, para evitar revolvimento do solo.
 57
 
 
- 500pr_pgnumber058
-
  500pr_pgnumber059
+
+ 500pr_pgnumber060
 5 Culturas,
 
 Sucessões
@@ -1707,7 +1700,7 @@ Luis Carlos Hernani – Embrapa Agropecuária Oeste
 Celso de Almeida Gaudêncio – Embrapa Soja
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 94 
 
 O SPD proporciona aumentos no rendimento de grãos das 
@@ -1752,7 +1745,7 @@ têm apresentado resultados positivos.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 97 
 
 Aumentos  na  produtividade  das  culturas,  no  SPD,  são 
@@ -1797,7 +1790,7 @@ mínimo sem o cultivo da mesma espécie. Sucessão é a sequência
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 repetitiva de culturas cultiva-
 das na mesma área e em es-
 tação estival diferente de um 
@@ -1840,7 +1833,7 @@ do  solo,  com  avidez  diferenciada  quanto  aos  nutrientes  e  com
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 potencial  de  reciclagem  diferenciado,  proporcionam  melhor 
 equilíbrio dos nutrientes e incremento na qualidade e na atividade 
 biológica do solo.
@@ -1886,7 +1879,7 @@ sejam beneficiadas pelas antecessoras e, inclusive, para que todo o
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 ambiente seja melhorado: soja antes de milho, milho antes de soja, 
 milheto antes de soja ou de feijão, ervilhaca ou nabo-forrageiro 
 antes  de  milho,  aveia  antes  de  soja  e  feijão,  etc.  Além  desses 
@@ -1932,7 +1925,7 @@ básicas: técnicas e econômicas. O bom-senso pode ser utilizado
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 para  escolher  outra  cultura  que  se  encaixe  adequadamente  no 
 sistema de rotação, sem trazer prejuízos quanto à cobertura do solo 
 e quanto à distribuição das espécies ao longo do tempo, evitando-
@@ -1981,7 +1974,7 @@ cevada/soja-ervilhaca/milho;  c)  triticale/soja-ervilhaca/milho;
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 d) trigo/soja-aveia-preta+ervilhaca pastejada/milho; e) trigo/ 
 soja-ervilhaca/miiho  ou  sorgo;  f)  trigo/soja-colza/soja  ou 
 cevada/soja-ervilhaca  ou  serradela/milho;  g)  trigo/soja-
@@ -2026,7 +2019,7 @@ Entretanto, essa sequência pode acarretar deficiência de nitrogênio
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 ao milheto, a qual pode variar conforme a fertilidade do solo ou os 
 níveis  de  fertilização  empregados  no  cultivo  do  milho  e  as 
 condições de umidade.
@@ -2070,7 +2063,7 @@ sendo seu manejo recomendável com herbicida.
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 109 
 
 O  manejo  químico  do  nabo-forrageiro  é  mais  adequado 
@@ -2118,7 +2111,7 @@ desenvolvimento inicial inadequado (estiolamento) das plântulas
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 de milho. Preferencialmente, recomenda-se um intervalo de pelo 
 menos duas a três semanas entre o manejo da aveia e a semeadura 
 do milho, a fim de favorecer o processo inicial de decomposição 
@@ -2163,7 +2156,7 @@ geral,  pode-se  preferir  as  cultivares  que,  além  de  apresentar  as
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 demais características desejáveis, produzam maior quantidade de 
 massa seca.
 
@@ -2209,7 +2202,7 @@ a colheita, os restos culturais devem ser destruídos para não abrigar
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 pragas e constituir fonte de inoculo para doenças. Para isso, pode-
 se utilizar um triturador (triton) ou roçadora e, após o desenvolvi-
 mento da rebrota, deve-se efetuar a dessecação com herbicidas, 
@@ -2247,7 +2240,7 @@ mente mais prolongados e intensos.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 119 
 
 Quais as principais culturas que compõem boas sucessões 
@@ -2292,7 +2285,7 @@ significativos no rendimento de milho, quando cultivado após o
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 nabo-forrageiro. O milho também pode ser cultivado imediatamente 
 após a soja (variedade precoce), e isso tem sido chamado de milho-
 safrinha.
@@ -2336,7 +2329,7 @@ temperaturas (geadas), devendo ser cultivado na primavera/verão.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 124 
 
 Existem plantas, sistemas de rotação ou de sucessão indi-
@@ -2378,7 +2371,7 @@ se com rapidez, possui também efeitos alelopáticos (especialmente
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 sobre plantas daninhas de folhas largas). Milheto, sorgo, feijão-de-
 porco, mucunas, crotalárias, guandu e ervilhaca também apresen-
 tam efeitos na diminuição da população de plantas daninhas.
@@ -2420,7 +2413,7 @@ densidade deve ser maior.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 127 
 
 Os efeitos alelopáticos de determinadas plantas são poten-
@@ -2466,7 +2459,7 @@ habilidade em explorar diferentes profundidades do perfil do solo,
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 à  capacidade  de  romper  cama-
 das compactadas do solo, ao au-
 xilio  no  desenvolvi mento  e  na 
@@ -2508,7 +2501,7 @@ juncea.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 Essa operação pode dobrar as plantas de milho, mas pouco a 
 pouco elas retornam à posição normal. Caso o milho esteja com 
 mais  de  40  cm  a  50  cm  de  altura,  essa  operação  não  deve  ser 
@@ -2551,7 +2544,7 @@ extensas.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 132  Por que as culturas de adubação verde são pouco utilizadas?
 
 Embora  haja  referências  da  utilização  de  adubos  verdes 
@@ -2594,7 +2587,7 @@ exemplo, não tocam o solo, produzindo grãos sem manchas, de
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 melhor  qualidade,  e  o  algodão  que,  nesse  sistema,  apresenta 
 plumas mais limpas pela ausência de poeira ou terra. Plantas bem 
 atendidas em suas exigências nutricionais geram produtos de boa 
@@ -2603,7 +2596,7 @@ qualidade, e o SPD bem realizado garante isso.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 6 Água
 
  
@@ -2620,7 +2613,7 @@ Luis Fernando Stone – Embrapa Arroz e Feijão
 Ramon Costa Alvarenga – Embrapa Milho e Sorgo
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 135 
 
 No SPD, a taxa de infiltração da água é maior que no siste-
@@ -2664,7 +2657,7 @@ superficial, isto é, a formação de crosta ou “cascão”.
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 No sistema conven cional, 
 ocorre exatamente o contrário, 
 ou  seja,  o  revolvimento  e  a 
@@ -2708,7 +2701,7 @@ nas  tensões  mais  altas,  devido  à  diminuição  proporcional  de
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 macroporos e aumento dos poros de diâmetro médio, melhorando 
 sua condição estrutural e sua porosidade. Esses fatores, aliados às 
 menores perdas por evaporação e aumento na taxa de infiltração 
@@ -2752,7 +2745,7 @@ verão,  denominados  veranicos.  O  SPD  possibilita  melhores
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 condições de conser-
 vação  de  umidade 
 para o crescimento e 
@@ -2797,7 +2790,7 @@ períodos quando compara ao sistema convencional.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 145 
 
 Existe algum efeito prático na diferença de armazena mento 
@@ -2842,7 +2835,7 @@ culturas anteriores.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 148 
 
 Quais  os  principais  efeitos  da  temperatura  mais  estável 
@@ -2889,7 +2882,7 @@ do tempo de adoção do sistema.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 151 
 
 Existe  diferença  entre  o  balanço  hídrico  no  SPD  e  no 
@@ -2930,7 +2923,7 @@ dependem do critério utilizado para o manejo da irrigação.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 154 
 
 A política de zoneamento agrícola leva em conside ração 
@@ -2945,9 +2938,9 @@ cia, para efeito de crédito e seguro, aqueles que adotam o SPD.
 89
 
 
- 500pr_pgnumber090
-
  500pr_pgnumber091
+
+ 500pr_pgnumber092
 7 Biologia do Solo
 
 Elcido Libório Balota – Iapar
@@ -2961,7 +2954,7 @@ Rubens José Campo – Embrapa Soja
 Luis Carlos Hernani – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 155  Quais os componentes vivos do solo?
 
 O  solo  é  uma  mis-
@@ -3002,7 +2995,7 @@ além de incrementar o teor de matéria orgânica no perfil do solo.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 157 
 
 Quais as diferenças entre o SPD e o sistema convencio nal 
@@ -3049,7 +3042,7 @@ das plantas).
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 Os microrganismos atuam na decomposição e mineralização 
 da  matéria  orgânica  e  na  reciclagem  dos  nutrientes,  ou  seja, 
 funcionam como fonte dos nutrientes necessários ao crescimento 
@@ -3094,7 +3087,7 @@ lações de temperatura e às temperaturas máximas que são inferiores,
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 me lhores  condições 
 hídricas  e  maior  dis-
 ponibilidade  de  car-
@@ -3135,7 +3128,7 @@ anualmente.
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 162  Qual o melhor veículo para o inoculante?
 
 A turfa esterilizada é um veículo reconhecido como eficiente 
@@ -3176,7 +3169,7 @@ menos expressivos.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 164 
 
 Qual a contribuição que as micorrizas podem trazer para 
@@ -3220,7 +3213,7 @@ e qualidade sobre a superfície do solo, que influencia os atributos
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 físicos 
 (temperatura  e  umidade,  especialmente)  e  químicos, 
 proporcionando  as  condições  necessárias  e  suficientes  para  o 
@@ -3264,7 +3257,7 @@ que resulta em melhoria da fertilidade do solo.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 169  Quais os efeitos das minhocas na física do solo?
 
 As minhocas produzem canais, incorporam material orgânico 
@@ -3305,7 +3298,7 @@ pelas raízes das forrageiras e das culturas.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 172  É necessário tratar as sementes com fungicida também no 
 
 SPD?
@@ -3350,7 +3343,7 @@ turais, e a microfauna, agindo na sua decomposição.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 175 
 
 Os  microrganismos  podem  também  afetar  a  disponibili-
@@ -3378,9 +3371,9 @@ fixadora de nitrogênio capaz de realizar o processo biológico.
 101
 
 
- 500pr_pgnumber102
-
  500pr_pgnumber103
+
+ 500pr_pgnumber104
 8 Compactação do Solo
 
 Eleito Torres – Embrapa Soja
@@ -3397,7 +3390,7 @@ Odo Primavesi – Embrapa Pecuária Sudeste
 Cláudio Alberto Bento Franz – Embrapa Cerrados
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 177  O que é compactação do solo?
 
 A compactação do solo é, ao mesmo tempo, a redução da 
@@ -3443,7 +3436,7 @@ de
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 microrganismos favoráveis às plantas, além de diminuir a taxa de 
 infiltração, a permeabilidade do solo e o armazenamento de água 
 no  seu  perfil.  Essa  situação  deve  ser  evitada,  principalmente  nos 
@@ -3488,7 +3481,7 @@ mais  comum,  a  área  deve  ser  submetida  a  uma  escarificação  (os
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 escarificadores  podem  atuar  efetivamente  até  30  cm  de  profun-
 didade). Quando a área necessita também de correções químicas 
 (calagem), recomenda-se que o corretivo (calcário) seja devidamente 
@@ -3532,7 +3525,7 @@ conforme  as  recomendações,  não  provocarão  nenhum  efeito
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 negativo  posterior.  Dessa  forma,  a  calagem  também  não  deve 
 provocar dispersão significativa de argila, desagregação ou formação 
 de camadas compactadas.
@@ -3576,7 +3569,7 @@ das cultivares ou híbridos.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 •	 Considerar	 também	 a	 evolução	 de	 fendas,	 fissuras	 e	
 canalículos,  e  a  ocorrência  neles,  de  deslocamento  de 
 argilas  da  superfície  (etuviação)  e  o  desenvolvimento  de 
@@ -3620,7 +3613,7 @@ muito seco, sua resistência pode ser superestimada.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 As  avaliações  realizadas  com  esses  equipamentos  são  de 
 caráter  comparativo,  não  sendo  recomendada  a  utilização  dos 
 resultados para monitoramento ao longo de safras.
@@ -3665,7 +3658,7 @@ para os solos muito argilosos (acima de 60% de argila), valores de
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 densidade global acima de 1,30 g/cm3 podem afetar a produtividade, 
 principalmente da soja. Esses valores críticos variam ainda de acordo 
 com a cultura, sendo que soja, feijão e milho são mais tolerantes à 
@@ -3709,7 +3702,7 @@ profundidade da camada compactada para que o equipamento não
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 trabalhe  além 
 da  profundida-
 de  necessária. 
@@ -3750,7 +3743,7 @@ de germinação em condições não muito favoráveis).
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 190 
 
 Que  procedimento  deve  ser  adotado  após  a  descompac-
@@ -3793,7 +3786,7 @@ que possibilitam as trocas gasosas, fluxo de água e o crescimento
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 normal  das  plantas.  Um  adequado  planejamento  de  rotação  de 
 culturas e o emprego de práticas que evitem a compactação podem 
 levar a um SPD sem problemas. O controle do tráfego, por exemplo, 
@@ -3842,7 +3835,7 @@ deslocamento pela área.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 195 
 
 Após alguns anos de cultivo em SPD, poderá ocorrer com-
@@ -3885,7 +3878,7 @@ cobertura do solo.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 198 
 
 Em  sistemas  integrados  com  a  pecuária,  é  possível  a 
@@ -3932,7 +3925,7 @@ acordo  com  a  recomendação  para
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 cada região, observando-se a densidade e a época de semeadura. 
 Quando possível, pode-se adotar também os cultivos consorciados 
 tipo milho+leguminosas (mucuna-preta, guandu, leucena, etc.) que 
@@ -3976,7 +3969,7 @@ de vencer a resistência oferecida pelas camadas adensadas do solo.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 A habilidade das raízes em transpor camadas com indícios de 
 compactação varia entre as espécies. Em solos compactados, além 
 de  terem  a  taxa  de  crescimento afetada,  as raízes podem  ter  seu 
@@ -4019,7 +4012,7 @@ solo, sempre que possível, em condições de menor umidade.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 206 
 
 É possível descompactar o solo mecanicamente e continuar 
@@ -4057,7 +4050,7 @@ exagerada é indicador de falha na condução do SPD.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 9 Terraços
 
 José Eloir Denardin – Embrapa Trigo
@@ -4068,7 +4061,7 @@ Luis Carlos Hernani – Embrapa Agropecuária Oeste
 Júlio César Saíton – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 209  O que são curvas de nível?
 
 Curvas  de  nível  são  linhas  imaginárias  que  ligam  pontos  de 
@@ -4108,7 +4101,7 @@ chuvas,  apenas  amenizando  a  erosão  promovida  pela  enxurrada,
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 nada  contribuin-
 do  para  controlar 
 a erosão provoca-
@@ -4147,7 +4140,7 @@ só deverá ser efetivada após rigoroso estudo técnico.
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 213  Qual a vantagem em associar o SPD ao terraceamento?
 
 Práticas  conservacionistas  isoladas,  como  o  terraceamento, 
@@ -4189,7 +4182,7 @@ o arraste de solo sob esses resíduos.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 215  É possível eliminar os terraços após a introdução do SPD?
 
 Sim, é possível, mas não é recomendável fazê-lo imediatamente 
@@ -4229,7 +4222,7 @@ mesma eficiência para dissipar a energia erosiva da enxurrada que
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 flui  na  superfície  do  solo.  Portanto,  a  semeadura  em  contorno 
 proporciona,  através  das  linhas  de  plantas,  obstáculos  ao  livre 
 fluxo da enxurrada, auxiliando na dissipação de sua energia erosiva 
@@ -4271,7 +4264,7 @@ induzindo  operações  de  descompactação  do  solo  em  linhas
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 definidas. Contudo, em lavouras que apresentem relevo muito on-
 dulado, com declividades elevadas, o consumo de combustível e 
 a demanda de potência requeridos pelas máquinas podem aumen-
@@ -4280,9 +4273,9 @@ tar, em virtude da necessidade de tração em aclive.
 125
 
 
- 500pr_pgnumber126
-
  500pr_pgnumber127
+
+ 500pr_pgnumber128
 10 Correção do Solo
 
 Amoacy Carvalho Fabrício – Embrapa Agropecuária Oeste
@@ -4300,7 +4293,7 @@ Leo Nobre de Miranda – Embrapa Cerrados
 Djalma Martinhão Gomes de Souza – Embrapa Cerrados
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 219 
 
 Antes de iniciar a implantação do SPD, é necessário corrigir 
@@ -4349,7 +4342,7 @@ grau de acidez.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 221 
 
 Quais os níveis de saturação por bases recomendados para 
@@ -4396,7 +4389,7 @@ equivalente à do calcário incorporado, principalmente em solos
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 mais  arenosos. 
 Quando  se  usa 
 cultivares  tole-
@@ -4436,7 +4429,7 @@ de calagem, até o limite de 2,0 t/ha.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 227  Quando aplicar o calcário no SPD?
 
 Preferencialmente, a aplicação deve anteceder o período das 
@@ -4478,7 +4471,7 @@ aplicação de outros nutrientes (enxofre, magnésio e micronutrientes).
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 231  Como fazer a correção de fósforo?
 
 A  correção  de  fósforo  pode  ser  realizada  de  duas  formas, 
@@ -4525,7 +4518,7 @@ poder-tampão de potássio em decorrência do acúmulo de matéria
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 orgânica e melhores condições de reciclagem do nutriente devido 
 à rotação de culturas, permitindo que o potássio seja mantido no 
 sistema, possibilitando sua aplicação em doses maiores.
@@ -4543,9 +4536,9 @@ SPD, resultando em melhor cobertura do solo com palha.
 133
 
 
- 500pr_pgnumber134
-
  500pr_pgnumber135
+
+ 500pr_pgnumber136
 11 Adubação
 
 Carlos Hissao Kurihara – Embrapa Agropecuária Oeste
@@ -4564,7 +4557,7 @@ Ademir Hugo Zimmer – Embrapa Gado de Corte
 Sírio Wietholter – Embrapa Trigo
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 235 
 
 Pode-se iniciar o SPD sem a devida adequação química do 
@@ -4611,7 +4604,7 @@ solo.  Especificamente  para  o  fósforo,  há  uma  redistribuição  do
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 nutriente em formas orgânicas, mais estáveis e menos suscetíveis à 
 fixação, aumentando a eficiência de aproveitamento dos adubos 
 fosfatados aplicados.
@@ -4654,7 +4647,7 @@ resíduos vege tais.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 240 
 
 Grande quantidade de palha sobre o solo pode levar à falta 
@@ -4701,7 +4694,7 @@ maior suscetibilidade de perda por lixiviação e, portanto, devem
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 ser  aplicados  na  linha  de  semeadura  ou  em  cobertura,  após  a 
 emergência das plantas. A aplicação antecipada do adubo, a lanço, 
 tem como vantagem propiciar maior rendimento operacional no 
@@ -4747,7 +4740,7 @@ de grãos da cultura de soja.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 246 
 
 Quais as melhores fontes de nitrogênio para aplicação em 
@@ -4793,7 +4786,7 @@ de uma série de outros nutrientes. O nabo-forrageiro, por exemplo,
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 fornece  via  reciclagem,  por  tonelada  de  massa  seca  produzida, 
 cerca de 23 kg/ha de nitrogênio, 8 kg/ha de P2O5,43 kg/ha de K2O, 
 29 kg/ ha de CaO e 6 kg/ha de MgO.
@@ -4842,7 +4835,7 @@ elaboradas  para  o  sistema  convencional  podem  ser  utilizadas  no
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 SPD, desde que se efetue o ajuste da profundidade de amostragem 
 de terra de maneira que os índices de disponibilidade de nutrientes 
 sejam semelhantes ao de uma amostra coletada na camada arável 
@@ -4884,7 +4877,7 @@ Catarina.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 256  Como e quando fazer a gessagem?
 
 A  lanço,  sem  incorporação,  após  a  colheita  ou  antes  da 
@@ -4924,7 +4917,7 @@ pregados via sementes.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 259 
 
 Após  o  quarto  ano  de  SPD,  pode  haver  deficiência  de 
@@ -4959,7 +4952,7 @@ nutrientes que se espera ser exportada.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 12 Coleta de
 
 Amostra de
@@ -4975,7 +4968,7 @@ Amoacy Carvalho Fabrício – Embrapa Agropecuária Oeste
 Luis Carlos Hernani – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 262 
 
 Quais informações são necessárias para municiar o plane-
@@ -5017,7 +5010,7 @@ vimento  de  sistemas  radiculares,  a  resistência  à  penetração  de
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 instrumento pontiagudo para identificar camadas mais adensadas 
 e a existência de encrostamento superficial. Além disso, observa-
 ções sobre o tipo e intensidade de ocorrência de erosão, na super-
@@ -5059,7 +5052,7 @@ solo e o equilíbrio nutricional das culturas.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 268 
 
 Qual o número de repe-
@@ -5105,7 +5098,7 @@ des.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 271 
 
 Após a coleta, as amostras de terra podem ficar dentro de 
@@ -5152,7 +5145,7 @@ in formações sobre o estado nutricional da cultura.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 275 
 
 Como fazer a amostragem foliar de modo que represente 
@@ -5187,7 +5180,7 @@ análises.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 13 Mecanização
 
 Camilo Plácido Vieira – Embrapa Agropecuária Oeste
@@ -5197,7 +5190,7 @@ Cezar de Mello Mesquita – Embrapa Soja
 Luis Carlos Hernani – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 277 
 
 Em relação à mecanização, quais as principais vanta gens 
@@ -5240,7 +5233,7 @@ rolamento das rodas das semeadoras de SPD, diminuindo assim a
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 demanda de força-motriz em relação às semeadoras usadas no sis-
 tema convencional.
 
@@ -5285,7 +5278,7 @@ em profundidade.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 282 
 
 Qual  a  velocidade  ideal  de  deslocamento  do  trator  para 
@@ -5330,7 +5323,7 @@ mantenham a regularidade na distribuição de doses definidas
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 desses  insumos  independentemente  das  condições  de 
 trabalho  (velocidade,  resistência  do  solo,  quantidade  de 
 palha, etc.).
@@ -5373,7 +5366,7 @@ seria desnecessário.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 286  Quando se deve usar o facão como sistema de corte?
 
 Quando a superfície do solo estiver um pouco mais adensada, 
@@ -5415,7 +5408,7 @@ rodas  controladoras  de  profundidade  e  as  rodas  pressionadoras
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 de solo. É importante lembrar que qualquer modificação efetuada 
 deve  ser  seguida  de  reforço  do  chassi  da  semeadora,  pois  sua 
 construção  convencional  não  demanda  transmissão  de  grandes 
@@ -5454,7 +5447,7 @@ suas necessidades.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 292 
 
 Existe semeadora viável para todas as culturas e situações 
@@ -5499,7 +5492,7 @@ casos facão), que promova distribuição uniforme das sementes entre
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 ser  utilizada  eficientemente.  No  entanto,  as  que  apresentam 
 estrutura reforçada são preferíveis.
 
@@ -5545,7 +5538,7 @@ nos discos e falta de rodas reguladoras de profundidade. Um fator
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 a ser considerado é a dificuldade na interpretação do manual de 
 instruções, o que gera erros nas regulagens. Deve-se observar com 
 atenção as variações diárias nas condições de umidade do solo, 
@@ -5587,7 +5580,7 @@ corte).
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 301  Quando se deve usar discos lisos e discos com ranhuras?
 
 O disco de corte liso é recomendado para condições mais 
@@ -5630,7 +5623,7 @@ potência necessária por linha da semeadora de discos desencontrados
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 necessária por linha será de 13 a 15 CV. Com base nesses dados, 
 o agricultor e o agente de assistência técnica terão condições de 
 pro ceder ao dimensionamento (número de tratores e de máquinas).
@@ -5673,7 +5666,7 @@ germinação e à emergência das plantas, originando falhas no estande.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 307 
 
 Deve-se utilizar picador de palha na colhedora ou algum 
@@ -5719,7 +5712,7 @@ em relação ao picador são
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 as seguintes: não reduz o tamanho das partículas que compõem a 
 palha, permitindo a manutenção dos resíduos sobre o solo por pe-
 ríodo mais longo e exige potência de máquina muito inferior, o que 
@@ -5764,7 +5757,7 @@ ras-adubadoras.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 313  Como efetuar a sobressemeadura de milheto na soja?
 
 A  sobressemeadura  do  milheto  pode  ser  por  via  aérea  ou 
@@ -5804,7 +5797,7 @@ há  compactação,  a  escarificação  é  feita  superficialmente  e  serve
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 apenas para indicar a localização do caminho, na lavoura. Suas 
 vantagens são o melhor controle da aplicação de insumos, maior 
 controle da ocorrência e da distribuição de compactação na área.
@@ -5812,7 +5805,7 @@ controle da ocorrência e da distribuição de compactação na área.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 14 Tecnologia 
 
 de Aplicação de 
@@ -5829,7 +5822,7 @@ Dionizio L. P. Gazziero – Embrapa Soja
 Erivelton Sherer Roman – Embrapa Trigo
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 317 
 
 As  aplicações  de  produtos  químicos  no  SPD  são  mais 
@@ -5864,7 +5857,7 @@ tipo de aplicação.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 320  Quais produtos podem ser aplicados com jato dirigido?
 
 Qualquer produto pode ser aplicado com jato dirigido, desde 
@@ -5909,7 +5902,7 @@ cidas aplicados em pós-emergência.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 324 
 
 Como  proceder  em  relação  ao  volume  de  calda  na  apli-
@@ -5951,7 +5944,7 @@ menores que 100 mm, ou melhor ainda, se o bico produzir gotas
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 acima  de  150  mm  e  próximas  de  200  mm,  a  possibilidade  de 
 deriva  é  pequena.  Devem  ser  evitadas,  igualmente,  aplicações 
 com ventos fortes, com velocidade superior a 10 km/h e umidade 
@@ -5994,7 +5987,7 @@ entre o produto e o alvo, melhorar a eficiência ou diminuir riscos.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 331 
 
 Qual a importância da perfeita distribuição e cobertura da 
@@ -6040,7 +6033,7 @@ suscetibilidade aos herbicidas dessecantes antes do florescimento.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 Tem-se  verificado  que,  quanto  mais  cedo  for  aplicado  o 
 herbicida,  melhor  será  o  controle  e  menores  as  doses  a  serem 
 utilizadas.
@@ -6083,7 +6076,7 @@ Glyphosate.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 337 
 
 Qual  é  o  melhor  método  de  aplicação  de  herbicidas  no 
@@ -6126,7 +6119,7 @@ herbicidas  pós-emergentes,  com  bicos  de  jato  plano,  utilizar  o
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 110-02,  que  propicia  menor  volume  de  aplicação  e  gotas  de 
 tamanho apropriado, com boa penetração e cobertura.
 
@@ -6171,9 +6164,9 @@ imprescindível.
 175
 
 
- 500pr_pgnumber176
-
  500pr_pgnumber177
+
+ 500pr_pgnumber178
 15 Plantas Daninhas
 
 e seu Controle
@@ -6192,7 +6185,7 @@ Tarcísio de Oliveira Valente – UFMS
 Erivelton Sherer Roman – Embrapa Trigo
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 343  Quais as plantas daninhas mais prejudiciais no SPD?
 
 São  aquelas  que  apresentam  maior  resistência  ao  controle 
@@ -6236,7 +6229,7 @@ vegetativa são as que mais têm inviabilizado a implantação do SPD.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 345 
 
 A rotação de culturas tem efeito na população e nas espé-
@@ -6281,7 +6274,7 @@ efeitos.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 347  O que é efeito supressivo?
 
 É a redução temporária do crescimento das plantas daninhas. 
@@ -6325,7 +6318,7 @@ blásticas positivas, ou seja, as que necessitam de luz para germinar.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 O revolvimento da terra pela gradagem expõe essas sementes 
 à luz e em nfveis de aeração que induzem e estimulam a germinação.
 
@@ -6368,7 +6361,7 @@ germinação prejudicada pela presença da cobertura morta.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 Ocorre  porém,  no  SPD,  uma  tendência  de  aumento  na 
 incidência  de  plantas  daninhas  mais  resistentes  aos  herbicidas, 
 especialmente  aos  dessecantes,  e  plantas  perenes,  que  exigem 
@@ -6408,7 +6401,7 @@ empregados, fertilidade do solo, etc.
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 355 
 
 Qual  a  importância  do  conhecimento  detalhado  sobre 
@@ -6452,7 +6445,7 @@ to  mais  novas  as  plantas  daninhas,  maior  é  sua  suscetibilidade
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 aos herbicidas e maior a probabilidade de utilização de doses me-
 nores de dessecantes.
 Nota: É oportuno lembrar que plantas sob estresse resistem aos herbicidas dessecantes. 
@@ -6492,7 +6485,7 @@ ser utilizada.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 360 
 
 Com o tempo de adoção do SPD, a infestação de plantas 
@@ -6533,7 +6526,7 @@ mas não recomeçar.
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 362 
 
 As  tabelas  de  doses  e  de  recomendação  de  herbicidas, 
@@ -6574,7 +6567,7 @@ plantas menos sensíveis a este herbicida.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 365 
 
 Quando deve ser feita a dessecação no milheto semeado 
@@ -6621,7 +6614,7 @@ semeadoras de SPD realizam bom trabalho com o milheto, verde
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 ou seco. Contudo, a perda parcial de umidade, que ocorre entre 
 quatro e dez dias após a aplicação, deixando as hastes do milheto 
 mais  resistentes  ao  corte  dos  discos  das  semeadoras  (ponto-de- 
@@ -6663,7 +6656,7 @@ ciência, embora frequentemente não seja suficiente. A mistura de
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 Flumioxazin  com  Gtyphosate  ou  Sulfosate  tem  apresentado 
 excelentes  resultados  de  controle.  Outra  opção  é  a  aplicação 
 sequencial, a primeira com 1,5 L/ha de Paraquat + Diuron + 1,0 L/
@@ -6706,7 +6699,7 @@ com algumas folhas secas ou secando, ou em florescimento, faz-se
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 uma roçada e, após a rebrota das plantas, aplica-se o herbicida 
 dessecante (Glyphosate ou Sulfosate) em doses mais elevadas (4 a 
 5 L/ha). Para a soja, utilizam-se herbicidas graminicidas de pré e 
@@ -6750,7 +6743,7 @@ realizado em período inferior a quinze dias após a aplicação do
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 dessecante, a ocorrência de amareleci mento acentuado na parte 
 aérea, especialmente na fase inicial da cultura. Esse fato pode ser 
 explicado,  possivelmente  pelos  efeitos  alelopáticos  provocados 
@@ -6796,7 +6789,7 @@ de-viola  (Ipomea  grandifolia)  e  trapoeraba  (Commelina
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 benghalensis),  perfilhadas  ou  ramificadas,  faz-se  necessária  a 
 adição de 1,0 L/ha de 2,4-D aos herbicidas dessecantes.
 
@@ -6842,7 +6835,7 @@ sequenciais.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 382 
 
 Existem produtos para uso em lavouras de soja e milho que 
@@ -6891,7 +6884,7 @@ controlada mas, com o uso contínuo do dessecante, acabam sendo
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 selecionadas espécies resistentes. Entretanto, o uso de variedades 
 resistentes a herbicidas causa profundas mudanças no programa 
 de controle das plantas daninhas. A expectativa é de que haja um 
@@ -6905,7 +6898,7 @@ problemas no curto ou médio prazos.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 16 Manejo de Pragas
 
 Sérgio Arce Gomez – Embrapa Agropecuária Oeste
@@ -6919,7 +6912,7 @@ Crébio José Ávila – Embrapa Agropecuária Oeste
 Paulo Eduardo Degrande – UFMS
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 386 
 
 Como é a ocorrência das principais pragas das lavouras de 
@@ -6965,7 +6958,7 @@ garta-rosca (Agrotis ipsilon)).
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
   Quando tal aplicação não é realizada, após a dessecação 
 da palha pelo herbicida, essa praga migra para a soja, que 
 não  é  um  de  seus  hospedeiros  preferenciais,  onde  pode 
@@ -7004,7 +6997,7 @@ ainda não foi estabelecida.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 389  Como podem ser combatidas as pragas de solo?
 
 De maneira geral, as pragas de solo podem ser combatidas 
@@ -7044,7 +7037,7 @@ brilhantes.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 391 
 
 Como  podem  ser  caracterizados  os  danos  produzidos 
@@ -7086,7 +7079,7 @@ chegar a mais de 60 cm.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 393  Qual o potencial de dano do percevejo-castanho?
 
 Depende da intensidade da infestação, do tipo de solo e da 
@@ -7129,7 +7122,7 @@ patógenos  (fungos  e  vírus),  como  agentes
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 naturais  de  controle,  deve  ganhar  relevância,  pois  os  primeiros 
 encontrarão ambiente favorável para a sobrevivência e reprodu-
 ção e, os últimos, para a manutenção de seus potenciais de inóculo.
@@ -7176,7 +7169,7 @@ Centro-Oeste.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 400  Quais as características biológicas do tamanduá-da-soja?
 
 Apresenta ciclo biológico de um ano. Os adultos emergem 
@@ -7218,7 +7211,7 @@ mentes com inseticidas carbamatos. No caso de cupins-de-montículo,
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 com  destruição  mecâ-
 nica, empregando-se o 
 demolidor de cupinzei-
@@ -7258,7 +7251,7 @@ praga e, se possível, identificá-la. Dependendo da magnitude de
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 incidência  do  inseto  e  da  cultura  a  ser  implantada,  pode-se 
 empregar o tratamento de sementes. Nesse tema, também, verifica-
 se grande necessidade de pesquisa.
@@ -7299,7 +7292,7 @@ abdominal.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 409  Como controlar as lesmas e os caracóis?
 
 A dessecação, com antecedência, nas áreas infestadas, difi-
@@ -7343,7 +7336,7 @@ ralada ou óleos vegetais, que atraem a praga.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 A  isca  deve  ser  de  boa  qualidade  e  mais  palatável  que  as 
 plantas,  para  que  haja  controle  satisfatório.  Como  os  grilos 
 apresentam ciclo biológico longo, deve-se planejar o controle para 
@@ -7354,7 +7347,7 @@ após a dessecação e antes da germinação das plantas cultivadas.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 17 Manejo de Doenças
 
 Augusto César Pereira Goulart – Embrapa Agropecuária Oeste
@@ -7370,7 +7363,7 @@ Admir Assis Henning – Embrapa Soja
 José Maurício Cunha Fernandes – Embrapa Trigo
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 411  O SPD aumenta a ocorrência de doenças?
 
 O  SPD  pressupõe  a  adoção  da  rotação  de  culturas.  Caso 
@@ -7417,7 +7410,7 @@ cultivar a mesma espécie vegetal na mesma estação do ano e na
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 mesma área. Fazendo-se a rotação de culturas com espécies vege-
 tais diferentes, a palha é eliminada biologicamente (decomposição e 
 mineralização  da  matéria  orgânica),  erradicando  os  patógenos 
@@ -7457,7 +7450,7 @@ palha ser mantida sobre a superfície do solo.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 418 
 
 Quais  os  métodos  recomendados  para  o  controle  de 
@@ -7505,7 +7498,7 @@ causais sobrevivem nos restos culturais, são mais graves no SPD.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 Coincidentemente,  os  mesmos  agentes  causais  de  manchas 
 
 foliares são os principais patógenos veiculados pelas sementes.
@@ -7549,7 +7542,7 @@ ou direto).
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 Fungicidas Recomendados para o 
 Tratamento de Sementes de Soja
 
@@ -7620,7 +7613,7 @@ Dose (g i.a./l 00 kg de sementes)
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 Fungicidas Registrados para o 
 
 Tratamento de Sementes de Milho
@@ -7687,7 +7680,7 @@ impacto negativo no ambiente.
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 425 
 
 Algumas espécies utilizadas como adubação verde para a 
@@ -7728,7 +7721,7 @@ veis ao tato, a 10% da granação) e R5.5 (maioria das vagens entre
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 como para doenças de final de ciclo, deve ser de 250 a 300 L/ha, 
 para aplicação tratorizada e 40 L/ha para aplicação aérea.
 
@@ -7744,9 +7737,9 @@ tema convencional e o SPD, para o tratamento de sementes.
 215
 
 
- 500pr_pgnumber216
-
  500pr_pgnumber217
+
+ 500pr_pgnumber218
 18 Integração
 
 Agricultura –
@@ -7771,7 +7764,7 @@ Ademir Hugo Zimmer – Embrapa Gado de Corte
 Cleber Morais Guimarães – Embrapa Arroz e Feijão
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 429 
 
 A substituição da pastagem por lavoura de grãos pode ser 
@@ -7814,7 +7807,7 @@ do, com isso, as pastagens subsequentes.
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 431  Quais  os  requisitos  para  fazer  essa  integração  com 
 
 sucesso?
@@ -7854,7 +7847,7 @@ Tais adequações devem ser acompanhadas por um técnico.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 Roteiro para Implantação 
 
 de Lavouras sobre Pastagens, no SPD
@@ -7930,7 +7923,7 @@ deficiência de nitrogênio, pois durante a decomposição de raízes e
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 palha da pastagem, esse nutriente é utilizado pelos microrganismos 
 do solo.
 
@@ -7975,7 +7968,7 @@ soja.
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 440 
 
 Quais  as  culturas  indicadas  para  compor  os  sistemas  de 
@@ -8021,7 +8014,7 @@ estande  de  plantas  inadequado.  Essa  situação  também  apresenta
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 dificuldades na dessecação inicial. Por sua vez, uma lavoura de soja 
 com falhas de estande proporciona o rebrote da pastagem pela falta 
 de sombreamento.
@@ -8063,7 +8056,7 @@ Em áreas de solo com textura mista ou franco-arenosa, essa operação
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 446  Qual período ideal para a rotação pastagem-lavoura?
 
 Existem  sistemas  implantados  que  adotam  ciclos  de  2  ou  3 
@@ -8108,7 +8101,7 @@ A  semeadura  a  lanço,  com  posterior  incorporação  com  grade
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 niveladora, é sistema eficiente, mas apresenta o inconveniente de 
 revolver a superfície do solo, aumentando a taxa de decomposição 
 da palha.
@@ -8155,7 +8148,7 @@ cendo o sistema com esse nutriente.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 452 
 
 Por que, após o início de um sistema de rotação pasta gem-
@@ -8201,7 +8194,7 @@ drenagem do solo.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 O desempenho das culturas é influenciado pela fertilidade do 
 solo ou pelo nível de adubação praticado e pela disponibilidade de 
 água para as forrageiras, na forma de chuva ou irrigação. A lotação 
@@ -8247,7 +8240,7 @@ solo, fundamental para o sucesso do SPD.
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 456 
 
 Quais as épocas de semeadura recomendadas para a aveia 
@@ -8291,7 +8284,7 @@ das panículas, para não reduzir muito a qualidade.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 459  Por quanto tempo a pastagem de aveia pode ser utilizada?
 
 O tempo de utilização da aveia depende muito das condições 
@@ -8335,7 +8328,7 @@ esse manejo, o solo mantém-se coberto, havendo sobra de palha
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 para manutenção do SPD. Nessa condição, as pastagens de aveia e 
 de milheto permitem ganhos de peso vivo/animal/dia, de 0,7 kg a 1 
 kg. Deve ser priorizado o máximo ganho por cabeça, já que essas 
@@ -8377,7 +8370,7 @@ dessecação com herbicida.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 464 
 
 É necessária adubação de manutenção nas pastagens pere-
@@ -8419,7 +8412,7 @@ destaca-se pela reciclagem do potássio.
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 467  O nabo-forrageiro pode ser uma alternativa de pastejo?
 
 Pode, mas as variedades atualmente em cultivo no País não 
@@ -8444,7 +8437,7 @@ coberto.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 19 Custos de Produção
 
 Geraldo Augusto de Melo Filho – Embrapa Agropecuária Oeste
@@ -8454,7 +8447,7 @@ Ivo Ambrosi – Embrapa Trigo
 Alceu Richetti – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 469 
 
 Pode-se comparar o custo de produção de uma lavoura no 
@@ -8498,7 +8491,7 @@ do que no sistema convencional.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 472 
 
 Qual  o  principal  componente  do  custo  de  produção  no 
@@ -8539,7 +8532,7 @@ máquinas, aumentando sua vida útil e havendo, inclusive, redução
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 no uso de adubos, menor necessidade de potência de tratores e de 
 mão de obra, redução no uso de combustível e produtividade maior.
 
@@ -8581,7 +8574,7 @@ dução. É denominado também de desembolso ou custo contábil.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 No  custo  variável,  são  contabilizados  todos  os  insumos.  Em 
 contrapartida, o custo fixo, também denominado custo econômico, 
 ocorre independentemente da quantidade produzida.
@@ -8625,7 +8618,7 @@ que pode ser alcançada em cada sistema.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 480 
 
 Em termos de custo, como considerar o efeito cumulativo 
@@ -8667,7 +8660,7 @@ terra. Certamente, toda prática de manejo e conservação do solo,
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 que venha contribuir para sua melhoria, é incorporada na valorização 
 da  terra  e  do  patrimônio,  pois  um  solo  altamente  produtivo  tem, 
 obviamente, valor de mercado maior que um solo degradado.
@@ -8707,7 +8700,7 @@ a maior valorização patrimonial da terra.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 484 
 
 Há alguma forma de considerar, nas análises econô micas 
@@ -8751,7 +8744,7 @@ obter renda extra, ou dedicar-se mais à família e ao lazer.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 485 
 
 Como analisar economicamente uma fazenda que possui 
@@ -8793,7 +8786,7 @@ gradualmente, com o SPD.
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 487 
 
 Como  considerar  a  relação  custo-benefício  da  utiliza ção 
@@ -8832,7 +8825,7 @@ lucros.
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 489 
 
 A capacitação de mão de obra, importante no SPD, tem 
@@ -8871,7 +8864,7 @@ alternativa para o pequeno produtor.
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 491 
 
 O SPD permite fazer um planejamento socioeconômico de 
@@ -8929,7 +8922,7 @@ sequeiro
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 20 Agricultura 
 
 de Precisão
@@ -8939,7 +8932,7 @@ de Precisão
 Henrique de Oliveira – Embrapa Agropecuária Oeste
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 493  O que é Agricultura de Precisão?
 
 O termo Agricultura de Precisão faz referência ao uso combi-
@@ -8981,7 +8974,7 @@ realizar  uma  divisão  preliminar  em  subáreas  que  sejam  o  mais
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 homogêneas  possível,  basea-
 das nas características mencio-
 nadas; realizar a caracterização 
@@ -9023,7 +9016,7 @@ geoprocessamento e geoposicionamento).
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 497 
 
 Por  que  o  SPD  é  um  passo  decisivo  para  a  agricultura 
@@ -9066,39 +9059,4 @@ partir de aviões equipados com o Sistema de Posicionamento Global
 
 248
 
-
- 500pr_pgnumber249
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000027
-
-•••
-
-
- 500pr_pgnumber250
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber251
-
- 500pr_pgnumber252
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber253
 

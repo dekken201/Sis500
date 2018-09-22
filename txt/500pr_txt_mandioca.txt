@@ -1,14 +1,5 @@
 
- 500pr_pgnumber015
-Classificação
-Botânica
-
-1
-
-Paulo Cezar Lemos de Carvalho
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 A que ordem, família, gênero e espécie pertence a mandioca?
@@ -54,7 +45,7 @@ relacionados com a mandioca.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 3
 
 Como é a diversidade genética de Manihot?
@@ -99,7 +90,7 @@ prima para peças de artesanato, servindo para a fabricação de colher
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 de  pau,  tamanco  e  outros  objetos,  por  causa  da  facilidade  para
 trabalhar  sua  madeira  macia.  Além  disso,  as  sementes  de
 M.  caerulescens  e  M.  dichotoma  var.  undulata,  por  serem  bem
@@ -141,7 +132,7 @@ Prata, com outra área de concentração importante no México.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 6
 
 Como são as flores da mandioca?
@@ -186,7 +177,7 @@ realizada  pelos  próprios  agricultores,  inclusive  indígenas,  que
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 conservaram  e  ainda  conservam  plantas  com  características
 diferentes, oriundas da germinação de sementes botânicas formadas
 entre o final de um cultivo e a instalação da nova lavoura.
@@ -229,7 +220,7 @@ energia da planta na forma de carboidratos.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 9
 
 Quais as características do sistema radicular da mandioca?
@@ -274,7 +265,7 @@ O comprimento do pecíolo varia com a cultivar e com o estádio de
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 desenvolvimento, e a cor pode ser verde, rosada, vermelha, amarelo-
 clara, etc. Observa-se a presença de estípulas.
 
@@ -321,7 +312,7 @@ micrópila, hilo, rafe e chalaza. Parecem com pequenas sementes de
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 mamona,  apresentando  desenhos  na  testa  luzidia.  O  embrião  é
 central, com folhas cotiledonárias grandes (Platylobeae), maiores que
 a radícula e endosperma abundante e oleaginoso.
@@ -364,16 +355,16 @@ nada.
 23
 
 
- 500pr_pgnumber024
-
  500pr_pgnumber025
+
+ 500pr_pgnumber026
 2 Clima e Solo
 
 Laercio Duarte Souza
 Luciano da Silva Souza
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 18
 
 A mandioca é originária de que continente?
@@ -413,7 +404,7 @@ nas estações mais frias do ano.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 22
 
 Regiões de baixas altitudes podem trazer algum problema
@@ -461,7 +452,7 @@ mandioca.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 26
 
 Por que a mandioca não cresce em temperaturas em torno
@@ -508,7 +499,7 @@ pois o encharcamento favorece o apodrecimento das raízes.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 30
 
 A mandioca pode ser cultivada em regiões semi-áridas?
@@ -554,7 +545,7 @@ torno de 12 horas por dia.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 34
 
 Que efeitos exercem sobre as plantas de mandioca os dias
@@ -603,7 +594,7 @@ raízes, boa drenagem e facilidade de colheita.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 39
 
 Por que solos argilosos são indesejáveis para o plantio de
@@ -652,7 +643,7 @@ apodrecimento  das  raízes.  A  instalação  de  um  bom  sistema  de
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 drenagem, para escoar as águas e evitar o encharcamento do solo,
 pode corrigir o problema, mas os custos devem ser avaliados antes
 da instalação do plantio.
@@ -700,7 +691,7 @@ de 6,0.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 47
 
 Existe alguma variedade de mandioca que produz bem em
@@ -749,7 +740,7 @@ estão sujeitas a acentuadas perdas de solo e água por erosão, os solos
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 com declividade de até 10% têm as vantagens de reduzir os custos
 de  produção,  pela  exigência  de  menor  número  de  práticas
 conservacionistas, de facilitar a mecanização e de apresentar menores
@@ -780,7 +771,7 @@ solo e água por erosão.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 3 Variedades
 
 Wania Maria Gonçalves Fukuda
@@ -788,7 +779,7 @@ Wania Maria Gonçalves Fukuda
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 54 Quantas variedades de mandioca existem no Brasil?
 
 A cultura da mandioca apresenta ampla variabilidade genética,
@@ -834,7 +825,7 @@ diferenças de solo ou mesmo de manejo do cultivo.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 59
 
 Que problemas as variedades podem apresentar em virtude
@@ -880,7 +871,7 @@ específicas.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 63
 
 Está havendo expansão da fronteira agrícola para o plantio
@@ -932,7 +923,7 @@ mesmas características recomendadas para a indústria de amido,
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 exceto na Região Norte, onde a preferência é por variedades com
 polpa de coloração amarela.
 
@@ -976,7 +967,7 @@ com a finalidade da exploração, com o ciclo e local de plantio.
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 71
 
 Problemas de pragas e doenças podem ser solucionados com
@@ -1028,7 +1019,7 @@ Região Nordeste são:
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 • Arari.
 • BRS Guaíra.
 • BRS Mulatinha.
@@ -1074,7 +1065,7 @@ são:
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 77
 
 Que critérios são utilizados na seleção de variedades de
@@ -1126,7 +1117,7 @@ classificadas em:
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 82
 
 Que variedades de mandioca apresentam boa combinação
@@ -1151,9 +1142,9 @@ criação e seleção de novas variedades de mandioca.
 43
 
 
- 500pr_pgnumber044
-
  500pr_pgnumber045
+
+ 500pr_pgnumber046
 Escolha da Área e
 Preparo do Solo
 
@@ -1163,7 +1154,7 @@ Laercio Duarte Souza
 Luciano da Silva Souza
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 84
 
 Que aspectos devem ser considerados na escolha da área
@@ -1216,7 +1207,7 @@ base do sucesso de todas as operações subseqüentes, como o uso
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 mais eficiente dos corretivos da acidez e dos fertilizantes, maior
 facilidade para realizar as práticas de sulcamento e/ou coveamento,
 de plantio, tratos culturais e colheita.
@@ -1264,7 +1255,7 @@ terra molhada grude nos implementos.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 • Deixar o máximo possível de resíduos vegetais na superfície
 do terreno, para proteger o solo do impacto direto das gotas
 de chuva e evitar a degradação da estrutura do solo por
@@ -1310,7 +1301,7 @@ criação de inimigos naturais das pragas e doenças da mandioca.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 92
 
 O que se deve fazer com os restos vegetais da roçagem de
@@ -1352,7 +1343,7 @@ erosão.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 95
 
 Qual deve ser a profundidade da aração para o cultivo da
@@ -1397,7 +1388,7 @@ ou coveamento, e plantio, também em nível.
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 98
 
 Qual a recomendação de preparo do solo para o plantio em
@@ -1442,7 +1433,7 @@ assim os riscos de encharcamento e de apodrecimento das raízes.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 Tanto o plantio em covas profundas como o plantio com a
 maniva no nível do solo armazenam mais água. O plantio de manivas
 na posição vertical aprofunda mais as raízes e deve ser utilizado
@@ -1452,7 +1443,7 @@ dificuldades no momento da colheita.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 Manejo e
 Conservação do Solo
 
@@ -1464,7 +1455,7 @@ Laercio Duarte Souza
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 101
 
 Que  aspectos  devem  ser  considerados  no  manejo  e  na
@@ -1513,7 +1504,7 @@ proporciona os seguintes benefícios:
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 • Mantém ou melhora a estrutura do solo.
 • Reduz as possibilidades de compactação do solo.
 • Reduz as perdas de solo e água por erosão.
@@ -1559,7 +1550,7 @@ profundidade de 2 m.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 • Não pode estar sujeito a encharcamentos.
 • Não podem ser salinos, sódicos ou salino-sódicos.
 Escolhida a área, devem ser traçadas as curvas de nível para
@@ -1600,7 +1591,7 @@ capacidade de infiltração, o armazenamento e a disponibilidade de
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 106
 
 Que tipo de matéria orgânica é mais indicado para a cultura
@@ -1647,7 +1638,7 @@ solo ou deixando-a na superfície, como cobertura morta.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 110
 
 Existe alguma outra vantagem em utilizar-se as leguminosas
@@ -1694,7 +1685,7 @@ capacidade produtiva do solo.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 113
 
 Qual o tipo de consórcio mais eficiente para a proteção do
@@ -1746,7 +1737,7 @@ etc.),  plantadas  e  cultivadas  em
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 determinada, dispostas ao longo das curvas de nível do terreno.
 Podem ser classificadas em faixas de exploração contínua (as culturas
 permanecem de um ano para outro na mesma posição), em faixas
@@ -1796,7 +1787,7 @@ cordões vegetados, pelo fato de não ser uma planta invasora (as
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 sementes não germinam e a planta não emite ramas) e por emitir
 raízes a grandes profundidades, competindo pouco com a mandioca
 pela água disponível no solo.
@@ -1847,7 +1838,7 @@ enxofre no solo.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 123
 
 Como funciona o sistema de capinas alternadas?
@@ -1894,7 +1885,7 @@ declive, podendo ser construídos em nível ou com gradiente de
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 declividade, e constam de um camalhão e de um canal, destinados
 a reter a água das chuvas e permitir sua infiltração no solo (terraços
 em nível) ou escorrê-la de maneira controlada para os mananciais,
@@ -1921,15 +1912,15 @@ de 6 m a 12 m, sendo viáveis apenas para declives suaves.
 63
 
 
- 500pr_pgnumber064
-
  500pr_pgnumber065
+
+ 500pr_pgnumber066
 6 Calagem e Adubação
 
 Jayme de Cerqueira Gomes
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 127
 
 Em que resultou o uso de solos com características físicas e
@@ -1973,7 +1964,7 @@ deficiência de zinco.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 131
 
 Quais as exigências nutricionais da mandioca?
@@ -2020,7 +2011,7 @@ de 40 a 100 kg/ha de N.
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 135
 
 Qual a importância do potássio para a mandioca?
@@ -2065,7 +2056,7 @@ solúveis ou com rocha fosfatada básica, em solos ácidos.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 139
 
 Qual a importância do cálcio para a mandioca?
@@ -2114,7 +2105,7 @@ na propriedade devem ser coletadas separadas.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 • Textura: áreas argilosas devem ser separadas das arenosas.
 Como coletar amostras de solos:
 • Amostra simples: é a porção coletada em diferentes pontos
@@ -2160,7 +2151,7 @@ responsáveis pelos aumentos da produtividade da mandioca.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 144
 
 As quantidades de adubos orgânicos dependem de quê?
@@ -2209,7 +2200,7 @@ solo pelas elevadas quantidades extraídas pela planta.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 149
 
 Qual o efeito do fósforo na presença do nitrogênio e do
@@ -2244,7 +2235,7 @@ aplicação do calcário e dos adubos.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 Seleção e Preparo
 do Material de Plantio
 
@@ -2256,7 +2247,7 @@ Pedro Luiz Pires de Mattos
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 152
 
 Quais as vantagens da seleção e preparo do material de
@@ -2303,7 +2294,7 @@ conduzidos.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 156
 
 Como  proceder  caso  seja  necessário  usar  mais  de  uma
@@ -2352,7 +2343,7 @@ a 7 gemas e diâmetro aproximado de 2 cm.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 161
 
 A quantidade de manivas-semente produzida por hectare
@@ -2408,7 +2399,7 @@ O material de plantio deve estar livre de pragas e doenças. Isso
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 como a mandioca, porque são mais propensas a manter, aumentar e
 disseminar patógenos e pragas pelas hastes.
 
@@ -2456,7 +2447,7 @@ totalmente controlados.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 172
 
 Quais as vantagens de se utilizar a técnica da micropropagação?
@@ -2469,7 +2460,7 @@ plantios.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 Poda e Conservação
 de Manivas
 
@@ -2481,7 +2472,7 @@ José Raimundo Ferreira Filho
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 173
 
 Em que consiste a poda da parte aérea da mandioca?
@@ -2533,7 +2524,7 @@ A poda deve ser feita no início do período chuvoso.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 178
 
 A que altura da superfície
@@ -2587,7 +2578,7 @@ manivas com 80 cm a 1,20 m de comprimento, dispostas na posição
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 horizontal ou vertical. Na posição horizontal, as manivas devem
 conservar a cepa ou maniva-mãe. Na posição vertical, as ramas
 devem ser enterradas cerca de 10 cm em solo úmido, o qual deve
@@ -2637,7 +2628,7 @@ Os métodos mais comuns de armazenamento de manivas são:
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 • Ao abrigo de bosques.
 • Em leiras.
 • Em túnel.
@@ -2679,15 +2670,15 @@ para a implantação de novos plantios.
 83
 
 
- 500pr_pgnumber084
-
  500pr_pgnumber085
+
+ 500pr_pgnumber086
 9 Época de Plantio
 
 Alfredo Augusto Cunha Alves
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 191
 
 Por  que  a  escolha  adequada  da  época  de  plantio  é
@@ -2733,7 +2724,7 @@ especialmente em solos de textura argilosa, são fatores responsáveis
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 pelas baixas populações de plantas, pela desuniformidade na lavoura,
 pelas podridões e pelo baixo rendimento de raízes.
 
@@ -2777,7 +2768,7 @@ mandioca em qualquer época do ano.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 198
 
 Qual a melhor época de plantio?
@@ -2806,7 +2797,7 @@ estados e regiões do Brasil.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 Tabela  1.  Épocas  de  plantio  de  mandioca  recomendadas  para
 determinados estados e regiões do Brasil.
 
@@ -2876,9 +2867,9 @@ De  abril  a  julho
 89
 
 
- 500pr_pgnumber090
-
  500pr_pgnumber091
+
+ 500pr_pgnumber092
 Espaçamento
 e Plantio
 
@@ -2888,7 +2879,7 @@ Pedro Luiz Pires de Mattos
 José Raimundo Ferreira Filho
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 200
 
 O que é espaçamento?
@@ -2937,7 +2928,7 @@ colocadas nos sulcos de forma contínua.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 205
 
 Qual  a  melhor  distância  entre  linhas  para  a  colheita
@@ -2985,7 +2976,7 @@ maiores, as fileiras duplas podem estar distanciadas em até 3 m.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 210
 
 Qual o espaçamento para plantios cujas capinas serão feitas
@@ -3033,7 +3024,7 @@ com enxada.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 214
 
 Qual a profundidade dos sulcos?
@@ -3082,7 +3073,7 @@ Os camalhões ou leirões são elevações de terra contínuas.
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 220
 
 Como podem ser construídos os camalhões?
@@ -3134,7 +3125,7 @@ dos sulcos.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 226
 
 Como as manivas são colocadas com plantadeira mecânica?
@@ -3181,15 +3172,15 @@ colheita.
 97
 
 
- 500pr_pgnumber098
-
  500pr_pgnumber099
+
+ 500pr_pgnumber0100
 11 Consorciação
 
 Pedro Luiz Pires de Mattos
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 231 O que é consorciação de culturas?
 
 É o cultivo de duas ou mais espécies na mesma área por um
@@ -3232,7 +3223,7 @@ milho.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 236
 
 Quais as principais vantagens do consórcio em relação ao
@@ -3288,7 +3279,7 @@ Phaseolus e Vigna.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 240
 
 Como é plantado o feijão em relação às fileiras de mandioca?
@@ -3335,7 +3326,7 @@ ou duas, no espaçamento de
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 245
 
 Quantas sementes de feijão são colocadas por metro linear
@@ -3387,7 +3378,7 @@ sempre no esquema de uma fileira de milho entre duas de mandioca.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 251
 
 Qual  o  espaçamento  normal  do  milho  consorciado  com
@@ -3440,7 +3431,7 @@ se o desbaste após a germinação.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 257
 
 Quantas sementes de feijão devem ser usadas por cova?
@@ -3487,7 +3478,7 @@ fisiológicos e agronômicos.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 262
 
 O que pode ser feito para contornar esses problemas?
@@ -3535,7 +3526,7 @@ podem-se fazer até dois plantios da cultura intercalar de ciclo curto.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 267
 
 Como conseguir até dois plantios da cultura de ciclo curto?
@@ -3587,7 +3578,7 @@ As fileiras devem ficar espaçadas de 80 cm a 1 m.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 273
 
 As plantas de mandioca dentro da linha devem ficar a que
@@ -3610,7 +3601,7 @@ plantas, na fileira.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 12 Plantas Daninhas
 
 José Eduardo Borges de Carvalho
@@ -3618,7 +3609,7 @@ José Eduardo Borges de Carvalho
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 275
 
 Quais os métodos de controle de plantas daninhas em cultivos
@@ -3661,7 +3652,7 @@ morta sobre o solo.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 Controle  mecânico  –  É  realizado  por  meio  de  práticas  de
 eliminação do mato, como o arranquio manual, a capina manual, a
 roçada e o cultivo mecanizado feito por cultivadores tracionados
@@ -3703,7 +3694,7 @@ métodos mecânicos de controle.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 276
 
 Qual o período crítico de interferência das plantas daninhas
@@ -3746,7 +3737,7 @@ cultura da mandioca no Brasil estão listados na Tabela 1.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 Tabela 1. Herbicidas pré-emergentes indicados para uso na cultura
 da mandioca no Brasil.
 
@@ -3871,7 +3862,7 @@ Pós
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 279
 
 Em  que  fase  do  ciclo  pode-se  usar  um  herbicida  pós-
@@ -3924,7 +3915,7 @@ Exemplo de calibração de pulverizador costal:
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 • Faixa de aplicação: 80 cm.
 • Gasto de água: 1,6 L.
 • Área aplicada: 50 m x 80 cm = 40 m2.
@@ -3976,7 +3967,7 @@ foi 50 m.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 Exemplo de calibração de pulverizador tratorizado:
 
 • Pressão: 2,8 kg/cm2.
@@ -4016,7 +4007,7 @@ na cultura da mandioca.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 Tabela 4. Relação das principais plantas daninhas que ocorrem na
 cultura da mandioca.
 
@@ -4152,7 +4143,7 @@ Tiriricão,  tiririca-amarela
 Cabelo-de-guia
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 284
 
 Pode-se utilizar cultivador a tração animal para controlar o
@@ -4201,7 +4192,7 @@ Sim, é possível.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 288
 
 Como se faz o SPD na cultura da mandioca?
@@ -4221,15 +4212,15 @@ uma semana depois.
 119
 
 
- 500pr_pgnumber120
-
  500pr_pgnumber121
+
+ 500pr_pgnumber122
 13 Pragas
 
 Alba Rejane Nunes Farias
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 289
 
 Por  que  o  mandarová  é  considerado  uma  das  principais
@@ -4275,7 +4266,7 @@ e porque ela fica escondida na face inferior das folhas apicais.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 294
 
 Qual o tamanho médio das lagartas quando completamente
@@ -4326,7 +4317,7 @@ larval (75%).
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 300
 
 Que  práticas  podem  contribuir  para  a  redução  das
@@ -4369,7 +4360,7 @@ thuringiensis.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 304
 
 Em que ínstares do mandarová a aplicação desses produtos
@@ -4420,7 +4411,7 @@ mortas, procedendo-se da seguinte forma:
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 • Esmagar  bem  as  lagartas  infectadas  ou  triturar  em  um
 liqüidificador, juntando um pouco de água para soltar o vírus.
 • Coar tudo em um pano limpo ou passar em peneira de malha
@@ -4468,7 +4459,7 @@ da planta, a duração e intensidade do ataque.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 313
 
  O ácaro é encontrado com maior freqüência em que parte
@@ -4521,7 +4512,7 @@ pontuações  amareladas  nas  folhas,  que  perdem  a  cor  verde
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 característica. As folhas não atingem o desenvolvimento normal e
 crescem geralmente deformadas.
 
@@ -4570,7 +4561,7 @@ e, posteriormente, invadem toda a cultura.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 324
 
 Quais os meios de dispersão mais importantes?
@@ -4619,7 +4610,7 @@ população de ácaros.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 329
 
 Quais as conseqüências das baixas temperaturas ou mudan-
@@ -4669,7 +4660,7 @@ Staphylinidae), Stethorus sp. (Coleoptera: Coccinellidae) e diversos
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 334
 
 Quais as práticas culturais recomendadas para o controle
@@ -4725,7 +4716,7 @@ o adulto é de cor cinzenta.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 339
 
 Quem  provoca  os  maiores  danos,  ninfas  ou  adultos  do
@@ -4773,7 +4764,7 @@ da mandioca.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 344
 
 Que  inseticidas  podem  ser  utilizados  no  controle  do
@@ -4827,7 +4818,7 @@ ataque da mosca-branca.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 349
 
 Em que consiste o dano direto dos adultos da mosca-branca?
@@ -4876,7 +4867,7 @@ de controle da mosca-branca.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 354
 
 Em caso de necessidade de controle químico, que inseticida
@@ -4925,7 +4916,7 @@ que pode ser vista no ponto de crescimento da planta.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 359
 
 Por  que  as  plantas  mais  jovens  são  mais  suscetíveis  aos
@@ -4973,7 +4964,7 @@ queimar os brotos atacados.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 364
 
 O que ocorre quando a oviposição da mosca-da-fruta se dá
@@ -5017,7 +5008,7 @@ planta.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 368  Qual a melhor forma de controle das brocas-do-caule?
 
 A melhor forma de controle das brocas-do-caule é observar
@@ -5071,7 +5062,7 @@ primeiros meses de desenvolvimento do cultivo.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 374
 
 Qual a forma correta de controle das formigas?
@@ -5104,15 +5095,15 @@ interior do formigueiro.
 139
 
 
- 500pr_pgnumber140
-
  500pr_pgnumber141
+
+ 500pr_pgnumber142
 14 Doenças
 
 Chigeru Fukuda
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 377
 
 Que fatores são responsáveis pelo desempenho negativo da
@@ -5157,7 +5148,7 @@ microrganismos do solo:
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 • A podridão-mole das raízes ocorre sobretudo em cultivos
 implantados em solos argilosos, ricos em matéria orgânica e
 sujeitos a encharcamentos constantes.
@@ -5207,7 +5198,7 @@ contaminado em área livre da doença.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 383
 
 Em que parte da planta é mais freqüente os sintomas da
@@ -5254,7 +5245,7 @@ Para o Norte:
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 386
 
 Qual é o causador da bacteriose?
@@ -5300,7 +5291,7 @@ da doença.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 390
 
 Quais os danos provocados pela bacteriose?
@@ -5347,7 +5338,7 @@ ecossistemas locais. São conhecidas inúmeras variedades tolerantes
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 • Espeto.
 • IAC-12 829.
 • IAC-13.
@@ -5393,7 +5384,7 @@ e o amarelecimento intenso das folhas.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 396
 
 Quais os prejuízos provocados pelo superalongamento?
@@ -5443,7 +5434,7 @@ em quase todas as regiões produtoras de mandioca, do Brasil, sua
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 importância  econômica  restringe-se  à  microrregião  da  Serra  da
 Ibiapaba, no Ceará.
 
@@ -5488,7 +5479,7 @@ comum observar-se um forte retorcimento do limbo foliar.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 405
 
 Que principais viroses atacam a cultura da mandioca?
@@ -5535,7 +5526,7 @@ amarelas intensas, separadas por tecido verde normal.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 409
 
 Qual a melhor forma de controle do mosaico-africano?
@@ -5549,15 +5540,15 @@ a fim de diminuir sua população e reduzir a incidência do vírus.
 151
 
 
- 500pr_pgnumber152
-
  500pr_pgnumber153
+
+ 500pr_pgnumber154
 15 Colheita
 
 Pedro Luiz Pires de Mattos
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 410
 
 Que  fatores  devem  ser  considerados  na  colheita  da
@@ -5604,7 +5595,7 @@ mandioca necessita de cuidados especiais para a sua execução.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 Durante sua execução é preciso tomar cuidado para não danificar
 as  raízes,  pois  elas  são  mais  perecíveis  quando  se  apresentam
 quebradas, machucadas ou dilaceradas.
@@ -5649,7 +5640,7 @@ Outros fatores que mais dificultam a colheita são:
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 419
 
 Quantos quilos de raízes um homem pode colher por jornada
@@ -5696,7 +5687,7 @@ sentido vertical. Essa vibração tem que estar em perfeita conexão
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 com a tração (puxão na vertical) para evitar que as raízes quebrem
 ou soltem da maniva-semente e continuem enleiradas.
 
@@ -5742,7 +5733,7 @@ raízes.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 427
 
 Qual é o rendimento de uma colhedeira de mandioca?
@@ -5775,7 +5766,7 @@ desfaz o nó da parte inferior deixando as raízes caírem dentro dela.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Processamento
 e Utilização
 
@@ -5786,7 +5777,7 @@ Pedro Luiz Pires de Mattos
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 430
 
 Por que a mandioca é considerada alimento de subsistência?
@@ -5840,7 +5831,7 @@ São consideradas variedades com baixo teor de glicosídeos
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 e com alto teor (bravas ou amargas) as que apresentam mais de
 100 mg de HCN/kg.
 
@@ -5890,7 +5881,7 @@ apresentou resultados satisfatórios. A melhor forma de conservação
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 441
 
 Que produtos podem ser extraídos da mandioca?
@@ -5941,7 +5932,7 @@ prensagem e esfarelamento.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 445
 
 O que é farinha d’água?
@@ -5992,7 +5983,7 @@ comestíveis de vegetais (raízes e tubérculos).
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 450
 
 Como é extraída, artesanalmente, a fécula da mandioca?
@@ -6045,7 +6036,7 @@ na preparação de alimentos, na indústria de papel, de têxtil, etc.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 454
 
 O que são amidos modificados?
@@ -6097,7 +6088,7 @@ espontânea das raízes frescas de mandioca, inteiras ou partidas. As
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 raízes são colocadas na água por 3 a 7 dias até que amoleçam e
 comecem a soltar a casca.
 
@@ -6144,7 +6135,7 @@ humana e animal.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 464
 
 De  que  maneira  as  folhas  são  utilizadas  na  alimentação
@@ -6193,7 +6184,7 @@ são a manipueira e bagaços.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 469
 
 O que é manipueira?
@@ -6250,7 +6241,7 @@ pode ser usado na alimentação de animais.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 Aspectos
 Socioeconômicos,
 Comercialização e
@@ -6263,7 +6254,7 @@ Carlos Estevão Leite Cardoso
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 475
 
 Quantas toneladas de raízes de mandioca são produzidas
@@ -6313,7 +6304,7 @@ As  demais  regiões  devem
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 participar na seguinte proporção: Norte (26,9%), Sul (22,5), Sudeste
 (9,14%) e Centro-Oeste (6,27%).
 
@@ -6361,7 +6352,7 @@ Agricultura e a Alimentação (FAO), no Brasil perdem-se em torno de
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 483
 
 Qual o destino da produção de mandioca no Brasil?
@@ -6411,7 +6402,7 @@ e Ceará (0,2%).
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 487
 
 Qual o consumo per capita de mandioca no Brasil?
@@ -6458,7 +6449,7 @@ de farinha de mandioca do Brasil.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 491
 
 Em que região e estado do Brasil verifica-se o maior consumo
@@ -6507,7 +6498,7 @@ de mandioca), período em que se concentra a oferta.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 495
 
 Qual  o  produto  derivado  de
@@ -6557,7 +6548,7 @@ internacional de fécula de mandioca são:
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 499
 
 Qual o custo total médio de produção de 1 t de mandioca
@@ -6581,43 +6572,4 @@ custos de produção.
 
 176
 
-
- 500pr_pgnumber177
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000012
-
-•••
-
-
- 500pr_pgnumber178
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber179
-
- 500pr_pgnumber180
-179
-
-
- 500pr_pgnumber181
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber182
 

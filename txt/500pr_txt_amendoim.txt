@@ -1,21 +1,5 @@
 
- 500pr_pgnumber015
-1 Ecofisiologia e
-
-Manejo Cultural
-
-Napoleão Esberard de Macêdo Beltrão
-
-Roseane Cavalcanti dos Santos
-
-Tarcísio Marcos de Souza Gondim
-
-Rejane Jurema Mansur Custódio Nogueira
-
-Péricles de Albuquerque Melo Filho
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 Quais os fatores climáticos mais importantes para o cres-
@@ -62,7 +46,7 @@ fica restrito, em função das baixas temperaturas.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 3
 
 Qual a relação entre população de plantas, produtividade
@@ -113,7 +97,7 @@ iniciar a formação do abundante número de raízes laterais.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 Nessa  fase,  a  planta  é  pouco  suscetível  ao  déficit  hídrico.
 O ritmo de crescimento das raízes varia, sendo influenciado pelo
 tipo de solo, temperatura e pelo potencial hídrico da atmosfera.
@@ -159,7 +143,7 @@ quente, a floração ocorre mais cedo, com período de duração menor.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 Quanto à distribuição das flores na planta, a presença de flores
 no  eixo  central  também  é  variável,  característico  da  subespécie
 fastigiata, enquanto a ausência das flores no eixo central identifica a
@@ -204,7 +188,7 @@ das raízes e das vagens.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 10
 
 Entre os macronutrientes, quais os mais importantes para
@@ -253,7 +237,7 @@ mais importantes para conseguir boa produtividade e evitar problemas
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 de erosão do solo. Devem-se preferir áreas de solo mais fértil, Arenoso
 ou Franco-Arenoso, com pH próximo da neutralidade e com boa
 drenagem, a fim de evitar encharcamento, que pode causar danos
@@ -301,7 +285,7 @@ germinação de sementes nas vagens e a colheita ocorra em época
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 seca, para garantir a secagem da produção e evitar problemas de
 doenças nas vagens.
 
@@ -351,7 +335,7 @@ produtividade estimada de amendoim em vagens, para padrão do tipo Tatu.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 16
 
 Qual a recomendação de espaçamento para as cultivares
@@ -397,7 +381,7 @@ emergir.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 19
 
 A semeadura de amendoim pode ser feita com semeadora
@@ -446,7 +430,7 @@ fatores limitantes à produção de replantio, o que não justifica essa prátic
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 Para se evitar falhas no campo, é importante que o produtor
 tenha conhecimento do lote da semente adquirida. Sementes velhas,
 mal conservadas ou com odor rançoso, geralmente apresentam baixo
@@ -495,7 +479,7 @@ tombamento da planta e auxilia na penetração do ginóforo no solo.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 25
 
 No caso do amendoim, quando se faz adubação biológica,
@@ -545,7 +529,7 @@ desenvolvimento ou o das outras). O período crítico de competição
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 nas plantas de hábito de crescimento ereto vai da emergência até os
 primeiros 40 dias.
 
@@ -593,7 +577,7 @@ uso simultâneo de mais de dois métodos de controle ou de combate
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 de plantas daninhas, de maneira harmônica e sincronizada. No caso
 do amendoim, devem ser usados pelo menos os seguintes manejos:
 • Espaçamentos estreitos: 30 cm entre as fileiras com 5 a 6
@@ -645,7 +629,7 @@ de equipamento em condições operacionais de cultivo.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 31
 
 Quais  os  herbicidas  mais  indicados  para  a  cultura  do
@@ -699,7 +683,7 @@ emergência  das  plântulas  ou  das  plantas  daninhas.  Antes  da
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 aplicação, o solo deve ser bem preparado, sem torrões grandes e com
 umidade suficiente para que o produto a ser aplicado seja ativado.
 
@@ -744,7 +728,7 @@ nos 5 m², em 1 ha (10.000 m²), serão gastos 250 L.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 Assim, para se aplicar herbicida em 1 ha, serão necessários
 12,5 pulverizadores de 20 L de capacidade cada. Considerando-se
 que a dose é de 1,1 kg/ha do p.a. e 1,0 kg do produto comercial tem
@@ -792,7 +776,7 @@ os seguintes:
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 Existem ainda bicos especiais os quais apresentam baixa deriva,
 como os dos jatos planos de baixa deriva, das séries DG, LD e ADI,
 que produzem gotas grandes, para reduzir os riscos de deriva.
@@ -843,7 +827,7 @@ ser associada ao óleo mineral, como coadjuvante.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 39
 
 Na cultura do amendoim, quais as plantas daninhas mais
@@ -896,7 +880,7 @@ daninha do mundo.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 40
 
 O que é controle cultural de plantas daninhas?
@@ -944,7 +928,7 @@ Outro  método  físico  é  a  inundação,  usado  para  debelar  plantas
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 daninhas  perenes  e  de  difícil  controle,  como  a  tiririca  (Cyperus
 rotundus) que pode ter seu crescimento retardado com a inundação.
 Contudo, essas práticas são pouco adotadas.
@@ -992,7 +976,7 @@ recomenda-se a rotação de amendoim, gergelim e mamona.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 44
 
 Em que consiste o plantio consorciado ou cultivo intercalar?
@@ -1040,7 +1024,7 @@ tos  como  otimização  do  uso  de  mão  de  obra  e  do  uso  da  terra,
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 diversificação de matéria-prima para alimentação da família e para a
 indústria.
 Nota:  embora  consórcios  com  mamona  e  milho  sejam  bem  conhecidos  e
@@ -1089,7 +1073,7 @@ com grade leve.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 • Plantar a mamona em solos mais férteis, com espaçamento
 
 de 3 m x 1 m.
@@ -1117,7 +1101,7 @@ também plantada 20 dias após.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 2 Irrigação e Drenagem
 
 Aurelir Nobre Barreto †
@@ -1126,7 +1110,7 @@ Maria José da Silva e Luz
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 48
 
 Na cultura do amendoim, é compensador para o agricultor
@@ -1175,7 +1159,7 @@ ocorrência de pontos de encharcamento.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 51
 
 Qual o sistema de irrigação mais indicado para a cultura do
@@ -1228,7 +1212,7 @@ e na conservação do solo, para evitar sua degradação.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 54
 
 Qual  o  objetivo  do  estudo  da  irrigação  na  cultura  do
@@ -1279,7 +1263,7 @@ mais  precisa.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 57
 
 Quais os dados climáticos usados no cálculo da quantidade
@@ -1326,7 +1310,7 @@ de unidades:
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 VolN = ET0  x Kc  x A
 
 em que:
@@ -1372,7 +1356,7 @@ Pmm = precipitação média medida no sistema (mm/h) .
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 60
 
 Quais  as  características  do  solo  usadas  no  cálculo  da
@@ -1433,7 +1417,7 @@ Ds = densidade do solo (g/cm3)
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 P = profundidade da camada de solo em que as raízes se
 encontram (mm)
 Fr = fator de reposição ou de disponibilidade de água (decimal <1)
@@ -1478,7 +1462,7 @@ VolT = 1/Ea (VolN)
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 em que:
 VolT  = volume total a ser aplicado (L/fileira/dia)
 Ea = eficiência de aplicação de água (em decimal)
@@ -1526,7 +1510,7 @@ laboratório, por meio da análise granulométrica.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 e
 
 0PMP =
@@ -1576,7 +1560,7 @@ são divididos em três grupos:
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 67
 
 Quais os critérios para definir o intervalo ou a frequência
@@ -1623,7 +1607,7 @@ disponível no solo.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 Nesse  caso,  mesmo  que  o  produtor  aplique  água,  esta  não
 reverterá em turgidez. Ao contrário, pode até prejudicar a planta por
 excesso  de  umidade  e  ainda  resultar  em  gasto  de  energia  e  em
@@ -1672,7 +1656,7 @@ irrigação geram problemas como:
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 • Excesso ou déficit hídrico.
 • Queda no rendimento das culturas.
 • Perdas de solo e nutrientes.
@@ -1722,7 +1706,7 @@ do  solo,  há  aumento  da  superfície  evaporante;  no  entanto,  esse
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 sistema de irrigação por superfície não deve ser empregado na cultura
 do amendoim, por ser sensível ao encharcamento e pela deficiência
 de oxigênio nas raízes.
@@ -1768,7 +1752,7 @@ um sistema de drenagem.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 Quando a porosidade é ocupada por água e ar, a parte líquida
 denomina-se  umidade  do  solo.  A  região  onde  as  raízes  se
 desenvolvem não deve estar saturada.
@@ -1815,7 +1799,7 @@ onde ficam as raízes das plantas aproximadamente 60 cm abaixo da
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 superfície, o produtor deve ficar em alerta e consultar um especialista
 em drenagem de terras agrícolas.
 
@@ -1865,7 +1849,7 @@ local  e  pela  observação  de  cultivos  anteriores.  A  presença  de
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 afloramentos  rochosos  é  um  importante  indicador  de  solos  com
 drenagem prejudicada, pois pode haver camadas de rocha que são
 impermeáveis à água.
@@ -1911,7 +1895,7 @@ da água de irrigação.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 86
 
 Como recuperar um solo salinizado ou sodificado?
@@ -1961,7 +1945,7 @@ Esse processo acarreta aumento na proporção de sódio solúvel
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 na fase líquida do solo e quando esse elemento atinge mais de 50%
 na solução, ou 15% trocável, acontece a adsorção de Na+ pelas
 partículas coloidais de argila, denominadas micelas.
@@ -2015,7 +1999,7 @@ fornecimento de nutrientes e na melhoria das características físicas,
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 como  estruturação,  armazenamento  de  água  e  facilidade  de
 penetração das raízes.
 
@@ -2061,7 +2045,7 @@ como:
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 • Condutividade hidráulica saturada.
 • Porosidade drenável.
 • Características fisiológicas da cultura do amendoim.
@@ -2081,9 +2065,9 @@ Campina Grande: UFPB, 1994. 306p. (Estudos FAO: Irrigação e Drenagem, 33).
 59
 
 
- 500pr_pgnumber060
-
  500pr_pgnumber061
+
+ 500pr_pgnumber062
 3
 
 Doenças
@@ -2099,7 +2083,7 @@ Gilvan Pio-Ribeiro
 Genira Pereira de Andrade
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 95
 
 Como surgem as doenças em plantas de amendoim?
@@ -2147,7 +2131,7 @@ fundamentais:
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 •  Saber  se  as  doenças  que  estão  ocorrendo  podem  ser
 
 controladas com defensivos.
@@ -2197,7 +2181,7 @@ confundidos com os de outras.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 Em culturas com fins comerciais, havendo manifestação de
 doenças, é importante procurar um especialista a fim de obter-se uma
 diagnose correta. É comum a ocorrência de doenças de importância
@@ -2240,7 +2224,7 @@ enfrentar os problemas causados pelas doenças.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 Nota: a relação custo/benefício é que definirá a adoção da medida ou o conjunto
 de medidas de controle. Muitas vezes, a aplicação de certas práticas pode até
 controlar  a  doença,  mas  não  aumenta  o  lucro  e  chega  a  causar  prejuízos  ao
@@ -2288,7 +2272,7 @@ Leptosphaerulina crassiasca.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 103
 
 Como diferenciar a mancha-castanha da pinta-preta?
@@ -2335,7 +2319,7 @@ fatores que favorecem o desenvolvimento dessas doenças.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 106
 
 A aplicação de fungicidas, no controle da mancha-castanha
@@ -2382,7 +2366,7 @@ fungicidas indicados no caso dessas doenças são:
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 • Oxicloreto de cobre.
 • Clorotalonil.
 • Óxido cuproso.
@@ -2428,7 +2412,7 @@ considerada tolerante a essa doença.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 110
 
 Existe relação entre a ocorrência de tripes e a incidência de
@@ -2478,7 +2462,7 @@ usadas e/ou pequena agressividade das estirpes virais presentes no País.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 114
 
 Existe  alguma  virose  de  amendoim  comum  em  outra
@@ -2523,7 +2507,7 @@ adulta por sementes infectadas por esses patógenos.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 117 No caso das viroses do amendoim, que medidas devem ser
 
 adotadas para seu controle?
@@ -2568,7 +2552,7 @@ de fungos toxicogênicos em grãos armazenados de amendoim são:
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 Todos esses fatores estão relacionados, formando um sistema
 
 complexo e mutável, e devem ser considerados em conjunto.
@@ -2614,7 +2598,7 @@ fungicida sistêmico (de ação específica) com outro fungicida protetor.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 Por exemplo, a mistura carboxin + thiram 200 SC na dosagem
 de  400  mL  do  produto  comercial  por  100  kg  de  sementes  (que
 corresponde  a  80  mL  de  cada  ingrediente  ativo)  controla  satis-
@@ -2645,15 +2629,15 @@ suscetíveis à infecção e à colonização por fungos toxicogênicos.
 73
 
 
- 500pr_pgnumber074
-
  500pr_pgnumber075
+
+ 500pr_pgnumber076
 4 Insetos-Praga
 
 Raul Porfirio de Almeida
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 123
 
 Quais os principais insetos de solo, que causam danos à
@@ -2700,7 +2684,7 @@ curvadas e com manchas amarelas nas bordas.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 Os  tripes  são  insetos  de  pequeno  porte,  medindo  aproxi-
 madamente 1 mm de comprimento. As formas jovens apresentam
 coloração branco-amarelada e são ápteras (desprovidas de asas).
@@ -2744,7 +2728,7 @@ plantas novas, na região do coleto ou um pouco abaixo.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 127
 
 Geralmente, a partir de que percentual de desfolhamento o
@@ -2789,7 +2773,7 @@ amendoim em 9,87 kg/ha.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 130
 
 O ataque de insetos de solo na lavoura pode contribuir para
@@ -2835,7 +2819,7 @@ tro de sulco.
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 Em  relação  ao  tripes  (Enneothrips  flavens),  as  perdas  na
 produção de amendoim em casca podem atingir 23% no cultivo de
 sequeiro e, em cultivo irrigado, essas perdas podem ser da ordem de
@@ -2881,7 +2865,7 @@ encontrados. No primeiro caso, insetos fitófagos (que se nutrem de
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 vegetais)  só  atacam  plantas  apropriadas  para  alimentação  ou
 oviposição e a resistência das plantas pode ser alterada por suas
 condições fisiológicas.
@@ -2927,7 +2911,7 @@ organismos.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 O controle cultural deve ser visto como método profilático e
 raramente deve ser empregado como principal tática. O baixo custo
 requerido para sua implementação tem se constituído a principal
@@ -2976,7 +2960,7 @@ Plantas  de  amendoim  intercaladas  com  sorgo  reduziram  a
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 incidência  de  cigarrinha  (Emproasca  kraemeri)  e  de  insetos  do
 complexo Spodoptera.
 
@@ -3031,7 +3015,7 @@ destruídos, para reduzir a infestação de insetos na safra seguinte.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 Essa medida pós-colheita consiste em amontoar os restos de
 culturas após separação das vagens e das ramas. Em seguida, procede-
 se, à destruição dos restos de cultura.
@@ -3081,7 +3065,7 @@ equilíbrio ambiental e na saúde do ser humano.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 146
 
 Na cultura do amendoim, que patógenos são citados como
@@ -3129,7 +3113,7 @@ consultar um agrônomo.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 Em relação ao produto, devem-se considerar eficiência, método
 de aplicação, seletividade, toxicidade, poder residual, período de
 carência, formulação e preço.
@@ -3186,7 +3170,7 @@ com ventos fortes.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 • Fazer a manutenção do equipamento logo após aplicação
 
 do pesticida.
@@ -3238,7 +3222,7 @@ os grãos perfeitos.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 Na  maioria  dos  grãos  de  amendoim  armazenados  são  en-
 contrados coleópteros ou sejam, besouros. Representam essa ordem
 insetos do gênero Tribolium, cujas espécies são T. castaneum e T.
@@ -3286,7 +3270,7 @@ No caso do controle curativo, ao se detectar infestação da praga
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 condições  de  campo  ou  após  infestação  no  armazém  –  deve-se
 empregar fumigação ou expurgo.
 
@@ -3305,9 +3289,9 @@ também têm apresentado toxicidade a adultos desse gorgulho.
 89
 
 
- 500pr_pgnumber090
-
  500pr_pgnumber091
+
+ 500pr_pgnumber092
 5 Colheita e Pós-Colheita
 
 Valdinei Sofiatti
@@ -3317,7 +3301,7 @@ Vicente de Paula Queiroga
 Odilon Reny Ribeiro Ferreira da Silva
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 157
 
 Qual o momento certo para se colher o amendoim?
@@ -3366,7 +3350,7 @@ ambiente, da umidade relativa do ar e da velocidade do vento.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 160
 
 Após a recepção do amendoim em casca, qual a primeira
@@ -3419,7 +3403,7 @@ a secagem.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 163
 
 Qual a temperatura do ar e a umidade relativa recomendadas
@@ -3466,7 +3450,7 @@ relativa e para determinada temperatura, a semente terá certo teor de
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 Para o amendoim, quando a umidade relativa do ar for inferior
 a 60%, a semente apresenta teor de água inferior a 8%, sendo ideal
 para a conservação do seu poder germinativo.
@@ -3509,7 +3493,7 @@ para teores de umidade entre 5% e 14% e para temperaturas entre
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 168
 
 Como é feito o controle das pragas dos grãos armazenados?
@@ -3560,7 +3544,7 @@ Aspergillus
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 • Causa rápido aquecimento da semente.
 Penicillium
 • Mata o embrião e causa sua descoloração.
@@ -3602,7 +3586,7 @@ visando o consumo como alimento.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 173
 
 Quais as etapas empregadas nos processos de colheita e
@@ -3651,7 +3635,7 @@ ter a rotação e a abertura entre o cilindro côncavo adequadamente
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 ajustadas, além de as sementes apresentarem aproximadamente 8%
 de umidade.
 
@@ -3696,7 +3680,7 @@ de plástico, numa inclinação de 45o.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 O teste é conduzido no germinador nas temperaturas alteradas
 20 oC a 30 oC. Para isso, recomendam-se duas contagens: a primeira
 no quinto dia, após a colocação das sementes e a segunda, no décimo
@@ -3745,7 +3729,7 @@ remover os materiais de tamanho bem maior que a semente,
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 permitindo que as sementes de amendoim atravessem sua
 malha.
 
@@ -3792,7 +3776,7 @@ perfurada com inclinação longitudinal e lateral, com mecanismos
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 de vibração e ventiladores que insuflam ar e o fazem atravessar a
 mesa perfurada.
 
@@ -3838,7 +3822,7 @@ separação com eficácia.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 As  regulagens  desses  mecanismos  devem  ser  feitas  indivi-
 dualmente, para que se obtenha um ajuste adequado da máquina.
 A eficiência da regulagem pode ser verificada pela diferença de peso
@@ -3848,9 +3832,9 @@ da mesa.
 103
 
 
- 500pr_pgnumber104
-
  500pr_pgnumber105
+
+ 500pr_pgnumber106
 6 Mecanização
 
 Odilon Reny Ribeiro Ferreira da Silva
@@ -3861,7 +3845,7 @@ Vicente de Paula Queiroga
 Waltemilton Vieira Cartaxo
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 181
 
 Qual o tipo de preparo de solo mais adequado na cultura
@@ -3912,7 +3896,7 @@ matraca, para plantio em covas.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Pode-se também usar a semeadora a tração animal, a qual pode
 possuir mecanismos para distribuição de sementes ou de sementes e
 adubo, simultaneamente.
@@ -3961,7 +3945,7 @@ sementes, para verificar se o número destas por metro linear é o
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 recomendado para a cultivar. Caso contrário, deve-se alterar a relação
 de transmissão das engrenagens, movida e motora, que acionam os
 discos dosadores.
@@ -4008,7 +3992,7 @@ por meio da abertura ou fechamento desses mecanismos ou pela
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 alteração  da  relação  de  transmissão  das  engrenagens  motora  e
 movida, à semelhança da regulagem da distribuição de sementes.
 
@@ -4055,7 +4039,7 @@ ser atingido.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 191
 
 Como é feita a colheita manual em cultivos de pequena
@@ -4108,7 +4092,7 @@ forma mecanizada, em duas etapas:
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 • Primeira  etapa  –  Nessa  etapa,  é  feito  o  arranquio  e  o
 enleiramento das plantas com um equipamento denominado
 arrancador-enleirador, que é acoplado ao sistema de levante
@@ -4155,7 +4139,7 @@ plantas na superfície do solo.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 197
 
 Após o enleiramento, qual o grau de umidade adequado
@@ -4204,7 +4188,7 @@ espaçamento entre linhas.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 Já a potência mínima necessária do trator, do equipamento de
 recolhimento, do batimento e da limpeza é de aproximadamente
 120 cv.
@@ -4253,7 +4237,7 @@ os seguintes componentes:
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Esse equipamento manual começa com o abastecimento da
 moega com as vagens de amendoim em quantidades uniformes e
 contínuas, momento em que se efetua o movimento alternado da
@@ -4300,7 +4284,7 @@ os mecanismos de descascamento e limpeza.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 206
 
 Como funciona essa máquina de descascamento?
@@ -4343,9 +4327,9 @@ sementes.
 115
 
 
- 500pr_pgnumber116
-
  500pr_pgnumber117
+
+ 500pr_pgnumber118
 7 Mercado e
 
 Comercialização
@@ -4356,7 +4340,7 @@ Juliano Rodrigo Coró
 Renata Martins
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 208
 
 Quais  os  financiamentos  disponíveis  para  a  produção
@@ -4405,7 +4389,7 @@ invertedor e um transbordo, além dos imple-
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 mentos normais como plantadeira, arados, grades, etc., estima-se que
 seja necessária uma área em torno de 100 ha.
 
@@ -4457,7 +4441,7 @@ amendoim, o qual é determinado pelo mercado, que oferece preço
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 melhor para o amendoim de qualidade, sendo a secagem artificial
 uma das ferramentas que garantem a qualidade e o bom preço do
 produto.
@@ -4502,7 +4486,7 @@ ambiente natural.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 217
 
 A  escolha  da  matéria-prima  (grão  de  amendoim)  pode
@@ -4550,7 +4534,7 @@ As vantagens são muitas. A seguir, alguns exemplos:
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 • Recebimento  da  produção  com  logística  de  pós-colheita
 (serviços  de  secagem  e  armazenamento),  que  mantêm  a
 qualidade do produto.
@@ -4598,7 +4582,7 @@ produção  de  amendoim  foi  capitaneada  por  cooperativas.  Esse
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 movimento teve início em 1999 – 2000, época em que os produtores
 individualmente estavam bastante endividados e sem poder investir.
 Naquela ocasião, as cooperativas instalaram um complexo de
@@ -4646,7 +4630,7 @@ processo de produção de determinado lote, pode-se reconstituir o
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 processo para se obter caminho de volta e, assim, identificar onde e
 por que o problema foi gerado, permitindo que a ação corretiva seja
 rápida e  diminuindo o risco para produtores e consumidores.
@@ -4692,7 +4676,7 @@ retirada dos grãos soltos permitem que a secagem seja mais eficiente
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 e o armazenamento mais seguro, especialmente se houver controle
 da umidade relativa e temperatura.
 
@@ -4739,7 +4723,7 @@ as indústrias se uniram para adotar comportamento ético e auto-
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 regulamentação do consumo de amendoim, criado pela indústria
 confeiteira.
 
@@ -4782,7 +4766,7 @@ de forma segura.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 230
 
 O controle das aflatoxinas é de fundamental importância
@@ -4834,7 +4818,7 @@ os maiores concorrentes do amendoim são:
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 • Castanha-de-caju.
 • Pistache.
 • Castanha-do-brasil.
@@ -4877,7 +4861,7 @@ Quanto às expectativas para o futuro, estima-se um incremento de
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 235
 
 Qual  o  impacto  da  política  cambial  na  cultura  do
@@ -4922,7 +4906,7 @@ marcas consagradas, que dispõem de tecnologias sofisticadas.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 Outros  aspectos  que  dificultam  a  inserção  dos  doces  no
 mercado europeu são os altos impostos que a Europa cobra para
 proteger os produtores europeus cuja formulação contenha açúcar
@@ -4968,7 +4952,7 @@ torrar o amendoim. Essa prática é de fácil execução, podendo ser
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 feita na propriedade agrícola, com as seguintes vantagens: além de
 dispensar qualquer aditivo ao amendoim torrado, eleva o poder de
 conservação desse produto.
@@ -5011,7 +4995,7 @@ amendoim, como chocolates recheados e confeitos.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 243
 
 Existe um período mais propício para a venda do amendoim
@@ -5058,7 +5042,7 @@ espaço no fornecimento de matéria-prima para a indústria confeiteira
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 brasileira  de  alimentos,  estimulado  pela  mudança  nos  hábitos
 alimentares do consumidor (massas, bolachas, pães, pratos prontos,
 etc.).
@@ -5098,9 +5082,9 @@ Oficial [da] República Federativa do Brasil, Brasília, DF, 16 out. 2002.
 133
 
 
- 500pr_pgnumber134
-
  500pr_pgnumber135
+
+ 500pr_pgnumber136
 8 Transferência de Tecnologia
 
 e Organização da Produção
@@ -5114,7 +5098,7 @@ Valdinei  Sofiatti
 Tarcísio Marcos de Souza Gondim
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 246
 
 Qual  o  perfil  do  produtor  tradicional  de  amendoim  no
@@ -5165,7 +5149,7 @@ ou grande escala, deve conhecer seu empreendimento, mediante
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 um  planejamento  claro  da  tecnologia  a  ser  empregada,  con-
 templando a logística de pessoal, máquinas e insumos necessários à
 manutenção e à condução da lavoura, além do conhecimento do
@@ -5212,7 +5196,7 @@ acompanhar e conhecer, na prática, as tecnologias existentes para o
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 cultivo do amendoim, nas suas diferentes fases, por meio de visitas
 agendadas e sob a orientação permanente do técnico local.
 
@@ -5261,7 +5245,7 @@ animal.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 254
 
 Qual o tamanho ideal para a UTD-matriz e a UTD-filial?
@@ -5305,7 +5289,7 @@ permanente entre o grupo e o responsável técnico local.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 A  missão  principal  do  ADR  é  gerenciar  e  liderar  o  grupo,
 suprindo a ausência do técnico nas demandas e, quando necessário,
 solicitar a presença desse técnico.
@@ -5349,7 +5333,7 @@ dutivas focadas.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 259
 
 Qual a proposta básica de um seminário de safra para a
@@ -5399,7 +5383,7 @@ Proporcionar as seguintes vantagens:
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 • Introdução de cultivares superiores aos tipos locais.
 • Produção por encomenda para atender a clientes específicos.
 
@@ -5451,7 +5435,7 @@ do mercado.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 266
 
 Quais os meios convencionais usados pela Embrapa Algodão,
@@ -5491,7 +5475,7 @@ a seguir:
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 Ficha para Aplicação do Diagnóstico Rápido
 
 Nome do produtor:                                                             Idade:                  Cadastro:
@@ -5556,7 +5540,7 @@ Local:                                                               Data:      
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 269
 
 Quais as implicações do serviço de Ater no desenvolvimento
@@ -5601,7 +5585,7 @@ essa relação pode ser  ampliada.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 272
 
 Qual a vantagem do modelo de Ater das UTDs-Escola de
@@ -5636,7 +5620,7 @@ processamento.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 9 Melhoramento e
 
 Cultivares Nacionais
@@ -5650,7 +5634,7 @@ Julita Maria Frota Chagas Carvalho
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 274
 
 Quais as empresas de pesquisa que desenvolvem cultivares
@@ -5700,7 +5684,7 @@ de amendoim comercial (Arachis hypogaea L.).
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 No entanto, para algumas características, como resistência a
 doenças foliares e a nematoides, o uso de espécies silvestres mais
 relacionadas ao amendoim tem sido mais promissor, sendo alvo de
@@ -5750,7 +5734,7 @@ Entre os objetivos mais relevantes, citam-se:
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 Em conjunto, esses atributos podem compor o genótipo de uma nova
 cultivar,  ou  serem,  alternativamente,  encontrados  em  vários
 genótipos, dependendo do interesse do programa, da região para
@@ -5798,7 +5782,7 @@ reprodutiva e maior produtividade.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 O ciclo mais longo e a presença de dormência nas sementes
 permitem períodos de produção das plantas também mais extensos,
 sem  perdas  ocasionadas  pela  germinação  das  sementes  antes  da
@@ -5847,7 +5831,7 @@ A dominância desse caráter é muito expressiva e associada a outros
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 descritores  morfológicos  do  grupo  botânico  A.  hypogaea  subsp.
 hypogaea, como cor e formato da folha, ausência de inflorescência
 na  haste  principal,  dormência  das  sementes  e  geralmente  maior
@@ -5890,7 +5874,7 @@ a qual facilita a penetração do ginóforo no solo.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 287
 
 Qual  a  eficiência  reprodutiva  nas  plantas  eretas  e  nas
@@ -5935,7 +5919,7 @@ processamento.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 290
 
 Semente não certificada pode interferir na qualidade da
@@ -5984,7 +5968,7 @@ contaminações por fitopatógenos.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 293
 
 No Brasil, existe alguma cultivar com resistência completa
@@ -6034,7 +6018,7 @@ se às hibridações simples ou piramidais.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 Na Tailândia e no Senegal, os acessos PI 337394 F, PI 337409,
 UP 71513 e J 11 têm sido frequentemente usados como doadores
 resistentes em trabalhos de melhoramento.
@@ -6082,7 +6066,7 @@ influencia a qualidade da produção de vagens e de sementes.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 300
 
 Pela  aparência  da  planta,  é  possível  identificar  uma
@@ -6131,7 +6115,7 @@ folíolos, reduzindo a radiação solar e a perda transpiratória.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 • Manutenção  das  funções  das  trocas  gasosas  (embora  em
 
 menor escala), realizando a fotossíntese.
@@ -6182,7 +6166,7 @@ como tolerante.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Na condição de 100 mM de NaCl, esse acesso teve redução
 de apenas 23% de sua matéria seca, enquanto em A. duranensis V.
 14 167, a redução foi de 65%.
@@ -6230,7 +6214,7 @@ convencionais.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 309
 
 Quais as práticas biotecnológicas que podem ser usadas para
@@ -6284,7 +6268,7 @@ devendo ser a ele integrado.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 Já existe amendoim transgênico para comercialização?
 
 312
@@ -6334,7 +6318,7 @@ germoplasma.  Mediante  a  micropropagação  a  partir  de  gemas,
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 obtêm-se plantas geneticamente idênticas à planta-matriz, em número
 elevado e em pouco tempo.
 
@@ -6379,7 +6363,7 @@ sua aplicação é mais frequente em sementes imaturas.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 10 Avanços da
 
 Biologia Molecular
@@ -6391,7 +6375,7 @@ Marcos Aparecido Gimenes
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 319
 
 O que é biologia molecular?
@@ -6441,7 +6425,7 @@ e de enzimas.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 Como dessa maneira a variabilidade encontrada era frequen-
 temente baixa, a procura de associação entre genótipo e fenótipo voltou-
 se para a avaliação da variação nas sequências dos DNAs de indivíduos
@@ -6487,7 +6471,7 @@ viamente obtidos por métodos convencionais de melhoramento.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 323
 
 O que são marcadores moleculares?
@@ -6534,7 +6518,7 @@ com a característica desejada.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 326
 
 A  tecnologia  de  marcadores  moleculares  tem  tido  um
@@ -6580,7 +6564,7 @@ o International Crops Research Institute for the Semi-Arid Tropics
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 328
 
 Como  a  tecnologia  de  marcadores  moleculares  poderia
@@ -6631,7 +6615,7 @@ características morfológicas:
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 • Pilosidade das folhas (que pode estar associada a resistência
 
 a doenças).
@@ -6678,7 +6662,7 @@ dessa estrutura.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 333
 
 Se  existe  pouca  variabilidade  molecular  no  amendoim
@@ -6724,7 +6708,7 @@ vimento ou diante de determinado estímulo.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 336
 
 Em  quais  características  essas  técnicas  de  expressão
@@ -6770,7 +6754,7 @@ rimentos dessa natureza.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 338
 
 Como  esses  genes  seriam  usados  no  melhoramento  do
@@ -6823,7 +6807,7 @@ vários poliploides sintéticos por cruzamentos entre espécies diploides
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 da seção Arachis, os quais contêm espécies mais relacionadas ao
 amendoim cultivado.
 
@@ -6872,7 +6856,7 @@ de marcadores para seleção assistida.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 No Brasil, já existem alguns marcadores que parecem estar
 
 ligados a essas doenças, conhecidas como cercosporioses.
@@ -6918,7 +6902,7 @@ prejuízos em várias partes do mundo.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 A Embrapa Recursos Genéticos e Biotecnologia está mapeando
 marcadores associados à resistência a uma espécie de nematoide
 das galhas, resistência esta que ocorre em quase todos os acessos
@@ -6965,7 +6949,7 @@ amendoim foram transformadas com um gene de Bt.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 Quando expresso em altos níveis, além de reduzir o ataque
 por lagartas de solo, indiretamente esse gene também reduziu o nível
 de infecção de Aspergillus, o fungo produtor de aflatoxinas, e os níveis
@@ -7014,7 +6998,7 @@ Entretanto, é importante ter em mente que efeitos colaterais podem
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 ocorrer devido ao consumo de qualquer produto, seja de origem
 animal, vegetal ou químico.
 
@@ -7065,7 +7049,7 @@ geraram grandes benefícios para essa cultura.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 Características  peculiares  que  dificultaram  os  estudos  do
 
 amendoim nessa área:
@@ -7092,7 +7076,7 @@ silvestres seja possível.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 11 Propriedades
 
 Nutricionais e
@@ -7109,7 +7093,7 @@ Liziane Maria de Lima
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 353
 
 Qual o valor nutricional do amendoim?
@@ -7168,7 +7152,7 @@ Carboidratos
 16
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 355
 
 Qual o teor de proteína na torta-magra ou farinha desen-
@@ -7236,7 +7220,7 @@ métodos associados (prensagem + solvente).
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 358
 
 Como é avaliado o teor de óleo?
@@ -7307,7 +7291,7 @@ Não acima de 1%
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 360 Quais  os  ácidos  graxos  predominantes  no  óleo  de
 
 amendoim?
@@ -7384,7 +7368,7 @@ Os parâmetros usados incluem:
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 Óleos com teor de ácido oléico superior ao do linoleico e índice
 de iodo mais baixo, têm maior estabilidade e vida de prateleira mais
 longa.
@@ -7433,7 +7417,7 @@ do ovo e da FAO – 1985.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 Tabela  5.  Teores  médios  de  aminoácidos  (AAs)  essenciais  de  farinha
 desengordurada de amendoim (FDA), da cultivar do tipo Valência.
 
@@ -7536,7 +7520,7 @@ FDA (g/100 g)
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 366
 
 De  que  forma  o  consumo  de  amendoim  pode  reduzir  a
@@ -7581,7 +7565,7 @@ o potencial alergênico dessas proteínas.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 369
 
 Quais os maiores alergênicos do amendoim e o que essas
@@ -7639,7 +7623,7 @@ na redução dessas atividades.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 372
 
 O que as lectinas podem causar?
@@ -7689,7 +7673,7 @@ equilibrar o metabolismo.
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 375
 
 Qual a importância do magnésio (Mg) contido no amendoim,
@@ -7741,7 +7725,7 @@ especialmente quando associada a outro alimento.
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 378
 
 Qual a importância dos teores de fósforo (P), de potássio
@@ -7782,7 +7766,7 @@ alguns componentes, especialmente aminoácidos e ácidos graxos.
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 380
 
 O consumo de amendoim pode auxiliar na perda de massa
@@ -7827,7 +7811,7 @@ e das artérias.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 383
 
 Quais as formas de consumo do amendoim, no mercado?
@@ -7869,7 +7853,7 @@ lanches, compete com castanha de caju, amêndoa e nozes.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 386
 
 Qual a composição química da pasta de amendoim (man-
@@ -7920,7 +7904,7 @@ crianças desnutridas.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 389
 
 Há algum tipo de alimento à base de amendoim que possa
@@ -7968,7 +7952,7 @@ Em sequência, as etapas de produção do óleo de amendoim são:
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 • Moagem.
 • Cozimento.
 • Prensagem e decantação ou filtração.
@@ -8017,7 +8001,7 @@ São  ácidos  graxos  monoinsaturados,  pertencentes  à  família
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 Eles reduzem os níveis de LDL e de colesterol total, aumentando
 a  relação  HDL/LDL,  um  dos  indicadores  das  doenças  cardio-
 vasculares.
@@ -8069,7 +8053,7 @@ a entrada de gases, luz e vapor d` água.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 Para comercialização, a umidade deve ficar em torno de 4% a
 5%,  pois  abaixo  de  4  ou  acima  de  5,  pode  desenvolver  fungos,
 tornando o produto impróprio para consumo.
@@ -8118,7 +8102,7 @@ ou cozimento.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 Embora  o  cozimento  melhore  a  qualidade  nutricional  das
 leguminosas, o aquecimento prolongado resulta em decréscimo na
 qualidade da proteína e na perda de vitaminas e de minerais.
@@ -8168,7 +8152,7 @@ peculiaridades e paladar locais.  No Nordeste, por exemplo, há quem
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 adicione farinha de milho (1 e ½ xícara das de chá). Geralmente, a
 paçoca de amendoim é elaborada com amendoim torrado sem pele,
 açúcar e sal, podendo-se adicionar ainda leite, para incrementar a
@@ -8219,7 +8203,7 @@ Ingredientes
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 2 xícaras (das de chá) de aveia em flocos
 1 xícara e meia (das de chá) de grão de amendoim torrado e
 
@@ -8255,7 +8239,7 @@ OMS. Série Informes Técnicos, 724).
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 12 Propriedades
 
 Bioquímicas
@@ -8270,7 +8254,7 @@ Rosa Maria Mendes Freire
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 407
 
 O que são antioxidantes?
@@ -8315,7 +8299,7 @@ de desenvolvimento do mal-de-alzheimer.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 410
 
 O que é resveratrol e onde se encontra no amendoim?
@@ -8365,7 +8349,7 @@ e complemento alimentar.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 414
 
 Qual o mecanismo de ação do resveratrol na artrite?
@@ -8410,7 +8394,7 @@ Sim. Existe o piceatanol, uma fitoalexina produzida em resposta
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 Estudos sugerem que o piceatanol associado com o resveratrol
 induz  à  apoptose  (morte  celular)  de  linhagens  de  células  can-
 cerígenas.
@@ -8456,7 +8440,7 @@ com as aflatoxinas produzidas pelos fungos Aspergillus.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 420
 
 Inibidores  de  proteases,  obtidos  de  algumas  sementes
@@ -8504,7 +8488,7 @@ tumorais).
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 Essa pesquisa defende a hipótese de que a incorporação de
 fitosteróis na dieta pode ajudar a prevenir a extensão do câncer de
 mama.
@@ -8550,7 +8534,7 @@ a taxa de insulina, que por sua vez reduz os níveis de glicose.
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 426
 
 O amendoim pode atuar também como agente antifúngico?
@@ -8596,7 +8580,7 @@ As isoflavonas proporcionam vários benefícios ao organismo:
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 429 Onde podem ser encontradas as isoflavonas?
 
 Podem ser encontradas, principalmente, em soja, mas estudos
@@ -8609,9 +8593,9 @@ que nas sementes.
 209
 
 
- 500pr_pgnumber210
-
  500pr_pgnumber211
+
+ 500pr_pgnumber212
 13 Potencial do Óleo
 
 de Amendoim como
@@ -8622,7 +8606,7 @@ Bill Jorge Costa
 Giuliano Fernandes Zagonel
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 430
 
 Antes do biodiesel, os óleos vegetais já foram usados como
@@ -8668,7 +8652,7 @@ dominada no País.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 434
 
 O óleo de soja é a melhor matéria-prima para o biodiesel?
@@ -8711,7 +8695,7 @@ Em função do número de duplas ligações existentes entre os
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 437
 
 Com base nesse conceito, como o óleo de amendoim se
@@ -8780,7 +8764,7 @@ problemas, a exemplo do que ocorre com os óleos de soja e de
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 girassol. Por causa de seu aproveitamento alimentar em nutrição
 humana, seu valor agregado se eleva ainda mais, o que impacta o
 custo de produção do biodiesel.
@@ -8825,7 +8809,7 @@ paladar.
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 443
 
 O refino do óleo vegetal é também benéfico para o processo
@@ -8873,7 +8857,7 @@ A viabilidade de cada matéria-prima depende de fatores como:
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 • Diferentes sistemas produtivos.
 • Sazonalidade e adaptação territorial da planta, que deve ser
 tão ampla quanto possível, atendendo a diferentes condições
@@ -8922,7 +8906,7 @@ ou seja, menor suscetibilidade à degradação.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 450
 
 Qual o poder calorífico do biodiesel de óleo de amendoim,
@@ -8970,7 +8954,7 @@ desde que o produto esteja dentro das especificações exigidas.
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 Entretanto, verifica-se um aumento no consumo específico do
 combustível, pois o biodiesel tem menor poder calorífico do que o
 diesel. De acordo com experimentos em motores, esse aumento é
@@ -9018,7 +9002,7 @@ diminuição do seu ponto de fulgor, implicando numa condição de
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 menor  segurança  no  manuseio  do  produto  (o  ponto  de  fulgor
 expressa a temperatura na qual o combustível entra em combustão).
 Além  disso,  o  álcool  em  excesso  pode  provocar  danos  ao
@@ -9041,7 +9025,7 @@ combustão e nos bicos injetores
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 14 Qualidade e
 
 Segurança de
@@ -9056,7 +9040,7 @@ Raul Porfirio de Almeida
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 459
 
 O  que  significa  a  expressão  "Segurança  Alimentar  e
@@ -9107,7 +9091,7 @@ maneira eficiente, até os grãos atingirem 8% de umidade.
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 • Armazenamento adequado, para garantir a integridade do
 
 produto, até que seja consumido.
@@ -9163,7 +9147,7 @@ principalmente câncer hepático, além de afetar o sistema imunológico.
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 465
 
 Quais os tipos de aflatoxinas encontrados no amendoim?
@@ -9210,7 +9194,7 @@ de aflatoxinas dos tipos B e G. Daí, a origem do termo "aflatoxina".
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 467
 
 Como produzir amendoim de qualidade e com segurança?
@@ -9261,7 +9245,7 @@ crescimento do Aspergillus.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 No entanto, na fase de cura, a aplicação de calor suplementar
 deve ser feita com cuidado, pois o aquecimento excessivo acarreta
 perda de sabor e desprendimento da película que envolve os grãos,
@@ -9304,7 +9288,7 @@ Além do cultivo irrigado, as práticas mais significativas são:
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 472
 
 Como  a  adoção  da  rotação  de  culturas  contribui  para
@@ -9353,7 +9337,7 @@ Agronômico de Campinas (IAC) e indicada para cultivo no Estado
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 de São Paulo, tem apresentado menor contaminação por aflatoxinas,
 provavelmente,  devido  à  sua  característica  de  dormência  das
 sementes e resistência a doenças.
@@ -9403,7 +9387,7 @@ contaminação por aflatoxinas. Por isso, o arranquio das plantas deve
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 ser planejado, para coincidir com o ponto ótimo de maturação das
 vagens, reconhecido quando a coloração branca da parte interna
 destas  apresenta  sinais  de  escurecimento.  Assim,  procede-se  ao
@@ -9456,7 +9440,7 @@ peratura, para não condensar água em torno da carga. Por sua vez, a
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 descarga deve ocorrer num prazo inferior a 48 horas, para evitar o
 reumedecimento dos grãos dentro do veículo.
 
@@ -9509,7 +9493,7 @@ de 8%, para que estes possam ser ensacados e armazenados.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 482
 
 Como deve ser feito o armazenamento do amendoim?
@@ -9556,7 +9540,7 @@ impurezas, matéria estranha também diferentes.
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 484
 
 Quais  as  principais  pragas  que  atacam  o  amendoim
@@ -9607,7 +9591,7 @@ As medidas preventivas de higiene, são:
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 • Limpar resíduos e sujeiras de armazenamentos anteriores.
 • Eliminar  camas  de  animais,  ninhos  de  passarinhos  e  de
 
@@ -9655,7 +9639,7 @@ enquanto os demais não estão contaminados.
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 O resultado é que, para avaliar a contaminação por aflatoxinas
 a amostra deve ser formada por um número grande de pequenas
 subamostras, distribuídas por todo o lote, formando uma amostra
@@ -9703,7 +9687,7 @@ B1 não pode ultrapassar 2 ppb.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 490
 
 É  proibido  comercializar  amendoim  contaminado  por
@@ -9749,7 +9733,7 @@ resíduo, ou seja, na torta de amendoim, resultante desse processo.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 493
 
 A seleção de vagens contaminadas é eficiente na redução
@@ -9800,7 +9784,7 @@ contínuo para desativar as aflatoxinas da farinha do amendoim.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 496
 
 O que é o PAS?
@@ -9845,7 +9829,7 @@ e se enquadram nas regras para sua obtenção.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 O Pró-Amendoim foi elaborado para responder às denúncias
 extremamente  negativas  de  amendoim  contaminado,  as  quais
 causavam redução no consumo e no valor dos produtos à base de
@@ -9897,7 +9881,7 @@ e a competitividade do amendoim produzido no Brasil.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 A produção integrada de amendoim orientará esse setor de
 maneira a obter a maior produtividade e a melhor qualidade, tendo
 em  vista  a  viabilidade  econômica  e  a  segurança,  resultando  na
@@ -9939,53 +9923,4 @@ Brasília, DF, 18 set. 2006.
 
 239
 
-
- 500pr_pgnumber240
-BRASIL. Ministério da Agricultura e Abastecimento. Portaria nº 7, de 09
-de  novembro  de  1988.  Estabelece  os  padrões  mínimos  das  diversas
-matérias-primas  empregadas  na  alimentação  animal,  conforme
-especificações em anexo. Diário Oficial [da] República Federativa do
-Brasil, Brasília, DF, 14 nov. 1988. Seção 1.
-
-240
-
-
- 500pr_pgnumber241
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000004
-
-•••
-
-
- 500pr_pgnumber242
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber243
-
- 500pr_pgnumber244
-Impressão  e  acabamento
-
-Embrapa Informação Tecnológica
-
-O  papel  utilizado  nesta  publicação  foi  produzido  conforme
-
-a certificação da Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber245
 

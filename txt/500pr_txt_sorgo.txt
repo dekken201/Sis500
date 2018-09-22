@@ -1,15 +1,5 @@
 
- 500pr_pgnumber015
-1 
-
-Clima, Época de Plantio 
-e Zoneamento Agrícola
-
-Elena Charlotte Landau
-Daniel Pereira Guimarães
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1 
 
 Como saber a época mais indicada para o plantio de sorgo 
@@ -50,7 +40,7 @@ e ciclo da cultivar, podendo ser acessados no site do Ministério da
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 Agricultura, Pecuária e Abastecimento (Mapa)1. No caso do sorgo, 
 o  programa  de  Zoneamento  Agrícola  de  Risco  Climático  abrange 
 apenas o sorgo granífero (BRASIL, 2014b).
@@ -92,7 +82,7 @@ mínimo, 80% da lavoura obtenha êxito. Dessa forma, para cada 10
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 anos de plantio, haverá uma probabilidade de ocorrência de 8 anos 
 ou mais favoráveis ao cultivo. O zoneamento agrícola também não 
 considera  riscos  de  ocorrência  de  pragas  e  doenças  ou  aspectos 
@@ -135,7 +125,7 @@ de  todas  as  estações  clima-
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 tológicas do País. Assim, o resultado da espacialização dos dados 
 climáticos (baseada em interpolações) depende do número de es-
 tações  em  cada  estado  e  de  sua  distribuição  geográfica.  O  ideal 
@@ -178,7 +168,7 @@ as  plantas.  Solos  argilosos  apresentam  argila  expansiva  e  podem
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 apresentar  forte  agregação,  o  que  prejudica  as  condições  de 
 permeabilidade e a livre penetração do sistema radicular. 
 
@@ -220,7 +210,7 @@ vigente, nem o plantio sobre solos com profundidade menor do que
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 11 
 
 Como  são  apresentados  no  zoneamento  agrícola  os 
@@ -266,7 +256,7 @@ Norte, Rio Grande do Sul, Sergipe, São Paulo e Tocantins.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 14 
 
 Quais são as épocas mais indicadas para a semeadura de 
@@ -309,7 +299,7 @@ climáticas brasileiras. As alterações mais notadas estão relacionadas
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 ao aumento da temperatura, especialmente da temperatura mínima, 
 e  ao  aumento  na  incidência  de  chuvas  de  altas  intensidades.  Os 
 eventos climáticos extremos, envolvendo variações na temperatura 
@@ -352,7 +342,7 @@ a  incorporação  de  matéria  orgânica  nos  solos  proporcionando  o
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 sequestro de carbono atmosférico. O uso dessa cultura em sistemas 
 ILPF  permite  a  recuperação  de  áreas  degradadas  e  proporciona 
 sensíveis melhorias nas condições climáticas locais.
@@ -395,7 +385,7 @@ consumo de água e permitir a formação de plantas com maior vigor.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 21 
 
 Qual é a importância do clima na definição da época de 
@@ -439,7 +429,7 @@ conta com uma rede de 291 estações meteorológicas convencionais
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 e aproximadamente 470 estações automáticas que cobrem todo o 
 território  brasileiro.  As  estações  convencionais  apresentam  séries 
 históricas desde 1960 e estão disponibilizadas no Banco de Dados 
@@ -461,7 +451,7 @@ produtor na tomada de decisões.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 2 
 
 Fisiologia da Produção
@@ -471,7 +461,7 @@ Thiago Correa de Souza
 Alyne Oliveira Lavinsky
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 23 
 
 Qual  é  a  importância  de  se  identificar  e  acompanhar  o 
@@ -512,7 +502,7 @@ Neste caso, faz-se necessário o replantio.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 25 
 
 Quais são os estádios de desenvolvimento da planta mais 
@@ -556,7 +546,7 @@ dominância apical.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 27 
 
 Quais são as vantagens e desvantagens do perfilhamento 
@@ -601,7 +591,7 @@ chama fotoperíodo crítico.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 No  sorgo,  o  fotoperíodo  crítico  poderia  ser  explicado  da 
 seguinte  maneira:  se  o  comprimento  do  dia  aumenta,  a  planta 
 não  floresce,  ao  passo  que,  se  o  comprimento  do  dia  decresce, 
@@ -643,7 +633,7 @@ Ressalta-se que apenas plantas com características conservativas de
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 ambientes áridos apresentam melhoras na eficiência de captura de 
 água por produzirem raízes muito finas.
 
@@ -698,7 +688,7 @@ características:  escape  e  tolerância.  O  escape  ocorre  por  meio
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 de um sistema radicular profundo e ramificado, o qual é eficiente 
 na  extração  de  água  do  solo.  Já  a  tolerância  está  relacionada  ao 
 nível  bioquímico.  Sob  estresse  hídrico,  a  planta  de  sorgo  diminui 
@@ -741,7 +731,7 @@ de  30  µmol  de  CO2  por  m2/s,  dependendo  do  material  genético,
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 da intensidade de luz fisiologicamente ativa e da idade das folhas. 
 Folhas de sorgo contêm um grande número de estômatos. Estima-se 
 que elas possuem 50% a mais de estômatos por unidade de área do 
@@ -783,7 +773,7 @@ disponível no solo.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 36 
 
 A  adubação  química  interfere  na  fisiologia  da  planta  de 
@@ -826,7 +816,7 @@ EC1 e EC2, mas por alguma razão a população final de plantas é
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 baixa, a planta compensa com um aumento de perfilhamento e do 
 tamanho de panículas, o que conduz a um aumento no número de 
 grãos por superfície plantada. Por sua vez, quando ocorre estresse 
@@ -871,7 +861,7 @@ vantagem a sua correlação negativa com o desempenho de aves.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 41 
 
 Além  da  análise 
@@ -919,7 +909,7 @@ possuir: 1) claro valor adaptativo sob estresse; 2) relativamente alta
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 herdabilidade; 3) significativa correlação genética com rendimento 
 de grãos; 4) fácil mensuração. 
 
@@ -960,7 +950,7 @@ a probabilidade de tombamento
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 e/ou  quebramento  de  seu  colmo.  Tal  condição  pode  ser  agravada 
 quando a planta é exposta ao estresse gerado por situações adversas 
 do ambiente, bem como pelo uso de altas densidades de semeadura.
@@ -999,7 +989,7 @@ sacarino.
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 48 
 
 A técnica de uso de reguladores de crescimento é viável? 
@@ -1040,7 +1030,7 @@ redução excessiva pode provocar prejuízos no rendimento de grãos.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 3 
 
 Mecanização
@@ -1050,7 +1040,7 @@ Evandro Chartuni Mantovani
 André May
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 50 
 
 Quais  são  os  equipamentos  de  plantio  e  colheita  para  a 
@@ -1091,7 +1081,7 @@ normalmente  são  reguladas  para  espaçamentos  de  0,45  m  ou
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 0,5 m. Essa regulagem geralmente não é alterada de um ano para o 
 outro, já que a cultura principal, a soja, é cultivada especificamente 
 sob esses espaçamentos. Assim, o sorgo granífero, por seu caráter 
@@ -1135,7 +1125,7 @@ do trator. Durante a operação, esses sensores emitem sinais sonoros
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 e indicam a linha com problema em algum carrinho da semeadora. 
 Contudo, esse sistema somente é eficiente se a equipe de semeio for 
 sensível à máxima qualidade na operação de semeadura para altas 
@@ -1175,7 +1165,7 @@ equipamento  de  colheita  não  fique  sobrecarregado  por  causa
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 do  cronograma  preestabelecido,  evitando  aumento  excessivo  de 
 velocidade e excesso de perdas.
 
@@ -1217,7 +1207,7 @@ teor de umidade em torno de 13%.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 59  Como é feita a regulagem do sistema de trilha?
 
 O  sistema  de  trilha  é  constituído  de  cilindro  e  côncavo  e  é 
@@ -1261,7 +1251,7 @@ cilindro e côncavo e baixa rotação do cilindro.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 5) Grãos  quebrados  ou  esmagados  no  depósito  de  grãos: 
 
 regulagem inadequada do cilindro e côncavo.
@@ -1308,7 +1298,7 @@ respectivamente,  com  uma  capacidade  operacional  de  140  t/h  a
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 No  caso  dessas  colhedoras  autopropelidas  disponíveis 
 no  mercado,  a  capacidade  operacional  é  mais  dependente  da 
 velocidade  de  deslocamento  do  que  da  largura  de  corte  e  da 
@@ -1349,7 +1339,7 @@ fica no ponto de pastoso/farináceo. Esse período ocorre, em média,
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 entre 110 e 125 dias, ou seja, no estágio final da cultura. O período 
 citado  anteriormente  depende  da  época  de  plantio  e  da  cultivar 
 utilizada. 
@@ -1390,7 +1380,7 @@ de desperdício em manobras, “embuchamentos”, abastecimento do
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 trator ou equipamento, descarga de grãos, etc., com valores médios 
 recomendados. 
 
@@ -1403,7 +1393,7 @@ colhida (kg/h).
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 4 
 
 Irrigação
@@ -1412,7 +1402,7 @@ Paulo Emilio Pereira de Albuquerque
 Camilo de Lelis Teixeira de Andrade
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 67 
 
 A cultura do sorgo responde ao uso da 
@@ -1454,7 +1444,7 @@ marginais para outros cereais. Nessas condições, a cultura do sorgo
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 responde melhor ao uso da irrigação do que outras culturas de grãos, 
 sobretudo quando se utiliza irrigação com deficit. A eficiência no 
 uso da água do sorgo granífero é maior do que em outras culturas, 
@@ -1496,7 +1486,7 @@ cultura do sorgo a partir da evapotranspiração da cultura hipotética,
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 e  esta  última  pode  ser  estimada  a  partir  de  dados  climatológicos 
 ou de evaporação do tanque Classe A. Dados de Kc são utilizados 
 para  o  zoneamento  do  risco  climático,  no  planejamento  e  no 
@@ -1540,7 +1530,7 @@ com  os  seguintes  fatores:  condições  edafoclimáticas,  duração  do
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 ciclo, manejo do solo e nível de estresse hídrico ao qual a cultura 
 está submetida. Em regiões de clima mais quente e seco, o consumo 
 de água é maior. Da mesma forma, o consumo de água de cultivares 
@@ -1582,7 +1572,7 @@ também  reduz  o  requerimento  de  água  das  culturas.  Como
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 regra geral, deve-se manter o solo em torno de 50% da sua água 
 disponível. Entretanto, em algumas regiões e dependendo das datas 
 de semeaduras, o sorgo granífero pode tolerar um esgotamento da 
@@ -1626,7 +1616,7 @@ além de produzir mais biomassa, apresentar maior índice de colheita
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 e  maior  eficiência  de  uso  da  água  sob  condições  de  deficiência 
 hídrica.  A  irrigação  com  deficit  tem  potencial  para  aumentar  a 
 eficiência de uso da água do sorgo granífero. Em algumas regiões 
@@ -1665,7 +1655,7 @@ de matéria seca de silagem e melhor qualidade da silagem.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 76 
 
 Em relação à qualidade da água de irrigação para o sorgo, 
@@ -1709,7 +1699,7 @@ suprimento de água e de drenagem, que deve ser rápida.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 Nos altiplanos do Texas, EUA, o sistema de pivô central com 
 Lepa  tem  sido  largamente  empregado.  Estudos  apontam  também 
 o  bom  desempenho  de  sistemas  de  irrigação  por  gotejamento 
@@ -1749,7 +1739,7 @@ manejo em cultivos comerciais.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 79 
 
 Qual é o melhor método de controle da irrigação na cultura 
@@ -1795,7 +1785,7 @@ devem-se empregar os dados consolidados pela FAO (ALLEN et al,
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 1977) ou os dados determinados em outros países com condições 
 edafoclimáticas  semelhantes  ao  Brasil,  tomando-se  o  cuidado  de 
 fazer ajustes quanto à duração do ciclo das cultivares e quanto ao 
@@ -1830,9 +1820,9 @@ açúcares no caldo.
 61
 
 
- 500pr_pgnumber062
-
  500pr_pgnumber063
+
+ 500pr_pgnumber064
 5 
 
 Manejo do Solo e 
@@ -1843,7 +1833,7 @@ Ramon Costa Alvarenga
 Manoel Ricardo de Albuquerque Filho
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 82  O que é o manejo do solo em sistemas agrícolas?
 
 Manejo do solo é o termo geral para tratar de todas as práticas 
@@ -1883,7 +1873,7 @@ cultura.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 84 
 
 Há necessidade de arar e gradear várias vezes o solo para 
@@ -1926,7 +1916,7 @@ de condições ideais de estabelecimento da cultura, quais sejam o
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 crescimento radicular e a infiltração de água. O preparo convencional 
 se completa em duas etapas sucessivas. 
 
@@ -1968,7 +1958,7 @@ aradoras ou pesadas, usadas no preparo primário do solo, possuem
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 massa superior a 130 kg sobre cada disco. Nas grades leves, usadas 
 no acabamento do preparo, o peso não é menor do que 50 kg. Daí 
 o potencial de compactação do solo desses equipamentos. 
@@ -2009,7 +1999,7 @@ de  crescimento.  Ainda  nessa  trincheira,  é  possível  verificar  se  há
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 alterações quanto à resistência ou “dureza” do solo, por meio do 
 uso de um objeto pontiagudo. Essa verificação exige experiência do 
 examinador.
@@ -2051,7 +2041,7 @@ de compactação do solo.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 91 
 
 Que  medidas  devem  ser  tomadas  para  que  se  possa 
@@ -2094,7 +2084,7 @@ estrutura  do  solo  causada  pelo  pisoteio  dos  animais  quando  o
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 pastejo  é  desordenado,  principalmente  no  pastejo  contínuo  com 
 alta  carga  animal.  Quanto  mais  pesados  forem  os  animais,  maior 
 será a pressão por unidade de área, ou seja, os cascos dos animais 
@@ -2129,7 +2119,7 @@ com as raízes, na reestruturação do solo.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 93  O que é manejo conservacionista do solo?
 
 Os métodos conservacionistas de solo são aqueles que buscam 
@@ -2169,7 +2159,7 @@ praticado  é  um  dos  exemplos  de  agricultura  conservacionista,  o
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 qual representa 155 milhões de hectares em âmbito mundial (11% 
 das terras agricultáveis).
 
@@ -2210,7 +2200,7 @@ sucessão de culturas para potencializar as suas qualidades.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 96 
 
 No  plantio  de  sorgo,  qual  é  o  melhor  equipamento  de 
@@ -2251,7 +2241,7 @@ cobertura morta essencial ao SPD.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 98 
 
 A  palhada  do  sorgo  é  boa  opção  para  produção  de 
@@ -2292,7 +2282,7 @@ do  solo  da  ação  direta  dos  raios
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 solares, reduzindo a temperatura e a evaporação, mantendo, con-
 sequentemente, maior quantidade de água no solo; d) reduz as am-
 plitudes hídrica e térmica, favorecendo a atividade biológica; e) au-
@@ -2335,7 +2325,7 @@ fertilidade  do  solo,  especialmente  o  potássio.  Somam-se  a  isso,
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 muitas  vezes,  as  condições  desfavoráveis  nas  quais  as  operações 
 de ensilagem são realizadas, pois, mesmo com excesso de umidade 
 no solo, se o sorgo atinge o ponto de ensilagem, isso tem de ser 
@@ -2378,7 +2368,7 @@ etapas de manejo do solo, desde o preparo até a colheita, no sentido
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 transversal  à  declividade;  d)  trabalhar  o  solo  com  a  menor  carga 
 possível sobre a superfície, considerando as operações necessárias 
 do  cultivo  à  colheita  da  cultura;  e)  preparar  o  perfil  do  solo  de 
@@ -2421,7 +2411,7 @@ solo. No sistema convencional predominante, o assoreamento dos
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 sulcos de semeadura é o primeiro e o principal problema para o 
 sorgo cultivado na reforma de canaviais colhidos mecanizados. No 
 Estado de São Paulo, a Lei de Uso do Solo (Lei nº 6.171, de 4/7/1988, 
@@ -2466,7 +2456,7 @@ mesmo naquelas que apresentam mecanismo pantográfico.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 108 
 
 Quais são os requisitos mínimos para viabilizar a semeadura 
@@ -2510,7 +2500,7 @@ utilizadas na cana-de-açúcar.
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 110 
 
 Qual  é  o  efeito  do  calcário  aplicado  em  superfície  na 
@@ -2553,7 +2543,7 @@ barreira física ao plantio do sorgo.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 6 
 
 Exigências Nutricionais 
@@ -2564,7 +2554,7 @@ Flávia Cristina dos Santos
 Antônio Marcos Coelho
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 112 
 
 Quais  são  as  condições  de  fertilidade  do  solo  para  o 
@@ -2609,7 +2599,7 @@ características peculiares. Nessa época, o potencial de produtividade
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 é menor e os riscos aumentam em virtude das menores precipitações 
 pluviais,  das  baixas  temperaturas  e  da  menor  radiação  solar  na 
 fase  final  do  ciclo  da  cultura.  Nessas  condições,  os  principais 
@@ -2652,7 +2642,7 @@ de produção com menor investimento em tecnologia e os cultivos
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 de  safrinha  normalmente  são  associados 
 à  aplicação  de  menores  quantidades  de 
 adubos. Já os sistemas de produção com maior 
@@ -2695,7 +2685,7 @@ suficiência nutricional na planta e constitui uma ferramenta auxiliar
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 para o uso eficiente dos fertilizantes. A visualização de sintomas de 
 deficiência na lavoura é um elemento auxiliar na identificação de 
 eventuais carências nutricionais. No entanto, para a identificação da 
@@ -2738,7 +2728,7 @@ porque os processos de análises em laboratório, interpretação dos
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 resultados, aquisição de calcário e adubo demandam algum tempo. 
 Além disso, havendo necessidade de se realizar a calagem, é preciso 
 um período de cerca de 90 dias após a aplicação do calcário para 
@@ -2783,7 +2773,7 @@ P  e  K  podem  apresentar  efeito  residual  ao  longo  desse  período.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 Assim, sugere-se a realização de nova amostragem e análise de solo 
 a cada 3 anos. Por sua vez, pode ser necessária maior frequência 
 quando se trata de sistemas de produção mais intensivos ou sempre 
@@ -2828,7 +2818,7 @@ As
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 solos, histórico das adubações usadas, diagnóstico visual, consulta a 
 resultados experimentais, comparação com a experiência de outros 
 agricultores  e  avaliação  da  produtividade,  que  devem  confirmar 
@@ -2872,7 +2862,7 @@ encontrado  nas  diversas  regiões  produtoras  do  País.  Existem
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 diferentes  tipos  de  calcário  que  variam  quanto  à  natureza  física 
 (granulometria) e composição química (como, por exemplo, teores 
 de Ca e Mg). Calcários finos reagem mais rapidamente que os de 
@@ -2915,7 +2905,7 @@ antes da implantação do sistema. Nesse caso, o processo é idêntico
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 ao indicado para o sistema de preparo convencional. Em áreas com 
 o plantio direto estabelecido (³ 5 anos), não é feita a incorporação 
 do calcário, que é simplesmente aplicado a lanço, na superfície do 
@@ -2958,7 +2948,7 @@ de, pelo menos, 5 anos.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 127  Quais são as exigências nutricionais do sorgo?
 
 Como  qualquer  outra  cultura, 
@@ -2997,7 +2987,7 @@ devem  receber  menores  doses  de  K.  A  adubação  corretiva  com
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 micronutrientes pode ser feita com cerca de 50 kg/ha de fertilizantes 
 do  tipo  “fritas”  (fritted  trace  elements  –  FTE),  que  normalmente 
 fornecem vários micronutrientes simultaneamente. Os fertilizantes 
@@ -3040,7 +3030,7 @@ pelas plantas de sorgo são muito pequenas. Entretanto, a deficiência
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 de um deles pode ter tanto efeito na desorganização de processos 
 metabólicos e na redução na produtividade quanto a deficiência de 
 um macronutriente, como, por exemplo, o N. A manutenção dos 
@@ -3083,7 +3073,7 @@ informações úteis para obtenção de níveis médios de produtividade,
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 geralmente  são  pouco  efetivas  ou  antieconômicas.  Os  solos 
 apresentam  diferenças  em  sua  capacidade  de  fornecimento  de 
 nutrientes,  dependendo  das  reservas  totais  e  da  disponibilidade 
@@ -3125,7 +3115,7 @@ parcelada de fertilizantes, principalmente nitrogenados e potássicos.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 135 
 
 Que  nutrientes  devem  ser  aplicados  na  semeadura  do 
@@ -3169,7 +3159,7 @@ ser utilizados para ajustes na adubação de cobertura. No caso do
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 sorgo safrinha, a deficiência hídrica, que normalmente ocorre nas 
 lavouras,  limita  fortemente  o  potencial  de  produção;  com  isso,  a 
 maioria dos produtores não utiliza a adubação de cobertura ou a 
@@ -3213,7 +3203,7 @@ micronutrientes podem ser aplicados em adubações de manutenção
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 via solo ou via foliar. A adubação no solo é feita juntamente com a 
 adubação NPK de plantio.
 
@@ -3249,9 +3239,9 @@ do sorgo.
 97
 
 
- 500pr_pgnumber098
-
  500pr_pgnumber099
+
+ 500pr_pgnumber0100
 7 
 
 Manejo e Uso da 
@@ -3265,7 +3255,7 @@ Ivanildo Evódio Marriel
 Israel Alexandre Pereira Filho
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 140  O que são adubos orgânicos?
 
 São  adubos  de  natureza  orgâ-
@@ -3308,7 +3298,7 @@ filtração do lodo retido nos clarificadores. Cada tonelada de cana
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 moída rende em torno de 40 kg de torta, que é rica em P, cálcio 
 (Ca), cobre (Cu), zinco (Zn) e ferro (Fe). É deficiente em K, o que 
 sugere a combinação desse resíduo com a vinhaça. 
@@ -3349,7 +3339,7 @@ para  o  solo,  além  de  atuar  como  condicionador  e  melhorar  as
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 propriedades  físico-químicas  e  biológicas  do  solo.  Dessa  forma, 
 promove o desenvolvimento das plantas e sua resistência ao estresse 
 hídrico e aos possíveis ataques de insetos e de doenças.
@@ -3390,7 +3380,7 @@ como os galpões, a fim de que os compostos fiquem protegidos das
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 ações das chuvas torrenciais e excessivas, que podem empobrecer 
 os  compostos  por  causa  do  encharcamento  e  da  lixiviação  de 
 nutrientes. 
@@ -3450,7 +3440,7 @@ pode ser maior, com intervalos menores entre as operações
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 tempo de decomposição e obtendo-se o composto pronto 
 em  até  60  dias,  dependendo  dos  materiais  empregados. 
 Durante cada reviramento (ou logo após), deve-se proceder 
@@ -3503,7 +3493,7 @@ estará normal. Caso contrário, estará muito quente.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 Após 60 dias, a temperatura diminui significativamente e atinge 
 níveis abaixo de 35 oC. Isso indica o fim da fase de fermentação e o 
 início da fase de mineralização da matéria orgânica. 
@@ -3548,7 +3538,7 @@ fermentação aeróbia por um período mínimo de 10 dias.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 maduro  apresenta-se  com  as  seguintes  características:  a)  redução 
 da  massa  à  metade  ou  a  um  terço  do  seu  volume  inicial;  b) 
 degradação física dos componentes, não sendo possível identificar 
@@ -3601,7 +3591,7 @@ seguir, são descritas duas dessas receitas.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Material
 Terra de barranco (isenta de sementes e folhas)
 Farelo de soja (ou esterco de galinha ou cama de frango)
@@ -3663,7 +3653,7 @@ armazenamento.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 Como é feita a distribuição dos fertilizantes orgânicos?
 
 153 
@@ -3706,7 +3696,7 @@ cheiro.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 156 
 
 Quais  são  as  desvantagens  e/ou  limitações  da  adubação 
@@ -3751,7 +3741,7 @@ adubos  complementares  de  plantio.  Quando  produzidos  e
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 aplicados  adequadamente,  podem  ser  usados para  repelir  insetos 
 além de possuírem efeito fito-hormonal, fungicida, bacteriológico, 
 nematicida e acaricida. Atuam, portanto, como um protetor natural 
@@ -3793,7 +3783,7 @@ Materiais a serem utilizados
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 210 g de sulfato de cobalto
 300 g de sulfato de cobre
 600 g de sulfato de manganês
@@ -3837,7 +3827,7 @@ Adubação foliar e de solo. Repelente de insetos.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 Materiais a serem utilizados
 Tambor de água com capacidade mínima de 200 L
 40 kg de esterco de curral (fresco)
@@ -3881,7 +3871,7 @@ outra fonte de boro (B) e de Zn.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 •	 Biogeo
 
 Indicações de uso
@@ -3921,7 +3911,7 @@ Componentes minerais
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Mistura proteica
 1 L de leite ou soro de leite
 1 L de melaço ou 500 g de rapadura moída ou 5 L de garapa
@@ -3963,7 +3953,7 @@ tenras)
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 Obs.: A mamona triturada pode ser substituída por outro resíduo 
 vegetal na mesma quantidade ou por resíduos agroindustriais (torta 
 de mamona, farelo de cacau, etc.) em quantidade menor (50 kg).
@@ -4005,7 +3995,7 @@ importante para não entupir o bico do pulverizador.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 Depois de coar a mistura, a parte líquida rica em nutrientes 
 deve ser aplicada sobre a folha (adubo foliar), sobre as sementes, 
 sobre o solo, via regadores ou via fertirrigação, em hidroponia, mas 
@@ -4046,7 +4036,7 @@ contaminação do meio ambiente, principalmente dos cursos d’água.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 163 
 
 Por  que  a  combinação  do 
@@ -4093,7 +4083,7 @@ relativa de cada nutriente.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 167 
 
 A distribuição dos dejetos de animais por aspersão é mais 
@@ -4137,7 +4127,7 @@ irá melhorar os aspectos químicos, físicos e biológicos do solo.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 171 
 
 Quais são as determinações básicas e necessárias para a 
@@ -4180,7 +4170,7 @@ de efeito estufa atribuída à atividade agrícola.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 174 
 
 Como a bactéria Azospirillum contribui para o crescimento 
@@ -4227,7 +4217,7 @@ preferência  por  ocasião  da  semeadura.  A  aplicação  pode  ser
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 realizada na semente ou no sulco de plantio ou, ainda, por meio de 
 pulverização via irrigação.
 
@@ -4274,9 +4264,9 @@ de grãos de até 20%.
 121
 
 
- 500pr_pgnumber122
-
  500pr_pgnumber123
+
+ 500pr_pgnumber124
 8 
 
 Manejo Cultural
@@ -4291,7 +4281,7 @@ José Nildo Tabosa
 Josimar Bento Simplício
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 180  Quais são os principais tipos de sorgo cultivados no Brasil?
 
 Existem  cinco  tipos  de  sorgo  cultivados  no  Brasil:  granífero, 
@@ -4336,7 +4326,7 @@ das duas espécies.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 Sorgo sacarino – tipo de sorgo de porte alto, acima de 2,0 m. 
 Possui  o  colmo  doce  e  suculento  (similar  ao  colmo  da  cana-de- 
 -açúcar).  A  panícula  é  geralmente  aberta  e  possui  poucos  grãos. 
@@ -4379,7 +4369,7 @@ covas.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 A semeadura mecanizada, na qual um trator é acoplado a uma 
 semeadora, é realizada em linhas espaçadas de 45 cm a 50 cm para 
 cultivares de porte de até 1,50 m. Para cultivares de porte elevado, 
@@ -4420,7 +4410,7 @@ produtividade. A melhor época para o plantio do sorgo forrageiro
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 no centro-sul do País deve ser o mês de outubro. Plantios tardios 
 podem  sofrer  problemas  de  fotoperiodismo  e  reduzir  o  porte  da 
 planta, afetando a produção de matéria seca total. No caso do sorgo 
@@ -4465,7 +4455,7 @@ adequada/representativa (mínimo de 50 panículas), as características
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 são mantidas de uma geração para outra, sem nenhuma perda de 
 seu potencial produtivo. As sementes das variedades melhoradas são 
 de menor custo e de grande utilidade em regiões onde, em virtude 
@@ -4509,7 +4499,7 @@ quanto na safrinha.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 •	 Estabilidade  e  potencial  de 
 rendimento  de  grãos,  massa 
 verde e seca.
@@ -4554,7 +4544,7 @@ variando entre 45 e 85 dias após a semeadura.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 No mercado, há ampla predominância de cultivares precoces, 
 que são as mais plantadas tanto na safra quanto na safrinha ou ainda 
 para  formação  da  palhada  no  sistema  plantio  direto  (SPD).  Ainda 
@@ -4594,7 +4584,7 @@ regiões  brasileiras,  e  atualmente  está  sendo  bastante  utilizado  no
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 sistema lavoura-pecuária, como uma proposta de sustentabilidade 
 (segurança alimentar) na agropecuária.
 
@@ -4635,7 +4625,7 @@ boa qualidade.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 194  Como se processa a colheita do sorgo?
 
 O  procedimento  adequado  é  a  colheita  da  panícula  (corte), 
@@ -4678,7 +4668,7 @@ fermentativo, elevando as perdas do material ensilado.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 Ao antecipar a colheita, o amido, que é o principal carboidrato 
 presente  no  sorgo,  além  de  definir  a  concentração  energética  do 
 alimento,  ainda  não  está  na  sua  concentração  ideal,  elevando 
@@ -4729,7 +4719,7 @@ risco de estresse hídrico e geada na lavoura.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 197  Que época é a ideal para a semeadura do sorgo granífero?
 
 Na  região  Sul  do  Brasil,  a  semeadura  do  sorgo  granífero  é 
@@ -4774,7 +4764,7 @@ relacionadas no Zoneamento de Risco Climático8 do Ministério de
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 Agricultura,  Pecuária  e  Abastecimento  (Mapa).  O  zoneamento  é 
 elaborado de acordo com os ambientes, os ciclos e a natureza de 
 uso, relacionados às diversas unidades federativas do Brasil. 
@@ -4812,7 +4802,7 @@ região de deposição de fertilizante e da semente (sulco de plantio).
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 202  O sorgo pode ser cultivado em qualquer tipo de solo? 
 
 A planta de sorgo adapta-se igualmente a uma série de tipos de 
@@ -4855,7 +4845,7 @@ de plantas.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 205  Qual é o ponto de colheita do sorgo? 
 
 O  ponto  ideal  de  colheita  do  sorgo  depende  do  tipo  e  da 
@@ -4902,7 +4892,7 @@ dessecantes  para  que  o  controle  seja  adequado.  Na  maioria  dos
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 casos, os herbicidas utilizados para o manejo após a colheita são à 
 base de glyphosate, 2,4D, paraquat e paraquat + diuron.
 
@@ -4941,7 +4931,7 @@ janeiro e fevereiro.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 209 
 
 Como  planejar  as  épocas  de  semeadura  para  o  sorgo 
@@ -4965,9 +4955,9 @@ logo um novo pastoreio.
 139
 
 
- 500pr_pgnumber140
-
  500pr_pgnumber141
+
+ 500pr_pgnumber142
 9 
 
 Manejo de 
@@ -4978,7 +4968,7 @@ Maurílio Fernandes de Oliveira
 Décio Karam
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 210 
 
 Quais são os herbicidas registrados para uso na cultura do 
@@ -5023,7 +5013,7 @@ controle  de  gramíneas,  especialmente  quando  utilizado  na  pós-
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 -emergência tardia. A grande dificuldade de controle de espécies 
 gramíneas na cultura do sorgo decorre também da falta de opção de 
 produtos para combate de plantas daninhas na cultura.
@@ -5066,7 +5056,7 @@ com suporte fitossanitário insuficiente.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 216 
 
 O  que  poderá  ocorrer  após  a  publicação  da  Instrução 
@@ -5110,7 +5100,7 @@ Geisy, Herbitrin e Proof.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 219 
 
 Alguns países têm utilizado na cultura do sorgo protetores 
@@ -5153,7 +5143,7 @@ acetochlor) e sulfonilureias (nicosulfuron).
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 222 
 
 Que cuidados devem ser tomados pelos produtores no uso 
@@ -5198,7 +5188,7 @@ apresentem  grande  quantidade  de  massa,  pois,  nesse  caso,  a
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 fitointoxicação poderá ocorrer na passagem das plântulas de sorgo 
 por  essa  massa.  Nesse  caso,  outro  efeito  que  poderá  ser  notado 
 é  a  deficiência  de  nitrogênio  por  causa  do  uso  desse  elemento 
@@ -5241,7 +5231,7 @@ de novas espécies de plantas daninhas nas áreas de produção. Isso
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 geralmente  ocorre  por  meio  de  lotes  contaminados  de  sementes, 
 máquinas agrícolas, animais e vento. Para minimizar esse problema, 
 devem-se  tomar  os  seguintes  cuidados:  utilizar  sementes  de  boa 
@@ -5288,7 +5278,7 @@ deve se prestar atenção na quantidade de palha que está cobrindo
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 o  solo.  Para  seu  correto  funcionamento,  os  herbicidas,  quando 
 utilizados em pré-emergência, precisam chegar ao solo. Camadas 
 muito espessas de palha (cobertura do solo) dificultam a passagem 
@@ -5331,7 +5321,7 @@ uma aplicação com volumes que variam de 100 L/ha a 250 L/ ha.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 Alguns  produtores  têm  utilizado,  nas  aplicações  de  herbicidas, 
 volumes de calda inferiores a 50 L/ha. Volumes baixos como esse 
 só deverão ser utilizados com pontas apropriadas que permitam tal 
@@ -5374,7 +5364,7 @@ das folhas, que progride para necrose generalizada.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 234  O herbicida 2,4D pode ser utilizado na cultura do sorgo?
 
 Assim  como  o  herbicida  paraquat,  o  herbicida  2,4D  não 
@@ -5416,7 +5406,7 @@ difícil.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 237 
 
 Para  facilitar  o  manejo  da  cultura  do  sorgo  quanto  ao 
@@ -5463,7 +5453,7 @@ devem ser tomados. O uso do avental voltado para as costas é de
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 fundamental importância, pois a maioria dos pulverizadores costais 
 apresentam vazamentos na boca do reservatório. O produtor deve 
 verificar qual é a vazão do pulverizador para que o herbicida seja 
@@ -5505,7 +5495,7 @@ principalmente dos herbicidas, na cultura de sucessão.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 241 
 
 O plantio de sorgo bioenergia em áreas de renovação de 
@@ -5524,7 +5514,7 @@ não da cultura do sorgo.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 10 
 
 Manejo de Doenças
@@ -5535,7 +5525,7 @@ Dagma Dionísia da Silva
 Rodrigo Veras da Costa
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 242 
 
 Quais  são  as  principais  doenças  da  cultura  do  sorgo  no 
@@ -5579,7 +5569,7 @@ durante muitas safras na mesma área. Isso contribui para o aumento
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 da quantidade de inóculo de patógenos e favorece a severidade das 
 doenças. 
 
@@ -5627,7 +5617,7 @@ de sorgo, no entanto a importância de cada uma pode variar. Por
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 exemplo, a helmintosporiose é mais severa durante a fase vegetativa, 
 enquanto  a  antracnose-foliar  é  mais  problemática  a  partir  do 
 florescimento.  Algumas  doenças  são  ainda  mais  específicas  em 
@@ -5670,7 +5660,7 @@ helmintosporiose). Esse conhecimento é importante, porque o modo
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 de sobrevivência e de multiplicação do patógeno pode influenciar 
 o sistema de manejo a ser adotado. No caso de plantio direto, é 
 fundamental que o produtor faça a rotação de culturas a fim de que 
@@ -5713,7 +5703,7 @@ cultivares, o uso de sementes de boa qualidade, o uso de cultivar
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 ou de cultivares que além de resistentes a doenças sejam também 
 as mais indicadas para a região, o plantio na época adequada, o uso 
 da população adequada de plantas e o uso da adubação adequada. 
@@ -5757,7 +5747,7 @@ um longo período de sobrevivência no solo).
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 A rotação de culturas é uma prática essencial para o manejo 
 de  doenças,  principalmente  quando  se  faz  uso  do  plantio  direto. 
 O princípio é semelhante ao da rotação de genótipos, com a diferença 
@@ -5800,7 +5790,7 @@ deve ser a mais adequada possível para a região. Por sua vez, qualquer
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 desequilíbrio nutricional torna a planta mais vulnerável a doenças de 
 uma maneira geral. Deve-se promover uma diversificação espacial 
 dos híbridos, ou seja, em uma mesma área e em um mesmo ano 
@@ -5842,7 +5832,7 @@ e a antracnose do milho, por Colletotrichum graminicola.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 256 
 
 Quais  são  as  medidas  recomendadas  para  o  controle  da 
@@ -5886,7 +5876,7 @@ verticais  podem  ser  utilizados  repetidamente.  Em  sistema  plantio
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 direto, a população de um patógeno necrotrófico que sobrevive na 
 palhada  do  plantio  anterior  possui  raças  já  adaptadas  ao  híbrido 
 plantado anteriormente. Ao se plantar um híbrido de constituição 
@@ -5930,7 +5920,7 @@ em sua região ou propriedade.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 260 
 
 Que partes da planta podem ser infectadas pelo fungo C. 
@@ -5975,7 +5965,7 @@ manejo integrado da doença.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 262 
 
 Quais  são  as  principais  medidas  para  o  controle  da 
@@ -6017,7 +6007,7 @@ Portanto, pode infectar as duas culturas.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 266 
 
 Como é a sobrevivência do patógeno P. sorghi? Qual é o 
@@ -6060,7 +6050,7 @@ a  decomposição  dos  oósporos  presentes  no  solo;  utilização  de
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 cultivares  resistentes;  e  tratamento  de  sementes  com  produtos  à 
 base de metalaxyl, eficiente para o controle do patógeno.
 
@@ -6103,7 +6093,7 @@ previne a infecção.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 271 
 
 A doença-açucarada ou ergot pode ocorrer em campos de 
@@ -6146,7 +6136,7 @@ micotoxinas.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 274 
 
 Quais  são  as  principais  medidas  de  manejo  da  doença-
@@ -6191,7 +6181,7 @@ metalaxil-M  para  tratamento  de  sementes.  Captana  tem  efeito
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 sobre  Alternaria  alternata,  Alternaria  tenuissima,  Aspergillus  spp., 
 Cladosporium cladosporioides, C. sublineolum, E. turcicum; Phoma 
 sorghina;  Rizophus  spp.,  Fusarium  verticillioides,  Rhizoctonia  spp. 
@@ -6235,7 +6225,7 @@ pulverizadas. O uso de fungicidas é uma alternativa promissora para
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 o manejo de doenças na cultura do sorgo. Resultados de pesquisas 
 têm  mostrado  alguns  pontos  que  precisam  ser  considerados  para 
 melhorar a eficiência do uso de fungicidas. O nível de resistência 
@@ -6284,7 +6274,7 @@ reduzir  a  fonte  primária  do  inóculo  são  as  seguintes:  plantio  de
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 cultivares  resistentes,  rotação  de  culturas,  enterrio  de  restos  de 
 cultura, eliminação de gramíneas hospedeiras dos fungos causadores 
 de podridões de colmo, uso de sementes sadias e tratamentos de 
@@ -6328,7 +6318,7 @@ entremeadas com áreas verde-escuras. Normalmente, esse sintoma
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 é mais evidente em folhas mais novas, podendo desaparecer com o 
 envelhecimento da planta. 
 
@@ -6374,7 +6364,7 @@ lesões alongadas e estreitas.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 283  Quais são as medidas de manejo para a ferrugem do sorgo? 
 
 A principal medida de controle da ferrugem é o uso de cultivares 
@@ -6407,9 +6397,9 @@ nematoides.
 175
 
 
- 500pr_pgnumber176
-
  500pr_pgnumber177
+
+ 500pr_pgnumber178
 11 Manejo Integrado 
 
 de Pragas
@@ -6419,7 +6409,7 @@ Simone Martins Mendes
 Paulo Afonso Viana
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 287  Quais são as principais pragas que atacam o sorgo?
 
 Há vários tipos de sorgo: o forrageiro, o granífero, o sacarino 
@@ -6465,7 +6455,7 @@ os fatores de mortalidade natural das pragas por meio da utilização
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 de métodos selecionados em base técnica, econômica e ecológica, 
 como descrito no esquema a seguir. A utilização das estratégias de 
 controle via MIP visa obter maior eficácia de controle, considerando 
@@ -6487,7 +6477,7 @@ táticas que compõem o manejo integrado de pragas (MIP). O MIP
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 constitui  uma  filosofia  de  controle  de  pragas  que  visa  preservar 
 e incrementar os fatores de mortalidade natural por meio do uso 
 integrado de várias técnicas, selecionadas com base nos parâmetros 
@@ -6528,7 +6518,7 @@ atacam a fase inicial de desenvolvimento do sorgo. Os ataques de
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 pragas nessa fase reduzem significativamente o número de plantas 
 na área cultivada, resultando em baixa produtividade. Essas pragas 
 podem danificar as sementes logo após a semeadura, as raízes, o 
@@ -6570,7 +6560,7 @@ de mais de uma espécie de praga ao mesmo tempo.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 292 
 
 Qual praga tem sido mais problemática para a fase inicial 
@@ -6613,7 +6603,7 @@ normalmente;  no  caso  de  a  lagarta  continuar  se  alimentando,  os
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 sintomas  irão  evoluir  para  o  segundo  estágio,  no  qual  a  plântula 
 fica moderadamente a severamente enfezada; uma ou mais folhas 
 podem apresentar uma fileira simétrica de furos e menor tamanho, 
@@ -6656,7 +6646,7 @@ a atividade do inseto. No caso de elasmo, o feromônio sexual das
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 fêmeas 
 foi  documentado  primeiramente 
 nos  Estados  Unidos.  Porém  avaliações  que 
@@ -6700,7 +6690,7 @@ para oviposição e na eclosão das lagartas. As mariposas preferem
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 depositar os ovos em solos mais secos. A oviposição é maior em 
 solos secos do que em solos mais úmidos. Para que a umidade do 
 solo por si só mantenha os danos causados pela praga em níveis 
@@ -6743,7 +6733,7 @@ reduzem os danos causados pela praga nas plantas de sorgo.
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 297 
 
 A lagarta-rosca é uma praga importante para a cultura do 
@@ -6786,7 +6776,7 @@ pode ser eficiente.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 298 
 
 Que outras pragas reduzem o número de plantas na lavoura 
@@ -6832,7 +6822,7 @@ outras pragas reduz o dano causado por essa espécie.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 299 
 
 Como as pragas que atacam o sorgo podem ser controladas 
@@ -6878,7 +6868,7 @@ qualidade tecnológica (germinação e vigor). Geralmente o tratamento
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 de sementes dá proteção ao cultivo até aproximadamente 15 dias 
 após a germinação. O conceito de eficiência deve ser visto do ponto 
 de vista do retorno econômico. Especificamente no caso de pragas 
@@ -6922,7 +6912,7 @@ estritamente na semente e não é difundido em toda a área tratada,
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 como na pulverização. Também mostra seletividade, pois como é 
 destinado ao uso em mistura com a semente de sorgo para o controle 
 de  pragas  no  campo,  recebe  uma  formulação  especial.  Além  do 
@@ -6966,7 +6956,7 @@ diretamente a escolha do inseticida a ser aplicado. Produtos com
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 largo espectro de ação aparentemente podem se mostrar vantajosos, 
 mas,  com  o  uso  frequente,  podem,  no  decorrer  do  tempo, 
 demandar aplicações sucessivas causando desequilíbrio ambiental 
@@ -7008,7 +6998,7 @@ por diversos agentes de controle biológico natural.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 304 
 
 Como  a  tecnologia  de  aplicação  de  inseticidas  pode 
@@ -7051,7 +7041,7 @@ observar o horário de aplicação.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 Deve-se evitar o período mais quente do dia e, preferencial-
 mente, fazer a aplicação próximo ao entardecer, principalmente vi-
 sando às pragas que possuem hábitos noturnos.
@@ -7092,7 +7082,7 @@ causados por ela em lavouras de grande porte.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 307 
 
 Quais  são  as  principais  pragas  com  as  quais  o  produtor 
@@ -7136,7 +7126,7 @@ final de grãos.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 Nos últimos anos, por causa da alta incidência, da frequência 
 ao  longo  do  ano  e  da  distribuição  espacial,  essa  espécie  vem  se 
 tornando uma das principais pragas na cultura. Em todos os tipos 
@@ -7177,7 +7167,7 @@ colocada no centro da área plantada, inicialmente a uma altura de
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 armadilha deve ser levantada de maneira a ficar sempre na mesma 
 altura da planta. O feromônio sintético comercial para essa espécie 
 possui  na  bula  todas  as  instruções  relacionadas  à  frequência  de 
@@ -7219,7 +7209,7 @@ do pulgão-verde.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 313 
 
 O  produtor  pode  esperar  infestações  severas  de  lagarta-
@@ -7263,7 +7253,7 @@ mais tardias, quando o dano ocorre no pedúnculo, ocorre a morte
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 da panícula, causando o sintoma denominado panícula-branca. No 
 caso de sorgo granífero, o prejuízo pode ser total. 
 
@@ -7305,7 +7295,7 @@ jovens.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 317 
 
 Quantas  espécies  de  lagartas  podem  ser  encontradas  se 
@@ -7347,7 +7337,7 @@ espécie S. frugiperda. Além disso, o monitoramento de D. saccharalis
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 é possível com o uso de fêmas virgens colocadas nas armadilhas, 
 disponíveis comercialmente no País. 
 
@@ -7391,7 +7381,7 @@ dia de vida adulta, as fêmeas colocam, em média, 75 ovos dentro
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 das flores abertas do sorgo. Após 2 ou 3 dias eclodem as larvas, 
 que se deslocam para a base do grão em formação e se alimentam 
 dele. A fase larval é concluída em torno de 10 dias. Em seguida, 
@@ -7411,9 +7401,9 @@ ainda são verificados no Sul e no Nordeste do País.
 201
 
 
- 500pr_pgnumber202
-
  500pr_pgnumber203
+
+ 500pr_pgnumber204
 12   
 
 Controle Biológico 
@@ -7423,7 +7413,7 @@ Ivan Cruz
 Fernando Hercules Valicente
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 321  O que é controle biológico (CB)?
 
 O  CB  é  um  fenômeno  natural  e  consiste  na  regulação  do 
@@ -7463,7 +7453,7 @@ uma  ampla  faixa  de  hospedeiros;  oligófagos,  que  se  alimentam
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 de uma faixa restrita de hospedeiros; ou monófagos, isto é, que se 
 alimentam de uma presa específica. Independentemente do tipo de 
 predador, geralmente eles se alimentam de um determinado grupo 
@@ -7507,7 +7497,7 @@ espécies-pragas das benéficas.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 O percevejo predador tem como característica principal seu 
 aparelho  bucal  apropriado  para  sugar  as  presas.  Seja  jovem  seja 
 adulto,  ao  encontrar  a  presa,  ele  introduz  seu  aparelho  bucal  no 
@@ -7548,7 +7538,7 @@ ovos, lagartas e pulgões. Dependendo da densidade populacional,
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 evitam  consideravelmente  o  dano  das  pragas. 
 Uma característica diferenciada da tesourinha é 
 seu ciclo de vida. O inseto pode viver mais de 
@@ -7592,7 +7582,7 @@ que se refere aos ectoparasitoides, aqueles que se desenvolvem sobre
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 o corpo de seu hospedeiro, o processo é facilmente observado, pois 
 geralmente há a presença de pequenos casulos aderidos ao corpo 
 do inseto hospedeiro. Desses casulos, emergem pequenas vespas, 
@@ -7637,7 +7627,7 @@ Trichogramma, especialmente em substituição a produtos químicos,
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 traz  como  efeito  positivo  adicional  a  atuação  complementar  de 
 outras espécies de parasitoides. É o caso, por exemplo, da espécie 
 Chelonus  insularis  (parasitoide  “grande”,  com  cerca  de  8  mm  de 
@@ -7675,7 +7665,7 @@ será a presença de agentes de controle biológico.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 331 
 
 Considerando-se que a lagarta-do-cartucho é a principal pra-
@@ -7722,7 +7712,7 @@ vários  tipos  de  habitat,  incluindo  solo,  resíduos  de  grãos,  poeira,
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 água, matéria vegetal e insetos. Caracteriza-se por formar um cristal 
 proteico, que possui propriedades inseticidas específicas, podendo 
 atacar  vários  insetos  e  artrópodes  incluindo  lagartas,  moscas, 
@@ -7764,7 +7754,7 @@ dias após a ingestão. Pode ser observada redução na alimentação,
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 além de diminuição do crescimento e descoloração do tegumento. 
 Ao morrer, ocorre rompimento do tegumento do inseto, o que vem 
 a liberar os poliedros no ambiente, possibilitando novos ciclos de 
@@ -7802,7 +7792,7 @@ biológico e a proteção do meio ambiente.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 13  
 
  Manejo Integrado 
@@ -7812,7 +7802,7 @@ Grãos Armazenados
 Marco Aurélio Guerra Pimentel
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 338 
 
 Como  se  deve  realizar  a  secagem  dos  grãos  de  sorgo 
@@ -7858,7 +7848,7 @@ colheita, eles apresentarem teor de água superior a 13%. Nesse caso,
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 não é recomendado realizar a armazenagem, por causa do elevado 
 risco de deterioração dos grãos, pois pode ocorrer desenvolvimento 
 de  fungos,  produção  de  toxinas,  infestação  por  insetos-praga  de 
@@ -7902,7 +7892,7 @@ e  para  o  armazenamento  do  produto  por  períodos  prolongados.
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 A  massa  de  um  grão  de  sorgo  é  composta  por  massa  de  água  e 
 massa  de  matéria  seca.  O  conteúdo  de  água  dos  grãos  em  base 
 úmida  (BU),  que  geralmente  é  expresso  em  valores  percentuais, 
@@ -7945,7 +7935,7 @@ geralmente são muito úmidos, dificultam a secagem, aumentam o
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 consumo de energia e são fonte de contaminação dos grãos durante 
 a armazenagem. Essas impurezas e sujeiras podem afetar ainda a 
 qualidade dos grãos durante a armazenagem e a comercialização 
@@ -7989,7 +7979,7 @@ grãos  de  sorgo  após  a  colheita.  Além  disso,  o  nível  tecnológico
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 do  armazenamento  será  estabelecido  de 
 acordo  com  o  volume  a  ser  armazenado 
 e  com  a  disponibilidade  de  recursos  para 
@@ -8032,7 +8022,7 @@ geram pontos de alta umidade relativa e alto teor de umidade no
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 grão  e,  consequentemente,  pontos  com  condições  ambientais 
 favoráveis para o desenvolvimento de insetos e fungos. Portanto, a 
 aeração exerce função essencial tanto para manter a temperatura e 
@@ -8076,7 +8066,7 @@ pragas ocorrem nos grãos e nas sementes, quando estão trincados,
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 quebrados ou mesmo danificados por pragas primárias e, geralmente, 
 ocorrem desde o recebimento até o beneficiamento e na indústria. 
 As fases larvais desses insetos desenvolvem-se no interior dos grãos 
@@ -8114,7 +8104,7 @@ destinados à alimentação humana.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 350 
 
 Como  pode  ser  realizado  o  manejo  integrado  de  pragas 
@@ -8156,7 +8146,7 @@ armazenadoras demonstram que, na maioria delas, mesmo vazias,
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 são  observados  insetos  adultos  de  diferentes  espécies.  Alimentos 
 para  animais,  como  rações,  bem  como  equipamentos  agrícolas, 
 como carretas transportadoras de grãos, além de poeiras, sujidades, 
@@ -8198,7 +8188,7 @@ de  fosfina,  pode  evitar  a  infestação  dos  grãos  armazenados.  As
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 pulverizações de superfície devem ser renovadas no momento em 
 que as instalações forem limpas. A limpeza das instalações e dos 
 maquinários deve ser realizada antes da aplicação protetora ou a 
@@ -8241,7 +8231,7 @@ exposição e a hermeticidade do local.
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 O  inseticida  indicado  para  expurgo  de  grãos  de  sorgo  é  a 
 fosfina, que pode ser encontrada comercialmente sob dois diferentes 
 princípios  ativos:  fosfeto  de  alumínio  (AlP)  e  fosfeto  de  magnésio 
@@ -8284,7 +8274,7 @@ local do expurgo.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 •	 Fechar as partes laterais da lona com “cobras de areia” ou 
 material  pesado,  para  não  permitir  a  saída  de  ar.  Deixar 
 duas aberturas pequenas nos cantos, em lados opostos.
@@ -8332,7 +8322,7 @@ temperaturas acima de 25 oC, variando de 96 horas para sementes,
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 120 horas para sacarias, 240 horas para silos metálicos e porões de 
 navios e 280 horas para graneleiros horizontais. Para temperaturas 
 entre 15 oC e 25 oC, recomenda-se prolongar o tempo de exposição 
@@ -8373,7 +8363,7 @@ mesmo ponto e facilitar a difusão do gás e a efetividade do expurgo.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 357 
 
 Após  o  controle  das  pragas  de  grãos  armazenados,  que 
@@ -8397,9 +8387,9 @@ irão garantir a qualidade do grão.
 227
 
 
- 500pr_pgnumber228
-
  500pr_pgnumber229
+
+ 500pr_pgnumber230
 14   
 
 Utilização do Sorgo 
@@ -8412,7 +8402,7 @@ Roberto Guimarães Júnior
 Jose Nildo Tabosa
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 358 
 
 Quais são as principais formas de utilização do sorgo na 
@@ -8457,7 +8447,7 @@ longos,  alturas  superiores  a  2  m  e  caracterizam-se  pela  grande
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 capacidade de produção de matéria verde. Essas variedades podem 
 ser subdivididas em: a) forrageiros com baixa produção de grãos e 
 baixo teor de açúcares solúveis; b) forrageiros com baixa produção de 
@@ -8503,7 +8493,7 @@ O principal componente do grão de sorgo é o amido (63%), composto
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 por  cerca  de  70%  a  80%  de  amilopectina  e  de  20%  a  30%  de 
 amilose. Quando comparado ao milho, apresenta menores teores 
 de extrato etéreo (3,0%) e teores de proteína ligeiramente superiores 
@@ -8546,7 +8536,7 @@ tendência  à  produção  de  calor  e  ao  crescimento  de  fungos,  por
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 causa da dificuldade de compactação e exclusão do oxigênio. Além 
 disso,  o  material  mais  seco,  por  ter  menor  calor  específico,  sofre 
 um aumento de temperatura maior com a mesma quantidade de 
@@ -8591,7 +8581,7 @@ planta,  na  forma  de  uso  e  na  composição  genética.  O  sorgo
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 forrageiro é utilizado como volumoso na forma de silagem. Tem alta 
 produtividade de matéria verde bem como maior altura de plantas. 
 O  sorgo  granífero  possui  menor  porte,  para  facilitar  a  colheita 
@@ -8633,7 +8623,7 @@ refere ao uso de menores espaçamentos no sorgo forrageiro.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 368 
 
 Qual  é  a  profundidade  de  plantio  recomendada  para  o 
@@ -8675,7 +8665,7 @@ segunda safra ou em plantios atrasados no Cerrado brasileiro.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 372  Que grãos são mais nutritivos, os de sorgo ou de milho?
 
 O sorgo apresenta nível de proteína bruta um pouco superior 
@@ -8710,7 +8700,7 @@ para produção de silagem de boa qualidade.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 374 
 
 Qual  dos  cereais  é  mais  tolerante  à  seca:  o  milho  ou  o 
@@ -8750,7 +8740,7 @@ feno e pastejo.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 376 
 
 Quantos quilos de sementes de sorgo 
@@ -8793,7 +8783,7 @@ nutritivo e alta produção de forragem.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 379  Pode-se ensilar o sorgo de pastejo?
 
 Planta  de  rápido  crescimento,  vigorosa  e  de  abundante 
@@ -8837,7 +8827,7 @@ quando a semeadura é realizada mais tardiamente pode haver efeito
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 de fotoperiodismo, que reduz, principalmente, o porte da planta e 
 afeta a produção de matéria seca total. No Sudeste e no Centro- 
 -Oeste do País, o semeio é feito a partir de meados de dezembro 
@@ -8878,7 +8868,7 @@ A secagem é lenta, principalmente quando se desenvolvem colmos
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 grossos. Para facilitar a secagem, recomenda-se cultivar um material 
 de colmo mais fino, utilizar maior densidade de plantio e coletar as 
 plantas mais cedo.
@@ -8922,7 +8912,7 @@ corte).
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 386 
 
 Qual é o espaçamento entre linhas de plantio de sorgo de 
@@ -8964,7 +8954,7 @@ que haja suplementação de água.
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 388  O sorgo de pastejo é tóxico para os ruminantes?
 
 A habilidade das plantas em produzir ácido cianídrico (HCN), 
@@ -9006,7 +8996,7 @@ altura. Segundo Wall e Ross (1975), níveis de 25 mg até 50 mg de
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 HCN por 100 g de matéria seca são considerados inofensivos para 
 ruminantes e níveis de 75 mg a 100 mg ou mais são perigosos.
 
@@ -9059,7 +9049,7 @@ Se acontecer, sugere-se usar o seguinte tratamento:
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 Solução A
 
 Solução B
@@ -9107,7 +9097,7 @@ mercado brasileiro de sementes deixou de vender híbridos de sorgo
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 com tanino para plantio na safrinha. O mercado interno de grãos 
 de sorgo, representado na sua totalidade pelas indústrias de rações, 
 demanda grãos sem tanino. Entretanto, no Brasil a comercialização 
@@ -9134,7 +9124,7 @@ o consumo pelo animal.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 15   
 
 O Sorgo na 
@@ -9149,7 +9139,7 @@ Frederico Augusto Ribeiro de Barros
 Hércia Stampini Duarte Martino
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 394 
 
 No  Brasil,  o  sorgo  é  conhecido  como  cereal  para 
@@ -9188,7 +9178,7 @@ humanos.
 248
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 396 
 
 Quais são as vantagens de se utilizar o sorgo na alimentação 
@@ -9229,7 +9219,7 @@ as  fibras  alimentares,  no  pericarpo  dos  grãos  de  sorgo.  Assim,  a
 249
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 concentração tanto de lipídios quanto de fibras na farinha de sorgo 
 dependerá da extensão da remoção do pericarpo e do gérmen, nos 
 processos de decorticação, de germinação e de moagem dos grãos.
@@ -9272,7 +9262,7 @@ que os consumidores gostaram de todos os produtos desenvolvidos.
 250
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 Outros produtos à base de farinha de sorgo, como cereais matinais, 
 farinha solúvel, pães e macarrão sem glúten, já foram desenvolvidos 
 e encontram-se em fase final de avaliação.
@@ -9316,7 +9306,7 @@ cultivares  de  sorgo  mais  pigmentadas,  como  as  marrons  e  as
 251
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 vermelhas,  em  combinação  com  outros  ingredientes,  fornecem 
 produtos de panificação de coloração mais escura, desejáveis pela 
 aparência “natural” e saudável de produto integral. Usualmente, na 
@@ -9362,7 +9352,7 @@ as 3-deoxiantocianidinas e os taninos, especialmente aqueles que
 252
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 apresentam pericarpo de coloração vermelha, marrom e negra, que 
 podem  beneficiar  a  saúde  humana.  Acredita-se,  também,  que  o 
 conteúdo de fibra alimentar e o tipo de amido presente nesse cereal 
@@ -9408,7 +9398,7 @@ suínos e as aves, pois esses compostos interagem com proteínas e
 253
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 carboidratos presentes no alimento e diminuem seu aproveitamento 
 pelo  organismo,  o  que  provoca  um  menor  ganho  de  peso  dos 
 animais.  Porém,  essa  baixa  digestibilidade  dos  carboidratos  e 
@@ -9452,7 +9442,7 @@ vitaminas, e na farinha de trigo, há enriquecimento de ferro.
 254
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 Em  geral,  dependendo  da  temperatura  do  processamento, 
 haverá redução na quantidade de compostos fenólicos em produtos 
 à base de sorgo. No entanto, comparando com produtos à base de 
@@ -9495,7 +9485,7 @@ textura durante a produção de pães. Assim, para produção de pães
 255
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 de boa qualidade, o ideal é utilizar uma mistura de farinhas sem 
 glúten, como, por exemplo, farinha de sorgo e de arroz, bem como 
 adicionar  outros  ingredientes,  como  gomas  (ex.:  goma  arábica),  e 
@@ -9538,7 +9528,7 @@ com o pericarpo.
 256
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 É  importante  salientar  que  atualmente  há  grande  demanda 
 por  produtos  integrais,  pois  as  fibras  e  a  maioria  dos  compostos 
 bioativos  importantes  para  a  saúde  humana  concentram-se  nessa 
@@ -9582,7 +9572,7 @@ com  aparência  de  produto  integral,  deve-se  dar  preferência  aos
 257
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 grãos  de  cor  bronze,  marrom-clara  ou  vermelha.  Por  sua  vez,  se 
 a intenção é preparar um produto com sabor de chocolate, como 
 bolos e cookies, o ideal é utilizar grãos de coloração marrom.
@@ -9625,7 +9615,7 @@ soja.  O  grão  de  sorgo,  por  ser  mais  barato  e  ter  quase  o  mesmo
 258
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 valor nutricional do milho, possui grande liquidez no mercado. Ao 
 ser colhido, o grão de sorgo é destinado diretamente à produção 
 de  ração.  Portanto,  semelhantemente  a  outros  cereais,  para  que 
@@ -9669,7 +9659,7 @@ e pipoca já são encontrados nesse mercado.
 259
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 Assim,  acredita-se  que,  também  no  Brasil,  o  mercado  de 
 produtos à base de sorgo já seja realidade e a prova disso é que já 
 há produtores interessados em produzir farinha de sorgo. A indústria 
@@ -9712,7 +9702,7 @@ grãos.
 260
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 414 
 
 Como  está  o  interesse  das  empresas  alimentícias  em 
@@ -9757,7 +9747,7 @@ essa  característica  é  muito  interessante  em  humanos,  pois,  além
 261
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 da  alta  capacidade  antioxidante  dos  taninos,  há  uma  redução  na 
 digestibilidade  do  amido  e  das  proteínas  por  causa  da  interação 
 com taninos, o que previne, dessa forma, doenças como obesidade, 
@@ -9803,7 +9793,7 @@ para fazer fubá de milho ou farinha de trigo.
 262
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 •	 Método úmido: lavar os grãos e colocá-los em um recipiente 
 com água, na proporção de uma parte de sorgo para quatro 
 partes  de  água,  e  deixar  no  remolho  por  três  dias,  tendo 
@@ -9847,7 +9837,7 @@ Ingredientes
 263
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 Opcional
 ½ xícara de chá de uvas passas
 ½ xícara de chá de nozes picadas
@@ -9882,7 +9872,7 @@ Ingredientes da calda
 264
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 Preparo do bolo
 Bater  os  quatro  primeiros  ingredientes  no  liquidificador  até 
 que  a  mistura  fique  bem  homogênea  e  a  cenoura  bem  triturada. 
@@ -9922,7 +9912,7 @@ Ingredientes
 265
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 Modo de preparar
 Misturar  bem  todos  os  ingredientes  secos.  Em  seguida, 
 acrescentar a margarina e o ovo e amassar a mistura com as mãos 
@@ -9937,7 +9927,7 @@ Rendimento: aproximadamente 50 cookies pequenos.
 266
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 16   
 
 Integração Lavoura- 
@@ -9950,7 +9940,7 @@ Emerson Borghi
 Miguel Marques Gontijo Neto
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 419 
 
 O sorgo é uma boa opção de cultivo na integração lavoura- 
@@ -9990,7 +9980,7 @@ plantio direto.
 268
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 421  Em quais arranjos do sistema ILPF é possível cultivar sorgo?
 
 A  cultura  do  sorgo  pode  ser  utilizada  satisfatoriamente  nas 
@@ -10029,7 +10019,7 @@ no mesmo momento ou em momentos diferentes, dependendo de
 269
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 cada situação e do objetivo a que se 
 destina  o  uso  do  sorgo  e  do  capim. 
 O  primeiro  caso  é  a  semeadura 
@@ -10072,7 +10062,7 @@ das análises servirão como base para determinar as quantidades de
 270
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 nutrientes que serão adicionados via fertilizantes e, caso necessário, 
 a quantidade de corretivos a serem aplicados antes da semeadura. 
 O  produtor  deve  optar  por  cultivares  recomendadas  para  sua 
@@ -10109,7 +10099,7 @@ de capim com 50% de VC, serão consumidos 8 kg/ha.
 271
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 427 
 
 Que  quantidade  de  adubo  deve  ser  aplicada  no  sorgo 
@@ -10153,7 +10143,7 @@ técnico para auxiliar nessa etapa.
 272
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 429 
 
 No  consórcio  com  o  sorgo,  quais  herbicidas  podem  ser 
@@ -10196,7 +10186,7 @@ caso, podem-se adotar espaçamentos adequa-
 273
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 dos de acordo com o equipamento de ensilagem ou a aquisição de 
 equipamentos que permitem a colheita do sorgo para ensilagem em 
 área total. Outra constatação é o fato de as ensiladeiras de duas linhas 
@@ -10239,7 +10229,7 @@ competição, prejudicando a produtividade de sorgo. Recomenda-
 274
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 a  recomendada,  porque  a  competição  do  sorgo  associada  às 
 condições climáticas, de restrição hídrica, podem impedir que haja 
 adequada formação da pastagem.
@@ -10282,7 +10272,7 @@ perdas por ataque de aves. Após a colheita e antes do ensilamento,
 275
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 os  grãos  devem  ser  moídos  finos  (para  alimentação  de  suínos), 
 quebrados ou laminados (para a de bovinos), a fim de que ocorra 
 melhor  compactação  e,  consequentemente,  a  eliminação  do 
@@ -10327,7 +10317,7 @@ simultaneamente à semeadura do sorgo (na mesma linha de plantio)
 276
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 e após a semeadura do sorgo. No primeiro caso, as sementes são 
 lançadas na área e a incorporação pode ser feita com grade niveladora. 
 No  consórcio  simultâneo,  as  sementes  da  forrageira  podem  ser 
@@ -10371,7 +10361,7 @@ utilização da pastagem é menor, de 30 a 40 dias, e vai depender
 277
 
 
- 500pr_pgnumber278
+ 500pr_pgnumber279
 bastante  da  altura  de  corte  das 
 plantas de sorgo e da disponibi-
 lidade de chuvas após a ensila-
@@ -10415,7 +10405,7 @@ permanece  vivo,  possibilitando  a  rebrota.  A  tolerância  ao  deficit
 278
 
 
- 500pr_pgnumber279
+ 500pr_pgnumber280
 hídrico também potencializa a rebrota. Com isso, o ganho em massa 
 verde é considerável em relação a outras espécies, como o milho, 
 por  exemplo.  Se  as  condições  climáticas  não  forem  favoráveis  a 
@@ -10447,9 +10437,9 @@ particular.
 279
 
 
- 500pr_pgnumber280
-
  500pr_pgnumber281
+
+ 500pr_pgnumber282
 17   
 
 Sorgo Bioenergia
@@ -10465,7 +10455,7 @@ Cynthia Maria Borges Damasceno
 Robert Eugene Schaffert
 
 
- 500pr_pgnumber282
+ 500pr_pgnumber283
 442  Quais são as principais características do sorgo sacarino?
 
 O sorgo sacarino é um tipo de sorgo com alto potencial para 
@@ -10507,7 +10497,7 @@ do que a sacarose.
 282
 
 
- 500pr_pgnumber283
+ 500pr_pgnumber284
 444  O que é o grau Brix do caldo de sorgo sacarino?
 
 Brix  é  um  parâmetro  de  qualidade  tecnológica.  É  bastante 
@@ -10549,7 +10539,7 @@ com  a  região  de  plantio.  Dessa  forma,  a  partir  do  florescimento,
 283
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 ocorre um aumento significativo dos teores de açúcares nos colmos 
 a cada semana, atingindo o pico de maturação entre 30 e 40 dias 
 após o florescimento. Contudo, fatores ambientais, como quantidade 
@@ -10591,7 +10581,7 @@ que podem ser utilizados para alimentação animal.
 284
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 449 
 
 O  que  é  o  etanol  de  segunda  geração,  2G  ou  etanol 
@@ -10635,7 +10625,7 @@ sua produção ainda apresenta alguns obstáculos que podem ou não
 285
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 ser  específicos  da  cultura  utilizada  como  matéria-prima.  Entre  os 
 principais problemas, destacam-se: 
 
@@ -10680,7 +10670,7 @@ pela falta de leveduras comerciais que fermentem açúcares de cinco
 286
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 e seis carbonos (C5, C6) simultaneamente, o ideal é a obtenção de 
 aumento  de  celulose  (apenas  C6)  em  relação  à  hemicelulose  (C5 
 e C6) para incrementar a produção final de etanol. Entretanto, no 
@@ -10721,7 +10711,7 @@ A  determinação  do  poder  calorífico  de  uma  matéria-prima
 287
 
 
- 500pr_pgnumber288
+ 500pr_pgnumber289
 cogeração  de  energia.  É  uma  medida  experimental  realizada  em 
 laboratório  para  determinar  a  quantidade  de  calor  liberada  pela 
 combustão  completa  da  unidade  de  massa  (ou  volume)  de  um 
@@ -10764,7 +10754,7 @@ maiores  entre  as  linhas  alternadas  para  passagem  da  esteira  ou
 288
 
 
- 500pr_pgnumber289
+ 500pr_pgnumber290
 rodado da máquina. Portanto, o dimensionamento do espaçamento 
 entre linhas está bastante atrelado ao parque de máquinas disponível 
 na propriedade. 
@@ -10808,7 +10798,7 @@ ser de risco, uma vez que o veranico de janeiro, que ocorre com
 289
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 muita frequência no Centro-Sul brasileiro, tem grandes chances de 
 afetar o desenvolvimento das plantas, já que o seu efeito negativo 
 coincidirá  com  o  momento  em  que  as  plantas  estarão  definindo 
@@ -10851,7 +10841,7 @@ ocorrer  a  partir  do  mês  de  abril,  período  que  associa  máxima
 290
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 produção de matéria seca com menor umidade 
 da biomassa (60% a 50%). As colheitas no mês 
 de  março  possuem  limitação  do  alto  teor  de 
@@ -10863,9 +10853,9 @@ a umidade por meio do uso de dessecantes.
 291
 
 
- 500pr_pgnumber292
-
  500pr_pgnumber293
+
+ 500pr_pgnumber294
 18   
 
 Sorgo Safrinha
@@ -10876,7 +10866,7 @@ Alexandre Ferreira da Silva
 Flávio Dessaune Tardin
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 458  O que é sorgo safrinha? 
 
 A  produção  das  principais  culturas 
@@ -10916,7 +10906,7 @@ Para plantio do sorgo, é importante haver umidade pelo menos até
 294
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 o  início  da  formação  do  grão.  Na  região  Sul,  o  sorgo  é  plantado 
 somente no verão. No Nordeste, o sorgo é plantado na época das 
 chuvas, que compreende os meses de março a abril.
@@ -10953,7 +10943,7 @@ Sudão, Etiópia, China, Brasil, Burkina Faso e Austrália.
 295
 
 
- 500pr_pgnumber296
+ 500pr_pgnumber297
 462 
 
 Que fatores são considerados importantes no planejamento 
@@ -10996,7 +10986,7 @@ região de cultivo e evitar escolher com base em dados de outras
 296
 
 
- 500pr_pgnumber297
+ 500pr_pgnumber298
 regiões.  Quanto  mais  informações  o  produtor  tiver  a  respeito  do 
 híbrido, menores serão os riscos de perda de produtividade. Na falta 
 de dados concretos de desempenho dos híbridos, principalmente 
@@ -11044,7 +11034,7 @@ que  comprometem  a  produtividade.
 297
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 Além  disso,  o  agricultor  pode  sempre  avaliar  novos  híbridos  que 
 chegam  ao  mercado,  sem  grandes  mudanças  no  seu  sistema  de 
 produção.
@@ -11083,7 +11073,7 @@ causa de ventos nos meses de julho e agosto. A retirada da palhada
 298
 
 
- 500pr_pgnumber299
+ 500pr_pgnumber300
 do sorgo após a colheita do grão prejudica o sistema plantio direto 
 utilizado na cultura subsequente.
 
@@ -11123,7 +11113,7 @@ longo do ciclo da cultura.
 299
 
 
- 500pr_pgnumber300
+ 500pr_pgnumber301
 471 
 
 Qual é o espaçamento mais adequado para a cultura do 
@@ -11165,7 +11155,7 @@ plantio do sorgo.
 300
 
 
- 500pr_pgnumber301
+ 500pr_pgnumber302
 474 
 
 Quais são os principais fatores que limitam a semeadura 
@@ -11207,7 +11197,7 @@ sorgo relaciona-se a sua tolerância maior à seca, quando comparado
 301
 
 
- 500pr_pgnumber302
+ 500pr_pgnumber303
 a outras cereais. Mas, assim como as outras culturas, o sorgo é muito 
 exigente em nutrientes para o alcance de elevadas produtividades.
 
@@ -11247,7 +11237,7 @@ segmentadas-por-uf>.
 302
 
 
- 500pr_pgnumber303
+ 500pr_pgnumber304
 476  Há necessidade de adubar o sorgo safrinha?
 
 Sim.  Para  obtenção  de  elevadas  produtividades,  é  essencial 
@@ -11290,7 +11280,7 @@ menor custo e maior estabilidade de produção, principalmente em
 303
 
 
- 500pr_pgnumber304
+ 500pr_pgnumber305
 condições  de  deficit  hídrico.  Muitos  produtores,  ao  optarem  pela 
 semeadura  tardia  do  milho  safrinha,  obtêm  baixo  rendimento  de 
 grãos, principalmente em razão da ocorrência de deficit hídrico em 
@@ -11331,7 +11321,7 @@ o  sorgo  forrageiro,  destinado  à  produção  de  silagem,  é  plantado
 304
 
 
- 500pr_pgnumber305
+ 500pr_pgnumber306
 no verão para colheita de primeiro corte e deixado no campo para 
 rebrota na safrinha para produção de um segundo corte.
 
@@ -11372,7 +11362,7 @@ e  da  degrana  natural  da  cultivar.  Já  quando  armazenado  a  céu
 305
 
 
- 500pr_pgnumber306
+ 500pr_pgnumber307
 aberto, as perdas de rendimento se limitam ao ataque de pragas. Ao 
 optar por essas modalidades de armazenamento, a qualidade dos 
 grãos pode ser afetada negativamente, pois os grãos ficam expostos 
@@ -11416,7 +11406,7 @@ adotar. Já a semeadura da forrageira realizada em duas operações
 306
 
 
- 500pr_pgnumber307
+ 500pr_pgnumber308
 é o método com maiores chances de formação do capim, porém 
 é o mais oneroso por causa do seu custo operacional. O semeio 
 da  forrageira  na  pós-emergência  do  sorgo,  ocorre  normalmente 
@@ -11455,7 +11445,7 @@ representado por híbridos sem tanino nos grãos. Há muitos anos,
 307
 
 
- 500pr_pgnumber308
+ 500pr_pgnumber309
 o  mercado  brasileiro  de  sementes  deixou  de  vender  híbridos  de 
 sorgo  com  tanino  para  plantio  na  safrinha.  O  mercado  interno 
 de grãos de sorgo, representado na sua totalidade pelas indústrias de 
@@ -11468,7 +11458,7 @@ muito intenso nas lavouras.
 308
 
 
- 500pr_pgnumber309
+ 500pr_pgnumber310
 19   
 
 Economia
@@ -11480,7 +11470,7 @@ João Carlos Garcia
 Jason de Oliveira Duarte
 
 
- 500pr_pgnumber310
+ 500pr_pgnumber311
 486 
 
 Qual  é  a  importância  do  sorgo  em  comparação  com  as 
@@ -11556,7 +11546,7 @@ Produção (milhão de toneladas)
 310
 
 
- 500pr_pgnumber311
+ 500pr_pgnumber312
 487 
 
 Quais  são  os  principais  países  produtores  de  sorgo  no 
@@ -11666,7 +11656,7 @@ Fonte: Estados Unidos (2014a).
 59,69
 
 
- 500pr_pgnumber312
+ 500pr_pgnumber313
 488  Quais são os principais países exportadores de sorgo?
 
 O sorgo tem como característica a produção para consumo 
@@ -11752,7 +11742,7 @@ Esse fato apresenta grande relevância, considerando que, em 2010–
 312
 
 
- 500pr_pgnumber313
+ 500pr_pgnumber314
 para  dimensionar  a  responsabilidade  da  escassez  de  milho  no 
 mercado  internacional,  resultante  da  quebra  da  safra  americana, 
 em  razão  do  aumento  das  compras  chinesas.  No  entanto,  duas 
@@ -11850,7 +11840,7 @@ anos. Em 2013–2014, chegou a ser o segundo maior consumidor,
 313
 
 
- 500pr_pgnumber314
+ 500pr_pgnumber315
 com 6,8 milhões de toneladas. Assim como na produção, ainda é 
 cedo para avaliar o impacto negativo da oferta de milho em 2013 
 sobre o consumo chinês de sorgo, pois, além do relativo equilíbrio 
@@ -11967,7 +11957,7 @@ nos  países  da  América  do  Norte,  América  Central,  América  do
 314
 
 
- 500pr_pgnumber315
+ 500pr_pgnumber316
 Sul e Oceania, a maior parte do sorgo consumido é direcionado à 
 alimentação animal. 
 
@@ -12053,7 +12043,7 @@ Continua...
 315
 
 
- 500pr_pgnumber316
+ 500pr_pgnumber317
 Tabela 6. Continuação.
 
 Região/UF
@@ -12162,7 +12152,7 @@ referente a 15,11% da média nacional e 13,47% da média do Centro-
 316
 
 
- 500pr_pgnumber317
+ 500pr_pgnumber318
 Tabela  7.  Produtividade  de  sorgo  granífero  no  Brasil,  em  kg  (período  de 
 2010–2011 a 2013–2014).
 
@@ -12312,7 +12302,7 @@ seguintes produtos agropecuários: açúcar; boi gordo; café arábica;
 317
 
 
- 500pr_pgnumber318
+ 500pr_pgnumber319
 etanol;  milho  e  soja.  Por  sua  vez,  o  sorgo  pode  ser  negociado 
 em  contratos  particulares  (negociação  direta  entre  produtor  e 
 comprador), denominados de contratos a termo, que não necessitam 
@@ -12396,7 +12386,7 @@ Continua...
 318
 
 
- 500pr_pgnumber319
+ 500pr_pgnumber320
 Tabela 8. Continuação.
 
 Região/
@@ -12501,7 +12491,7 @@ terceiros ou próprios.
 319
 
 
- 500pr_pgnumber320
+ 500pr_pgnumber321
 O produtor também pode cobrir a sua produção por seguros 
 privados, podendo conseguir a redução dos custos da contratação 
 do seguro por meio do Programa de Subvenção ao Prêmio do Seguro 
@@ -12543,7 +12533,7 @@ cooperativas serão os titulares dos contratos.
 320
 
 
- 500pr_pgnumber321
+ 500pr_pgnumber322
 Prêmio para Escoamento de Produto (PEP)
 É  uma  subvenção  econômica  para  escoar  produtos  do  seu 
 local  de  produção  para  onde  será  consumido.  Os  beneficiários 
@@ -12585,7 +12575,7 @@ AGF, foram adquiridas 24 mil toneladas de sorgo entre 2006 e 2009,
 321
 
 
- 500pr_pgnumber322
+ 500pr_pgnumber323
 totalizando 4 milhões de reais de recursos. A última vez que foram 
 negociados contratos de Opção de Venda de sorgo foi em 2003, 
 quando foram vendidos 94 mil toneladas do grão, com os valores 
@@ -12631,7 +12621,7 @@ de 2013, o custo total de produção da saca de sorgo foi de R$ 18,06
 322
 
 
- 500pr_pgnumber323
+ 500pr_pgnumber324
 para um preço esperado de R$ 20,59 e uma produtividade esperada 
 de  55  sacas,  totalizando  um  lucro  de  R$  139,15  por  hectare.  No 
 que tange ao milho, os dados da Faeg para a safra de inverno de 
@@ -12669,224 +12659,4 @@ ainda são muito incipientes e pouco representativos.
 
 323
 
-
- 500pr_pgnumber324
-Tabela 9. Valor da produção de sorgo granífero (mil reais), em 2007–2012.
-
-2007
-3.323
-35.233
-165.412
-93.325
-19.035
-316.327
-
-2008
-11.167
-50.843
-324.941
-109.910
-19.349
-516.210
-
-2009
-16.971
-37.942
-216.874
-75.748
-15.694
-363.229
-
-2010
-16.922
-33.186
-173.198
-88.410
-11.902
-323.620
-
-2011
-4.866
-76.602
-312.514
-135.719
-14.374
-544.075
-
-2012
-8.877
-14.027
-357.439
-163.535
-11.847
-555.635
-
-Norte
-Nordeste
-Centro-Oeste
-Sudeste
-Sul
-Brasil
-Fonte: IBGE (2014).
-
-324
-
-
- 500pr_pgnumber325
-Referências
-
-ALDRICH, S. R.; SCOTT, W. O.; LENG, E. R. Water management. In: 
-ALDRICH, S. R.; SCOTT, W. O.; LENG, E. R. Modern corn production. 2. ed. 
-Champaign: A & L Publication, 1982. p. 189.
-
-ALLEN, R. G.; PEREIRA, L. S.; RAES, D.; SMITH, M. Crop evapotranspiration: 
-(guidelines for computing crop water requirements). Rome: FAO, 1998. 174 p. 
-(FAO Irrigation and Drainage Paper, 56). Disponível em: <www.kimberly.
-uidaho.edu/water/fao56/fao56.pdf>. Acesso em: 21 out. 2014.
-
-BARROS, F.; AWIKA, J. M.; ROONEY, L. W. Interaction of tannins and other 
-sorghum phenolic compounds with starch and effects on in vitro starch 
-digestibility. Journal of Agricultural and Food Chemistry, Washington, DC 
-v. 60, p. 11609-11617, 2012.
-
-BRASIL. Lei nº 12.727, de 17 de outubro de 2012. Altera a Lei no 12.651, de 
-25 de maio de 2012, que dispõe sobre a proteção da vegetação nativa; altera 
-as Leis nos 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 
-1996, e 11.428, de 22 de dezembro de 2006... 2012. Disponível em: <http://
-www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12727.htm>. Acesso 
-em: 15 nov. 2014.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Instrução 
-Normativa Conjunta nº 1, de 16 de junho de 2014. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 18 jun. 2014a. Seção 1, p. 4.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Portarias 
-segmentadas por UF: portarias de zoneamento agrícola de risco climático por 
-Unidade da Federação. Disponível em: <http://www.agricultura.gov.br/
-politica-agricola/zoneamento-agricola/portarias-segmentadas-por-uf>. Acesso 
-em: 11 set. 2014b.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Portaria nº 268, 
-de 22 de agosto de 1984. Aprova as presentes Normas de Identidade, 
-Qualidade, Apresentação e Embalagem do Sorgo. 1984. Disponível em: 
-<www.codapar.pr.gov.br/arquivos/File/pdf/sorgo.pdf>. Acesso em: 20 ago. 
-2014.
-
-CONAB (Brasil). PGPM: política de garantia de preços mínimos. Brasília, DF, 
-2014a. Disponível em: <http://consultaweb.conab.gov.br/consultas/
-consultaPgpm.do?method=acaoCarregarConsulta>. Acesso em: 16 jun. 2014.
-
-325
-
-
- 500pr_pgnumber326
-CONAB (Brasil). Safras: séries histórias: sorgo. Brasília, DF, 2014b. Disponível 
-em: <http://www.conab.gov.br/conteudos.php?a=1252&t=2>. Acesso em: 16 
-jun. 2014.
-
-DICKO, M. H.; GRUPPEN, H.;TRAORÉ, A. S.; VORAGEN, A. J.; BERKEL, W. 
-Sorghum grain as human food in Africa: relevance of content of starch and 
-amylase activities. African Journal of Biotechnology, Nairobi, v. 5, n. 5, 
-p. 384-395, 2006.
-
-DOORENBOS, J.; KASSAN, A. H. Yields response to water. Rome: FAO, 1979. 
-193 p. (FAO Irrigation and Drainage Paper, 33).
-
-DOORENBOS, J.; PRUITT, W. O. Crop water requirements: guidelines for 
-predicting. Rome: FAO, 1977. 144 p. (FAO Irrigation and Drainage Paper, 24). 
-Disponível em: <www.fao.org/docrep/018/f2430e/f2430e.pdf>. Acesso em: 4 
-set. 2014.
-
-ESTADOS UNIDOS. Department of Agriculture. Grain: world markets and 
-trade. Sept. 2014a. Disponível em: <http://apps.fas.usda.gov/psdonline/
-circulars/grain.pdf>. Acesso em: 20 set. 2014.
-
-ESTADOS UNIDOS. Department of Agriculture. World agricultural 
-production. 2014b. Disponível em: <http://apps.fas.usda.gov/psdonline/
-circulars/production.pdf>. Acesso em: 20 set. 2014.
-
-FAO. Sorghum and millets in human nutrition. Rome, 1995. (FAO. Food and 
-Nutrition Series, 27). Disponível em: <http://www.fao.org/docrep/T0818E/
-T0818E00.htm>. Acesso em: 16 jun. 2014.
-
-FEDERAÇÃO DA AGRICULTURA E PECUÁRIA DE GOIÁS. Mercados e 
-cotações: custos de produção. Disponível em: <http://sistemafaeg.com.br/
-mercados-e-cotacoes/custo-de-producao>. Acesso em: 16 jun. 2014.
-
-HANCOCK, J. D. Value of sorghum and sorghum coproducts in diets for 
-livestock. In: SMITH, C. W.; FREDERICKSON, R. A. (Ed.). Sorghum: origin, 
-history, technology and production. New York: John Willey & Sons, 2000. 
-p. 731-751. (Willey Series in Crop Science, 2).
-
-IBGE. Produção agrícola municipal 2013. Disponível em: <http://www.sidra.
-ibge.gov.br/bda/pesquisas/pam/default.asp?o=18&i=P>. Acesso em: 16 jun. 
-2014.
-
-326
-
-
- 500pr_pgnumber327
-MARTINO, H. S. D.; TOMAZ, P. A.; MORAES, E. A.; CONCEIÇÃO, L. L.; 
-OLIVEIRA, D. S.; QUEIROZ, V. A. V.; RODRIGUES, J. A. S.; PIROZI, M. R.; 
-PINHEIRO-SANT’ANA, H. M.; RIBEIRO, S. M. R. Chemical characterization 
-and size distribution of sorghum genotypes for human consumption. Revista 
-do Instituto Adolfo Lutz, São Paulo, v. 71, n. 2, p. 337-344, 2012.
-
-QUEIROZ, V. A. V.; MORAES, E. A.; MARTINO, H. S. D.; PAIVA, C. L.; 
-MENEZES, C. B. de. Potencial do sorgo para uso na alimentação humana. 
-Informe Agropecuário, Belo Horizonte, v. 35, n. 278, p. 7-12, jan./fev. 2014.
-
-SANCHEZ, D. A. White food-type sorghum in direct-expansion extrusion 
-applications. 2003. 132 f. Thesis (Master of Science in Food Science and 
-Technology) - Texas A&M University, Texas.
-
-SÃO PAULO (Estado). Assembleia Legislativa. Lei n. 6.171, de 4 de julho de 
-1988. Dispõe sobre o uso, conservação e preservação do solo agrícola. 1988. 
-Disponível em: <http://www.al.sp.gov.br/repositorio/legislacao/lei/1988/
-lei-6171-04.07.1988.html>. Acesso em: 7 jul. 2014.
-
-WALL, J. S.; ROSS, W. Producción y usos del sorgo. Buenos Aires: Hemisferio 
-Sur, 1975. 399 p. 
-
-WANISKA, R. D.; ROONEY, L. W. Structure and chemistry of the sorghum 
-caryopsis. In: SMITH, C. W.; FREDERIKSEN, R. A. (Ed.). Sorghum: origin, 
-history, technology and production. New York: John Willey & Sons, 2000. 
-p. 649-688. (Willey Series in Crop Science, 2).
-
-327
-
-
- 500pr_pgnumber328
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta preencha
-nosso formulário de atendimento na internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?
-
-id=90000032
-
-•••
-
-
- 500pr_pgnumber329
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber330
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber331
 

@@ -1,22 +1,5 @@
 
- 500pr_pgnumber015
-1
-
-O Ecossistema Pantanal 
-e os Recursos Pesqueiros
-
-Débora Karla Silvestre Marques
-
-Renata Daniella Vargas
-Ricardo Pinheiro Lima
-
-Rosana Aparecida Cândido Pereira Santos
-
-Débora Fernandes Calheiros
-Márcia Divina de Oliveira
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 O que são recursos pesqueiros?
@@ -62,7 +45,7 @@ local.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 5
 
 O que é estoque pesqueiro?
@@ -111,7 +94,7 @@ políticas que visem à proteção a longo prazo das espécies, habitats
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 e  ecossistemas,  além  da  manutenção  dos  processos  ecológicos. 
 Quando a intenção é preservar determinado recurso, é vetada a 
 sua utilização, exploração ou explotação.
@@ -159,7 +142,7 @@ grande influência sobre o organismo desses animais, embora eles
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 possam tolerar grandes variações de temperatura. Para exemplificar 
 essa  influência,  podemos  dizer  que  a  diminuição  brusca  de 
 temperatura  pode,  por  exemplo,  cessar  a  liberação  de  ovos  e 
@@ -205,7 +188,7 @@ maior  a  concentração  de  perifíton  inorgânico  (sedimento)  em
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 relação  ao  orgâ-
 nico (algas), o que 
 diminui  a  oferta 
@@ -248,7 +231,7 @@ das algas.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 19
 
 O que é decoada?
@@ -294,7 +277,7 @@ próxima à foz, onde ocorre o aumento da transparência da água.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 23
 
 De que forma o assoreamento de um rio no Pantanal afeta 
@@ -350,7 +333,7 @@ DA
 ALIMENTAÇÃO
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 26
 
 Como o pulso de inundação influencia a reprodução dos 
@@ -394,7 +377,7 @@ minem  o  ambiente  com  a  introdução,  por  exemplo,  de  metais
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 pesados e mercúrio; pesca desordenada, não respeitando as me-
 didas de ordenamento, que visam proteger os estoques.
 
@@ -437,7 +420,7 @@ indicativo de sobrepesca no Pantanal.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 32
 
 Quais são as características que devem ser consideradas 
@@ -484,7 +467,7 @@ origem natural ou antrópica (causados pelo homem). Por meio de
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 diferentes  mecanismos,  eles  podem  reduzir  a  produção  natural 
 dos  estoques  pesqueiros  e,  consequentemente,  a  quantidade  de 
 peixes disponíveis para a pesca.
@@ -492,7 +475,7 @@ peixes disponíveis para a pesca.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 2
 
 O Pescador Profissional e 
@@ -508,7 +491,7 @@ André Steffens Moraes
 Jorge Antônio Ferreira de Lara
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 35
 
 Qual é o valor da diversidade de peixes para o desenvol­
@@ -554,7 +537,7 @@ ecológicas, para que possa ser continuamente explorado.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 38
 
 Como a pesca pode contribuir para a conservação dos re­
@@ -600,7 +583,7 @@ desenvolvimento regional.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 42
 
 Por que o conhecimento das comunidades tradicionais é 
@@ -647,7 +630,7 @@ para opinar na formatação das normas de manejo. Esses setores
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 também têm meios para encaminhamento de reivindicações para 
 as autoridades competentes quanto ao ordenamento da pesca.
 
@@ -692,7 +675,7 @@ das populações de peixes é diminuir em número de indivíduos.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 49
 
 Até que ponto uma população de peixes pode ser diminuída 
@@ -739,7 +722,7 @@ por visitantes brasileiros e estrangeiros.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 53
 
 O que poderia ser feito para que a produção de peixes no 
@@ -786,7 +769,7 @@ um limite de produção que tem relação com a qualidade do produto.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 57
 
 A  certificação  pode  ser  uma  opção  para  o  negócio  da 
@@ -833,7 +816,7 @@ pesqueiro é em função do tamanho ou da idade dos indivíduos, e
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 61
 
 Como é feita a avaliação dos estoques pesqueiros?
@@ -877,7 +860,7 @@ entre o ecossistema, o recurso pesqueiro e o homem.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 65
 
 O que é capacidade de suporte do estoque pes queiro?
@@ -921,7 +904,7 @@ sistema.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 68
 
 O que é sobrepesca ecossistêmica?
@@ -967,7 +950,7 @@ grega os pescadores profissionais, defende seus direitos e os orienta
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 em relação às questões da atividade pesqueira. Funciona de forma 
 semelhante  a  um  sindicato  e  deve  ter  personalidade  jurídica 
 estabe lecida.
@@ -986,7 +969,7 @@ produtos do pescado, gerando mais renda para os pescadores.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 3
 
 Manejo e Gestão 
@@ -1000,7 +983,7 @@ Débora Karla Silvestre Marques
 Rosana Aparecida Cândido Pereira Santos
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 73
 
 O que é gestão dos re cursos pesqueiros?
@@ -1045,7 +1028,7 @@ Grosso  do  Sul  entre  1994  e  2004.  O  SCPESCA/MS  serviu  de
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 referência para a criação do Sistema de Controle e Monitoramento 
 da Pesca de Mato Grosso (Siscomp/MT).
 
@@ -1089,7 +1072,7 @@ pacu ficou caracterizado sobrepesca. Como medidas de proteção,
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 aumentaram-se  os  tamanhos  mínimos  de  captura  dessas  duas 
 espécies.
 
@@ -1134,7 +1117,7 @@ ser estabelecidas para mais de uma espécie de peixe.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 83
 
 O manejo dos recursos pesqueiros pode ser o mesmo em 
@@ -1179,7 +1162,7 @@ dos de crescimento e de estrutura da população de peixes e estudos
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 de dinâmica de populações (que incluem estimativas de taxas de 
 crescimento  e  de  mortalidade  populacional).  Posteriormente  se 
 realizam estudos de avaliação de estoques pesqueiros, dos hábitos 
@@ -1224,7 +1207,7 @@ de captura.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 89
 
 Em  termos  de  manejo  para  a  conservação,  qual  é  mais 
@@ -1271,7 +1254,7 @@ da reprodução. Em determinada época do ano, os peixes que estão
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 fisiologicamente prontos para esse evento sobem o rio para regiões 
 onde  as  características  físico-químicas  da  água  garantem  a 
 fecundação dos óvulos e a sobrevivência das larvas.
@@ -1316,7 +1299,7 @@ espécies que realizam piracema.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 96
 
 Quem determina o período do defeso?
@@ -1363,7 +1346,7 @@ das  espécies  de  piracema.  No  Pantanal,  o  período  de  maior
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 intensidade  de  reprodução  dos  peixes  ocorre  de  novembro  a 
 fevereiro.
 
@@ -1410,7 +1393,7 @@ solte  apontam  para  certo  grau
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 de prejuízo ao bem-estar do animal após a soltura. Em alguns casos, 
 foi encontrada uma porcentagem pequena de morte em virtude das 
 injúrias causadas pelo anzol ou manipulação. Assim, não se pode 
@@ -1454,9 +1437,9 @@ predação.
 49
 
 
- 500pr_pgnumber050
-
  500pr_pgnumber051
+
+ 500pr_pgnumber052
 4
 
 Pesca no Pantanal do 
@@ -1472,7 +1455,7 @@ Agostinho Carlos Catella
 André Steffens Moraes
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 107
 
 Quais são as modalidades de pesca que ocorrem no Pan­
@@ -1519,7 +1502,7 @@ quática.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 111
 
 O que caracteriza a pesca profissional artesanal?
@@ -1568,7 +1551,7 @@ guindo-se  os  rios  Aquidauana  (5,5%),  Taquari  (5,2%),  Cuiabá
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 116
 
 Em que época do ano a pesca profissional é mais intensa?
@@ -1614,7 +1597,7 @@ econômica superior em relação ao que é típico no Brasil.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 120
 
 Por que os pescadores esportivos de outras regiões visitam 
@@ -1661,7 +1644,7 @@ para visitar o Pantanal, princi-
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 palmente para turismo contemplativo (observar o ambiente natural 
 e a vida selvagem), gastam significantemente mais nas viagens do 
 que aqueles motivados primariamente pelo sucesso potencial da 
@@ -1706,7 +1689,7 @@ e estadual.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 127
 
 Quais são as espécies de peixes de importância econômica 
@@ -1755,7 +1738,7 @@ Federal  (CTF)  do  Ibama  para  utilização  de  recursos  naturais.  Só
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 poderão ser comercializados os peixes constantes na lista de peixes 
 ornamentais permitidos pela Instrução Normativa nº 13, de 9 de 
 junho de 2005, do MMA (BRASIL, 2005). A captura deve ser reali-
@@ -1779,7 +1762,7 @@ expedida pelo órgão ambiental competente.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 5
 
 Aplicação da Valoração 
@@ -1791,7 +1774,7 @@ Pantanal
 André Steffens Moraes
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 132
 
 Que ferramentas podem ser utilizadas para a determinação 
@@ -1837,7 +1820,7 @@ Pantanal,  tais  como  os  pescadores  amadores.  Esses  diagnósticos
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 são 
 importantes  porque  propor-
 cionam um entendimento básico da 
@@ -1882,7 +1865,7 @@ turismo regional, para os esforços de marketing e para os objetivos
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 de  administração  dos  recursos  naturais  do  Pantanal,  justamente 
 por  mostrar  que  muitos  dos  pescadores  esportivos  não  estão 
 interessados principalmente na captura de peixes, mas no turismo 
@@ -1928,7 +1911,7 @@ aumentar o número de visitantes, movimentando a economia e sem
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 necessidade de grandes investimentos. Essas opções também podem 
 reduzir a pressão sobre os atuais estoques de peixes, deixando mais 
 peixes para os pescadores profissionais e de subsistência, além de 
@@ -1971,7 +1954,7 @@ quais não há preços revelando
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 seu valor, deve-se usar uma forma de análise de custo-benefício 
 em que os valores sociais dos bens e serviços reflitam variações de 
 bem-estar das pessoas e não somente seus respectivos valores de 
@@ -2014,7 +1997,7 @@ cada  um  com  seu  próprio  conjunto  de  critérios  e  unidades  de
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 valor. Existem ainda valores educacionais, científicos, recreativos, 
 genéticos, culturais e espirituais.
 
@@ -2058,7 +2041,7 @@ opção de uso do bem ou serviço no futuro.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 146
 
 O que são valores de não uso?
@@ -2102,7 +2085,7 @@ hedônicos e de escolha discreta.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 149
 
 Em que consistem os métodos da preferência declarada?
@@ -2146,7 +2129,7 @@ na  economia,  fornece  subsídios  ao  poder  público  nas  ações  de
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 reparações por danos ambientais (facilitando a cobrança por danos 
 ou a fixação de taxas e tarifas ambientais), internaliza os custos da 
 degradação ambiental e do consumo dos recursos naturais, entre 
@@ -2191,7 +2174,7 @@ são notavelmente diversos em termos dos valores obtidos, áreas
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 avaliadas  e  características  dos  estudos.  Os  resultados  desses 
 estudos dependem de fatores contextuais da área úmida (densidade 
 de população, níveis de renda, etc.) e do próprio estudo (método 
@@ -2234,7 +2217,7 @@ para outras áreas úmidas similares e cuidadosamente transferidos
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 para o Pantanal, usando uma técnica conhecida como transferência 
 de benefícios.
 
@@ -2260,7 +2243,7 @@ em US$ 10.090,00/ha/ano.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 6
 
 Piscicultura 
@@ -2275,7 +2258,7 @@ Rosana Aparecida Cândido Pereira Santos
 Flávio Lima Nascimento
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 157
 
 O que é piscicultura?
@@ -2321,7 +2304,7 @@ do  fenômeno  da  decoada  (baixa  concentração  de  oxigênio  nas
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 águas), no entanto,  representa uma forte restrição para o uso de 
 tanques-rede.  Dessa  forma,  os  locais  onde  ocorre  esse  fenômeno 
 natural  devem  ser  evitados.  Pesquisas  visando  desenvolver  tec-
@@ -2367,7 +2350,7 @@ de manejo alimentar.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 162
 
 De que forma o escape de animais geraria impactos am­
@@ -2417,7 +2400,7 @@ capítulo sobre legislação.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 165
 
 O que deve ser avaliado num estudo de viabilidade técnico­
@@ -2460,7 +2443,7 @@ o lambari e o curimbatá.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 168
 
 A tuvira pode ser utilizada na piscicultura?
@@ -2507,7 +2490,7 @@ em gaiolas, tanques-rede e cercados. Os viveiros utilizados nesse
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 sistema geralmente medem de 1.000 m² a 60.000 m², e a troca 
 diária de água é de 1% a 10%. As produções são da ordem de 
 1.500 kg/ha/ano a 6.000 kg/ha/ano. A disponibilidade de alimentos 
@@ -2553,7 +2536,7 @@ Seis aspectos devem ser considerados: tolerância às condi-
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 locais); crescimento rápido e alto poder de conversão alimentar; 
 os alevinos devem estar disponíveis o ano todo ou a maior parte 
 do ano, com garantia de entrega, no mínimo, pelos próximos 5 
@@ -2599,7 +2582,7 @@ suem ótimos resultados zootécnicos em cultivo.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 178
 
 De que forma a quantidade da ração oferecida aos peixes 
@@ -2648,7 +2631,7 @@ de informações obtidas facilmente, como a tabela de informações
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 R A Ç Ã O
 P A R A
 I X E S
@@ -2709,7 +2692,7 @@ energéticos  e  proteicos  e  são  ricos  em  minerais  e  vitaminas.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 Para os peixes, sua importância maior na dieta é na fase inicial do 
 ciclo  de  vida.  Entretanto,  possuem  pouca  importância  para  os 
 peixes  carnívoros e  para  os cultivos  superintensivos (viveiros  de 
@@ -2782,7 +2765,7 @@ C
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 prejudi cada,  deformidades  esquelé ticas  (lordose,  escoliose  e 
 cifose), deformidades no opérculo e nas cartilagens das brânquias, 
 anemia, hemorragia de vários órgãos, demora ou diminuição da 
@@ -2823,7 +2806,7 @@ de oxigênio dissolvido na água dos viveiros.
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 191
 
 Existem  estratégias  para  minimizar  as  desvantagens  da 
@@ -2884,7 +2867,7 @@ de temperatura (°C) os peixes terão um comportamento diferente.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 194
 
 De uma forma geral, como as diferentes faixas de tempe­
@@ -2930,7 +2913,7 @@ efluentes  gerados,  entre  outras);  da  área  total  de  viveiros;  dos
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 índices de evaporação locais; da intensidade de infiltração de água 
 no  solo  sobre  o  qual  se  construiu  os  viveiros;  da  frequência  de 
 drenagem  dos  viveiros,  que  depende  da  duração  dos  ciclos  de 
@@ -2974,7 +2957,7 @@ no  final  de  cada  fase  de  cultivo.  A  densidade  pode  variar  de
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 2.000 peixes/ha a 200.000 peixes/ha, dependendo do peixe a ser 
 criado, da fase e do peso final que se deseja para esse peixe.
 
@@ -3019,7 +3002,7 @@ do processo de maturação das gônadas e da desova.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 204
 
 Como se faz a indução da reprodução em peixes?
@@ -3068,7 +3051,7 @@ solução.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 207
 
 Como deve ser a administração do hormônio para a indu­
@@ -3112,7 +3095,7 @@ torar os reprodutores e induzi-los quando apresentarem sinais de
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 maturidade gonadal (abdômen inchado, papila genital avermelhada 
 e edemaciada para as fêmeas) e espermiação obtida com pressão 
 abdominal leve.
@@ -3157,7 +3140,7 @@ estação reprodutiva.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 213
 
 O  melhoramento  genético  é  recomendado  em  piscicul­
@@ -3199,7 +3182,7 @@ o emalhamento do peixe.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 216
 
 Qual o tamanho ideal da malha para realizar a despesca?
@@ -3242,7 +3225,7 @@ planejamento evita correrias e maior estresse aos peixes.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 219
 
 Como  proceder  no  momento  do  transporte  do  peixe 
@@ -3293,7 +3276,7 @@ consumir três vezes mais oxigênio que outras.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 223
 
 A temperatura influencia na eficiência do transporte?
@@ -3337,7 +3320,7 @@ recuperação dos peixes ao estresse é mais rápida.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 227
 
 O condicionamento pré­transporte pode ser o mesmo para 
@@ -3382,7 +3365,7 @@ análises químicas em laboratório ou do uso de kits de qualidade
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 de  água.  Quanto  à  matéria  orgânica  e  argila,  estas  podem  ser 
 verificadas em águas barrentas ou com coloração intensa por meio 
 da  decantação  em  recipientes  deixados  em  descanso,  onde  se 
@@ -3425,7 +3408,7 @@ estrutura do ponto de venda, que deve possuir condições de dispor
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 e armazenar o pescado de forma adequada. Além disso, problemas 
 na produção como gosto de barro e excesso de gordura também 
 influenciam o consumo, o preço, a forma e o destino do peixe que 
@@ -3469,7 +3452,7 @@ ou artesanato.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 235
 
 Que  espécies  de  peixe  do  Pantanal  têm  a  pele  mais 
@@ -3495,9 +3478,9 @@ da espécie e de grande beleza.
 97
 
 
- 500pr_pgnumber098
-
  500pr_pgnumber099
+
+ 500pr_pgnumber0100
 7
 
 Piscicultura 
@@ -3508,7 +3491,7 @@ Márcia Mayumi Ishikawa
 Marco Aurélio Rotta
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 237
 
 Quais são as doenças mais comuns que ocorrem nos peixes 
@@ -3552,7 +3535,7 @@ dos peixes para acompanhar o desempenho dos animais.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 239
 
 Se  houver  fornecimento  excessivo  e  sobra  de  ração  nos 
@@ -3599,7 +3582,7 @@ despejados nas fontes de água e da manipulação e conservação
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 inadequada  dos  peixes.  Nessa  situação  os  agentes  envolvidos 
 podem  ser  bactérias,  fungos,  protozoários,  medicamentos,  agro-
 tóxicos, metais pesados entre outros. Quanto aos parasitas, pode-
@@ -3645,7 +3628,7 @@ o acompanhamento de um profissional capacitado após diagnóstico.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 DIGA 
 AAAHHH...
 
@@ -3691,7 +3674,7 @@ peixe  inteiro),  pois  retira  grande  parte  do  sangue  contido  nos
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 músculos. Todo processo deve seguir normas de higiene e atender 
 às Boas Práticas de Manejo.
 
@@ -3736,7 +3719,7 @@ aos  peixes  encontrados  na
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 natureza.  O  que  geralmente  ocorre  é  que  o  sabor  do  peixe  da 
 natureza é diferente do sabor do peixe criado em cativeiro. Uma 
 diferença  que  pode  ocorrer  em  termos  nutricionais  é  a  maior 
@@ -3782,7 +3765,7 @@ após  o  afloramento  de  algas  cianofíceas,  que  ocorre  mais  em
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 cultivos intensivos, visto que nestes é mais frequente a ocorrência 
 de águas eutroficadas. Altas concentrações ocorrem após o rápido 
 crescimento (boom) e a morte súbita de plâncton (die off).
@@ -3830,7 +3813,7 @@ piscicultura são as sobras de ração, além das fezes e das eventuais
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 adubações realizadas nos viveiros. Toda a ração que não é ingerida 
 pelo peixe e que acaba sobrando, em virtude do excesso de ração 
 ou  por  esta  se  dissolver  antes  de  o  peixe  ter  a  oportunidade  de 
@@ -3854,9 +3837,9 @@ também influencia sua excreção, via fezes.
 107
 
 
- 500pr_pgnumber108
-
  500pr_pgnumber109
+
+ 500pr_pgnumber110
 8
 
 Piscicultura 
@@ -3869,7 +3852,7 @@ Júlio Ferraz de Queiroz
 Rosana Aparecida Cândido Pereira Santos
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 259
 
 O que são tanques­rede ou gaiolas?
@@ -3914,7 +3897,7 @@ d’água do tanque sem a saída dos peixes.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 262
 
 O que é mais caro, tanque­rede ou viveiros em terra?
@@ -3960,7 +3943,7 @@ dicando  o  seu  desempenho  e  favorecendo  o  aparecimento  de
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 doenças;  não  deve  haver  excesso  de  plantas  aquáticas,  pois  há 
 risco  de  entupimento  da  malha  dos  tanques-rede  (colmatação), 
 prejudicando assim a troca de água e a oxigenação no interior dos 
@@ -4012,7 +3995,7 @@ rede sofrem uma carga de estresse superior aos criados em viveiros
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 de terra e, por isso, necessitam de maiores doses de vitaminas na sua 
 ração, principalmente de vitamina C. Também podem ser fornecidos 
 níveis de proteína e de minerais superiores aos que são fornecidos 
@@ -4057,7 +4040,7 @@ de  cultivo  e  com  o  tipo  de  tanque-rede,  que  pode  ser  de  alto
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 volume  com  baixa  densidade  (AVBD)  ou  de  baixo  volume  com 
 alta densidade (BVAD), sendo este o mais usado. Em tanques-rede 
 BVAD a biomassa pode ser de 200 kg/m³ a 700 kg/m³, e nos AVBD 
@@ -4102,7 +4085,7 @@ pezas periódicas ou substituição
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 das malhas. Por outro lado, malhas com aberturas muito grandes, 
 como, por exemplo, acima de 30 mm, facilitam a entrada de peixes 
 indesejáveis  nos  tanques-rede  (lambaris,  carás,  mandis,  piaus, 
@@ -4139,9 +4122,9 @@ limpeza periódica.
 115
 
 
- 500pr_pgnumber116
-
  500pr_pgnumber117
+
+ 500pr_pgnumber118
 9
 
 Legislação para 
@@ -4153,7 +4136,7 @@ Renata Daniella Vargas
 Rosana Aparecida Cândido Pereira Santos
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 277
 
 A  pesca  é  uma  atividade  que  se  relaciona  somente  a 
@@ -4206,7 +4189,7 @@ Pela Portaria Ibama nº 03, de 28 de janeiro de 2008 (IBAMA,
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 insumos: linha de mão; caniço simples; molinete; carretilha; joão 
 bobo (boia com um anzol); cavalinho; isca natural, isca artificial e 
 isca viva proveniente da bacia; e anzol de galho, aquele fixado em 
@@ -4250,7 +4233,7 @@ máxima de 2,5 cm.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 283
 
 Quais são os petrechos permitidos para a captura de peixes 
@@ -4294,7 +4277,7 @@ portando gelo e mantimentos. Os barcos-mãe geralmente levam de
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 3 a 8 pescadores e transportam até 6 barcos de madeira para uso 
 individual dos pescadores.
 
@@ -4339,7 +4322,7 @@ Meio Ambiente (Semac).
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 289
 
 Por que na pesca científica podem­se usar todos os tipos 
@@ -4388,7 +4371,7 @@ geira residente no País que, licenciada pelo órgão público compe-
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 tente, exerce a pesca com fins comerciais, atendidos os critérios 
 estabe lecidos em legislação específica (BRASIL, 2009b).
 
@@ -4435,7 +4418,7 @@ meios  de  produção  próprios,  exerce  sua  atividade  de  forma
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 autônoma, individualmente ou em regime de economia familiar 
 ou, ainda, com auxilio eventual de outros parceiros, sem vínculo 
 empregatício (BRASIL, 2004c).
@@ -4477,7 +4460,7 @@ DO SUL, 2004b).
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 300
 
 É  proibido  comprar  peixes  que  estejam  protegidos  por 
@@ -4521,7 +4504,7 @@ comercializa organismos aquáticos vivos (BRASIL, 2004c).
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 303
 
 Qual a documentação necessária para obter o RGP?
@@ -4568,7 +4551,7 @@ perde o direito ao benefício, além de ter o seu registro de pescador
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 profissional cassado. Porém, o pescador pode optar em não receber 
 o  benefício  e  continuar  pescando  durante  o  defeso;  mas,  neste 
 caso, pode pescar apenas as espécies que não constam da lista de 
@@ -4616,7 +4599,7 @@ chos proibidos é pagamento de multa e apreensão dos petrechos
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 311
 
 Existe  uma  legislação  para  a  exploração  de  peixes  orna­
@@ -4661,7 +4644,7 @@ comerciais (BRASIL, 2009b).
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 315
 
 Qual a documentação necessária para obter o registro de 
@@ -4706,7 +4689,7 @@ aquáticas exóticas dependerá de aná-
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 lise minuciosa do projeto de criação e da sua aprovação, inclusive 
 dos métodos que serão empregados. Os passos para a obtenção da 
 licença são os mesmos para o cultivo de espécies nativas.
@@ -4752,7 +4735,7 @@ a pesca de isca viva só pode ser exercida por pescador profissional
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 devidamente habilitado. A comercialização, o cultivo, a estocagem, 
 o  transporte  e  a  captura  de  iscas  vivas  dependem  de  prévia 
 autorização do órgão ambiental estadual.
@@ -4799,9 +4782,9 @@ excluindo as espécies animais ornamentais.
 131
 
 
- 500pr_pgnumber132
-
  500pr_pgnumber133
+
+ 500pr_pgnumber134
 10
 
 Conservação e 
@@ -4811,7 +4794,7 @@ Pescado
 Jorge Antônio Ferreira de Lara
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 325
 
 O que é um peixe 
@@ -4857,7 +4840,7 @@ alterado chegando a se tornar insuportável (pútrido).
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 328
 
 O pescado estraga mais fácil que outras carnes?
@@ -4904,7 +4887,7 @@ um sabor indesejável.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 332
 
 Por que se devem retirar as vísceras (barrigada) do peixe 
@@ -4953,7 +4936,7 @@ evitando  empilhar  demais  para  não  criar  um  sobrepeso  para  os
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 peixes que estiverem no fundo do recipiente. Depois usar cubos 
 de gelo pequenos, em torno de 1 cm3, sem deixar espaço entre o 
 gelo e os peixes, pois o ar é mal condutor térmico e pode diminuir 
@@ -4995,7 +4978,7 @@ mistura.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 339
 
 Qual a quantidade de peixes que pode ser conservada em 
@@ -5042,7 +5025,7 @@ ciente.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 343
 
 Pode­se usar o gelo de uma pesca para outra?
@@ -5089,7 +5072,7 @@ sejáveis continuam ocorrendo, só que mais lentamente.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 347
 
 Como descongelar um peixe?
@@ -5135,7 +5118,7 @@ durante a manipulação dos peixes e da carne; segundo, a ranci-
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 ficação lipídica, decorrente do ataque do oxigênio às moléculas 
 de  gordura,  que  pode  ser  retardado  pelo  emprego  do  frio  e  de 
 antioxidantes;  e  finalmente,  a  autólise  enzimática,  que  é  mini-
@@ -5180,7 +5163,7 @@ do estresse e da exaustão após captura, do tamanho (os maiores
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 tendem  a  entrar  em  rigor  depois  dos  menores  de  uma  mesma 
 espécie)  e  de  fatores  ambientais,  como  temperatura  da  água 
 (quanto maior a diferença entre a temperatura da água e do gelo, 
@@ -5221,7 +5204,7 @@ do produto, quando ocorre de forma muito intensa.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 357
 
 Então, como fazer, da captura do peixe até a conservação, 
@@ -5266,7 +5249,7 @@ em refrigeração por tempo excessivo e ao pescado salgado.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 360
 
 Quais os microrganismos que deterioram o pes cado?
@@ -5308,7 +5291,7 @@ fungos nocivos à saúde humana são aeróbios.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 363
 
 O peixe capturado próximo a esgotos pode ser consumido 
@@ -5352,7 +5335,7 @@ turados, que são fundamentais para a saúde humana.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 367
 
 O peixe é o que ele come?
@@ -5398,7 +5381,7 @@ alimento como o peixe, rico em proteínas de alto valor biológico,
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 gorduras  do  tipo  poli-insaturadas  e  vitaminas,  entre  outros 
 nutrientes,  poderá  ser  adotado  na  alimentação  por  pessoas  que 
 procuram uma dieta saudável e equilibrada.
@@ -5445,7 +5428,7 @@ relacionada à formação das membranas biológicas, retina, cérebro
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 e testículos. O baixo consumo dessa gordura acelera o envelhe-
 cimento e predispõe a doenças degenerativas e cardiovasculares.
 
@@ -5485,7 +5468,7 @@ as fibras intermediárias com características mistas.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 11
 
 Tecnologia, 
@@ -5496,7 +5479,7 @@ do Pescado
 Jorge Antônio Ferreira de Lara
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 MERCADO DO
 
 PORTO
@@ -5551,7 +5534,7 @@ produtos processados a partir de carne mecanicamente separada.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 382
 
 Quais as vantagens de processar o pescado?
@@ -5599,7 +5582,7 @@ de óleos (como o de fígado), aproveitamento de intestinos para a
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 produção  de  tripas  e  obtenção  de  substâncias  para  a  indústria 
 química e farmacêutica, como é o caso do colágeno e da utilização 
 da glândula hipófise. Os óleos obtidos de peixe podem ser usados 
@@ -5665,7 +5648,7 @@ em salmoura de 5% a 8% por um tempo variável, em função do
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 seu  tamanho.  O  tempo  somente  pode  ser  definido  na  prática, 
 dependendo de cada caso. Além disso, o caviar pode ser pasteu-
 rizado em água fervente após o seu envase em recipientes de vidro 
@@ -5712,7 +5695,7 @@ Agora é só usar para o processamento tecnológico.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 393
 
 O que é melhor para o preparo de produtos processados 
@@ -5758,7 +5741,7 @@ a uma determinada classe de produtos, e a cadeia produtiva tem
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 como gerar renda a partir do consumo de seus produtos, não há 
 porque  deixar  de  existir  um  fluxo  de  negócios.  Entretanto,  é 
 importante lembrar que uma cadeia produtiva não se faz de uma 
@@ -5802,7 +5785,7 @@ para a pesca nos rios da região, é que se pode pensar no potencial
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 real  do  produto  como  atividade  industrial  e  num  planejamento 
 estratégico  de  negócios  para  a  exploração  sustentável  desses 
 recursos pesqueiros.
@@ -5843,7 +5826,7 @@ consumo nessa cadeia produtiva.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 402
 
 De que forma pode­se processar tecnologicamente o pes­
@@ -5889,7 +5872,7 @@ objetivo  de  conservar  e  dar  sabor  aos  produtos.  Entretanto,  são
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 substâncias químicas diferentes. O sal de cozinha é o cloreto de 
 sódio, e o sal de cura é o nitrato de sódio.
 
@@ -5934,7 +5917,7 @@ ainda confere cor e sabor desejável aos produtos.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 409
 
 Quais são as carnes que podem causar o botulismo?
@@ -5982,7 +5965,7 @@ cular, o que leva, eventualmente, à morte.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 413
 
 Como evitar o botulismo?
@@ -6030,7 +6013,7 @@ comum em outros países onde a pesca contribui mais na dieta da
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 população. No Brasil já existem produtos defumados de peixes de 
 água doce, notadamente na Amazônia. No Pantanal, as tentativas de 
 elaborar produtos defumados de pescado ainda são ocasionais, mas 
@@ -6076,7 +6059,7 @@ conferir a boa procedência da matéria-prima e do sal de cozinha
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 420
 
 Pode ser feita a salga de qualquer peixe?
@@ -6124,7 +6107,7 @@ mais de uma espécie. Entre-
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 tanto, mais importante que a espécie, é a quali dade da matéria-
 prima:  pescado  oriundo  de  pesca  exces sivamente  estressante 
 para o peixe e feita em condições de higiene desfavo ráveis tende 
@@ -6171,7 +6154,7 @@ grau de consumo que as levou à piscicultura em larga escala.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 428
 
 As outras espécies de peixes do Pantanal podem alcançar 
@@ -6206,7 +6189,7 @@ taxa de captura por esforço de pesca.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 12
 
 Contaminação 
@@ -6218,7 +6201,7 @@ Luiz Marques Vieira
 Débora Fernandes Calheiros
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 430
 
 As informações disponíveis sobre contaminação por mer­
@@ -6263,7 +6246,7 @@ cas de baixa toxicidade, tais como o mercúrio metálico, podem se
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 transformar, por meio de processos físicos, químicos e biológicos, 
 em compostos orgânicos, tal como metilmercúrio, que é bioacu-
 mulável e de elevada toxicidade.
@@ -6309,7 +6292,7 @@ de sólidos em suspensão.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 437
 
 Quais os potenciais locais de ocorrência da metilação do 
@@ -6354,7 +6337,7 @@ metilmercúrio.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 440
 
 Qual  das  formas  de  mercúrio  detectada  na  carne  dos 
@@ -6400,7 +6383,7 @@ pois esse metal é bioacumulável. Além disso, sabe-se que as fêmeas
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 apresentam maior probabilidade de dissiparem mercúrio por meio 
 da postura de ovos.
 
@@ -6448,7 +6431,7 @@ ribeirinhas mostram padrões diferenciados de acordo com a bacia
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 hidrográfica e os hábitos locais de consumo de pescado e também 
 quanto à variabilidade da espécie de peixe consumido.
 
@@ -6495,7 +6478,7 @@ pelas guelras e através da pele.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 452
 
 Como ocorre o transporte de mercúrio para a carne dos 
@@ -6545,7 +6528,7 @@ trações de mercúrio, pois elas tendem a ser mais elevadas no fim
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 da estação seca (de junho a setembro, no Pantanal). Na estação 
 chuvosa, o ganho rápido de peso dos peixes, em função da maior 
 oferta  de  alimento,  reduz  ou  dilui  a  concentração  de  mercúrio. 
@@ -6590,7 +6573,7 @@ planalto adjacente ao Pantanal, com o cultivo de soja, algodão,
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 milho,  arroz  e  outras  cul-
 turas, aumentou a demanda 
 pela utilização de pesticidas. 
@@ -6631,7 +6614,7 @@ peixe.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 462
 
 Os  peixes  contaminados  por  agrotóxicos  podem  ser 
@@ -6677,7 +6660,7 @@ janeiro de 1990 (BRASIL, 1990a).
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 466
 
 Especificamente, o que trata esse decreto?
@@ -6723,7 +6706,7 @@ cultivadas em solos com elevado potencial erosivo, culturas que
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 utilizam  anualmente  grandes  quantidades  de  pesticidas  (inseti-
 cidas, herbicidas e fungicidas, principalmente), e cujas águas de 
 drenagem fluem para a planície do Pantanal. Assim, todos os rios 
@@ -6762,9 +6745,9 @@ que contribuem para essa retenção.
 177
 
 
- 500pr_pgnumber178
-
  500pr_pgnumber179
+
+ 500pr_pgnumber180
 13
 
 Espécies 
@@ -6776,7 +6759,7 @@ Débora Fernandes Calheiros
 Débora Karla Silvestre Marques
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 É QUE CHEGOU
 
 UM TAL DE
@@ -6831,7 +6814,7 @@ se estabelecer definitivamente.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 476
 
 É possível erradicar peixes exóticos?
@@ -6881,7 +6864,7 @@ Negrinho.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 480
 
 Por que o tucunaré conseguiu se estabelecer no Pantanal?
@@ -6928,7 +6911,7 @@ aos novos ambientes. Além de ser muito resistente, seu hábito ali-
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 mentar é onívoro e, no Pantanal, compete por recursos com o pacu 
 (Piaractus  mesopotamicus),  espécie  proximamente  aparentada. 
 Entretanto, não há registros de que isso esteja interferindo negati-
@@ -6973,7 +6956,7 @@ L. fortunei, que já colonizaram várias baías, como Negra, Tuiuiú,
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 Castelo, Vermelha, Mandioré, Zé Dias e Gaíva. A espécie já ocorre 
 também  no  Canal  do  Tamengo,  que  liga  a  baía  de  Cáceres  na 
 Bolívia ao Rio Paraguai. Também foi observada no Rio Miranda 
@@ -7031,7 +7014,7 @@ frequentes.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 489
 
 Quais  são  os  prejuízos  ambientais  já  causados  pelo 
@@ -7075,7 +7058,7 @@ No entanto, nenhum desses efeitos é percebido em curto prazo em
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 um sistema complexo como o Pantanal. São necessários estudos 
 de longo prazo para observar tais mudanças.
 
@@ -7120,7 +7103,7 @@ governo contínuo, em nível federal, estadual e local, para evitar a
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 dispersão. Isso incluiria a divulgação da informação, treinamento 
 e fiscalização. Outra forma de controle da dispersão é por meio da 
 pintura  de  barcos  com  tintas  anti-incrustantes.  Para  tanto,  será 
@@ -7173,7 +7156,7 @@ canal principal do Rio Paraguai.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 498
 
 Existe alguma forma de erradicar o mexilhão dourado do 
@@ -7211,177 +7194,4 @@ causados pelo L. fortunei.
 
 188
 
-
- 500pr_pgnumber189
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000007
-
-•••
-
-
- 500pr_pgnumber190
-Referências
-
-BRASIL. Constituição (1988). Constituição da República Federativa do Brasil 
-de 1988. Brasília, DF, 1988a. Disponível em: <http://www.planalto.gov.br/
-ccivil_03/constituicao/constitui%C3%A7ao.htm>. Acesso em: 5 jan. 2010.
-
-BRASIL. Decreto nº 3.179 de 21 de setembro de 1999. Dispõe sobre a 
-especificação das sanções aplicáveis às condutas e atividades lesivas ao meio 
-ambiente, e dá outras providências. Diário Oficial [da] República Federativa 
-do Brasil, Brasília, DF, 22 set. 1999.
-
-BRASIL. Decreto nº 98.816 de 11 de janeiro de 1990. Regulamenta a Lei no 
-7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a 
-experimentação, a produção, a embalagem e rotulagem, o transporte, o 
-armazenamento, a comercialização, a propaganda comercial, a utilização, a 
-importação, a exportação, o destino final dos resíduos e embalagens, o 
-registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, 
-seus componentes e afins, e dá outras providências. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 12 jan. 1990a.
-
-BRASIL. Decreto nº 99.657 de 26 de outubro de 1990. Acrescenta artigo e 
-parágrafo único ao Decreto nº 98.816, de 11 de janeiro de 1990, que 
-regulamenta a Lei nº 7.802, de 11 de julho de 1989, que dispõe sobre 
-agrotóxicos, seus componentes e afins, e dá outras providências. Diário 
-Oficial [da] República Federativa do Brasil, Brasília, DF, 29 out. 1990b.
-
-BRASIL. Decreto-Lei nº 221 de 28 de fevereiro de 1967. Dispõe sobre a 
-proteção e estímulos à pesca e dá outras providências (Código de Pesca). 
-Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 28 fev. 1967.
-
-BRASIL. Instrução Normativa Interministerial nº 06 de 28 de maio de 2004. 
-Estabelece as normas complementares para a autorização de uso dos espaços 
-físicos em corpos d’água de domínio da União para fins de aqüicultura, e dá 
-outras providências. Diário Oficial [da] República Federativa do Brasil, 
-Brasília, DF, 31 maio 2004a.
-
-BRASIL. Lei nº 1.910 de 01 de dezembro de 1998. Disciplina a 
-comercialização de iscas vivas para a pesca profissional e amadora no Estado 
-de Mato Grosso do Sul, e dá outras providências. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 02 dez. 1998a.
-
-BRASIL. Lei nº 11.958 de 26 de junho de 2009. Altera as Leis nos 7.853, de 
-24 de outubro de 1989, e 10.683, de 28 de maio de 2003; dispõe sobre a 
-
-189
-
-
- 500pr_pgnumber191
-transformação da Secretaria Especial de Aquicultura e Pesca da Presidência da 
-República em Ministério da Pesca e Aquicultura; cria cargos em comissão do 
-Grupo-Direção e Assessoramento Superiores – DAS e Gratificações de 
-Representação da Presidência da República; e dá outras providências. 
-Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 29 jun. 2009a.
-
-BRASIL. Lei nº 11.959 de 29 de junho de 2009. Dispõe sobre a Política 
-Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca, regula 
-as atividades pesqueiras, revoga a Lei no 7.679, de 23 de novembro de 1988, 
-e dispositivos do Decreto-Lei nº 221, de 28 de fevereiro de 1967, e dá outras 
-providências. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 
-29 jun. 2009b.
-
-BRASIL. Lei nº 7.679 de 23 de novembro de 1988. Dispõe sobre a proibição da 
-pesca de espécies em períodos de reprodução e dá outras providências. Diário 
-Oficial [da] República Federativa do Brasil, Brasília, DF, 24 nov. 1988b.
-
-BRASIL. Lei nº 7.802 de 11 de julho de 1989. Dispõe sobre a pesquisa, a 
-experimentação, a produção, a embalagem e rotulagem, o transporte, o 
-armazenamento, a comercialização, a propaganda comercial, a utilização, a 
-importação, a exportação, o destino final dos resíduos e embalagens, o 
-registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, 
-seus componentes e afins, e dá outras providências. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 12 jul. 1989.
-
-BRASIL. Lei nº 9.605 de 12 de fevereiro de 1998. Dispõe sobre as sanções 
-penais e administrativas derivadas de condutas e atividades lesivas ao meio 
-ambiente, e dá outras providências. Diário Oficial [da] República Federativa 
-do Brasil, Brasília, DF, 13 fev. 1998b.
-
-BRASIL. Ministério do Meio Ambiente. Instrução Normativa nº 05 de 21 de 
-maio de 2004. Delibera sobre espécies ameaçadas de extinção e espécies 
-sobreexplotadas ou ameaçadas de sobreexplotação. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 28 maio 2004c.
-
-BRASIL. Ministério do Meio Ambiente. Instrução Normativa nº 13 de 09 de 
-junho de 2005. Delibera sobre a captura, o transporte e a comercialização de 
-exemplares vivos de peixes nativos de águas continentais. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 24 jun 2005.
-
-BRASIL. Secretaria Especial de Aquicultura e Pesca. Instrução Normativa nº 03 
-de 12 de maio de 2004. Dispõe sobre operacionalização do Registro Geral da 
-Pesca. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 
-13 maio 2004d.
-
-190
-
-
- 500pr_pgnumber192
-IBAMA. Instrução Normativa nº 154 de 01 de março de 2007. Diário Oficial 
-[da] República Federativa do Brasil, Brasília, DF, 02 mar. 2007a.
-
-IBAMA. Instrução Normativa nº 29 de 1 de janeiro de 2003. Estabelece 
-critérios para a regulamentação, pelo Ibama, de Acordos de Pesca definidos 
-no âmbito de uma determinada comunidade pesqueira. Diário Oficial [da] 
-República Federativa do Brasil, Brasília, DF, 02 jan. 2003.
-
-IBAMA. Portaria nº 03 de 28 de janeiro de 2008. Estabelece normas para o 
-exercício da pesca na Bacia Hidrográfica do Rio Paraguai, nos estados de 
-Mato Grosso e Mato Grosso do Sul. Diário Oficial [da] República Federativa 
-do Brasil, Brasília, DF, 29 jan. 2008.
-
-IBAMA. Portaria nº 145 de 29 de outubro de 1998. Estabelece normas para a 
-introdução, reintrodução e transferência de peixes, crustáceos, moluscos, e 
-macrófitas aquáticas para fins de aqüicultura, excluindo-se as espécies animais 
-ornamentais. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 
-30 out. 1998.
-
-IBAMA. Portaria nº 44 de 25 de setembro de 2007. Proíbe a pesca na bacia 
-hidrográfica do rio Paraguai, nos estados do Mato Grosso e do Mato Grosso do 
-Sul, no período de 5 de novembro de 2007 a 29 de fevereiro de 2008, a fim 
-de permitir a reprodução natural dos peixes. Diário Oficial [da] República 
-Federativa do Brasil, Brasília, DF, 26 set. 2007b.
-
-IBAMA. Portaria Normativa nº 139 de 21 de dezembro de 1994. Estabelece 
-procedimentos a serem adotados junto ao Instituto Brasileiro do Meio 
-Ambiente e dos Recursos Naturais Renováveis – Ibama, para efeito de 
-avaliação do potencial de periculosidade ambiental de produtos químicos 
-considerados como agrotóxicos, seus componentes e afins, segundo definições 
-estabelecidas nos incisos XX, XXI e XXII do artigo 2º do Decreto nº 98.816/90. 
-Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 22 dez. 1994.
-
-MATO GROSSO DO SUL. Decreto nº 11.724 de 05 de novembro de 2004. 
-Dispõe sobre a exploração de recursos pesqueiros no Estado de Mato Grosso 
-do Sul, seus fins e mecanismos de controle, e dá outras providências. Diário 
-Oficial [da] República Federativa do Brasil, Brasília, DF, 08 nov. 2004a.
-
-MATO GROSSO DO SUL. Lei nº 2.898 de 29 de outubro de 2004. Dispõe 
-sobre a captura, transporte, estocagem, comercialização e cultivo de iscas 
-vivas no Estado de Mato Grosso do Sul, e dá outras providências. Diário 
-Oficial [da] República Federativa do Brasil, Brasília, DF, 03 nov. 2004b.
-
-191
-
-
- 500pr_pgnumber193
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber194
-
- 500pr_pgnumber195
 

@@ -1,11 +1,5 @@
 
- 500pr_pgnumber015
-1 Clima
-
-Silvando Carlos da Silva
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1 
 
 Quais são os elementos climáticos que mais influenciam a 
@@ -46,7 +40,7 @@ pouco  sensíveis  –  ocorre  aumento  acentuado  no  ciclo  da  planta
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 quando o fotoperíodo é superior a 12 horas, a duração da FSF pode 
 exceder 30 dias mas a floração irá ocorrer em qualquer fotoperíodo 
 longo –; e muito sensíveis – grande aumento no ciclo, com incre-
@@ -88,7 +82,7 @@ a maturação.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 7 
 
 Em  que  estádio  do  desenvolvimento  a  planta  de  arroz  é 
@@ -133,7 +127,7 @@ acima de 12°C, no início da primavera.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 10 
 
 Em  que  estádio  do  desenvolvimento  a  planta  de  arroz  é 
@@ -178,7 +172,7 @@ reprodutiva e de maturação, sendo a última fase mais responsiva.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 13 
 
 No Brasil, a radiação solar é limitante para a cultura do 
@@ -220,7 +214,7 @@ seleção.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 15 
 
 Quais  são  as  fases  da  planta  de  arroz  mais  sensíveis  ao 
@@ -265,7 +259,7 @@ da cultivar.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 18 
 
 Como  é  feita  a  classificação  de  risco  climático  para  a 
@@ -310,7 +304,7 @@ Nordeste.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 21 
 
 O tipo de planta afeta a evapotranspiração da cultura do 
@@ -332,9 +326,9 @@ temperatura em torno de 22°C.
 23
 
 
- 500pr_pgnumber024
-
  500pr_pgnumber025
+
+ 500pr_pgnumber026
 2 Preparo do Solo
 
 José Geraldo da Silva
@@ -343,7 +337,7 @@ José Aloísio Alves Moreira
 Cleber Morais Guimarães
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 23  Qual é o objetivo do preparo do solo?
 
 O preparo do solo é realizado para propiciar condições satis-
@@ -387,7 +381,7 @@ de equipamentos e planejar os trabalhos.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 •	 A	identificação	da	presença	e	da	localização	de	compactação	
 no solo, o que auxilia na escolha e na regulagem do equipa-
 mento para romper a camada compactada.
@@ -428,7 +422,7 @@ a operação. Por seu turno, o preparo com o solo muito seco exigirá
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 um  maior  número  de  operações  para  o  destorroamento  e  mais 
 gastos  de  combustível  e  de  tempo.  No  caso  do  arroz  irrigado,  o 
 preparo pode e deve ser feito com o solo inundado ou com umidade 
@@ -469,7 +463,7 @@ pesada ou duas combinando grade aradora com grade leve.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 30  Quanto tempo é necessário para preparar o solo?
 
 O tempo necessário para preparar o solo varia de acordo com 
@@ -512,7 +506,7 @@ do arroz abaixo dessa camada, o que pode afetar a produtividade.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 Para solucionar esses problemas, é importante a alternância da pro-
 fundidade de trabalho da grade aradora, sem prejudicar a qualidade 
 do  preparo  do  solo,  ou  a  alternância  da  profundidade  de  aração 
@@ -561,7 +555,7 @@ dificultando sua germinação.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 35 
 
 Quantas gradagens após a aração são necessárias quando 
@@ -604,7 +598,7 @@ descompactados e com fertilidade homogênea no perfil de 0 cm a
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 cidas. A superfície do terreno deve possuir uma camada de restos 
 culturais que auxilia na conservação do solo e na umidade do perfil.
 
@@ -645,7 +639,7 @@ estriado  e  ondulado.  Havendo  pouca  palhada  na  superfície  do
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 terreno, podem-se dispensar os discos de corte e utilizar somente os 
 mecanismos  sulcadores  de  discos  duplos  desencontrados  para 
 efetuar o corte da palhada e a abertura do sulco.
@@ -690,7 +684,7 @@ semeadora  ao  cortar  a  palhada  (os  restos  culturais  são
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 empurrados para dentro do sulco, dificultando a germinação 
 por impedir o contato da semente com o solo).
 
@@ -742,7 +736,7 @@ inundado.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 Para  as  áreas  sistematizadas  em  desnível,  são  indicados  os 
 
 métodos:
@@ -784,7 +778,7 @@ plantio de sementes pré-germinadas.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 47 
 
 Qual  é  o  procedimento  para  fazer  o  preparo  de  solo 
@@ -822,7 +816,7 @@ para obter um melhor nivelamento da área.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 3 Calagem e Adubação
 
 Morel Pereira Barbosa Filho
@@ -830,7 +824,7 @@ Morel Pereira Barbosa Filho
 Nand Kumar Fageria
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 50  Quais são as vantagens da prática da calagem?
 
 Entre  as  tecnologias  geradas  que  permitiram  a  utilização 
@@ -872,7 +866,7 @@ decomposição dos resíduos vegetais é mais rápida.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 51 
 
 Em que se baseia a recomendação de calagem?
@@ -923,7 +917,7 @@ apresente condição de acidez indicada pela presença de íons hidro-
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 gênio  e  alumínio  na  solução  do  solo.  Quando  presentes  em  alta 
 concentração, esses íons impedem o desenvolvimento das culturas. 
 O grau de acidez do solo é indicado no boletim de resultados da 
@@ -966,7 +960,7 @@ A calagem para a cultura do arroz de terras altas deve ser feita com
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 vistas prioritariamente ao suprimento nutricional da planta em cálcio 
 e magnésio e não como meio de correção de acidez. A cultura do 
 arroz necessita de quase metade do cálcio e magnésio necessários 
@@ -1009,7 +1003,7 @@ de  variação  de  qualidade  entre  os
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 calcários disponíveis no mercado. O pH é largamente usado como 
 propriedade  química  para  a  determinação  da  reação  do  solo  à 
 aplicação de calcário. A mudança significativa no pH do solo ocorre 
@@ -1050,7 +1044,7 @@ e de outros nutrientes (fósforo e micronutrientes) do perfil do solo é
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 pré-requisito  para  a  implantação  do  sistema  de  plantio  direto. 
 Entretanto, pode haver situações em que, por não ter sido realizada 
 adequadamente,  a  correção  do  solo  precise  ser  feita  novamente. 
@@ -1093,7 +1087,7 @@ Nesses casos, se não houver possibilidade de fazer a calagem com
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 certa  antecedência  do  plantio,  a  melhor  época  passa  a  ser  a  de 
 maior  ociosidade  de  máquinas  agrícolas  na  propriedade,  mesmo 
 que o efeito do calcário se faça sentir apenas na cultura subsequente.
@@ -1138,7 +1132,7 @@ o valor de PRNT, melhor será a qualidade do calcário.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 Outro aspecto tão importante quanto a qualidade do calcário 
 no processo de escolha refere-se ao custo do transporte da usina até 
 a  propriedade.  Como  o  calcário  dolomítico  possui  teores  mais 
@@ -1181,7 +1175,7 @@ contato possível com o solo para que possa reagir rapidamente e
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 corrigir uma camada mais profunda e mais uniforme possível, o que 
 nem sempre é fácil de fazer. Isso é particularmente importante para 
 o arroz de terras altas cultivado em condições de alta probabilidade 
@@ -1225,7 +1219,7 @@ toxicidade  e  que  os  teores  de  cálcio  e  magnésio  estão  em  níveis
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 abaixo  das  necessidades  das  plantas.  Portanto,  a  necessidade  de 
 calcário deve ser suficiente para neutralizar o alumínio tóxico, for-
 necer cálcio e magnésio às plantas e elevar o pH do solo, sem afetar 
@@ -1270,7 +1264,7 @@ criadores: Shoemaker, Mac Lean e Pratt) necessita de uma tabela
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 previamente calibrada, com a necessidade de calagem determinada 
 por incubação com CaCO3, para atingir determinado pH, geralmente 
 de 6,0 a 6,5. A utilização desse método é mais adequada em solos 
@@ -1310,7 +1304,7 @@ nova calagem é a análise do solo.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 71 
 
 Que  fatores  contribuem  para  o  processo  de  acidificação 
@@ -1353,7 +1347,7 @@ solo. Assim, visualizações superficial da área e em profundidade do
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 perfil são de suma importância para a separação e a identificação 
 das glebas em relação a cada elemento ou critério anteriormente 
 mencionado.  Há,  pois,  necessidade  de  diferenciar  a  amostragem 
@@ -1398,7 +1392,7 @@ mento satisfatório, sendo a maioria deles proveniente do solo. Assim,
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 é  muito  comum  acontecer  que  um  ou  mais  desses  nutrientes  se 
 encontrem  no  solo  em  quantidade  insuficiente  para  o  desenvol-
 vimento normal de uma cultura. Quando isso ocorre, é necessário 
@@ -1440,7 +1434,7 @@ solo cerca de 30 kg de N (50%), 5 kg de P (70%), 30 kg de K (20%),
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 (30%), 18 g de Cu (60%), 65 g de Zn (50%), 140 g de Fe (22%) e 
 355 g de Mn (25%). Ressalte-se que uma elevada quantidade desses 
 nutrientes  é  exportada  pelos  grãos  (valores  porcentuais  expressos 
@@ -1485,7 +1479,7 @@ a seguir com relação às recomendações de adubação.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 77 
 
 Qual  é  a  importância  da  adubação  nitrogenada  para  a 
@@ -1529,7 +1523,7 @@ tados das pesquisas indicam, em geral, que não há diferença entre
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 as duas fontes quanto à eficiência para a cultura do arroz, mas a 
 utilização  desses  fertilizantes  como  fontes  de  nitrogênio  requer 
 certos cuidados em seu manejo em cobertura (como a incorporação 
@@ -1573,7 +1567,7 @@ e  o  tipo  de  resíduo  deixado  na  superfície  do  solo  pela  cultura
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 anterior e a expectativa de rendimento. Geralmente, a dose é de 
 90 kg/ha de nitrogênio, sendo recomendada a aplicação em duas 
 vezes em solos arenosos e em uma vez em solos argilosos.
@@ -1617,7 +1611,7 @@ aplicação  de  fertilizantes  fosfatados  são  recomendadas  algumas
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 técnicas. Se, no caso do nitrogênio, a maior limitação são as perdas 
 por volatilização, no caso do fósforo, o fator mais limitante é a alta 
 capacidade dos solos de fixar esse elemento, fenômeno capaz de 
@@ -1660,7 +1654,7 @@ fósforo e da textura do solo. Nesse caso, as fontes de fósforo mais
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 indicadas são, entre outras, o termofosfato, os hiperfosfatos e alguns 
 fosfatos parcialmente solubilizados.
 
@@ -1702,7 +1696,7 @@ maior frequência.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 87 
 
 Qual é a importância da adubação potássica para a cultura 
@@ -1747,7 +1741,7 @@ para manter uma relação de equilíbrio com outros nutrientes, princi-
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 palmente  com  o  nitrogênio,  e  para  manter  os  elevados  níveis  de 
 produtividade alcançados em áreas de uso intensivo. A recomen-
 dação geral é aplicar o potássio na época do plantio, juntamente 
@@ -1791,7 +1785,7 @@ lente na fórmula e multiplica-se o resultado por 100, obtendo-se,
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 assim, a quantidade da fórmula a ser 
 aplicada  por  hectare.  Por  exemplo, 
 se a quantidade de nutrientes indica-
@@ -1833,7 +1827,7 @@ espaçamento de 0,40 m?
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 q = (Q x E)/10.
 Q = 375 kg/ha.
 E = 0,40 m.
@@ -1877,7 +1871,7 @@ resposta do arroz de terras altas à aplicação de enxofre.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 Entretanto, não se deve desprezar a possibilidade de ocorrer a 
 deficiência de enxofre onde há substituição do superfosfato simples 
 pelo superfosfato triplo e do sulfato de amônio pela ureia, nas adu-
@@ -1920,7 +1914,7 @@ principalmente quando aplicadas em solos com pH mais elevado.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 O sulfato de zinco (23% de zinco) é o fertilizante mais indicado 
 para corrigir a deficiência de zinco, devendo ser preferencialmente 
 aplicado no solo na dose de 3 kg/ha a 5 kg/ha de zinco, juntamente 
@@ -1964,7 +1958,7 @@ inadequadamente, pode induzir à deficiência de ferro e manganês,
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 além da do zinco. Deficiências de boro e cobre podem ocorrer em 
 condições muito específicas, como em solos orgânicos, por exemplo. 
 Entretanto, esses solos são pouco utilizados para o plantio de arroz 
@@ -2003,7 +1997,7 @@ ganês e de 1% a 2% de sulfato ferroso em 400 L de água/ha.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 100 
 
 Os micronutrientes podem ser aplicados juntamente com 
@@ -2042,7 +2036,7 @@ guandu, com produtividade de 10 a 15 t/ha.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 102 
 
 Quais são os principais sintomas de deficiência dos macro­
@@ -2094,7 +2088,7 @@ morrem.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 •	 Cobre:	as	folhas	novas	enrolam­se,	e	uma	clorose	desen­
 
 volve-se em ambos os lados da nervura principal.
@@ -2139,7 +2133,7 @@ doenças  fúngicas,  principalmente  à  brusone,  os  pesquisadores
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 avançaram em suas pesquisas, demonstraram a eficiência agronô-
 mica das escórias ricas em silício disponível (provenientes de side-
 rúrgicas  e  de  indústrias  de  fabricação  do  fósforo  elementar)  em 
@@ -2181,7 +2175,7 @@ mecanismos de resistência das plantas de arroz à Pyricularia grisea
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 tem sido utilizado como base para pesquisas sobre outros patógenos. 
 Estudos  realizados  no  Japão  sobre  a  natureza  da  resistência  das 
 plantas à brusone, com referência ao silício, contribuíram substan-
@@ -2230,7 +2224,7 @@ razão  do  aumento  da  fertilidade  do  solo  e  da  disponibilidade  de
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 nutrientes,  da  redução  da  acidez  e  do  acúmulo  de  elementos 
 químicos no solo, melhorando a nutrição das plantas. O silicato de 
 cálcio  apresenta  ação  corretiva  do  solo,  promovendo  aumentos 
@@ -2273,7 +2267,7 @@ silicatada  com  doses  mínimas  de  fungicidas  pode  resultar  numa
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 perspectiva  de  futuro,  mas  que  ainda  precisa  ser  estudada  nas 
 condições brasileiras.
 
@@ -2315,7 +2309,7 @@ tecnologia.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 111 
 
 No Brasil, é comum ocorrer toxicidade de ferro em arroz 
@@ -2359,7 +2353,7 @@ controladas,  foram  encontrados  níveis  críticos  tóxicos  de  ferro  na
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 parte aérea da planta aos 20 e 40 dias de crescimento, de 680 mg/kg 
 e 850 mg/kg.
 
@@ -2391,11 +2385,11 @@ e/ou promovendo drenagens no meio do ciclo da cultura.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 4 
 
 Cultivares
@@ -2405,7 +2399,7 @@ Emílio da Maia de Castro
 Orlando Peixoto de Morais
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 114  Qual é a origem do arroz?
 
 As variedades de arroz 
@@ -2450,7 +2444,7 @@ sua região e a disponibilidade de sementes certificadas.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 •	 A	fertilidade	do	solo.
 •	 O	sistema	de	plantio.
 
@@ -2493,7 +2487,7 @@ IRGA 421: RS
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 IRGA 422 CL: RS
 IRGA 423: RS
 IRGA 424: RS, MS, GO e TO
@@ -2533,7 +2527,7 @@ BRSMG Predileta: MG
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 Puitá Inta CL: RS e SC
 Guri Inta CL: RS e SC
 Avaxi CL: RS
@@ -2581,7 +2575,7 @@ possibilidade de escape de deficit hídrico no cultivo não irrigado,
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 quanto  pelo  menor  consumo  de  água  e  pela  maior  facilidade  de 
 composição de sistemas agrícolas no cultivo irrigado por aspersão.
 
@@ -2622,7 +2616,7 @@ Dourada.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 125 
 
 Por  que  algumas  cultivares  são  indicadas  para  várzeas  e 
@@ -2668,7 +2662,7 @@ perfilhadoras e têm excesso de umidade (que contribui para diminuir
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 ainda mais a capacidade de perfilhamento da planta), podem ter a 
 produtividade muito comprometida, uma vez que essa característica 
 é  um  dos  principais  componentes  da  produção.  As  cultivares  de 
@@ -2711,7 +2705,7 @@ amido, que possui duas frações: amilose e amilopectina. A dureza
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 do  arroz  cozido  é  função  da  amilose, 
 enquanto  a  pegajosidade  é  atribuída  à 
 amilopectina.  Quanto  maior  o  teor  de 
@@ -2752,7 +2746,7 @@ geralmente rejeitadas em quase todos os mercados consumidores.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 Os programas de pesquisa brasileiros têm buscado cultivares com 
 TG intermediária.
 
@@ -2791,7 +2785,7 @@ esterilidade de espiguetas, sendo as principais: falta de chuvas, calor
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 excessivo,  população  muito  alta  de  plantas  com  sombreamento 
 mútuo  de  folhas,  acamamento  precoce,  ataque  de  doenças  (es-
 pecialmente a brusone-da-panícula e a mancha-dos-grãos) e ataque 
@@ -2837,7 +2831,7 @@ consumido na forma integral, sem polimento, ou seja, conservando-
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 se a película externa do grão, que é mais rica em nutrientes, tornando 
 o arroz-vermelho mais nutritivo do que o arroz-branco (polido).
 
@@ -2876,7 +2870,7 @@ essenciais ao homem. Além disso, o arroz
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 complexos, contém quantidades desprezíveis de gordura e não tem 
 colesterol, como todo cereal.
 
@@ -2923,7 +2917,7 @@ com o porcentual de grãos quebrados e quirera, sendo o tipo 1 o
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 que  apresenta  menor  porcentual  de  defeitos,  e  o  tipo  5  o  que 
 apresenta maior porcentual. Os limites máximos de tolerância de 
 defeitos para cada tipo podem ser obtidos em tabelas específicas.
@@ -2948,7 +2942,7 @@ Oficial [da] República Federativa do Brasil, Brasília, DF, 18 fev. 2009.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 5 
 
 Sistemas de Plantio
@@ -2958,7 +2952,7 @@ Alberto Baêta dos Santos
 Flávio Jesus Wruck
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 145 
 
 Em que época o plantio do arroz de terras altas é recomen­
@@ -3004,7 +2998,7 @@ iniciada em outubro e ir até dezembro. Esse período corresponde
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 ao  início  da  estação  chuvosa,  o  que  favorece  a  germinação  das 
 sementes  e  o  estabelecimento  da  cultura.  A  partir  de  janeiro,  as 
 chuvas podem dificultar a semeadura e levar à redução do ciclo da 
@@ -3048,7 +3042,7 @@ dos períodos favoráveis de semeadura. Assim, os períodos recomen-
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 dados de semeadura do arroz irrigado variaram de 21 de agosto a 
 10  de  janeiro  para  cultivares  precoces,  de  11  de  agosto  a  20  de 
 dezembro para cultivares médias e de 11 de agosto a 10 de dezembro 
@@ -3093,7 +3087,7 @@ população inicial ideal para as cultivares convencionais é de 150 a
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 300  plantas/m²,  enquanto  para  as  cultivares  híbridas  é  de  100  a 
 150  plantas/m².  O  sistema  de  semeadura  de  sementes  pré-germi-
 nadas em solo preparado, denominado de sistema pré-germinado, 
@@ -3134,7 +3128,7 @@ que variam de 0,17 m a 0,20 m.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 153 
 
 Qual  é  a  quantidade  de  sementes  recomendada  para  o 
@@ -3177,7 +3171,7 @@ semea dura em linha em solo preparado.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 No sistema de cultivo mínimo, tem-se menor movimentação 
 do solo em comparação com o sistema convencional. Os trabalhos 
 de preparo do solo tanto podem ser realizados no verão como no 
@@ -3220,7 +3214,7 @@ Estado  de  Santa  Catarina,  visando  aumentar  a  rentabilidade  das
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 áreas sistematizadas nas regiões do Baixo e Médio Vale do Itajaí e 
 do Litoral Norte, o cultivo de soca é praticado. Em cerca de 80% da 
 área cultivada, que está em torno de 25.000 ha (o que representa 
@@ -3264,7 +3258,7 @@ principal é que o solo esteja seco, de maneira que a colhedora não
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 provoque sulcos no solo e destrua os colmos das plantas. Colmos 
 danificados  ou  não  se  recuperam  ou  o  fazem  tardiamente, 
 produzindo grãos de qualidade industrial inferior. Outro cuidado a 
@@ -3279,9 +3273,9 @@ soca, entretanto, estão associadas com alturas de corte de 25 cm a
 97
 
 
- 500pr_pgnumber098
-
  500pr_pgnumber099
+
+ 500pr_pgnumber0100
 6 
 
  
@@ -3297,7 +3291,7 @@ José Aloísio Alves Moreira
 José Geraldo da Silva
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 158 
 
 O arroz de terras altas pode ser cultivado no sistema de 
@@ -3339,7 +3333,7 @@ na camada superior do solo, como o nitrogênio, entre outros.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 161  Por que a monocultura do arroz não é viável?
 
 A  redução  da  produtividade  do  arroz  no  monocultivo  é 
@@ -3382,7 +3376,7 @@ seguintes:
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 •	 Vegetação	 nativa	 –	 arroz	 –	 pastagem	 (sistema	 de	 plantio	
 
 convencional – SPC).
@@ -3431,7 +3425,7 @@ parede celular, características essas que conferem à palhada maior
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 proteção ao ataque dos microrganismos. Ao permanecer por mais 
 tempo no solo, a matéria orgânica prolonga seus efeitos positivos 
 sobre a estruturação do solo.
@@ -3473,7 +3467,7 @@ irregular das chuvas.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 168 
 
 Qual é o efeito da haste escarificadora, acoplada à semea­
@@ -3516,7 +3510,7 @@ aglutinação de partículas de solo.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 171  Qual é a importância da palhada no SPD?
 
 A palhada dificulta o escorrimento superficial da água, o que 
@@ -3559,7 +3553,7 @@ cai  a  níveis  muito  baixos  em
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 anos subsequentes. Tem-se verificado também que apenas um ano 
 de rotação com soja não é suficiente para elevar a produtividade do 
 arroz ao nível observado no primeiro ano de cultivo, mas, após o 
@@ -3602,7 +3596,7 @@ resultados com sua aplicação total na semeadura, podem ocorrer
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 perdas  excessivas  em  certas  situações  de  solo  e  de  precipitação 
 pluvial.  Como  medida  de  segurança,  recomenda-se  a  aplicação 
 parcelada de nitrogênio, isto é, de 30 a 40 kg/ha de nitrogênio na 
@@ -3647,7 +3641,7 @@ parece não haver nenhuma dificuldade em trabalhar após Brachiaria
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 brizantha,  Brachiaria  ruziziensis  e  outras  gramíneas  sensíveis  ao 
 glifosato.  Conduzir  o  arroz  após  Andropogon  gayanus,  Brachiaria 
 humidicula e Panicum spp. é mais difícil pelo fato de serem menos 
@@ -3667,7 +3661,7 @@ se mutuamente.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 7 
 
 Consórcio/Rotação
@@ -3679,7 +3673,7 @@ João Kluthcouski
 Agostinho Dirceu Didonet
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 181 
 
 O cultivo consorciado de arroz é prática comum em todas 
@@ -3723,7 +3717,7 @@ consorciação são Brachiaria sp., Andropogon e leguminosas.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 184 
 
 O  arranjo  das  plantas  de  arroz,  no  cultivo  consorciado 
@@ -3765,7 +3759,7 @@ não prejudicará o desenvolvimento da cultura do arroz.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 187 
 
 Qual é a densidade ideal de forrageira no consórcio com 
@@ -3811,7 +3805,7 @@ latitude,  as  forrageiras  tropicais  tendem  a  se  desenvolver  mais
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 vigorosa e rapidamente, podendo exercer alta competição com o 
 arroz.  Em  regiões  de  altas  altitude  e  latitude,  geralmente  ocorre 
 severo ataque de brusone.
@@ -3857,7 +3851,7 @@ tropicais,  em  especial  as  braquiárias,  germinam  e  emergem  em
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 profundidades de até 8 cm a 10 cm. Essa prática aumenta o tempo 
 para a emergência das plântulas e reduz seu vigor, diminuindo sua 
 capacidade competitiva com o arroz. Em solos de textura argilosa, a 
@@ -3900,7 +3894,7 @@ no início do desenvolvimento dessa cultura.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 197 
 
 Quais são as vantagens de plantar o arroz em rotação com 
@@ -3926,9 +3920,9 @@ a produção de arroz em sucessão à soja.
 115
 
 
- 500pr_pgnumber116
-
  500pr_pgnumber117
+
+ 500pr_pgnumber118
 8 
 
 Irrigação
@@ -3938,7 +3932,7 @@ Luís Fernando Stone
 José Aloísio Alves Moreira
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 199 
 
 A partir de quando a irrigação passou a ser utilizada nas 
@@ -3981,7 +3975,7 @@ se dispersas pelo País.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 202 
 
 Quais são as vantagens decorrentes da prática da irrigação 
@@ -4030,7 +4024,7 @@ método não deve ser implantado sem um prévio estudo econômico.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 205  Quais são as desvantagens da inundação intermitente?
 
 As desvantagens da inundação intermitente são:
@@ -4078,7 +4072,7 @@ a  inundação  contínua  e  pode  ser  utilizada  na  cultura  do  arroz.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 Entretanto, ela normalmente conduz a produtividades bem inferiores 
 às obtidas com a irrigação por inundação contínua e mesmo com as 
 obtidas  com  inundação  intermitente,  em  que  o  requerimento  de 
@@ -4121,7 +4115,7 @@ em relação ao sistema convencional de aspersão. A quantidade de
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 com inundação contínua. Assim, em algumas áreas do Rio Grande 
 do Sul com limitação na disponibilidade de água, esse método tem 
 sido usado em substituição à inundação contínua.
@@ -4167,7 +4161,7 @@ percolação. Esses fatores incluem:
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 •	 Mineralogia	das	argilas:	a	caulinita	é	mais	difícil	de	dispersar	
 
 do que a montmorilonita e apresenta maior perda.
@@ -4213,7 +4207,7 @@ sistema inteiro.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 217 
 
 Qual é a quantidade de água necessária para a formação 
@@ -4256,7 +4250,7 @@ no momento adequado.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 220 
 
 Como  pode  ser  estimada  a  quantidade  de  água  a  ser 
@@ -4299,7 +4293,7 @@ cado para sinalizar o momento de
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 irrigar. A irrigação deve ser efetuada quando a média das leituras 
 dos  tensiômetros  instalados  a  15  cm  de  profundidade,  chamados 
 tensiômetros de decisão, estiver em torno do valor correspondente 
@@ -4342,7 +4336,7 @@ valor de 25 kPa.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 226  Quando se deve iniciar a irrigação da lavoura de arroz?
 
 Cada região orizícola tem características ecológicas peculiares. 
@@ -4384,7 +4378,7 @@ necessário que haja perfeito nivelamento do solo. No Rio Grande
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 do  Sul,  onde  se  utilizam  tabuleiros  em  contorno,  com  desnível 
 médio de 5 cm a 10 cm entre tabuleiros, a altura da lâmina de água 
 varia, em média, de 5 cm na parte superior do tabuleiro até 10 cm 
@@ -4427,7 +4421,7 @@ As temperaturas ótimas da água encontram-se entre 25°C e
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 prejuízos  onde  o  tabuleiro  não  é  bem  drenado.  O  processo  de 
 germinação não se completa com temperaturas superiores a 36°C. 
 Em climas temperados, temperaturas inferiores a 20°C prejudicam o 
@@ -4463,9 +4457,9 @@ e o início da infecção.
 129
 
 
- 500pr_pgnumber130
-
  500pr_pgnumber131
+
+ 500pr_pgnumber132
 9 
 
 Quimigação
@@ -4473,7 +4467,7 @@ Quimigação
 Rogério Faria Vieira
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 236  O que é quimigação?
 
 Quimigação é a técnica de aplicação de produtos químicos 
@@ -4516,7 +4510,7 @@ para  muitos  produtos,  principalmente  por  causa  da  insatisfatória
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 uniformidade  de  distribuição  de  água.  Na  irrigação  localizada, 
 como no gotejamento e na microaspersão, tem-se grande potencial 
 para o uso de fertilizantes, pois a água é aplicada onde se concentram 
@@ -4555,7 +4549,7 @@ modalidade de aplicação.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 242 
 
 A palhada na superfície do solo, nos sistemas de plantio 
@@ -4604,7 +4598,7 @@ outras culturas sugerem que o controle de doenças por essa técnica
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 é promissor. No entanto, há necessidade de mais estudos sobre as 
 diferentes doenças do arroz e os fungicidas, antes que as empresas 
 de  agrotóxicos  possam  registrá-los  para  aplicação  via  água  de 
@@ -4649,7 +4643,7 @@ em solos arenosos e quando a dose do adubo é alta. Dependendo
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 dessas condições, o número de parcelamentos via água de irrigação 
 geralmente é de dois ou três.
 
@@ -4694,7 +4688,7 @@ necessária para a incorporação do adubo.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 251 
 
 O  potássio  pode  ser  utilizado  na  aplicação  via  água  de 
@@ -4741,7 +4735,7 @@ acentuada mobilidade no solo. A preocupação em relação ao cloro
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 excesso.  Algumas  fontes  solúveis  de  boro  são  o  ácido  bórico,  o 
 bórax e o solubor. Os outros micronutrientes, com alguma ou pouca 
 mobilidade no solo, podem ser distribuídos via água de irrigação. 
@@ -4787,7 +4781,7 @@ aplicados em doses relativamente altas. No entanto, há meios de
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 minimizar o problema, como usar fertilizantes com pouco potencial 
 corrosivo e lavar o pivô com água pura durante cerca de 15 minutos 
 após a fertirrigação.
@@ -4832,7 +4826,7 @@ fonte de captação de água, caso o pivô pare de funcionar. Por isso,
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 é essencial que o agricultor use todo o equipamento de segurança 
 necessário para evitar esse retorno. Com relação à contaminação do 
 homem, os riscos são, em geral, menores que nos métodos conven-
@@ -4873,7 +4867,7 @@ o produto a ser aplicado.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 265  Há uma hora ideal para fazer a quimigação?
 
 Alguns herbicidas de pós-emergência podem ser influenciados 
@@ -4914,9 +4908,9 @@ sobre a compatibilidade da mistura.
 141
 
 
- 500pr_pgnumber142
-
  500pr_pgnumber143
+
+ 500pr_pgnumber144
 10 
 
 Doenças
@@ -4927,7 +4921,7 @@ Marta Cristina Corsi de Filippi
 Anne Sitarama Prabhu
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 269 
 
 No Brasil, quais são as doenças bacterianas mais comuns 
@@ -4971,7 +4965,7 @@ retorcidas.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 273 
 
 Quais são as doenças mais comuns causadas por nematoides 
@@ -5017,7 +5011,7 @@ o perfilhamento das plantas.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 277  Como é feito o controle do nematoide formador de galhas?
 
 Como a incidência de nematoides é relativamente baixa no 
@@ -5062,7 +5056,7 @@ como  vantagens:  contribuir  para  aumentar  o
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 estande  e  o  vigor  inicial  das  plantas,  eliminar  o  inóculo  inicial  e 
 atrasar a epidemia, ou seja, o início da doença na lavoura.
 
@@ -5114,7 +5108,7 @@ tanto em arroz de terras altas como em arroz de várzeas. A queima-
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 das-bainhas é outra doença economicamente importante no ecos-
 sistema de várzeas.
 
@@ -5155,7 +5149,7 @@ causa perdas somente nas partes infectadas.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 288 
 
 Que  situações  podem  favorecer  o  desenvolvimento  da 
@@ -5202,7 +5196,7 @@ chuvas.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 •	 Plantio	 com	 profundidade	 uniforme,	 sem	 sementes	 na	
 
 superfície do solo.
@@ -5255,7 +5249,7 @@ da severidade da brusone nas panículas em solos de Cerrados.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 295 
 
 A ocorrência da queima­das­bainhas é comum em lavouras 
@@ -5303,7 +5297,7 @@ formação  de  grãos.  O  patógeno  infecta  outras  gramíneas  e  legu-
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 minosas, como o feijão e a soja, quando utilizados em rotação com 
 o  arroz.  A  produção  de  escleródio  nos  restos  culturais  de  soja 
 contribui para altos níveis do inóculo no solo. O patógeno dissemina-
@@ -5346,7 +5340,7 @@ destinadas  à  produção  de  sementes,  principalmente  em  arroz
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 irrigado, necessitam de duas aplicações (uma na época de emissão 
 das panículas e outra de 7 a 10 dias após a primeira). A rotação de 
 culturas  e  o  manejo  adequado  da  irrigação  podem  reduzir  a 
@@ -5392,7 +5386,7 @@ de insetos, principalmente percevejos.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 306 
 
 Como  pode  ser  feito  o  controle  da  mancha­de­grãos  em 
@@ -5435,7 +5429,7 @@ tuações como um sintoma atípico da doença.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 310 
 
 Quais são os principais fatores que favorecem a incidência 
@@ -5480,7 +5474,7 @@ Os sintomas característicos e típicos no campo aparecem na
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 emissão da panícula e aumentando até o final do ciclo. As lesões 
 têm  cor  variando  de  marrom-acinzentada  a  marrom-arroxeada, 
 dependendo da cultivar, e medem inicialmente de 0,5 cm a 1,0 cm 
@@ -5524,7 +5518,7 @@ Pecuária e Abastecimento (Mapa).
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 317 
 
 O  mal­do­colo  é  considerado  doença  de  importância 
@@ -5572,7 +5566,7 @@ mesma área.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 321 
 
 Quais são os principais fungicidas e as respectivas doses 
@@ -5599,7 +5593,7 @@ doses e demais informações necessárias.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 11 
 
 Insetos­praga
@@ -5611,7 +5605,7 @@ Evane Ferreira
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 323 
 
 Em que fases da cultura do arroz pode ocorrer o ataque de 
@@ -5654,7 +5648,7 @@ provável, em âmbito nacional, a seguinte ordem geral decrescente
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 de importância: percevejo-do-colmo (Tibraca limbativentris), lagar-
 ta-dos-arrozais (Spodoptera frugiperda), gorgulho-aquático/bicheira-
 da-raiz  (Oryzophagus  oryzae),  percevejo-das-panículas  (Oebalus 
@@ -5701,7 +5695,7 @@ As medidas a serem tomadas são:
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 •	 Destruir	os	restos	de	cultura	infestada	após	a	colheita	ou	no	
 início da época seca, por aração ou pré-incorporação com 
 grade, e fazer, em seguida, a aração profunda de pré-plantio.
@@ -5744,7 +5738,7 @@ da lavoura de arroz.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 330 
 
 Como se apresentam as plantas de arroz danificadas por 
@@ -5792,7 +5786,7 @@ safra).
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 •	 Utilizar	cultivares	menos	suscetíveis,	de	maior	crescimento	
 
 inicial.
@@ -5838,7 +5832,7 @@ de assistência técnica.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 335  Como reconhecer a broca­do­colo numa lavoura de arroz?
 
 A  broca-do-colo  pode  ser  reconhecida  pela  presença  de 
@@ -5884,7 +5878,7 @@ As medidas recomendadas são:
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 •	 Efetuar	 a	 semeadura	 em	 solo	 úmido,	 após	 o	 início	 das	
 
 chuvas.
@@ -5929,7 +5923,7 @@ frugiperda, Mocis latipes e Pseudaletia spp. Depois de atingirem de
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 15 mm a 20 mm de comprimento, as lagartas podem ser reconhecidas 
 pela coloração, pelo número e pela forma das listras ao longo do 
 corpo, pela base dos pelos, pelo número de pernas abdominais e 
@@ -5975,7 +5969,7 @@ Euetheola humillis. Tanto na fase adulta como na larval, esse inseto
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 pode  atacar  a  parte  subterrânea  das  plantas  de  arroz.  Em  alguns 
 anos, grande quantidade de cascudos-pretos chega às lavouras de 
 arroz antes de ser estabelecida a camada de água, ou ao final do 
@@ -6021,7 +6015,7 @@ início das infestações.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 346 
 
 O que pode ser feito para controlar o ataque de formigas 
@@ -6071,7 +6065,7 @@ pela morte parcial ou total da parte central dos colmos atacados.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 A picada do inseto na base das plantas, na fase vegetativa, provoca 
 o aparecimento do sintoma conhecido por “coração morto” e, na 
 fase reprodutiva, o sintoma de panícula branca.
@@ -6118,7 +6112,7 @@ realiza 13 posturas de 15 ovos.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 352 
 
 Como e quais são os prejuízos causados pelo percevejo­
@@ -6163,7 +6157,7 @@ amostragens são realizadas ao acaso retirando amostras em pontos
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 separados  de  aproximadamente  100  metros,  em  campos  de  até 
 15 ha. Deve ser utilizada uma rede entomológica padrão, medindo 
 0,38  m  de  diâmetro  e  0,80  m  de  profundidade  e  com  1  m  de 
@@ -6185,7 +6179,7 @@ seguintes.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 12 
 
 Plantas Daninhas
@@ -6195,7 +6189,7 @@ Tarcísio Cobucci
 Carlos Martins Santiago
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 356 
 
 Quais são as plantas daninhas que mais competem com o 
@@ -6242,7 +6236,7 @@ relacionado com o número de perfilhos,
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 os quais são definidos entre 14 e 42 dias após a emergência, é de se 
 esperar que a competição das plantas daninhas com a cultura de 
 arroz deva ser minimizada nessa fase, que é denominada de período 
@@ -6287,7 +6281,7 @@ durante sua decomposição, pode produzir substâncias alelopáticas
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 que atuam sobre as sementes das plantas daninhas. É importante 
 respeitar um período de 20 dias da dessecação da cobertura e do 
 plantio do arroz (no sistema de plantio direto) quando se utiliza o 
@@ -6333,7 +6327,7 @@ em pleno desenvolvimento vegetativo.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 367 
 
 No  manejo  de  área,  a  aplicação  sequencial  de  produtos 
@@ -6380,7 +6374,7 @@ esses herbicidas tornam-se indisponíveis à absorção pelas raízes das
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 plantas,  de  modo  que  até  se  poderia  recomendar  o  plantio  ime-
 diatamente após sua aplicação. Entretanto, novos estudos mostram 
 que, quando da existência de uma cobertura vegetal, há a liberação 
@@ -6422,7 +6416,7 @@ do produto sobre as plantas daninhas.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 373 
 
 Pode­se recomendar herbicidas pré­emergentes em plantio 
@@ -6468,7 +6462,7 @@ margens de carreadores.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 375 
 
 Como a altura das cultivares de arroz afeta o controle das 
@@ -6513,7 +6507,7 @@ seletivas para a cultura do arroz. Em virtude da baixa solubilidade
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 em água e da alta capacidade de adsorção nos coloides do solo, os 
 produtos atingem até 2 cm de profundidade, e a seletividade pode 
 se dar pelo posicionamento da semente. Nesse caso, recomenda-se 
@@ -6550,7 +6544,7 @@ da planta, evitando danos a elas.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 380  Pode­se aplicar clomazone no arroz de terras altas?
 
 O clomazone é um herbicida que inibe a síntese da clorofila. 
@@ -6593,7 +6587,7 @@ do  perfilhamento,  promovendo  reduções  da  produtividade  nas
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 variedades Primavera e Maravilha. Para a Canastra, o rendimento de 
 grãos não é afetado com a aplicação do produto. A aplicação de 
 2,4-D aos 30 DAE não afeta o perfilhamento, mas afeta o número 
@@ -6638,7 +6632,7 @@ do solo, tipo de preparo do solo, disponi-
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 bilidade do produto no mercado e custo. É preciso levar em conta 
 também  a  seletividade  das  variedades  de  arroz  em  relação  ao 
 herbicida.
@@ -6684,7 +6678,7 @@ no solo por longo tempo, dificultando sua erradicação em
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 388 
 
 Quais são os problemas causados pelo arroz­vermelho nas 
@@ -6728,7 +6722,7 @@ maioria das cultivares de porte baixo), ciclo semiprecoce a médio e
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 grãos espessos e de comprimento médio. No entanto, é importante 
 ressaltar que ecotipos com características idênticas às das cultivares 
 modernas  e  com  grãos  tipo  agulhinha  têm  sido  encontrados  em 
@@ -6770,7 +6764,7 @@ germinação das sementes ainda existentes no solo.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 391 
 
 Como  se  utiliza  o  plantio  direto  para  controle  de  arroz­
@@ -6813,7 +6807,7 @@ eficiência no controle de arroz, incluindo os tipos daninhos, como
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 também  possíveis  misturas  provenientes  de  safras  anteriores.  Nas 
 culturas de soja, milho e sorgo, podem ser usados herbicidas tanto 
 em pré-plantio incorporado (PPI) como em pré ou pós-emergência. 
@@ -6854,7 +6848,7 @@ oxyfluorfen e oxadiazon. Os quadros devem ser mantidos com água
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 estagnada  por,  pelo  menos,  10  dias,  fazendo-se  reposição  para 
 completar o nível, se necessário. Após esse período, faz-se a troca 
 de  água  nos  quadros  e  realiza-se  a  semeadura.  A  semeadura  de 
@@ -6895,7 +6889,7 @@ ser controladas quimicamente.
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 395 
 
 Qual é a importância do transplante de mudas de arroz no 
@@ -6939,7 +6933,7 @@ junquinho,  e  Fimbristylis  miliacea,  denominada
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 culminho. Em lavouras de arroz irrigado, são bastante competitivas 
 na  fase  inicial  da  cultura,  diminuindo  a  competitividade  poste-
 riormente, em especial se a cultivar de arroz for de porte alto, pois 
@@ -6980,7 +6974,7 @@ deve estar  seco ou pouco úmido, pois, com alto teor de água, o
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 produto terá menor adsorção no solo, ou seja, menor capacidade 
 de aderir às partículas do solo e, com isso, pode voltar à superfície 
 e ocorrer perda por volatilização. Na aplicação em pré-emergência, 
@@ -7019,7 +7013,7 @@ principalmente no momento da aplicação.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 402 
 
 Qual é o efeito da temperatura sobre a eficiência dos herbi­
@@ -7063,7 +7057,7 @@ luz para sua ação inibidora da fotossíntese. As aplicações do produto
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 são preferencialmente indicadas pela manhã, pois, quanto maior a 
 taxa fotossintética, melhores serão os resultados. Misturas com her-
 bicidas residuais, como oxadiazon ou pendimethalin, resultam em 
@@ -7107,7 +7101,7 @@ recomendadas para o sistema de cultivo irrigado.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 408 
 
 Que vantagens as cultivares de arroz resistentes a herbicida 
@@ -7136,9 +7130,9 @@ cruzamento natural.
 195
 
 
- 500pr_pgnumber196
-
  500pr_pgnumber197
+
+ 500pr_pgnumber198
 13 
 
 Colheita
@@ -7147,7 +7141,7 @@ José Geraldo da Silva
 Jaime Roberto Fonseca
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 410  Quando a lavoura de arroz está pronta para ser colhida?
 
 A lavoura está pronta para ser colhida quando a maturação do 
@@ -7188,7 +7182,7 @@ colheita for feita com colhedora, ocorrem também grandes quanti-
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 dades de perdas, pois os grãos ficam retidos no cacho e nas palhas, 
 além de a capacidade de trabalho da máquina baixar em decorrência 
 de constantes embuchamentos. Além disso, a proporção de grãos 
@@ -7231,7 +7225,7 @@ manhã, quando os grãos estiverem umedecidos pelo orvalho, mas,
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 depois de iniciada a operação, ela pode ser estendida até mais tarde, 
 quando ressurge o orvalho. Se ocorrer chuva, a colheita deve ser 
 paralisada  até  que  as  plantas  retomem  as  condições  favoráveis  à 
@@ -7272,7 +7266,7 @@ com cutelo, as quais ficam expostas ao sol em leiras para depois
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 serem  recolhidas  e  trilhadas  mecanicamente,  usando  trilhadoras 
 estacionárias.
 
@@ -7318,7 +7312,7 @@ irrigados.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 421 
 
 Quais  componentes  especiais  deve  ter  a  colhedora  para 
@@ -7359,7 +7353,7 @@ na colheita manual e de 326 kg/ha-1 na mecanizada.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 424  Qual é a taxa de perda aceitável na colheita do arroz?
 
 Nas condições favoráveis de realização da colheita, é aceitável 
@@ -7403,7 +7397,7 @@ fluxo de ar, da abertura e da posição das peneiras.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 428 
 
 Quais são as causas da perda de grãos de arroz durante a 
@@ -7449,7 +7443,7 @@ correspondente.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 431 
 
 Na colheita manual, o que se recomenda para reduzir as 
@@ -7495,9 +7489,9 @@ rendimento diário da operação.
 205
 
 
- 500pr_pgnumber206
-
  500pr_pgnumber207
+
+ 500pr_pgnumber208
 14 
 
 Semente
@@ -7509,7 +7503,7 @@ Nóris Regina de Almeida Vieira
 Cláudio Bragantini
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 434 
 
 Que atributos genéticos são decisivos para a definição da 
@@ -7550,7 +7544,7 @@ variedades de arroz. A sanidade da semente é garantida por análises
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 laboratoriais  que  verificam  a  presença  de  doenças,  nematoides  e 
 insetos-praga. Por exemplo, a brusone, principal doença do arroz, é 
 transmitida também pela semente, podendo ser fonte primária de 
@@ -7594,7 +7588,7 @@ No caso de arroz, o percentual mínimo de sementes puras
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 exigido pela legislação de sementes é de 99% para todas as 
 categorias de semente.
 
@@ -7637,7 +7631,7 @@ precisa estar viva, ou seja, capaz de germinar e produzir uma nova
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 planta  quando  proporciona-
 das  as  condições  favoráveis, 
 enquanto  o  grão  é  destinado 
@@ -7680,7 +7674,7 @@ deve estar de outra no campo.
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 A  legislação  determina  3  m,  mas,  na  prática,  esta  distância 
 deve ser a maior possível); pulverizações preventivas de fungicidas 
 (pois  as  doenças  normalmente  são  transmissíveis  pela  semente); 
@@ -7723,7 +7717,7 @@ umidade  evita  a  redução  de  vigor  nas  sementes.  No  entanto,  as
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 cultivares apresentam variação quanto ao teor de umidade adequado 
 na  colheita  que  assegure  um  maior  rendimento  de  grãos  inteiros 
 (neste caso, semente sem dano mecânico). Normalmente, os obten-
@@ -7766,7 +7760,7 @@ aqueles do próprio embrião podem restringir a entrada de O2 e a
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 saída  de  CO2,  interferindo  na  respiração  da  semente  e,  conse-
 quentemente, bloqueando o crescimento do embrião. Esta imper-
 meabilidade aos gases é atribuída aos compostos fenólicos existentes 
@@ -7807,7 +7801,7 @@ arroz  seria  a  exposição  a  temperaturas  altas  com  ou  sem  água.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 Nessa  situação,  tratamentos  com  calor  reduzem  a  atividade  da 
 peroxidase  e,  portanto,  uma  pré-secagem  em  estufa  de  circulação 
 forçada  de  ar  (ou  no  secador)  proporcionaria  a  superação  da 
@@ -7852,7 +7846,7 @@ lavoura, nos diversos estádios de desenvolvimento da cultura e após
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 a colheita, por meio de análises do lote de sementes por laboratório 
 credenciado, com emissão de laudo oficial. A legislação brasileira – 
 popularmente conhecida como Lei de Sementes e Mudas (BRASIL, 
@@ -7898,7 +7892,7 @@ beneficiamento.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 •	 Prevenção	contra	contaminações	e	danos	pós­colheita	nas	
 
 fases de secagem e armazenamento.
@@ -7945,7 +7939,7 @@ também inscrito no Renasem).
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 •	 Possuir	unidade	de	beneficiamento	de	sementes	(UBS)	ou	
 
 contrato de prestação de serviço com uma.
@@ -7990,7 +7984,7 @@ tem alguma diferença de ciclo, plantas mais altas ou baixas do que
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 a da cultivar em questão, plantas com folhas de pilosidade diferente, 
 presença de aristas e cor de apículo diferente e plantas doentes que 
 possam servir como fonte de contaminação dentro do campo.
@@ -8032,7 +8026,7 @@ multiplicação  da  semente  básica  é  chamada  de  C1  e  a  segunda
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 geração de C2. A certificação destas duas categorias deve ser obtida 
 por  empresas  ou  laboratórios  oficiais  (credenciados  pelo  Mapa) 
 através de vistorias e/ou análises das sementes. Além destas, ainda 
@@ -8075,7 +8069,7 @@ certificada de primeira geração (C1) será obtida da semente genética
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 ou da semente básica; e a semente certificada de segunda geração 
 (C2)  será  obtida  da  semente  genética,  da  semente  básica  ou  da 
 semente  certificada  de  primeira  geração  (C1),  podendo  o  Mapa 
@@ -8118,7 +8112,7 @@ anteriores. É muito importante o conhecimento da área no que se
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 refere ao período de pousio e à infestação de plantas daninhas. Em 
 arroz  irrigado,  o  pousio,  para  ser  efetivo,  deve  ser  de  no  mínimo 
 3  anos.  O  ideal  seriam  5  anos.  Áreas  muito  infestadas  por  arroz 
@@ -8161,7 +8155,7 @@ facilita muito a eliminação de contaminantes do campo de produção
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 de sementes, pois gera uma diferença de ciclo entre as mudas de 
 arroz da cultivar desejada e as plantas voluntárias indesejáveis que 
 podem  surgir  ao  longo  do  ciclo  da  cultura.  Esse  procedimento  é 
@@ -8204,7 +8198,7 @@ de sementes refere-se à limpeza de máquinas e equipamentos utili-
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 zados tanto na fase de campo como na de pós-colheita. Durante a 
 fase de campo, as principais fontes de contaminação podem estar 
 nos equipamentos utilizados no preparo do solo, na semeadura e na 
@@ -8253,7 +8247,7 @@ credenciado de acordo com a legislação vigente.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 •	 Inscrição	no	Renasem	como	produtor,	quando	certificador	
 
 de sementes de produção própria.
@@ -8282,11 +8276,11 @@ análise e sementes. Brasília, DF: Mapa/ACS, 2009. 399p.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 Secagem e  
 
                 Beneficiamento
@@ -8300,7 +8294,7 @@ Eduardo da Costa Eifert
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 460 
 
 Como proceder para secar o arroz destinado a sementes e 
@@ -8341,7 +8335,7 @@ Nessas  condições,  a  semente  mantém-se  viva  por  períodos  mais
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 longos,  com  menor  risco  de  perda  de  qualidade  fisiológica.  Ao 
 mesmo tempo, a baixa umidade na semente diminui a proliferação 
 de  bactérias,  fungos  e  insetos.  A  secagem  da  semente  é  também 
@@ -8385,7 +8379,7 @@ e coletada em um cilindro graduado, onde é feita a leitura do teor
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 de umidade. Esse é um método simples, barato e preciso, princi-
 palmente  porque  o  equipamento  pode  ser  facilmente  construído 
 em laboratório. No monitoramento da colheita e da secagem, que 
@@ -8424,7 +8418,7 @@ beneficiamento até a embalagem e a distribuição) com os objetivos
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 de melhorar a aparência e a pureza dos lotes e de protegê-los contra 
 pragas  e  doenças.  Durante  o  processo  de  beneficiamento,  que 
 compreende as etapas de pré-limpeza, limpeza e classificação de 
@@ -8463,7 +8457,7 @@ mais leves do que a semente. Como os lotes de sementes de arroz
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 variam muito quanto à natureza dos contaminantes e ao tamanho 
 da semente, a seleção correta das peneiras é muito importante para 
 a eficiência do processo de limpeza. Para o beneficiamento da se-
@@ -8506,7 +8500,7 @@ demais  na  forma  ou  em  dimensões,  são  mais  leves  e  de  baixa
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 qualidade. Como existe uma relação direta entre a densidade das 
 sementes e sua qualidade fisiológica, o uso da mesa de gravidade, 
 além  de  limpar,  contribui  também  para  melhorar  a  qualidade 
@@ -8547,7 +8541,7 @@ e de grãos quebrados, separadamente, obtidos após o beneficiamento
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 do arroz, sendo expressos em porcentagem em relação ao produto 
 bruto (casca). É considerado grão inteiro o grão descascado e polido 
 que, mesmo quebrado, apresente comprimento igual ou superior a 
@@ -8587,7 +8581,7 @@ colocados em contato com umidade ambiental elevada.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 478  O tempo de estocagem afeta a eficiência do beneficiamento?
 
 Sim. Existem indicações de que o tempo de estocagem contri-
@@ -8627,7 +8621,7 @@ amido do arroz.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 480  Que vantagens apresenta o óleo de arroz?
 
 Em virtude de seu alto ponto de fumaça, da estabilidade e das 
@@ -8653,7 +8647,7 @@ etc.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 16 
 
 Armazenagem
@@ -8664,7 +8658,7 @@ Edson Herculano Neves Vieira
 Noris Regina de Almeida Vieira
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 482  Que fatores afetam o armazenamento do arroz?
 
 O armazenamento de grãos constitui um sistema biológico no 
@@ -8705,7 +8699,7 @@ silos, é a prática predominante devido à escala de produção.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 485 
 
 Que cuidados devem ser observados na construção de um 
@@ -8747,7 +8741,7 @@ portanto, imprescindível levar em consideração a forma do silo, o
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 enchimento  (se  é  feito  com  ou  sem  espalhador)  e  o  índice  de 
 compactação,  disponível  em  tabelas  específicas  para  diferentes 
 tipos de grãos e que é calculado de acordo com a altura da queda.
@@ -8787,7 +8781,7 @@ armazenamento.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 491 
 
 O  armazenamento  influencia  o  tempo  de  cozimento  do 
@@ -8883,7 +8877,7 @@ Continua...
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 Tabela 1. Continuação.
 
 UR (%)
@@ -9152,7 +9146,7 @@ limpeza do armazém e controle de pragas e roedores.
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 494 
 
 O armazenamento do arroz por um período de 12 meses 
@@ -9197,7 +9191,7 @@ vigor da semente, tornando o produto sem valor para plantio.
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 497 
 
 O que pode ser feito para minimizar a perda de qualidade 
@@ -9241,7 +9235,7 @@ comportamento do produto durante o armazenamento.
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 500  Como é feito o expurgo?
 
 O  expurgo  do  armazém, 
@@ -9273,41 +9267,4 @@ ado apenas por pessoas treinadas.
 
 245
 
-
- 500pr_pgnumber246
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000023
-
-•••
-
-
- 500pr_pgnumber247
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber248
-
- 500pr_pgnumber249
-
- 500pr_pgnumber250
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber251
 

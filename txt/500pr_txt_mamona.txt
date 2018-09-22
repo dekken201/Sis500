@@ -1,18 +1,5 @@
 
- 500pr_pgnumber015
-1 Manejo Cultural
-
-Demóstenes Marcos Pedrosa de Azevedo
-
-Napoleão Esberard de Macêdo Beltrão
-
-Liv Soares Severino
-Ziany Neiva Brandão
-
-15
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1
 
 Como escolher uma área adequada para cultivar mamona?
@@ -58,7 +45,7 @@ vários anos consecutivos, da mesma espécie, na mesma área. Para a
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 mamona,  não  existe  nenhuma  proibição  legal.  Por  precaução,
 entretanto, aconselha-se que a repetição fique limitada a 3 anos no
 máximo, pois a cada ciclo aumenta o risco de ocorrer pragas, doenças
@@ -104,7 +91,7 @@ nas entrelinhas da mamona, ao passo que cultivo solteiro é o plantio
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 só  de  mamona.  O  plantio  consorciado  é  uma  prática  agrícola
 consagrada em toda a região tropical, cuja finalidade é diminuir os
 riscos da irregularidade climática, aumentando a estabilidade da
@@ -147,7 +134,7 @@ como milho, algodão, mandioca, gergelim ou amendoim.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 8
 
 Como escolher uma cultura para consorciar com mamona?
@@ -194,7 +181,7 @@ mais tardias.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 11
 
 Qual a quantidade de semente para plantar 1 ha de mamona?
@@ -243,7 +230,7 @@ entre si por água, nutrientes e luz.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 Vários  efeitos  podem  ser  percebidos,  dependendo  das
 
 condições ambientais:
@@ -290,7 +277,7 @@ saindo  caro.  Os  cálculos  a  seguir,  relativos  a  uma  lavoura  com
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 3.333 plantas por hectare, usando semente com 75% de germinação,
 mostram a veracidade dessa afirmação:
 
@@ -341,7 +328,7 @@ engrenagens ao tamanho da semente de mamona.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 19
 
 O plantio de mamona pode ser feito em solo seco?
@@ -383,7 +370,7 @@ com baixo risco de ocorrência de veranicos.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 21
 
 Quando se deve fazer o desbaste da mamona?
@@ -425,7 +412,7 @@ mente.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 24
 
 Vale a pena replantar as covas falhadas?
@@ -475,7 +462,7 @@ da colheita, com o objetivo de forçar a brotação e obter nova colheita
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 da mesma planta. Esse sistema tem a vantagem de evitar o preparo
 do solo e o replantio no ano seguinte, assegurando uma produção
 mais precoce, pois a planta já está com seu sistema radicular formado.
@@ -519,7 +506,7 @@ propagação de pragas e doenças de um ano para outro.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 29
 
 Podar a mamoneira é melhor que arrancar e replantar?
@@ -567,7 +554,7 @@ superior a 2 anos, aumenta-se o risco de ocorrência de pragas e
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 doenças,  dificultando  o  manejo,  reduzindo  a  produtividade  e
 encarecendo o custo de produção. A lavoura também sofre com a
 redução do número de plantas e com a desuniformidade entre plantas
@@ -612,7 +599,7 @@ necessário é muito elevado, tornando essa técnica inviável.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 34
 
 A plântula de mamona pode ser transplantada da sementeira
@@ -660,7 +647,7 @@ custo,  disponível  na  região,  e  que  ofereça  condições  físicas  e
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 químicas para o crescimento das mudas de mamona. Dificilmente
 um único produto oferece todas as condições adequadas para tal
 substrato, devendo-se recorrer, então, à mistura de dois ou mais materiais.
@@ -708,7 +695,7 @@ nua, pois, ao ser arrancada do solo, sua raiz principal quebra-se e
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 não resiste muito tempo após ser exposta ao sol e ao vento com as
 raízes descobertas.
 
@@ -740,9 +727,9 @@ desfolhantes.
 31
 
 
- 500pr_pgnumber032
-
  500pr_pgnumber033
+
+ 500pr_pgnumber034
 2 Manejo do Solo
 
 Gilvan Barbosa Ferreira
@@ -750,7 +737,7 @@ Gilvan Barbosa Ferreira
 Liv Soares Severino
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 43
 
 A mamoneira favorece a erosão do solo?
@@ -801,7 +788,7 @@ protege bem o solo contra a erosão causada pela chuva.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 Recomenda-se  o  plantio
 da  mamona  em  terrenos  com
 declividade de 8% no máximo,
@@ -847,7 +834,7 @@ será muito menor, prejudicando a produtividade da lavoura.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
  O preparo adequado do
 solo  é  ainda  mais  importante
 para a mamoneira porque suas
@@ -893,7 +880,7 @@ terraços, e nunca de cima para baixo. Somente em solos planos, com
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 declividade menor que 3%, pode-se escolher um sentido que otimize
 o trabalho do trator.
 
@@ -939,7 +926,7 @@ sulco de plantio para colocar a semente e o adubo.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 Existe ainda um siste-
 ma intermediário chamado
 “semidireto”,  utilizado
@@ -981,7 +968,7 @@ produtividade.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 53
 
 A densidade de plantas daninhas influencia o preparo do
@@ -1030,7 +1017,7 @@ ajuda a diminuir os efeitos da compactação.
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 55
 
 A aração do solo é sempre necessária?
@@ -1078,7 +1065,7 @@ plantas daninhas por roçagem ou com herbicidas.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 Medidas voltadas para aumentar o teor de matéria orgânica no
 solo, como dubação orgânica, plantio em consórcio, adubação verde,
 rotação de culturas, etc., também são desejáveis.
@@ -1125,7 +1112,7 @@ deve-se agir em duas direções:
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 Para aumentar a cobertura do solo, devem-se adotar várias
 técnicas, como a rotação de culturas com plantas produtoras de
 palhada e o controle de plantas daninhas com herbicidas.
@@ -1144,7 +1131,7 @@ contínuo.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 Nutrição e Fertilidade
 do Solo
 
@@ -1157,7 +1144,7 @@ Liv Soares Severino
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 61
 
 De que nutrientes a mamoneira precisa para produzir bem?
@@ -1206,7 +1193,7 @@ quando em elevada concentração no solo:
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 • Sódio.
 • Alumínio.
 Níveis  tóxicos  de  sódio
@@ -1252,7 +1239,7 @@ de mamona depende de vários fatores, como: duração do ciclo,
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 características  da  cultivar,  fertilidade  do  solo,  manejo  cultural,
 produtividade e, principalmente, uso de irrigação.
 
@@ -1298,7 +1285,7 @@ culturais para outra área também empobrece o local de onde está
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 sendo  retirado  o  material,  embora  os  nutrientes  possam  ser
 aproveitados no local para onde foi levado.
 
@@ -1344,7 +1331,7 @@ de nutrientes.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 Freqüentemente ocorre a carência de diversos nutrientes ao
 mesmo  tempo,  tornando  ainda  mais  difícil  a  identificação  do
 problema. Quando a deficiência de algum nutriente é muito intensa,
@@ -1396,7 +1383,7 @@ seu porte fica bem menor que o da planta normal.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 Percebe-se  a  deficiência  de  fósforo  inicialmente  pelo
 aparecimento de folhas fortemente esverdeadas, que sofrem clorose
 no  tecido  paralelo  à  nervura,  isolando  o  tecido  internerval
@@ -1451,7 +1438,7 @@ de folhas e necrose das margens das folhas.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 73
 
 Quais os sintomas da deficiência de magnésio?
@@ -1497,7 +1484,7 @@ nutritiva, os sintomas visuais de falta de boro aparecem depois de
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 espessas e, em alguns casos, enrolam-se para baixo. Ocorrem defor-
 mações na região de separação dos lóbulos, que avançam em direção
 da nervura principal e dão ao limbo um aspecto arredondado (a folha
@@ -1546,7 +1533,7 @@ pH acima de 7,0, ou em solos ácidos que receberam calagem exces-
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 siva. Em solos de cerrado de recente incorporação ao processo produtivo,
 deficientes em manganês, é necessária a adubação com manganês.
 
@@ -1592,7 +1579,7 @@ produtividade  da  mamoneira  ficará  prejudicada.  Porém,  não  é
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 possível determinar o nível de produtividade sem conhecer o nível
 de fertilidade do solo e a disponibilidade de água.
 
@@ -1639,7 +1626,7 @@ diversos fatores, como:
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 • Previsão de estoques.
 • Preços do mercado.
 Na impossibilidade de fazer adubação adequada em toda a
@@ -1683,7 +1670,7 @@ características físicas do solo, como retenção de água e aeração,
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 muito importantes para aumentar a produção. Outra vantagem é que
 os nutrientes, principalmente o nitrogênio, são liberados aos poucos,
 à  medida  que  são  demandados  pela  planta,  ao  longo  do  ciclo.
@@ -1737,7 +1724,7 @@ disponibilidade do material e dos custos de aquisição, transporte e
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 aplicação. A quantidade ideal é de 20 a 40 t/ha de esterco bovino,
 ou de 40 a 80 m3/ha, embora esse volume possa encarecer muito os
 custos de produção da lavoura e não trazer retorno econômico.
@@ -1784,7 +1771,7 @@ podem ser adubadas com doses maiores de nitrogênio quando há
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 boa  disponibilidade  de  água.  Doses  como  120  kg/ha  ainda
 proporcionam aumento de produtividade.
 
@@ -1830,7 +1817,7 @@ fisiologia da mamoneira, pois essa planta produz óleo por meio de
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 reações que utilizam muita energia, para as quais a presença do
 fósforo é fundamental.
 
@@ -1884,7 +1871,7 @@ a planta está iniciando seu desenvolvimento.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 A adsorção é o efeito pelo qual o fósforo se liga a partículas do
 solo, impedindo sua absorção pelas raízes das plantas. Para evitar
 que isso ocorra, o adubo fosfatado não deve ser espalhado, mas
@@ -1928,7 +1915,7 @@ fosfato natural fornece do meio para o fim do ciclo.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 Ao contrário das fontes solúveis, o fosfato natural pode ser
 aplicado sobre toda a área, e não apenas no sulco ou na cova,
 principalmente em solos ácidos e muito pobres em fósforo. A dose
@@ -1971,7 +1958,7 @@ adubação de acordo com a recomendação da análise de solo.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 97
 
 Como deve ser feita a adubação de potássio da mamoneira?
@@ -2020,7 +2007,7 @@ pelo  menos  um  contenha  enxofre.  As  combinações  são  uréia  +
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 supersimples ou sulfato de amônio + supertriplo, sendo a escolha
 motivada pelo preço.
 
@@ -2070,7 +2057,7 @@ adequado quando o teor é de pelo menos 0,6 mg/dm3.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 • Teor de cobre extraído por Mehlich-1 ou DTPA é considerado
 
 adequado quando superior a 0,8 mg/dm3.
@@ -2119,7 +2106,7 @@ adubação da mamoneira com micronutrientes:
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 • Se a análise do solo apontar teores baixos de micronutrientes,
 deve-se aplicar a lanço 2,0, 2,0, 6,0, 0,4 e 6,0 kg/ha de boro,
 cobre, manganês,molibdênio e zinco, respectivamente. Essas
@@ -2174,7 +2161,7 @@ aumentar a produtividade para 941 kg/ha.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 107
 
 Qual a acidez do solo adequada para o cultivo da mamona?
@@ -2221,7 +2208,7 @@ desses elementos pode prejudicar a planta. O ideal é que a saturação
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 de bases seja de pelo menos 60%, situação em que os níveis de
 acidez tóxica são toleráveis. Quanto ao alumínio, o teor máximo
 aceitável é de 3 mmolc/dm3.
@@ -2266,7 +2253,7 @@ que a reação seja rápida. Entretanto, para manter o pH em níveis
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 adequados em solos já corrigidos, é preferível que as partículas sejam
 um pouco maiores para que a reação ocorra lentamente, ao longo
 do ano.
@@ -2308,7 +2295,7 @@ acidez da camada superficial até 20 cm de profundidade, ao passo
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 que o gesso é capaz de atuar também nas camadas mais profundas.
 A aplicação dos dois produtos pode ser feita ao mesmo tempo.
 
@@ -2358,7 +2345,7 @@ Necessidade de gesso (kg/ha) = 5 x teor de argila (em g/kg)
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 Quando o solo tem pouca argila (teor inferior a 150 g/kg), a
 aplicação de gesso pode provocar forte perda dos nutrientes K e Mg
 e, portanto, deve ser feita com cuidado e não ser repetida.
@@ -2404,7 +2391,7 @@ adequada para a cultura mais nobre entre as que serão rotacionadas,
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 sendo as demais adubadas apenas se os níveis no solo estiverem
 abaixo  de  suas  necessidades  ou  se  queira  fazer  adubação  de
 manutenção.
@@ -2449,7 +2436,7 @@ quentes do dia.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 A adição de 0,2% de
 cloreto  de  potássio  (KCl)
 pode facilitar a absorção de
@@ -2494,7 +2481,7 @@ recomendação do fabricante.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 122
 
 Aminoácidos são melhores que quelatos e sais inorgânicos
@@ -2540,7 +2527,7 @@ os cachos são lançados, de forma proporcional à participação de
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 cada  um  na  produção  total.  Por  exemplo,  48%  da  dose  após  o
 lançamento do primeiro cacho, 24% após o segundo e 8% após o
 terceiro.
@@ -2587,7 +2574,7 @@ haverá menor necessidade de nitrogênio, pois os restos culturais
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 dessas espécies são muito ricos nesse nutriente, por serem plantas
 que fixam o nitrogênio da atmosfera. O nitrogênio das raízes, dos
 caules e das folhas da cultura anterior são liberados para a mamona
@@ -2631,7 +2618,7 @@ potencial produtivo, principalmente quando irrigadas.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 128
 
 Existe um equilíbrio ideal de nutrientes no solo que possibilite
@@ -2675,7 +2662,7 @@ um meio efetivo de controle do estado nutricional da cultura.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 Os teores de macro e micronutrientes considerados adequados
 
 são:
@@ -2724,7 +2711,7 @@ verde ou produção de fitomassa, pois produz pouca matéria seca,
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 tem crescimento muito lento, ciclo muito longo e principalmente
 porque não fixa nitrogênio como as leguminosas.
 
@@ -2769,7 +2756,7 @@ decomposição.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 A casca do fruto de mamona é um material muito rico em
 
 potássio, conforme teores apresentados a seguir:
@@ -2787,7 +2774,7 @@ Magnésio
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 4 Plantas Daninhas
 
 Napoleão Esberard de Macêdo Beltrão
@@ -2801,7 +2788,7 @@ Odilon Reny Ribeiro da Silva
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 O que é planta daninha?
 
 134
@@ -2845,7 +2832,7 @@ de  fotorrespiração),  ao  passo  que  as  plantas  daninhas  crescem
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 rapidamente e ficam em condição de vantagem na competição por
 água, nutrientes e luz, pois podem encobrir a mamoneira e exercer
 efeitos alelopáticos.
@@ -2887,7 +2874,7 @@ prevenção e o controle.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 • A erradicação é um processo muito caro e dificilmente se
 consegue total eficiência, pois as plantas e suas estruturas de
 resistência, ou reprodução, podem permanecer no solo por
@@ -2929,7 +2916,7 @@ certificada, com certidão de pureza, o que garante que não contêm
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 sementes de ervas daninhas. Ao usar adubos orgânicos, como esterco
 de curral, deve-se verificar sua procedência e se está curtido, pois a
 alta temperatura do processo de fermentação é capaz de matar as
@@ -2977,7 +2964,7 @@ definidas com cuidado para o manejo de plantas daninhas, como:
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 • Consorciação.
 • Arranjos e população de plantas.
 • Configuração de plantio.
@@ -3019,7 +3006,7 @@ populacional das plantas daninhas favorecidas pela mamoneira.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 144
 
 O plantio de sementes de qualidade ajuda a controlar as
@@ -3065,7 +3052,7 @@ muito altas, com caules finos e pouca produção.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 146
 
 O preparo do solo auxilia no controle de plantas daninhas ?
@@ -3114,7 +3101,7 @@ a necessidade de controle de plantas daninhas, principalmente se a
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 cultura consorciada tiver crescimento rápido e cobrir o solo logo no
 início do ciclo, impedindo que as plantas daninhas recebam radiação
 solar e cresçam.
@@ -3158,7 +3145,7 @@ entrelinhas quanto dentro das linhas até 60 dias após a emergência
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 das plantas. O cultivador do tipo bico-de-pato geralmente penetra
 muito no solo, não sendo recomendado para a cultura da mamona.
 
@@ -3206,7 +3193,7 @@ herbicidas, muitos dos quais têm efeitos distintos.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 153
 
 O que é período crítico de competição?
@@ -3252,7 +3239,7 @@ em todo o mundo e o mais viável no manejo de grandes áreas.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Até o momento, ainda não existe nenhum herbicida registrado
 (autorizado) para uso na cultura da mamona no Brasil, mas trabalhos
 de  pesquisa  já  estudam  a  forma  de  aplicação,  os  sintomas  de
@@ -3297,7 +3284,7 @@ ou trabalham na área.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 158
 
 É possível fazer controle biológico das plantas daninhas?
@@ -3342,7 +3329,7 @@ jato dirigido e fazer a aplicação em horas de pouco vento.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 160
 
 Características de clima influenciam a dose de herbicida a
@@ -3391,7 +3378,7 @@ plantio, época e forma de aplicação e muitos outros.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 De forma didática, a seletividade pode ser subdividida em
 
 quatro grupos:
@@ -3437,7 +3424,7 @@ muito alta.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 165
 
 Os herbicidas amarelos (dinitroanilinas) podem ser usados
@@ -3485,7 +3472,7 @@ não ocorre fitotoxicidade porque a absorção é mínima e não há
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 translocação para outras partes da planta. Se a dose for muito alta, a
 folha pode ficar deformada, quebradiça e opaca no local de contato,
 mas  o  desenvolvimento  da  planta  continua  normalmente,  com
@@ -3531,7 +3518,7 @@ emergência em dose capaz de causar danos, a mamoneira germina
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 normalmente e pode até chegar a desenvolver duas ou três folhas
 verdadeiras.  A  fitotoxicidade  manifesta-se  como  um  rápido
 murchamento e a perda da cor verde nas folhas, que ficam parecendo
@@ -3577,7 +3564,7 @@ podendo causar fitotoxicidade em doses muito baixas. Eventualmente,
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 a aplicação desse produto em lavouras adjacentes pode prejudicar
 a mamoneira pelas pequenas gotículas em suspensão que podem
 ser trazidas pelo vento. Deve-se ter cuidado até com o uso de pulveriza-
@@ -3622,7 +3609,7 @@ com os princípios ativos já misturados, ou pode-se fazer a mistura na
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 hora da aplicação, chamada “mistura de tanque”. Geralmente, procu-
 ra-se combinar um herbicida para folha estreita e um para folha larga.
 
@@ -3673,7 +3660,7 @@ quais se entopem com muita freqüência.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 5 Pragas
 
 José Janduí Soares
@@ -3682,7 +3669,7 @@ José Marcelo Dias
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 175
 
 A mamoneira é atacada por insetos?
@@ -3730,7 +3717,7 @@ fazendo de determinados insetos um problema sério em determinada
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 região, mas não oferecendo preocupação em outra. Diversos fatores
 climáticos  podem  ser  responsáveis  por  esse  fenômeno,
 principalmente a temperatura, a disponibilidade de água e a presença
@@ -3777,7 +3764,7 @@ culturas, como cana-de-açúcar, algodão amendoim, feijão, etc.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 O principal  sintoma  do
 ataque  da  cigarrinha  é  o
 encarquilhamento  das
@@ -3821,7 +3808,7 @@ inseto deve estar em algum lugar, na planta.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 184
 
 Como evitar o ataque de percevejos?
@@ -3870,7 +3857,7 @@ podendo provocar redução na produção.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 187
 
 O que fazer em lavouras atacadas por lagartas?
@@ -3919,7 +3906,7 @@ mais úmidos) e em variedades mais susceptíveis, o pulgão pode se
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 tornar uma praga muito importante. Nas lavouras do Semi-Árido, que
 usam cultivares de porte médio, não se verificam ataques severos,
 mas em lavouras de porte baixo, nos Cerrados, esses insetos podem
@@ -3945,9 +3932,9 @@ principais pragas em várias regiões produtoras.
 105
 
 
- 500pr_pgnumber106
-
  500pr_pgnumber107
+
+ 500pr_pgnumber108
 6 Doenças da Mamoneira
 
 Wirton Macedo Coutinho
@@ -3955,7 +3942,7 @@ Wirton Macedo Coutinho
 Nelson Dias Suassuna
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 192
 
 Qual a diferença entre imunidade e tolerância no contexto
@@ -4001,7 +3988,7 @@ tonalidade azulada, principalmente sobre inflorescências e cachos.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 Em condições climáticas favorá-
 veis, o fungo desenvolve-se sobre
 os tecidos da planta e, em contato
@@ -4042,7 +4029,7 @@ completamente inflorescências e cachos.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 197
 
 Quais as principais fontes de inóculo de Amphobotrys ricini?
@@ -4088,7 +4075,7 @@ de Boi, LC 5116 e Sipeal 09 mostraram-se resistentes à doença.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 Em avaliações posteriores, feitas
 em condições climáticas favorá-
 veis  ao  desenvolvimento  da
@@ -4133,7 +4120,7 @@ quando aparecerem os sintomas iniciais da doença, ou seja, quando
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 surgirem pequenas manchas de tonalidade azulada nas inflorescên-
 cias. O controle químico visa, sobretudo, à proteção dos cachos
 jovens, reduzindo a produção de inóculo nos cachos mais velhos,
@@ -4175,7 +4162,7 @@ de produtividade.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 205
 
 Quantas  aplicações  de  fungicidas  são  necessárias  para
@@ -4225,7 +4212,7 @@ patógeno da semente para a planta. Entretanto, alguns autores relatam
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 que  a  semente  da  mamoneira  pode  ser  um  eficiente  veículo  de
 dispersão do patógeno a longas distâncias e um importante meio de
 sua sobrevivência na natureza.
@@ -4270,7 +4257,7 @@ sementes de mamoneira pode ser minimizada por meio do controle
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 da umidade e da temperatura do ambiente de armazenamento e pelo
 uso de inibidores fúngicos. Para serem armazenadas, as sementes
 devem estar secas, livres de impurezas, de insetos e ácaros e sem
@@ -4316,7 +4303,7 @@ associados às sementes de mamoneira, reduzindo o tombamento de
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 plântulas e o risco de transmissão de patógenos da semente à planta
 adulta.
 
@@ -4361,7 +4348,7 @@ a algum tipo de estresse. A doença é caracterizada por necroses nos
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 tecidos, que evoluem para podridão seca e morte do caule e dos
 ramos, sendo comum encontrar, sobre o tecido afetado, picnídios
 do fungo (pequenas estruturas escuras e globosas, que se apresentam
@@ -4407,7 +4394,7 @@ favorece o desenvolvimento da doença. A podridão-do-tronco é a
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 principal doença da mamoneira na Região Semi-Árida do Nordeste
 brasileiro, sendo agravada por longos períodos de estiagem.
 
@@ -4451,7 +4438,7 @@ Fusarium, causada por Fusarium oxysporum f. sp. ricini, além da perda
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 de  turgescência  e  do  escurecimento  dos  vasos,  que  se  verifica
 principalmente quando a base do caule é cortada longitudinalmente,
 são observadas áreas irregulares de coloração amarela na superfície
@@ -4492,7 +4479,7 @@ oxysporum f. sp. ricini, agente causal da doença.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 224
 
 Que táticas podem ser usadas no manejo da murcha-de-
@@ -4545,7 +4532,7 @@ classes  dos  ditiocarbamatos  e  fentin  hidróxido  são  eficazes  na
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 redução do progresso da mancha-de-Alternaria em mamoneira mas,
 no Brasil, ainda não existem produtos químicos registrados para o
 controle dessa doença.
@@ -4595,7 +4582,7 @@ na mamoneira, em alguns híbridos foram constatados sintomas típicos
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 de  viroses,  associados  a  elevadas  populações  de  mosca  branca
 (Bemisia  tabaci;  Aleyrodidae)  e  de  cigarrinhas  (Empoasca  sp.;
 Typhlocibidae). Como esses insetos são vetores de viroses em outras
@@ -4618,7 +4605,7 @@ de cultivo de cafeeiro irrigado, no sul de Minas Gerais.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 7 Irrigação e Drenagem
 
 Aurelir Nobre Barreto
@@ -4630,7 +4617,7 @@ José Marcelo Dias
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 233
 
 A mamoneira não necessita de água para crescer e produzir?
@@ -4677,7 +4664,7 @@ produtor, principalmente os das regiões semi-áridas.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 236
 
 Que  métodos  de  irrigação  podem  ser  utilizados  para  a
@@ -4722,7 +4709,7 @@ agrotóxicos.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 239
 
 Como evitar a degradação dos solos em áreas irrigadas de
@@ -4769,7 +4756,7 @@ integração dessas. As bases técnicas das metodologias são:
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 • Demanda climática ou atmosférica.
 • Monitoramento da umidade no solo.
 • Medida direta da seiva na planta.
@@ -4823,7 +4810,7 @@ C
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 ET0 = evapotranspiração de referência (mm dia-1).
 Kc = coeficiente da cultura (adimencional).
 A = área a ser irrigada (m2).
@@ -4893,7 +4880,7 @@ a
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 Em que:
 QTA  – quantidade total de água a ser aplicada à cultura (mm).
 Ea = eficiência de aplicação de água do sistema utilizado (em decimal).
@@ -4939,7 +4926,7 @@ granulométrica.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 θ
 
 CC 
@@ -4999,7 +4986,7 @@ irrigação.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 Os  métodos  de  monitoramento  do  fluxo  de  seiva  podem,
 atualmente, ser divididos em três grupos: balanço de energia, pulso
 de calor e de dissipação térmica.
@@ -5047,7 +5034,7 @@ condição de anoxia ou falta de oxigenação.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 Algumas espécies conseguem sobreviver por longos períodos
 com pouco oxigênio nas raízes, podendo até completar seu ciclo e
 produzir. Mas a mamoneira não tem essa capacidade, de forma que
@@ -5091,7 +5078,7 @@ encharcamento durar apenas 1 dia, a planta pode manifestar os
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 sintomas causados pela anoxia radicular, mas ainda tem capacidade
 para  reverter  o  quadro,  embora  a  produtividade  final  possa  ser
 prejudicada.
@@ -5139,7 +5126,7 @@ adensamento no perfil, na zona radicular das plantas.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 Águas e solos considerados salinos para irrigação são comuns
 no Semi-Árido do Nordeste do Brasil. Cloretos, sais de sódio, de cálcio
 e de magnésio contribuem em grau variado para a salinização do
@@ -5187,7 +5174,7 @@ os quais têm baixa solubilidade e são precipitados.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 Esse processo acarreta aumento na proporção de sódio solúvel
 na fase líquida do solo e, quando esse elemento atinge mais de 50%
 na solução, ou 15% trocável, ocorre adsorção de Na+ pelas partículas
@@ -5232,7 +5219,7 @@ cachos.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 263
 
 A  adubação  química  contribui  para  a  ocorrência  de
@@ -5280,7 +5267,7 @@ da profundidade e das oscilações espaço-temporais da superfície
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 freática é essencial para esse tipo de monitoramento. Os poços são
 feitos com tubos de PVC instalados verticalmente no solo, formando
 uma malha na área escolhida para o monitoramento.
@@ -5327,7 +5314,7 @@ de umidade. Mas a murcha ocorre também depois de um longo
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 tempo em que houver falta de água, estando a produtividade da
 lavoura já comprometida. Isso quer dizer que a murcha das folhas
 não é um critério para irrigar.
@@ -5374,7 +5361,7 @@ mento de água à cultura apenas em períodos de estiagem prolongada.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 274
 
 Qual o intervalo máximo entre irrigações para a mamoneira?
@@ -5424,7 +5411,7 @@ a distribuição desuniforme da água de irrigação geram, comumente,
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 excesso ou déficit hídrico, queda no rendimento das culturas, perdas
 de solo e nutrientes, desperdício de energia e mão-de-obra, entre
 outros  prejuízos.  Devem  ser  avaliados  os  seguintes  parâmetros
@@ -5465,7 +5452,7 @@ irrigação diurna e noturna.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 8 Colheita e Beneficiamento
 
 Odilon Reny Ribeiro da Silva
@@ -5478,7 +5465,7 @@ Vicente de Paula Queiroga
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 279
 
 Quando a lavoura de mamona deve ser colhida?
@@ -5526,7 +5513,7 @@ frutos do contato com o chão e facilitar o revolvimento.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 282
 
 Pode-se armazenar os frutos, deixando para secar depois?
@@ -5572,7 +5559,7 @@ colhedor, para extrair o caule da planta. Dessa forma, permanecem
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 na plataforma apenas os racemos, que são levados pelo transportador
 de corrente ao côncavo e ao cilindro batedor para o descascamento.
 O côncavo e o cilindro batedor devem ser revestidos de borracha
@@ -5615,7 +5602,7 @@ dia se houver ameaça de chuva.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 287
 
 Como definir o tamanho do terreiro para secar mamona?
@@ -5664,7 +5651,7 @@ a secagem da produção.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 Deve-se também considerar a possibilidade de fazer a secagem
 simultânea em terreiros e secadores artificiais. Nesse sistema, faz-se a
 pré-secagem  no  terreiro,  utilizando  os  secadores  para  chegar  à
@@ -5709,7 +5696,7 @@ provocam embuchamento.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 292
 
 Como pode ser feito o descascamento em pequenas lavouras?
@@ -5758,7 +5745,7 @@ secos e, de preferência, devem ser expostos ao sol imediatamente
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 antes do processamento (ainda quentes). Pedras e outras impurezas
 misturadas aos frutos podem danificar os discos de borracha.
 
@@ -5804,7 +5791,7 @@ complementares, como dispositivos para separação de talos ou de
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 pré-limpeza  para  separar  impurezas  como  pedras,  areia,  peças
 metálicas, etc. Para seu bom funcionamento, é preciso regulagem
 adequada da distância entre os discos, a fim de evitar quebra de
@@ -5849,7 +5836,7 @@ pequenas, aumentando a quantidade de marinheiros, ao passo que,
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 na regulagem para sementes pequenas, as grandes são quebradas e
 podem ser expelidas junto com as cascas.
 
@@ -5894,7 +5881,7 @@ acima disso, a indústria tem problemas para a extração do óleo. São
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 tolerados até 3% de sementes quebradas e danificadas. Acima desse
 percentual, a qualidade do óleo fica prejudicada, principalmente se
 o produto tiver que ser armazenado, o que favorece o aumento da
@@ -5938,7 +5925,7 @@ produto.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 304
 
 Qual  a  diferença  entre  mamona  em  baga,  mamona  em
@@ -5963,7 +5950,7 @@ correspondem ao termo shelled seeds.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 Melhoramento, Cultivares
 e Biotecnologia
 
@@ -5986,7 +5973,7 @@ Wagner Alexandre Lucena
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 305
 
 Qual a origem da mamoneira?
@@ -6030,7 +6017,7 @@ para os quintais, dispersando-a por todo o território nacional.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 307
 
 Quais os objetivos de um programa de melhoramento de
@@ -6079,7 +6066,7 @@ de diferentes tipos e locais,
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 com  características  distintas,  que  fornece  materiais  para  o
 desenvolvimento de novas cultivares. Os materiais armazenados no
 BAG funcionam como uma espécie de poupança de características
@@ -6130,7 +6117,7 @@ a aumentar sua tolerância à seca. Para desenvolver cultivares cada
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 vez mais tolerantes à seca, o melhoramento genético seleciona plantas
 com raiz pivotante vigorosa e profunda, que lhes permita absorver
 água a maior profundidade, e com maior cerosidade nas folhas e
@@ -6184,7 +6171,7 @@ aguardando o momento da colheita.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 A  principal  desvantagem  das  cultivares  indeiscentes  é  a
 dificuldade de descascamento que, necessariamente, tem que ser
 mecânico.
@@ -6230,7 +6217,7 @@ garantidas. O uso de semente de baixa qualidade genética pode
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 oferecer  alguma  economia  no  custo  de  produção,  mas  provoca
 grande perda de produção.
 
@@ -6275,7 +6262,7 @@ alguns cuidados a fim de evitar a contaminação genética e garantir
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 boa qualidade de sementes para o plantio seguinte. As principais
 medidas são:
 
@@ -6322,7 +6309,7 @@ se, alternadamente, linhas doadoras e linhas receptoras de pólen.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 A linha  receptora  de  pólen  deve  ser  constituída  de  plantas  que
 possuam somente flores femininas. Colhe-se somente a semente das
 plantas femininas, receptoras de pólen, as quais possuem a carga
@@ -6364,7 +6351,7 @@ ponto de vista agronômico.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 324
 
 Quais  as  vantagens  e  desvantagens  dos  híbridos  de
@@ -6409,7 +6396,7 @@ uma produtividade até maior.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 327
 
 Há variedades adaptadas a baixas altitudes?
@@ -6457,7 +6444,7 @@ Região dos Cerrados são:
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 • Porte baixo ou anão.
 • Precocidade.
 • Tolerância ao adensamento.
@@ -6505,7 +6492,7 @@ e de descascamento, bem como a adaptação ao clima da região.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 333
 
 Quais  as  características  das  cultivares  de  mamona  da
@@ -6552,7 +6539,7 @@ de São Paulo refere-se ao clima e à época de plantio. O produtor
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 deve evitar regiões de inverno acentuado, escolhendo a época de
 plantio de modo que a colheita não coincida com esse período.
 
@@ -6598,7 +6585,7 @@ fazendo-se um picote em forma de V no centro da abertura do saco.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 O saco deve ser grampeado ou amarrado para que fique bem preso
 e não ocorra contaminação.
 
@@ -6645,7 +6632,7 @@ principais problemas da cultura.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
  Entretanto, estão sendo realizadas pesquisas com transgenia
 em  mamona  para  resolver  problemas  difíceis  de  superar  pelo
 melhoramento  tradicional,  como  a  eliminação  da  toxidez  e  da
@@ -6694,7 +6681,7 @@ desse material genético.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 As sementes de cultivares protegidas só podem ser produzidas e
 comercializadas pelo obtentor ou por seus licenciados autorizados.
 A mamona não é passível de proteção, porém é intenção dos órgãos
@@ -6733,9 +6720,9 @@ por ela, com a qual ele produz a semente básica ou fiscalizada.
 169
 
 
- 500pr_pgnumber170
-
  500pr_pgnumber171
+
+ 500pr_pgnumber172
 10 Ecofisiologia
 
 Napoleão Esberard de Macêdo Beltrão
@@ -6743,7 +6730,7 @@ Napoleão Esberard de Macêdo Beltrão
 Liv Soares Severino
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 345
 
 Qual o tipo de metabolismo fotossintético da mamoneira?
@@ -6788,7 +6775,7 @@ disponíveis para crescer, sendo influenciada tanto pela produção,
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 via  fotossíntese,  quanto  pela  perda  de  matéria  pela  respiração.
 No cálculo desse índice, também se considera a área foliar da planta.
 
@@ -6833,7 +6820,7 @@ cultivares e é influenciado
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 por outras características. De maneira aproximada, as condições para
 o ótimo ecológico da mamoneira são:
 
@@ -6881,7 +6868,7 @@ com a condição de seja feito no verão, pois a planta tem pouca
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 tolerância a baixas temperaturas, a não ser que esteja em dormência
 fisiológica (podada, por exemplo).
 
@@ -6936,7 +6923,7 @@ genéticos e pelo ambiente, como:
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 • Comprimento do dia (geralmente dias longos favorecem o
 
 aparecimento de flores femininas).
@@ -6985,7 +6972,7 @@ mamona estão localizadas na base do cacho, ao contrário do que
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 ocorre na maioria das espécies cujas flores masculinas, onde está o
 pólen, se localizam acima das flores femininas, Essa circunstância
 implica  que  a  polinização  das  espécies  cultivadas  é  feita
@@ -7031,7 +7018,7 @@ certo ponto, pelo ambiente, mas sofre maior influência genética.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 O número de sementes por fruto praticamente não é influencia-
 do nem pelo ambiente nem pela genética, pois o fruto quase sempre
 tem três sementes, exceto em condições estressantes, em que algumas
@@ -7076,7 +7063,7 @@ por  hectare.  Esse  valor  pode  variar  de
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 acordo com as condições ambientais, como disponibilidade de água
 e nutrição da planta.
 
@@ -7087,9 +7074,9 @@ de créditos de carbono, gerando mais renda para o agricultor.
 179
 
 
- 500pr_pgnumber180
-
  500pr_pgnumber181
+
+ 500pr_pgnumber182
 11 Aspectos Econômicos
 
 Joffre Kouri
@@ -7097,7 +7084,7 @@ Joffre Kouri
 Robério Ferreira dos Santos
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 362
 
 Quais as regiões brasileiras com melhor viabilidade econô-
@@ -7141,7 +7128,7 @@ grandes  produtores,  a  comparação  dos  custos  de  produção  de
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 sistemas produtivos que adotam inovações tecnológicas pode evitar
 surpresas negativas, causadas pelo impacto dessas inovações.
 
@@ -7182,7 +7169,7 @@ mamona nessa região.
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 365
 
 Para produzir mamona, existe alguma restrição quanto ao
@@ -7229,7 +7216,7 @@ média, 80% dos custos de produção. Grande parte dos gastos
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 despendidos  com  mão-de-obra  é  retida  pelo  produtor  e
 representa a remuneração de seu trabalho, sendo esse valor
 incorporado à receita. Logo, na eventualidade de inexistência
@@ -7273,7 +7260,7 @@ mão-de-obra é de alta eficiência, sendo mais especializada
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 e mais bem remunerada. As cultivares de mamona usadas
 são de porte anão. A grande extensão da área de plantio exige
 a mecanização de todas as operações. Cerca de 85% dos
@@ -7319,7 +7306,7 @@ rural, além de instituições financeiras.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 370
 
 Quais as formas de comercialização da mamona?
@@ -7365,7 +7352,7 @@ de mamona que, por sua vez, comercializam óleo refinado e derivados.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 No mercado internacional, o principal produto comercializado
 é o óleo, matéria-prima industrial utilizada na obtenção de inúmeros
 produtos. O consumo de óleo de mamona concentra-se nos países
@@ -7411,7 +7398,7 @@ desorganizada, com grande número de atravessadores. A produção
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 é pulverizada e de difícil
 organização,  principal-
 mente porque é feita por
@@ -7455,7 +7442,7 @@ contrato de fornecimento de produção negociado com elas.
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
  Para pequenos produtores, o ideal é a venda da produção via
 associações  ou  por  cooperativas.  A  organização  dos  produtores
 certamente é um instrumento muito eficiente para vencer a barreira
@@ -7503,7 +7490,7 @@ exportador  de  derivados  de  óleo  de  mamona,  mas  perdeu  essa
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 hegemonia para os principais países concorrentes. Paralelamente, a
 partir do ano agrícola 1985/86, iniciou-se, no Brasil, uma fase de
 redução da área colhida, do rendimento médio e da quantidade
@@ -7543,7 +7530,7 @@ tecnologia e de investimentos na indústria.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 379
 
 Que derivados são produzidos no Brasil pelas indústrias
@@ -7589,7 +7576,7 @@ mercado nacional quanto para a indústria química de outros países.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 As exportações do Brasil não são de óleo de mamona, mas predomi-
 nantemente de seus derivados, como óleo de mamona hidrogenado,
 ácido ricinoléico e ácido esteárico.
@@ -7636,7 +7623,7 @@ dois países europeus não produzem mamona, apenas compram o
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 O Brasil, que foi o maior exportador mundial até 1988, reduziu
 drasticamente suas vendas de óleo refinado, chegando em 2003 a
 contribuir com apenas 1,13% das exportações mundiais (1.980 t).
@@ -7681,7 +7668,7 @@ principal produtor, pelo preço internacional e pela demanda.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 385
 
 Como é formado o preço internacional do óleo de mamona?
@@ -7726,7 +7713,7 @@ paulistas.
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 O Brasil importa muito pouco óleo de mamona: em 2004, as
 importações  foram  de  1.456  t  de  óleo  refinado  (0,06%  das
 importações  mundiais).  Em  alguns  períodos  específicos,  houve
@@ -7773,7 +7760,7 @@ geneticamente, e o uso generalizado de sementes de baixo
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 rendimento, de baixa
 qualidade genética e
 de  alta  susceptibili-
@@ -7825,7 +7812,7 @@ incentivos provocará a expansão do plantio da mamona, embasada
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 principalmente na agricultura familiar, e o crescimento do agronegó-
 cio da cultura, no País. A expansão do plantio da mamona, entretanto,
 depende de políticas econômicas que possam atrair investimentos e
@@ -7867,7 +7854,7 @@ tradicionais.  Os  agricultores  já  chegam  integrados  ao  processo
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 produtivo e conseguem obter renda satisfatória para o sustento de
 suas famílias.
 
@@ -7910,7 +7897,7 @@ distribuição mais eqüitativa.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 393
 
 Como a mamona pode ser vista no âmbito do Protocolo de
@@ -7928,7 +7915,7 @@ temperatura do planeta).
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 Zoneamento
 Agrícola
 
@@ -7941,7 +7928,7 @@ Napoleão Esberard de Macêdo Beltrão
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 394
 
 O que é zoneamento agrícola?
@@ -7987,7 +7974,7 @@ cultura da mamoneira.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 397
 
 Quem elabora o zoneamento agrícola da mamona?
@@ -8034,7 +8021,7 @@ zoneamento  agrícola,  utilizando  dados  próprios,  e  levando  em
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 consideração peculiaridades do local de estudo. Mas o zoneamento
 com validade oficial é aquele elaborado pela instituição a quem foi
 delegada competência para tal, que, no caso da mamona, é a Embrapa
@@ -8079,7 +8066,7 @@ ração, como a tradição de cultivo em determinadas regiões.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 403
 
 Como se analisa o risco climático?
@@ -8124,7 +8111,7 @@ parte de sua área em condições adequadas ao plantio.
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 406
 
 Em que regiões do Brasil pode-se cultivar mamona?
@@ -8169,7 +8156,7 @@ culturas.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 409
 
 A época de plantio é a mesma para qualquer cultivar?
@@ -8216,9 +8203,9 @@ atualizadas.
 207
 
 
- 500pr_pgnumber208
-
  500pr_pgnumber209
+
+ 500pr_pgnumber210
 13 Óleo de Mamona
 
 Rosa Maria Mendes Freire
@@ -8226,7 +8213,7 @@ Rosa Maria Mendes Freire
 Liv Soares Severino
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 413
 
 Qual o produto mais importante da mamona?
@@ -8274,7 +8261,7 @@ extração.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 A extrusão, ou expeller, é um processo contínuo, que permite
 extrair o óleo com maior eficiência, cujo equipamento é constituído
 de uma rosca sem-fim girando dentro de um cilindro onde as sementes
@@ -8325,7 +8312,7 @@ precisa atender a padrões de qualidade rigorosos, entre os quais se
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 incluem a cor, a acidez, o índice de hidroxila, etc. De acordo com
 esses critérios, o óleo recebe diferentes classificações comerciais.
 
@@ -8401,7 +8388,7 @@ Ind. de saponificação (mg KOH/g)
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 419
 
 Qual a composição de ácidos graxos do óleo de mamona?
@@ -8456,7 +8443,7 @@ sem  predominância  de  nenhum  deles,  mas  o  óleo  de  mamona
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 destaca-se pela predominância de um único ácido graxo, o ácido
 ricinoléico, que responde por cerca de 90% de sua composição.
 
@@ -8503,7 +8490,7 @@ ponto de congelamento bem abaixo de zero.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 425
 
 Existem sementes com mais óleo que outras?
@@ -8550,7 +8537,7 @@ dade de sementes.
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 A época de colheita influencia o teor de óleo da semente?
 
 428
@@ -8594,7 +8581,7 @@ e equipamentos utilizados no processo de extração e refino do óleo
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 de mamona, é possível utilizá-los para extrair óleos comestíveis,
 embora essa operação seja considerada difícil e arriscada.
 
@@ -8640,7 +8627,7 @@ um  objetivo  buscado  pelos  produtores  rurais,  mas  as  pequenas
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 indústrias de extração de óleo têm eficiência muito baixa e alto custo
 operacional, inviabilizando a competição com as grandes usinas.
 
@@ -8660,7 +8647,7 @@ refinadoras, isso não ocorre, atualmente, no Brasil.
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 14 Subprodutos
 
 Liv Soares Severino
@@ -8670,7 +8657,7 @@ Rosa Maria Mendes Freire
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 435
 
 Quais os principais subprodutos da mamona?
@@ -8717,7 +8704,7 @@ em três níveis de eficiência do processo de extração.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 Tabela 4. Quantidade de torta de mamona produzida de acordo com a eficiência
 do processo de extração de óleo.
 
@@ -8786,7 +8773,7 @@ sido  relatada  pelos  antigos  hebreus,  egípcios,  persas,  gregos  e
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 romanos. Mas foi somente na segunda metade do século 20 que se
 descobriu que sua toxidez e alergenicidade eram devidas a diferentes
 compostos.
@@ -8832,7 +8819,7 @@ O cheiro da torta de mamona é muito atraente para esses animais.
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 443
 
 Quem lida com torta de mamona corre risco de intoxicação?
@@ -8880,7 +8867,7 @@ de mamona, embora não impeça a manifestação de sintomas de
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 intoxicação, ajuda o animal a tornar-se imune à ricina e capacita-o,
 aos poucos, a tolerar quantidades cada vez maiores.
 
@@ -8929,7 +8916,7 @@ lacrimejamento, até sintomas mais fortes, como coceira, vermelhidão
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 no rosto e no corpo, inchaço
 na face e surgimento de ecze-
 mas. Os sintomas aparecem
@@ -8974,7 +8961,7 @@ pelo organismo é muito baixa.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
   O  problema  da  alergenicidade  da  torta  restringe-se  aos
 trabalhadores que entram em contato com a poeira do produto, e
 aos moradores das imediações de indústrias de processamento de
@@ -9019,7 +9006,7 @@ termo inglês detoxification.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 455
 
 Qual a composição da torta de mamona como ingrediente
@@ -9108,7 +9095,7 @@ Continua...
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 Tabela 6. Continuação.
 
 Aminoácidos essenciais
@@ -9168,7 +9155,7 @@ Não.  Apenas  materiais  orgânicos  com  alta  relação  C/N
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 compostagem  antes  de  serem  usados  como  adubo  para  não
 queimarem as plantas (a queima é ocasionada pela indisponibilidade
 temporária de nitrogênio). A torta de mamona tem uma relação C/N
@@ -9213,7 +9200,7 @@ do tempo, pois seu preço pode estar baixo apenas temporariamente.
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 463
 
 Como utilizar as cascas dos frutos de mamona como adubo
@@ -9259,7 +9246,7 @@ composição mineral.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 466
 
 O que é ricinina?
@@ -9293,9 +9280,9 @@ mamona e de mandioca. A qualidade de sua seda, porém, é inferior.
 231
 
 
- 500pr_pgnumber232
-
  500pr_pgnumber233
+
+ 500pr_pgnumber234
 15
 
 Transferência
@@ -9306,7 +9293,7 @@ Waltemilton Vieira Cartaxo
 Sergio Ricardo de Paula Pereira
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 468
 
 O que é necessário para ser produtor de mamona?
@@ -9353,7 +9340,7 @@ conhecimento necessário para a condução de determinada lavoura.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 471
 
 Como  funcionam  as  Unidades  de  Teste  e  Demonstração
@@ -9399,7 +9386,7 @@ cultura do algodão da agricultura familiar do Nordeste.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 474
 
 Qual a diferença entre Unidade de Demonstração (UD) e
@@ -9453,7 +9440,7 @@ produtor, bem como do histórico e da tradição de cultivo anterior do
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 produtor em relação à cultura a ser trabalhada. Se a cultura não tiver
 tradição na região, é mais seguro trabalhar com áreas reduzidas de 1
 a 5 ha, pois o que se busca com a UTD é o conhecimento prático
@@ -9501,7 +9488,7 @@ informações aos produtores e permitem sua interação com técnicos
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 e palestrantes, constituindo uma oportunidade para tirar dúvidas e
 conhecer detalhes valiosos sobre o manejo da cultura da mamona.
   A  participação  de  número  significativo  de  produtores  e  a
@@ -9546,7 +9533,7 @@ produtores objetivando a produção de
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 suas próprias sementes, a fim de reduzir custos e evitar a dependência
 de  produtores  externos  de  sementes  e  a  oscilação  de  preços  no
 mercado tradicional.
@@ -9589,7 +9576,7 @@ mudas.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 485
 
 O produtor pode reembolsar o banco com as sementes de
@@ -9633,7 +9620,7 @@ benefícios para todos.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 488
 
 A implantação de pequenas indústrias de extração de óleo
@@ -9677,15 +9664,15 @@ site da Embrapa Algodão (www.cnpa.embrapa.br).
 241
 
 
- 500pr_pgnumber242
-
  500pr_pgnumber243
+
+ 500pr_pgnumber244
 16 Curiosidades
 
 Liv Soares Severino
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 490
 
 O que significa o nome científico Ricinus da mamoneira?
@@ -9731,7 +9718,7 @@ produtividade.
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 493
 
 É arriscado criar animais nas proximidades de lavouras de
@@ -9780,7 +9767,7 @@ quantidade, porém, pode variar de acordo com:
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 • Mecanização de alguma fase do cultivo.
 • Estrutura disponível para colheita e secagem.
 • Existência de máquinas descascadoras.
@@ -9829,7 +9816,7 @@ cachos e frutos para o peso de sementes de algumas cultivares.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 Para cultivares que não estão na lista, calcula-se o valor de
 uma amostra que deve ser pesada antes e depois do descascamento.
 Essa medição deve ser repetida três vezes, pelo menos, para maior
@@ -9894,7 +9881,7 @@ não existem no Brasil.
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 500 A flor da mamoneira serve para produzir mel?
 
 A flor da mamoneira não
@@ -9912,39 +9899,4 @@ pólen para sua alimentação.
 
 248
 
-
- 500pr_pgnumber249
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000014
-
-•••
-
-
- 500pr_pgnumber250
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber251
-
- 500pr_pgnumber252
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber253
 

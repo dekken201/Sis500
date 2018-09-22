@@ -1,11 +1,5 @@
 
- 500pr_pgnumber013
-Aspectos
-
-Gerais1
-
-
- 500pr_pgnumber014
+ 500pr_pgnumber015
 1
 
 Como uma associação de pequenos criadores de ovinos, dos
@@ -51,7 +45,7 @@ oferta, não adianta produzir apenas numa época do ano, deixando
 14
 
 
- 500pr_pgnumber015
+ 500pr_pgnumber016
 o  consumidor  sem  o  produto  em  outras  oportunidades.  Nessa
 situação, é indispensável consultar técnicos especializados da Emater,
 da prefeitura municipal ou do sindicato rural mais próximo, que
@@ -96,7 +90,7 @@ carne,  lã,  pele  ou  leite,  e  considerar  a  infra-estrutura  disponível
 15
 
 
- 500pr_pgnumber016
+ 500pr_pgnumber017
 (instalações, estradas, mercado e indústria processadora), tipos de
 solo e ambiente (clima e topografia) para escolher a raça que melhor
 se  adapte  a  seus  propósitos,  pois  existem  raças  com  diferentes
@@ -141,7 +135,7 @@ Brasileira de Criadores de Ovinos (Arco).
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 8
 
 Que documentos são necessários para o transporte de ovinos
@@ -188,7 +182,7 @@ Criadores de Ovinos, via associações regionais representantes.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 12
 
 Como  proceder  para  registrar  a  pureza  racial  de  uma
@@ -235,7 +229,7 @@ as características raciais.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 16
 
 O que é um rebanho SO?
@@ -293,7 +287,7 @@ Gerais (Accomig) – Belo Horizonte, MG – Fone: (31) 3371-
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 18
 
 Como aumentar a eficiência do manejo de um rebanho de
@@ -345,7 +339,7 @@ dentes-de-leite, os bordos dos dentes são arredondados, ao passo
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 que nos animais extremamente velhos, os dentes terminam em pontas,
 pelo desgaste natural, podendo ocorrer falhas.
 
@@ -394,7 +388,7 @@ dentes médios entre os dentes-de-leite.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 28
 
 O que é um ovino oito dentes ou boca-cheia?
@@ -443,7 +437,7 @@ maxilar.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 32
 
 O que é retrognatismo?
@@ -490,7 +484,7 @@ identificação individual, ao passo que a marcação para identificação
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 do rebanho é feita com marca registrada na prefeitura do município,
 onde se localiza a propriedade rural, utilizando-se tinta própria,
 facilmente removível por lavado industrial da lã.
@@ -536,7 +530,7 @@ Corriedale  e  o  número  de  ovelhas  vazias,  após  o  período  de
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 cobertura. Além disso, esse fato sobrecarrega o manejo em virtude
 das repetidas tosquias na cara dos animais afetados para facilitar sua
 visão.
@@ -583,7 +577,7 @@ e silenciosa.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 45
 
 Que raças caninas são indicadas para guarda de rebanho?
@@ -607,7 +601,7 @@ adulto já treinado, no exercício da função.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 Instalações  e
 Equipamentos
 
@@ -616,7 +610,7 @@ Equipamentos
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 47
 
 Que  instalações  são  necessárias  para  o  manejo  de  uma
@@ -663,7 +657,7 @@ retirar capim encostado nos fios, etc.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 • Muitas propriedades rurais não possuem energia elétrica,
 recomendando-se o uso de aparelhos solares, o que encarece
 o custo.
@@ -709,7 +703,7 @@ valioso.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 54
 
 Qual a função do curral?
@@ -763,7 +757,7 @@ etc).
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 57
 
 O que é pedilúvio?
@@ -812,7 +806,7 @@ conforme a disponibilidade financeira do criador.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 61
 
 Que  características  devem  ser  observadas  para  o  bom
@@ -862,7 +856,7 @@ a forrageira), com o período de pastejo (inferior a 5 dias para diminuir
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 o risco de infecção parasitária) e com o número de grupos de ovinos.
 O número de subpotreiros é obtido pela fórmula: NP = (PD/PP) + X,
 em que: NP = número de divisões (subpotreiros); PD = período de
@@ -901,16 +895,16 @@ dia.
 33
 
 
- 500pr_pgnumber034
-
  500pr_pgnumber035
+
+ 500pr_pgnumber036
 Melhoramento
 Genético
 
 3
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 68
 
 O que caracteriza uma raça?
@@ -962,7 +956,7 @@ cor das mucosas, a textura dos pêlos, chifres e conformação.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 72
 
 O que é policerismo?
@@ -1010,7 +1004,7 @@ seleção objetiva.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 77
 
 Qual o principal atributo produtivo de uma raça local?
@@ -1057,7 +1051,7 @@ tiva, os ovinos são classificados em:
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 81
 
 Quanto à cobertura da pele, como são classificados os ovinos?
@@ -1106,7 +1100,7 @@ aproximado acima de 50 kg. Apresentam, também, quarto em forma
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 de pernil, com nádegas largas, carnudas e afastadas, em forma de
 “U” invertido, quando vistas de trás. A pele é resistente, coberta de lã
 geralmente de pouca suavidade e escasso comprimento de mecha.
@@ -1153,7 +1147,7 @@ grossas,  sendo  denominada  “lã  cruza”.  Geralmente,  possuem
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 mucosas e cascos pretos, além de um topete de lã, na fronte. O corpo
 é musculoso.
 
@@ -1197,7 +1191,7 @@ climáticas do Brasil. Pode ser criada em regime de economia familiar,
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 em ambiente adverso à criação de ovinos de outras raças, ou em
 lavouras de subsistência.
 
@@ -1243,7 +1237,7 @@ cobertura de gordura.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 96
 
 Onde comprar ovinos de raças leiteiras?
@@ -1296,7 +1290,7 @@ categoria animal.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 101
 
 Qual a melhor raça de ovinos de aptidão leite para ser criada
@@ -1343,7 +1337,7 @@ lactação.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 105
 
 Qual a duração da lactação e a produção de leite de uma
@@ -1397,7 +1391,7 @@ crescimento das crias.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 • Produção de lã, entre 3,5 e 4 kg/ano.
 • Produção média de leite entre 155 e 207 L por lactação.
 
@@ -1446,7 +1440,7 @@ liano produz, em média, 52 L de leite, em 75 dias de lactação.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 115
 
 Qual a produção de leite da raça Ideal?
@@ -1482,16 +1476,16 @@ abate.
 47
 
 
- 500pr_pgnumber048
-
  500pr_pgnumber049
+
+ 500pr_pgnumber050
 Sistema
 de Produção
 
 4
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 118
 
 Qual o melhor sistema de criação de ovinos?
@@ -1540,7 +1534,7 @@ produção de leite ou de carne de cordeiro.
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 123
 
 Quais as exigências para a implantação do sistema intensivo?
@@ -1588,7 +1582,7 @@ de ovelhas a ser explorado nesse sistema. A capacidade de ordenha
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 de  um  trabalhador  é  de  40  a  50  ovelhas,  aproximadamente,
 sendo uma atividade leve que pode ser feita por crianças, mulheres
 e idosos.
@@ -1632,7 +1626,7 @@ manejo.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 130
 
  Qual o papel da alimentação no sistema de confinamento?
@@ -1681,7 +1675,7 @@ modalidades.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 135
 
 Quando é utilizado o sistema misto de criação?
@@ -1694,7 +1688,7 @@ grãos, frutas ou outras culturas.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 Nutrição e
 Alimentação
 
@@ -1703,7 +1697,7 @@ Alimentação
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 136
 
 Qual a maneira mais econômica de se alimentar ovinos?
@@ -1750,7 +1744,7 @@ solo, ao contrário dos bovinos.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 140
 
 Qual a diferença entre a criação de ovinos e bovinos no
@@ -1796,7 +1790,7 @@ conforme  as necessidades do animal.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 144
 
 O que é suplementação energética do rebanho?
@@ -1840,7 +1834,7 @@ corporal.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 147
 
 Na ausência de pastagem, qual a maneira mais econômica
@@ -1886,7 +1880,7 @@ próprias e de muito trabalho.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 151
 
 Que ração deve ser fornecida  para cordeiros confinados?
@@ -1945,7 +1939,7 @@ ingredientes:
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 154
 
 Que quantidade de ração deve ser fornecida, por dia, a
@@ -1995,7 +1989,7 @@ totais (NDT). O resto da ração é constituído de energia e de aditivos.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 159
 
 Qual a formulação da ração para cordeiros mantidos em
@@ -2054,7 +2048,7 @@ bilidade é fator determinante na aceitação da dieta pelo cordeiro.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 164
 
 Como proceder para ensinar os cor-
@@ -2100,7 +2094,7 @@ o desmame.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 168
 
 Qual o melhor sistema intensivo de terminação de cordeiros?
@@ -2147,7 +2141,7 @@ tomadas, reduzindo-se para três, na segunda semana, para duas, a
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 partir da quarta semana e, para uma, da sexta semana até o desmame.
 Não esquecer de suplementar, com ração, a partir da segunda semana
 de aleitamento.
@@ -2195,7 +2189,7 @@ pó, com 20% a 22% de proteína, já a partir dos 15 dias de idade.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 176
 
 Qual a altura ideal de pastejo das pastagens de inverno,
@@ -2239,7 +2233,7 @@ aliviar ou aumentar a carga animal, quando necessário.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 179
 
 Que quantidade de farelo deve ser oferecida à ovelha que
@@ -2288,7 +2282,7 @@ de gestação e lactação devem ser mantidas com 15 a 20 cm de altura,
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 para gerar massa de forragem de 2000 a 2400 kg MS/ha. Esse valor
 pode variar entre espécies forrageiras e regiões, mas a altura de corte
 é indicada como base para maximizar a produção ora animal, ora
@@ -2334,7 +2328,7 @@ ovelhas no início de gestação e secas, devem ser mantidas com 20 a
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 25 cm de altura, para gerar massa de forragem de 3000 a 3500 kg
 MS/ha.  Esse valor  pode variar entre espécies forrageiras e regiões,
 mas  a  altura  de  corte  é  indicada  como  base  para  maximizar  a
@@ -2379,7 +2373,7 @@ alimentadas com volumosos de boa qualidade e ração com 14% a
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 16% de proteína. Após 30 a 45 dias, deve-se diminuir, gradativa-
 mente, a ração, para favorecer a secagem do leite no momento do
 desmame e evitar mamites.
@@ -2425,7 +2419,7 @@ por compactação em silos cobertos com lonas.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 193
 
 O que é amonização?
@@ -2437,13 +2431,13 @@ silagem, antes da compactação.
 71
 
 
- 500pr_pgnumber072
-
  500pr_pgnumber073
+
+ 500pr_pgnumber074
 6 Manejo
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 194
 
 Qual a melhor época para acasalar o rebanho, visando-se à
@@ -2488,7 +2482,7 @@ rosado, aspecto intumescido e muco cristalino.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 198
 
 Qual a maneira mais fácil de se identificar cios em rebanho
@@ -2536,7 +2530,7 @@ ovelhas adultas porque o período de cio das ovelhas mais novas é
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 mais curto e difícil de ser percebido. Além disso, as ovelhas adultas
 são mais agressivas na procura do macho, dificultando a detecção
 do cio nas borregas, pelos carneiros.
@@ -2582,7 +2576,7 @@ cio, ocorre a ovulação (liberação do óvulo
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 pelo ovário). A repetição do cio ocorre a cada 17 dias (variando de
 14 a 19 dias) da fase reprodutiva, até a fecundação.
 
@@ -2628,7 +2622,7 @@ controle prévio de cios.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 210
 
 Por  que  a  inseminação  artificial  é  pouco  utilizada  em
@@ -2678,7 +2672,7 @@ sincronizado, há necessidade de usar, no mínimo, 10% de carneiros,
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 com número de saltos controlados, para atender o elevado número
 de fêmeas aptas ao acasalamento. Se o rebanho for acima de 200
 ovelhas, caso em que é recomendável a inseminação artificial,  pois
@@ -2724,7 +2718,7 @@ devem permanecer em baias, para evitar desgaste físico.
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 217
 
 Qual o peso mínimo das borregas, no primeiro encarnei-
@@ -2775,7 +2769,7 @@ adotar  um  órfão,  todos  estão  relacionados  ao  comportamento
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 materno, sendo a habilidade da ovelha o fator mais importante para
 a adoção. O procedimento com melhores resultados visa conter a
 ovelha numa “baia para adoção”, que permita a movimentação do
@@ -2822,7 +2816,7 @@ leite e são mais acessíveis à adoção.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 225
 
 Que cuidados devem ser observados com o cordeiro recém-
@@ -2869,7 +2863,7 @@ a  ovelha  deitada  de  lombo  e  ele-
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 vando-se o posterior pelas patas. Suturar (costurar) frouxamente a
 vulva, sem afetar a mucosa.
 
@@ -2915,7 +2909,7 @@ inchada, posição virada, etc.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 233
 
 Que cuidados devem ser observados quando se intervém
@@ -2966,7 +2960,7 @@ da parte que está insinuada no “canal do parto”: cabeça ou cauda.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 237
 
 Como proceder quando o cordeiro está atravessado?
@@ -3014,7 +3008,7 @@ causadores de distocia, principalmente quando filhos de borregas.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 242
 
 O que ocorre com a placenta depois do parto?
@@ -3062,7 +3056,7 @@ animal são:
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 246
 
 Quais os principais defeitos mamários hereditários, observa-
@@ -3121,7 +3115,7 @@ paridas.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 249
 
 Como calcular o índice (%) reprodutivo de um rebanho
@@ -3171,7 +3165,7 @@ Número  de  ovelhas  paridas
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 252
 
 Como calcular o índice (%) de sinalação de um rebanho de
@@ -3223,7 +3217,7 @@ de ovelhas acasaladas é calculado pela fórmula:
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Taxa  de  desmame  (OA)  =  ———————————––———
 
 Número de cordeiros
@@ -3278,7 +3272,7 @@ podais, consistência de rins e fígado).
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 Uma maneira prática para se determinar o momento da morte
 consiste em colocar o pulmão do cordeiro dentro de um recipiente
 com água:
@@ -3327,7 +3321,7 @@ para circulação do sangue, respiração, alimentação e locomoção
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 do animal, podem-se observar vasos umbilicais (com hemorragia,
 coágulos e retração), pulmão (com aeração completa), coagulador
 (presença ou ausência de coágulo de colostro), rins e fígado (com
@@ -3374,7 +3368,7 @@ As principais causas de mortalidade no pós-parto são:
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 265
 
 O que é descole dos cordeiros e para que serve?
@@ -3419,7 +3413,7 @@ permanecendo nesse local até a queda da cauda.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 269
 
 Quais os métodos de castração de cordeiros?
@@ -3470,7 +3464,7 @@ castrados e das cordeiras.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 273
 
 Os cordeiros confinados apresentam maior teor de gordura
@@ -3515,7 +3509,7 @@ atingem a forma infectante nesse espaço de tempo.
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 277
 
 Qual o princípio básico de comportamento dos ovinos para
@@ -3562,7 +3556,7 @@ entrada e saída do tubo deve ser
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 elevada, tipo guilhotina, ou com material telado, para permitir que
 os ovinos do curral de espera visualizem os animais do curral de
 saída e sigam, naturalmente, pelo tubo.
@@ -3580,16 +3574,16 @@ deslocamento do rabanho.
 97
 
 
- 500pr_pgnumber098
-
  500pr_pgnumber099
+
+ 500pr_pgnumber0100
 Produtos e
 Tecnologias
 
 7
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 282
 
 Que utilidades podem ter os ovinos, além de produtores de
@@ -3640,7 +3634,7 @@ degradados.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 287
 
 Qual a raça de ovinos mais indicada para produzir lã e carne
@@ -3695,7 +3689,7 @@ na carne.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 • Remover  as  partes  não  comestíveis  e  guardar  a  carcaça
 pendurada  pelos  membros  posteriores  em  ambiente
 refrigerado  até  esfriar,  para  depois  proceder  aos  cortes
@@ -3743,7 +3737,7 @@ envoltas em filme transparente ou lacradas a vácuo.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 294
 
 Como  valorizar  a  carcaça
@@ -3791,7 +3785,7 @@ características  que  depreciam  o  produto    para  comercialização
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 in natura.  A valorização da carcaça está na transformação da carne
 em charque, embutidos e peças defumadas.
 
@@ -3837,7 +3831,7 @@ terminados em confinamento é menor do que nos capões, pois esse
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 fator está relacionado com a idade de abate. Os ovinos têm tendência
 a depositar gordura, em vez de músculo, depois de determinada
 idade.
@@ -3885,7 +3879,7 @@ vários produtos, como charque, peças defumadas e embutidos.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 307
 
 Em que consiste o curtimento da pele ovina?
@@ -3923,7 +3917,7 @@ de-obra.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 311
 
 O que é pele Astrakan?
@@ -3977,7 +3971,7 @@ nascidos.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 317
 
 Como é produzido o brilho na lã das peles tipo decoração?
@@ -4025,7 +4019,7 @@ derada de qualidade inferior para a indústria têxtil em decorrência
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 da presença de fibras pouco resistentes, de cor creme, amarelada ou
 preta, com pouco comprimento de mecha, geralmente áspera ao
 tato, podendo apresentar pêlos entre as fibras.
@@ -4072,7 +4066,7 @@ mento para facilitar o acondicionamento.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 326
 
 O que é lã de garra?
@@ -4122,7 +4116,7 @@ dentes e nutrição deficitária).
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 • Sexo (restrição alimentar de ovelhas durante a gestação e a
 
 lactação).
@@ -4172,7 +4166,7 @@ ação genética, cuja classificação comercial é lã preta.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 336
 
 O que é lã de manchada?
@@ -4219,7 +4213,7 @@ suavidade, brilho, comprimento de mecha e resistência à tração.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 341
 
 Que tipo de lã é aconselhável para o artesanato?
@@ -4231,13 +4225,13 @@ Cruza 3 e Cruza 4, pois são fáceis de lavar e de fiar.
 113
 
 
- 500pr_pgnumber114
-
  500pr_pgnumber115
+
+ 500pr_pgnumber116
 8 Saúde Ovina
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 342
 
 Como organizar uma farmácia para tratamento de ovinos?
@@ -4285,7 +4279,7 @@ ação larvicida, cicatrizante e repelente, vermífugos (oral ou
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 injetável), antibióticos (penicilina e oxitetraciclina LA), tintura
 de  iodo,  álcool  iodado  a  10%  e  álcool  comum,  água
 oxigenada e colírio.
@@ -4337,7 +4331,7 @@ longitudinalmente para imobilização de fraturas.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 348
 
 Que material para manejo ovino deve estar disponível para
@@ -4382,7 +4376,7 @@ corporais tenham sido completamente consumidos pelo fogo.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 351
 
 Quais as doenças mais comuns de ovinos adultos criados no
@@ -4430,7 +4424,7 @@ lã (axila e virilha). Para aplicação dessa vacina, devem-se usar agulhas
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 355
 
 Como deve ser aplicada a vacina contra a ectima contagiosa?
@@ -4475,7 +4469,7 @@ levar à morte do animal.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 359
 
 Por  que  ocorrem  miíases  na  cabeça  dos  machos  repro-
@@ -4524,7 +4518,7 @@ contra  moscas.  Externamente  ao  velo,  podem  ser  observadas
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 manchas escuras e úmidas localizadas nas regiões cervical e lombar.
 Ao ser puxada, a lã desprende-se facilmente, pela tração. Ao se
 tracionar  a  lã,  observa-se  dermatite  com  larvas  em  diferentes
@@ -4573,7 +4567,7 @@ tes ingredientes, mexendo-se lentamente:
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 • 1 copo  (de 200 mL) de mel.
 • 1 L de óleo de cozinha.
 • 0,5 kg de cera de abelhas.
@@ -4621,7 +4615,7 @@ alguns defensivos que possuem alcatrão na formulação.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 371
 
 Como preparar pomada cicatrizante e repelente para curati-
@@ -4672,7 +4666,7 @@ tubiflora).
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 Como preparar:
 • Refogar as plantas em banho-maria, em recipiente fechado,
 
@@ -4720,7 +4714,7 @@ fezes (OPG) e cultura de larvas.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 376
 
 O  que  fazer  para  verificar  o  nível  de  contaminação  por
@@ -4769,7 +4763,7 @@ num período superior a 3 meses.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 • Controle dos animais por exames de fezes, para ajustar o
 
 momento da dosificação.
@@ -4823,7 +4817,7 @@ tratamento, em  intervalos de tempo reduzidos.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 384
 
 O que é fasciolose?
@@ -4877,7 +4871,7 @@ fezes.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 389
 
 Qual o tratamento indicado para a coccidiose?
@@ -4931,7 +4925,7 @@ echinococcus.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 • Pequenas bolsas de água, com uma larva em seu interior,
 localizadas no mesentério (gordura que reveste os intestinos),
 que são formas larvárias da Taenia hidatigena.
@@ -4982,7 +4976,7 @@ vivem no meio ambiente e na pele das ovelhas. Qualquer ferida ou
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 escoriação do úbere, fatores climáticos adversos ou desmame brusco
 podem oportunizar a invasão desses microrganismos.
 
@@ -5029,7 +5023,7 @@ do casco e miíases).
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 • Cheiro característico.
 • Aquecimento da pata enferma.
 • Claudicação em vários animais do rebanho.
@@ -5080,7 +5074,7 @@ Vacina
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 após o parto, na primavera, para ovelhas e cordeiros. Quando os
 animais  são  vacinados  pela  primeira  vez,  a  vacinação  deve  ser
 repetida 1 mês mais tarde.
@@ -5131,7 +5125,7 @@ animais sadios e animais enfermos.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 • Os animais sadios devem receber um banho de patas semanal
 
 com formol a 5 %, como prevenção.
@@ -5179,7 +5173,7 @@ durante a tosquia, castração, descole, aplicação de injeções, etc.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 409
 
 Quais os sintomas do carbúnculo sintomático?
@@ -5228,7 +5222,7 @@ genital.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 414
 
 O ectima contagioso ataca que categorias de ovinos?
@@ -5272,7 +5266,7 @@ origem desconhecida.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 418
 
 Como tratar o ectima contagioso?
@@ -5322,7 +5316,7 @@ o tétano.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 422
 
 Que tratamento deve ser administrado ao animal com tétano?
@@ -5370,7 +5364,7 @@ semestral, conforme indicação do laboratório. As matrizes gestantes
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 devem ser vacinadas 3 semanas antes do parto e as crias, entre 1 e 5
 meses de vida, com revacinação 30 dias depois.
 
@@ -5421,7 +5415,7 @@ fria logo após a tosquia.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 429
 
 Que tratamento deve ser usado para combater a pneumonia?
@@ -5477,7 +5471,7 @@ vosos.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 434
 
 O que é adenomatose pulmonar?
@@ -5530,7 +5524,7 @@ dependendo de seu ciclo biológico.
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 439
 
 Quais os sintomas da língua azul?
@@ -5579,7 +5573,7 @@ Fone: (51) 3258-1333.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 442
 
 Como preparar um colírio para tratar ovinos com oftalmia
@@ -5627,7 +5621,7 @@ O tratamento preventivo consiste em:
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 • Isolar os animais doentes.
 • Desinfetar os cortes durante a tosquia.
 O tratamento curativo consiste em:
@@ -5674,7 +5668,7 @@ colírio à base de antibiótico.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 449
 
 O que é urolitíase dos carneiros?
@@ -5726,7 +5720,7 @@ ampola de Buscopan Composto (relaxante muscular) e fornecer via
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 oral de 7 a 10 g/dia de cloreto de amônia, como acidificante da urina.
 Forçar a ingestão de líquidos.
 
@@ -5769,7 +5763,7 @@ mudança brusca de temperatura ambiental.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 457
 
 Quando ocorre a hipotermia em ovinos?
@@ -5826,7 +5820,7 @@ logo após a tosquia.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 461
 
 Como prevenir a hipotermia dos cordeiros?
@@ -5878,7 +5872,7 @@ da água.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 • Providenciar alimento hipercalórico. Nesse caso, administrar
 leite com mel ou açúcar, em substituição ao colostro. Se o
 cordeiro  estiver  muito  debilitado,  alimentá-lo  através  de
@@ -5928,7 +5922,7 @@ cabeça e pescoço num plano mais elevado. Em seguida, introduz-se
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 a sonda gástrica suavemente pelo canto da boca do animal até o
 esôfago. Quando a sonda estiver localizada no esôfago, o animal
 faz  movimentos  de  deglutição.  Se  a  sonda  estiver  localizada  na
@@ -5975,7 +5969,7 @@ no fundo e nas laterais de uma caixa, e forrá-las com feno, para manter
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 a temperatura e o conforto do cordeiro. A água deve ser substituída
 sempre que a temperatura baixar a níveis inferiores a 39oC.
 
@@ -6029,7 +6023,7 @@ mel.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 • 3 colheres de sopa de farinha láctea.
 • 3 colheres de sopa de Calcigenol.
 Como preparar:
@@ -6079,7 +6073,7 @@ Trocar a oferta de concentrados por feno ou gramíneas verdes.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 479
 
 Qual origem de intoxicação crônica por cobre em ovinos?
@@ -6128,7 +6122,7 @@ suspeita de agentes ácidos ou de plantas cáusticas, cuja formulação
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 • 2 g de substrato de bismuto.
 • 250 ml de água.
 Como administar:
@@ -6171,7 +6165,7 @@ do animal.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 485
 
 Qual o tratamento indicado para toxemia da gestação?
@@ -6220,7 +6214,7 @@ contenha magnésio adicionado ou a aplicação desses minerais por
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 via oral. Nunca aplicar magnésio via intravenosa, pois pode matar a
 ovelha.
 
@@ -6267,7 +6261,7 @@ energia. Cães consomem músculos e ossos.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 493
 
 Quais as características da predação por cães?
@@ -6315,7 +6309,7 @@ são encontradas próximas  da carcaça, marcando o território.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 497
 
 Quais as características da predação por aves?
@@ -6364,39 +6358,4 @@ próximo à sede da propriedade rural, para observação constante.
 
 158
 
-
- 500pr_pgnumber159
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o 
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000013
-
-•••
-
-
- 500pr_pgnumber160
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber161
-
- 500pr_pgnumber162
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber163
 

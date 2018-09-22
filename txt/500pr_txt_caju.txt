@@ -1,22 +1,5 @@
 
- 500pr_pgnumber017
-1 Origem, Classificação 
-
-Botânica e Variedades
-
-Francisco das Chagas Vidal Neto
-
-Levi de Moura Barros
-Dheyne Silva Melo
-
-João Ribeiro Crisóstomo
-
-Waldelice Oliveira de Paiva
-
-João Rodrigues de Paiva
-
-
- 500pr_pgnumber018
+ 500pr_pgnumber019
 1  Qual é a origem do cajueiro?
 
 O  Brasil  é  o  provável  centro  de  origem  do  cajueiro  e  o 
@@ -54,7 +37,7 @@ glabras,  de  aspecto  subcoriáceo  e  com  pecíolo  curto.  Durante  o
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 seu desenvolvimento, a planta possui ramificações intensivas, das 
 quais se originam as panículas, e extensivas, que não resultam em 
 panículas.  A  predominância  de  ramificação  intensiva  confere  à 
@@ -94,7 +77,7 @@ também comumente chamado de variedade ou cultivar.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 9 
 
 O que é um híbrido? No caso do cajueiro, qual é sua im-
@@ -143,7 +126,7 @@ de suco, em razão do porte mais baixo e facilidade de colheita.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 12 
 
 O cajueiro-comum produz mais do que o cajueiro-anão- 
@@ -189,7 +172,7 @@ médio de 1,8 g.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 Clone Embrapa 51: possui alta produtividade e destina-se ao 
 mercado de amêndoa, sendo também comercializado no mercado 
 de pedúnculo in natura; é recomendado para o cultivo de sequeiro 
@@ -234,7 +217,7 @@ peso médio de 3,5 g.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 BRS  275:  híbrido  entre  os  tipos  comum  e  anão-precoce 
 recomendado  para  a  produção  de  amêndoa  e  pedúnculo  para 
 suco.  A  planta  possui  porte  médio;  é  menos  precoce  quanto  ao 
@@ -274,7 +257,7 @@ Entretanto, os estudos indicam que as abelhas (Apis mellifera) são os
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 principais polinizadores, e muitos produtores consideram positivos 
 os efeitos da associação entre cajucultura e apicultura.
 
@@ -313,7 +296,7 @@ aproveitando-se as vantagens da propagação vegetativa para a fixa-
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 19  Como se obtém um clone de cajueiro?
 
 Do  ponto  de 
@@ -354,7 +337,7 @@ portanto, é o plantio de mais de um clone, distribuídos em talhões.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 22  O efeito negativo da endogamia ocorre em todos os clones?
 
 Sim, mas com intensidades diferentes. Em alguns clones, os 
@@ -400,7 +383,7 @@ manual  e  produzir  pedúnculos  com  as  seguintes  características:
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 coloração variando de vermelho a vermelho-alaranjado (preferência 
 de mercado), formato piriforme ou maçã, peso entre 80 g e 120 g, 
 textura consistente, sabor doce (mínimo de 10° Brix), baixo teor de 
@@ -447,7 +430,7 @@ a resinose, podendo também ser utilizado o Embrapa 51.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 29 
 
 Como os clones se comportam em relação às regiões de 
@@ -493,7 +476,7 @@ pomares  comerciais,  podem  ser  tentados  a  utilizar  as  sementes
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 produzidas no próprio pomar para ampliá-lo, em vez de adquirirem 
 novas mudas.
 
@@ -533,7 +516,7 @@ geneticamente idênticas.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 34 
 
 Qual  é  o  tipo  de  propagação  mais  recomendado  para  o 
@@ -578,7 +561,7 @@ recomenda-se o plantio de clones do tipo comum.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 38 
 
 É  possível  identificar  visualmente  plantas  improdutivas 
@@ -606,9 +589,9 @@ Banco de Germoplasma.
 31
 
 
- 500pr_pgnumber032
-
  500pr_pgnumber033
+
+ 500pr_pgnumber034
 2 Aspectos do Solo, Clima, 
 
 Fenologia e Produção1
@@ -625,7 +608,7 @@ Embrapa  Agroindústria  Tropical  e  Raimundo  Nonato  Martins  de  Souza,  té
 Embrapa Agroindústria Tropical.
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 40 
 
 Em que situação o cajueiro é uma planta resistente à seca? 
@@ -669,7 +652,7 @@ regiões de baixas latitudes, próximas à linha
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 do  Equador.  As  maiores  concentrações  de  cajueiros  explorados 
 economicamente encontram-se entre as latitudes 15° Norte e 15° 
 Sul.
@@ -715,7 +698,7 @@ fúngicas, especialmente a antracnose, e repercute negativamente na
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 quantidade e qualidade das castanhas e do pedúnculo. Por sua vez, 
 umidade relativa abaixo de 50%, durante a floração, pode reduzir a 
 receptividade do estigma e a viabilidade do pólen e provocar queda 
@@ -761,7 +744,7 @@ dições de solos:
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 •	 Solos  de  baixadas  sujeitos  a  alagamento  por  períodos 
 
 prolongados.
@@ -810,7 +793,7 @@ ferruginosas e pequena profundidade que impedem ou dificultam
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 a  penetração  das  raízes  do  cajueiro.  Nessas  condições,  além  da 
 planta  ficar  sujeita  ao  tombamento,  será  bastante  afetada  em  seu 
 desenvolvimento e produção.
@@ -855,7 +838,7 @@ e 52 dias (maturação completa).
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 54 
 
 Em que época do ano ocorre a produção e a colheita do 
@@ -901,7 +884,7 @@ período coincide com a entressafra dos outros cultivos. Portanto, a
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 produção nesse período é de grande importância para a economia 
 do Nordeste do Brasil, pois constitui uma importante fonte de renda 
 e de ocupação da mão de obra nas regiões produtoras.
@@ -916,7 +899,7 @@ termos de redução de custos com estoque.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 3 Adubação e 
 
 Nutrição Mineral
@@ -932,7 +915,7 @@ Francisco Nelsieudes Sombra Oliveira
 Paulo César Espíndola Frota (in memoriam)
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 57 
 
 Quais são os procedimentos recomendados para a coleta 
@@ -977,7 +960,7 @@ entrelinhas, onde não se aplicou adubo, coletam-se amostras, nessa
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 59 
 
 Existe uma época do ano definida para se coletar amostras 
@@ -1018,7 +1001,7 @@ incorporar também os resíduos da cultura anterior.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 63 
 
 Como se determina a quantidade de calcário a ser aplicada 
@@ -1065,7 +1048,7 @@ geralmente deficientes em cálcio e magnésio.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 66 
 
 Qual é a utilidade do gesso agrícola? Em que situações é 
@@ -1111,7 +1094,7 @@ ao amarelecimento das folhas.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 70  Como  se  prepara  a  cova  para  o  plantio  da  muda  do 
 
 cajueiro?
@@ -1153,7 +1136,7 @@ boro (B), cobre (Cu) e zinco (Zn).
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 73 
 
 Qual é a recomendação de adubação no primeiro ano de 
@@ -1195,7 +1178,7 @@ apenas de 12% a 14% de Ca e nenhum S.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 76 
 
 Como deve ser feita a adubação do cajueiro com mais de 
@@ -1239,7 +1222,7 @@ aplicados ao solo.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 79 
 
 Quais são as vantagens dos adubos orgânicos para a cultura 
@@ -1293,7 +1276,7 @@ caracterizar-se por:
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 •	 Rápido crescimento inicial para abafar as plantas invasoras 
 
 e produzir grande quantidade de massa verde.
@@ -1340,7 +1323,7 @@ superficial.  A  maioria  das  áreas  de  cultivo  tem  solo  superficial
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 arenoso,  com  baixa  capacidade  de  retenção  de  umidade  e  baixo 
 teor de matéria orgânica. Solos com essas características, quando 
 submetidos a uma estação seca de 6 a 7 meses e elevado número 
@@ -1388,7 +1371,7 @@ conserva a umidade do solo.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 86 
 
 Por que ocorre compactação em solos arenosos do litoral 
@@ -1440,7 +1423,7 @@ larga e plana das folhas), e, dada a sua mobilidade e redistribuição,
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 as folhas mais novas permanecem verdes. As plantas deficientes em 
 N apresentam: porte baixo, com poucos ramos e menor número de 
 folhas, folhas com coloração pálida e queda das folhas quando a 
@@ -1485,7 +1468,7 @@ vegetal.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 90 
 
 Como deve ser feita a amostragem de folhas para análise 
@@ -1531,7 +1514,7 @@ parâmetros da Tabela 1.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 Tabela  1.  Parâmetros  para  interpretação  da  análise  foliar  do 
 cajueiro.
 
@@ -1585,9 +1568,9 @@ Adequado
 55
 
 
- 500pr_pgnumber056
-
  500pr_pgnumber057
+
+ 500pr_pgnumber058
 4 Instalação do Pomar 
 
 e Tratos Culturais
@@ -1595,7 +1578,7 @@ e Tratos Culturais
 Luiz Augusto Lopes Serrano
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 93  O cajueiro necessita de tratos culturais?
 
 Sim. Embora o cajueiro seja uma planta nativa do Brasil que 
@@ -1634,7 +1617,7 @@ produtos (castanha e pedúnculo).
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 95 
 
 Quais são os locais recomendados para a implantação de 
@@ -1673,7 +1656,7 @@ para as épocas de plantio:
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 •	 Ceará: entre 1º de fevereiro e 31 de maio (região Norte – 
 incluindo os litorais leste e oeste) e entre 1o de janeiro e 30 
 de abril (região Sul – Cariri).
@@ -1722,7 +1705,7 @@ qual é responsável pela absorção de água e nutrientes.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 98  Como se deve marcar e posicionar os locais das covas?
 
 Inicialmente  deve-se  proceder  a  escolha  das  posições  das 
@@ -1763,7 +1746,7 @@ destacando-se  os  tipos  de  cajueiro  (comum  ou  anão-precoce)  e,
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 principalmente, de manejo da cultura (mínimo ou intensivo). Quanto 
 mais favoráveis forem as condições de desenvolvimento das plantas 
 (irrigação, adubação, solo, clima) mais amplo deverá ser o espaçamento.
@@ -1806,7 +1789,7 @@ da  poda  de  manutenção,  o  adensamento  poderá  ser  utilizado.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 No  entanto,  o  produtor  deverá  estar  ciente  de  que,  quanto  mais 
 sombreado for o cajueiro, menor será sua produção.
 Os sistemas de adensamento mais comuns são:
@@ -1850,7 +1833,7 @@ faixa de solo por vários anos. Assim, em solos arenosos, recomenda-
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 se a abertura de covas grandes nas dimensões mínimas de 40 cm de 
 largura, 40 cm de comprimento e 40 cm de profundidade. Em solos 
 com maiores teores de argila (> 35%), recomenda-se a abertura de 
@@ -1888,7 +1871,7 @@ sendo considerado um investimento em longo prazo.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 107 
 
 Quando e como se deve realizar o preparo das covas ou 
@@ -1931,7 +1914,7 @@ da superfície do solo e ser amarradas a tutores enterrados próximo
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 109 
 
 Quais  são  os  cuidados  que  devem  ser  tomados  após  o 
@@ -1975,7 +1958,7 @@ também para evitar possíveis competições por água e nutrientes.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 111  O que é a desbrota? Quando e como deve ser feita?
 
 Nos  primeiros  meses  após  o  plantio  das  mudas  no  campo, 
@@ -2018,7 +2001,7 @@ primeiro ano após o plantio.
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 113 
 
 Quais  são  as  podas  recomendadas  para  o  cultivo  do 
@@ -2060,7 +2043,7 @@ de uma boa copa.
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 115 
 
 Como  são  feitas  as  podas  de  manutenção  e  limpeza  do 
@@ -2101,7 +2084,7 @@ que ocasionarão uma redução drástica na produção.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 117 
 
 Quais  são  os  cuidados  que  devem  ser  tomados  para  a 
@@ -2142,7 +2125,7 @@ inferiores das plantas, o que pode ocasionar também um possível
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 dano no seu tronco. A eliminação dos ramos mais baixos também 
 facilita o livre acesso dos animais sob a copa das plantas, oferecendo- 
 -lhes sombra nos períodos mais quentes do dia e facilidade para o 
@@ -2182,7 +2165,7 @@ melancia (Citrullus lanatus) e maxixe
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 122 
 
 Quais são os cuidados que devem ser tomados na prática 
@@ -2220,7 +2203,7 @@ da com o cajueiro-anão-precoce após o segundo ano de plantio.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 124 
 
 A  criação  de  abelhas  em  pomares  de  cajueiro  pode  ser 
@@ -2258,7 +2241,7 @@ e, por consequência, auxiliando na produção de frutos.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 126 
 
 Qual fase do cajueiro é a mais sensível à competição com 
@@ -2302,7 +2285,7 @@ de  controle  físico  sobre  as  sementes  e  a  população  de  plantas
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 daninhas, principalmente as jovens. Ademais, impede ou minimiza 
 a passagem de luz, além de poder liberar substâncias alelopáticas 
 que  proporcionam  condições  adversas  para  a  germinação  e  o 
@@ -2345,7 +2328,7 @@ ou  capinas  mecânicas,  com  o  uso  de  máquinas  carpideiras.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 O rendimento médio da capina manual realizada por um homem 
 está entre 120 e 200 covas por dia.
 
@@ -2383,7 +2366,7 @@ abaixo do nível de dano.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 133 
 
 Posso controlar as plantas daninhas com o uso de herbi-
@@ -2421,15 +2404,15 @@ o Equipamento de Proteção Individual (EPI).
 77
 
 
- 500pr_pgnumber078
-
  500pr_pgnumber079
+
+ 500pr_pgnumber080
 5 Irrigação e Fertirrigação
 
 Fábio Rodrigues de Miranda
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 135  Compensa irrigar o cajueiro-anão-precoce?
 
 Para que a irrigação do cajueiro-
@@ -2471,7 +2454,7 @@ lidade  da  água,  eficiência  de  irrigação,  custo  de  aquisição  e  de
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 manutenção do sistema, consumo de energia e de mão de obra e 
 possibilidade de automação.
 
@@ -2519,7 +2502,7 @@ deste brasileiro, apontam o clone CCP 09 como o mais produtivo
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 sob irrigação. No entanto, esse clone apresenta alta susceptibilidade 
 à  antracnose,  o  que  requer  o  controle  químico  em  regiões  com 
 condições  favoráveis  para  essa  enfermidade.  O  clone  CCP  76, 
@@ -2565,7 +2548,7 @@ região Semiárida, plantas de cajueiro-anão-precoce adultas (após o
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 terceiro  ano  de  cultivo)  podem  requerer  até  120  L/planta  por  dia 
 nas fases de florescimento e desenvolvimento de frutos. Na região 
 litorânea, essa dotação pode atingir 100 L/planta por dia.
@@ -2610,7 +2593,7 @@ e nutrientes encontra-se até 0,6 m de profundidade.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 149 
 
 Qual deve ser a vazão de uma fonte hídrica para irrigar um 
@@ -2653,7 +2636,7 @@ ocorrência de doenças do cajueiro.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 152 
 
 Quais  medidas  devem  ser  adotadas  para  garantir  que  o 
@@ -2698,7 +2681,7 @@ As principais vantagens da fertirrigação na cultura do cajueiro-
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 redução de custos. Os nutrientes são aplicados no espaço explorado 
 pelas  raízes,  em  pequenas  doses  e  com  maior  frequência,  de 
 acordo  com  as  necessidades  da  planta,  reduzindo  desperdícios  e 
@@ -2742,7 +2725,7 @@ entre outros.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 158 
 
 Como deve ser feita a aplicação de fertilizantes no cajueiro- 
@@ -2786,7 +2769,7 @@ que  contenham  cálcio  com  outros  contendo  sulfatos  e  fosfatos
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 no mesmo tanque. Entre os exemplos de misturas compatíveis na 
 fertirrigação  podem  ser  citados:  ureia  com  cloreto  de  potássio, 
 sulfato  de  amônio  com  quase  todos  os  adubos  nitrogenados  e  o 
@@ -2827,7 +2810,7 @@ condutividade elétrica (CE) superiores a 3 dS/m.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 6 Propagação
 
 Antonio Teixeira Cavalcanti Junior
@@ -2839,7 +2822,7 @@ João Eduardo Pereira Filho
 Diva Correia
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 164  Como pode ser feita a propagação do cajueiro?
 
 Naturalmente, o cajueiro se propaga via reprodução sexuada, 
@@ -2886,7 +2869,7 @@ entre plantas descendentes do processo sexuado, por cruzamentos
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 dentro da mesma planta e entre plantas do mesmo pomar. Em segundo 
 lugar, para garantir a manutenção das características agronômicas de 
 interesse para os consumidores dos produtos in natura ou proces-
@@ -2930,7 +2913,7 @@ partes, elas poderão sobreviver, pois possuem raízes próprias.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 169 
 
 Quais são os fatores que poderão impedir a implantação 
@@ -2980,7 +2963,7 @@ e a poda drástica para escalonamento da produção de propágulos.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 Esse  tipo  de  poda  drástica  é  exclusivo  para  jardins  clonais,  não 
 sendo recomendada para pomares comerciais (produção de frutos).
 
@@ -3024,7 +3007,7 @@ clone, aconselha-se que se plantem dois ou mais clones por pomar,
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 preferencialmente  ordenados  por  fileiras,  mas  que  se  colham  as 
 castanhas somente das plantas preestabelecidas para a formação 
 do porta-enxerto. Esse conjunto de plantas, que forma o jardim de 
@@ -3065,7 +3048,7 @@ do Cajueiro de Pacajus (CCP): CCP 1001, CCP 06 e CCP 76.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 177 
 
 O  porta-enxerto  tem  influência  no 
@@ -3109,7 +3092,7 @@ secas para atingir a umidade ideal de armazenamento (11% a 12%) e
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 serem limpas (retiradas de impurezas) antes de serem armazenadas. 
 Quanto ao armazenamento, resultados de pesquisa concluíram que 
 o seu armazenamento de até 5 meses não apresentou problemas 
@@ -3155,7 +3138,7 @@ profundidade máxima de 3 cm.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 182 
 
 Qual  é  a  influência  da  temperatura  na  germinação  da 
@@ -3197,7 +3180,7 @@ da nova planta e o porta-enxerto que fornece o sistema radicular.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 185 
 
 Quais  são  as  principais  vantagens  e  desvantagens  da 
@@ -3245,7 +3228,7 @@ plantio e o seu desenvolvimento constituirá a nova planta.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 187 
 
 Tecnicamente,  a  propagação  do  cajueiro  por  meio  da 
@@ -3284,7 +3267,7 @@ planta. O enxerto forma a copa da nova planta.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 190 
 
 Quais são as vantagens e desvantagens do porta-enxerto 
@@ -3331,7 +3314,7 @@ demais  processos  vegetativos  (assexuais).  A  opção  pela  enxertia
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 lateral deve-se à maior disponibilidade dos ramos ponteiros terminais 
 e à precocidade com que se pode realizar a enxertia. As opções de 
 propagação por borbulhia (as gemas são retiradas dos ramos florais) 
@@ -3372,7 +3355,7 @@ borbulhas, aumentando, assim, a taxa de pegamento da enxertia.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 195 
 
 De  que  parte  da  planta  são  retirados  os  garfos  para  a 
@@ -3419,7 +3402,7 @@ Sim. Para a produção de mudas com qualidade, recomenda-
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 plantas que sejam hospedeiras de patógenos que possam contaminar 
 as mudas de cajueiro.
 
@@ -3465,7 +3448,7 @@ guintes características:
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 •	 Tubete de plástico de polipropileno preto, com dimensões 
 mínimas de 190 mm de altura, abertura na base interna do 
 cone de 62 mm, abertura de 12 mm na outra extremidade, 
@@ -3507,7 +3490,7 @@ previamente as análises químicas e granulométricas da mistura do
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 substrato. As partículas para os substratos de sacolas plásticas devem 
 passar  pela  malha  de  7  mm,  e  as  dos  substratos  de  tubetes,  pela 
 malha de 6 mm.
@@ -3550,7 +3533,7 @@ sua utilização.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 204 
 
 Quais são as características dos sacos utilizados na produ-
@@ -3592,7 +3575,7 @@ e com 8 estrias internas) foi considerado satisfatório.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Passou-se, então, dos tradicionais 5,0 kg de solos por mudas 
 para aproximadamente 100 g de solo, além da otimização da área 
 do viveiro, pois, numa mesma área, se pode produzir muito mais 
@@ -3627,7 +3610,7 @@ sistema de plantio, principalmente no de sequeiro.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 207 
 
 É possível obter sucesso na produção de mudas enxertadas 
@@ -3670,7 +3653,7 @@ do torrão.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 209 
 
 Quando  deve  ser  feita  a  eliminação  da  parte  aérea  do 
@@ -3717,7 +3700,7 @@ enxerto, decepagem do porta-enxerto e aclimatação da nova planta.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 Quando a muda é enxertada em tubetes, esse tempo é reduzido de 
 20 a 30 dias, pois os porta-enxertos podem ser enxertados com 30 
 a 35 dias após o plantio.
@@ -3765,7 +3748,7 @@ substrato.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 •	 Controle  sistemático  de  plantas  daninhas,  tanto  no  solo 
 
 como no substrato.
@@ -3811,7 +3794,7 @@ estão liberadas para produção e comercialização de mudas.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 216 
 
 Se um produtor tem, em seu quintal, uma planta de cajueiro 
@@ -3854,7 +3837,7 @@ mudas  que  se  está  comprando  é  necessário  que  se  faça  um
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 acompanhamento da produção ou se conheça os antecedentes de 
 quem está produzindo.
 
@@ -3900,7 +3883,7 @@ ser transportadas dez mudas.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 O  transporte  em  caminhão  deve,  necessariamente,  conter 
 uma cobertura na carroceria, para proteger as mudas da ação dos 
 ventos e dos raios solares.
@@ -3939,7 +3922,7 @@ campo experimental de Pacajus, da Embrapa Agroindústria Tropical.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 222 
 
 Qual é a forma de pagamento desses materiais comerci-
@@ -3967,16 +3950,16 @@ Nacional de Cultivares (RNC) e inscritos no Mapa.
 115
 
 
- 500pr_pgnumber116
-
  500pr_pgnumber117
+
+ 500pr_pgnumber118
 7 Substituição de Copas
 
 Afrânio Arley Teles Montenegro
 Adroaldo Guimarães Rossetti
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 224 
 
 É viável o plantio por semente ou por mudas de pé-franco 
@@ -4026,7 +4009,7 @@ de investimento do produtor.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 226 
 
 Qual é a influência do porte das plantas no processo de 
@@ -4073,7 +4056,7 @@ forem cortadas. Entretanto, como as enxertias são realizadas utilizando-
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 se borbulhas de ramos florais, é necessário que o corte ocorra de 2 a 
 3 meses antes do período reprodutivo, quando há disponibilidade de 
 propágulos, e as brotações estejam no ponto de receber os enxertos. 
@@ -4116,7 +4099,7 @@ de oxicloreto de cobre e fenitrothion.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 233 
 
 Quanto  tempo  leva  para  que  a  planta  inicie  a  brotação 
@@ -4160,7 +4143,7 @@ de brotações mais novas requer menos mão de obra.
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 237 
 
 Quanto  tempo  leva,  depois  do  corte,  para  que  a  planta 
@@ -4205,7 +4188,7 @@ redor do tronco decepado.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 241  Quando devem ser realizadas essas operações?
 
 O  decepamento  do  ramo  enxertado  (porta-enxerto)  deve  ser 
@@ -4249,7 +4232,7 @@ antes da retirada dos propágulos.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 •	 Após  serem  retirados  da  matriz,  os  ramos  ou  borbulhas 
 deverão ser imersos, durante 30 minutos, em uma suspensão 
 de um desses fungicidas, na dosagem de 4,0 mL por litro 
@@ -4292,7 +4275,7 @@ detectada,  imediatamente  deve-se  aplicar  sobre  a  parte  afetada
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 (tronco  e/ou  brotações)  o(s)  mesmo(s)  produto(s)  nas  respectivas 
 dosagens, recomendados para pomares clonais de cajueiro.
 
@@ -4333,7 +4316,7 @@ plantas; do uso de adensamento e reposição de plantas com mudas
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 enxertadas. Esses custos, porém, podem ser reduzidos com a receita 
 obtida com a venda da madeira das plantas decepadas, pois cada 
 planta  desse  mesmo  porte  (0,92  m  de  circunferência  do  tronco) 
@@ -4375,7 +4358,7 @@ plantas  do  pomar  (plantas  sobreviventes  e  mudas  utilizadas  no
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 adensamento).  A  produtividade  média  dos  quatro  primeiros  anos 
 de pomares de cajueiro-comum de copas substituídas, adensados 
 com mudas de cajueiro-anão-precoce, e de pomares de 2 e 3 anos 
@@ -4421,7 +4404,7 @@ de ramos para enxertia e morte de cajueiros.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 251 
 
 Como fica o sistema radicular das plantas de copas subs-
@@ -4450,7 +4433,7 @@ enxertadas de clones de cajueiro-anão-precoce.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 8 Pragas
 
 Ervino Bleicher
@@ -4464,7 +4447,7 @@ Raimundo Braga Sobrinho
 Nivia da Silva Dias-Pini
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 253 
 
 Qual  é  a  diferença  entre  a  broca-da-raiz  e  a  broca-do- 
@@ -4510,7 +4493,7 @@ confundido com o da antracnose. O diagnóstico pode ser feito com
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 o auxílio de um canivete, cortando-se a base do broto à procura 
 das larvas.
 
@@ -4553,7 +4536,7 @@ em pulverizações espaçadas de 14 dias.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 257 
 
 Quais são os danos causados pela lagarta-saia-justa? Como 
@@ -4597,7 +4580,7 @@ e pupas.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 258  Quais danos a praga véu-de-noiva causa ao cajueiro?
 
 A  praga  véu-de-noiva 
@@ -4640,7 +4623,7 @@ A praga conhecida como lagarta-verde [Ceridirphia rubripes
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 mariposa de cor marrom-avermelhada, de 100 mm a 110 mm de 
 envergadura, e possui, nas asas anteriores, duas listras mais escuras, 
 bem  distintas  no  sentido  transversal  e  apenas  uma  listra  na  asa 
@@ -4679,7 +4662,7 @@ Ambos  alimentam-se  de  folhas.  Seu  ataque  ocorre  logo  após  as
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 primeiras chuvas, quando os adultos emergem do solo, próximo ao 
 tronco do cajueiro, onde empupam, subindo por ele até as folhas. 
 No Ceará, pode ocorrer esporadicamente um segundo ataque, em 
@@ -4719,7 +4702,7 @@ chuvas), o controle deve ser iniciado quando a desfolha atingir 60%.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 265  Quais são os danos causados pela mosca-branca?
 
 O  inseto  Aleurodicus  cocois  (Curtis,  1846)  (Homoptera, 
@@ -4761,7 +4744,7 @@ presença do inseto, obedecendo à seguinte escala:
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 Em  um  ramo  por  planta,  observa-se  a  presença  de  ninfas  e 
 adultos  envoltos  na  secreção  pulverulenta  branca.  A  mela  e  a 
 fumagina são observadas na planta como um todo.
@@ -4804,7 +4787,7 @@ presença do inseto, obedecendo à seguinte escala:
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 0 = sem tripes.
 1 = poucos insetos.
 2 = colônias de insetos generalizadas na planta.
@@ -4854,7 +4837,7 @@ bastante ágil quando molestada.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 273 
 
 As pequenas verrugas que aparecem nas folhas novas do 
@@ -4902,7 +4885,7 @@ nas folhas.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 4  =  necrose  generalizada  devido  às  verrugas  ou  queda  de 
 
 folhas.
@@ -4945,7 +4928,7 @@ com  asas  anteriores  esbranquiçadas  salpicadas  de  preto.  O  inseto
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 faz postura na ponta das inflorescências. Após a eclosão, as lagartas 
 penetram  no  tecido  tenro  e  movem-se  em  direção  ao  centro  da 
 medula até a parte lignificada, abrindo galerias de 10 cm a 15 cm 
@@ -4989,7 +4972,7 @@ presença do inseto, obedecendo à seguinte escala:
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 0 = sem ataque.
 1 = 1% a 20% das inflorescências com sintomas de dano.
 2 = 21% a 40% das inflorescências com sintomas de dano.
@@ -5029,7 +5012,7 @@ alados são responsáveis pela disseminação da praga na cultura.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 281 
 
 Como avaliar a população ou o dano causado pelo pulgão- 
@@ -5078,7 +5061,7 @@ ocorrem brotações novas e inflorescências.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 283 
 
 Como avaliar a população ou o dano causado pela cigar-
@@ -5124,7 +5107,7 @@ um  repolhinho,  algumas  vezes  semelhantes  a  um  charutinho  de
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 cor marrom, que podem secar. A ocorrência de um ataque intenso 
 pode acarretar atraso na frutificação e diminuição na produtividade. 
 Durante o período chuvoso, o ataque ocorre preferencialmente em 
@@ -5169,7 +5152,7 @@ confundindo-se  com  a  textura  do  fruto.  Geralmente,  encontra-se
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 apenas uma lagarta ou pupa por castanha. O ataque só é observado 
 quando o dano já foi feito, pois, antes de empupar-se, a larva faz 
 um orifício na parte inferior (ponta) da castanha, por onde emergirá 
@@ -5215,7 +5198,7 @@ atacar o cajueiro.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 291 
 
 O sintoma do ataque dos percevejos nas castanhas pode 
@@ -5260,7 +5243,7 @@ Constrói seus ninhos entre os galhos
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 das árvores. A forma do ninho é aproximadamente globosa. Para a 
 construção do ninho, o inseto utiliza argila, substâncias resinosas e 
 pequenos filamentos fibrosos de vegetais. A cor dos ninhos é mar-
@@ -5305,7 +5288,7 @@ diagonal simples, em diagonal cruzado e em W. Escolhe-se o que
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 permite melhor visão do que está acontecendo (na área), em menor 
 tempo. Em geral, devem-se evitar as amostragens nas bordas dos 
 campos, pois elas não refletem a situação da área como um todo. 
@@ -5343,7 +5326,7 @@ melhor avaliação.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 299 
 
 É  possível  avaliar  os  eventos  fenológicos  no  cajueiro, 
@@ -5385,7 +5368,7 @@ controle biológico, ainda pouco explorada, que é a conservação da
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 fauna benéfica em cada ecossistema. Preservada ou estimulada, essa 
 fauna ajudaria a manter as pragas em densidade baixa, reduzindo 
 assim seus surtos e os desequilíbrios advindos do clima. Essa técnica 
@@ -5425,7 +5408,7 @@ colocá-las em álcool a 70%.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 302 
 
 Como  preparar  e  enviar  partes  da  planta  (folhas,  ramos, 
@@ -5469,7 +5452,7 @@ junto com as partes vegetais, a seco.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 9 Doenças
 
 José Emilson Cardoso
@@ -5481,7 +5464,7 @@ Francisco Marto Pinto Viana
 Marlon Vagner Valentim Martins
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 304 
 
 Quais  doenças  do  cajueiro  se  manifestam  em  condições 
@@ -5526,7 +5509,7 @@ mais efeito. Nessa situação, somente um fungicida sistêmico pode
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 recuperar as mudas. O aumento do espaçamento entre as mudas, 
 permitindo  uma  maior  aeração  e  diminuindo  o  contato  entre  as 
 mudas, pode contribuir para a redução da doença. O manejo da 
@@ -5571,7 +5554,7 @@ se  rapidamente  após  a  enxertia.  Uma  medida  eficiente  para  evitar
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 essa infecção é mergulhar a borbulha ou garfo, bem como o canivete 
 de enxertia, numa solução a 0,4% (4 mL do produto comercial por 
 litro  de  água)  de  um  fungicida  sistêmico,  antes  de  cada  operação. 
@@ -5614,7 +5597,7 @@ CP  76  e  CP  1001)  e  susceptíveis  à  antracnose
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 313  O que pode causar rachaduras no pedúnculo? 
 
 É muito comum a incidência de frutos e maturis rachados como 
@@ -5653,7 +5636,7 @@ perto do final desta estação.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 317 
 
 Existe algum clone ou tipo de cajueiro resistente ao mofo- 
@@ -5691,7 +5674,7 @@ controle seja empregada.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 320  Como controlar o oídio do cajueiro?
 
 O oídio pode ser controlado por meio de pulverizações com 
@@ -5732,7 +5715,7 @@ danos que justifiquem a adoção de medidas de controle.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 324 
 
 Como identificar a mancha de alga no cajueiro? Precisa ser 
@@ -5775,7 +5758,7 @@ plantas ou tecidos infectados e usar clones resistentes.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 328  A resinose pode infectar também o cajueiro-anão-precoce?
 
 Sim,  a  resinose  pode  infectar  cajueiros  de  todos  os  tipos, 
@@ -5815,7 +5798,7 @@ do Norte.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 332  Quais fatores climáticos predispõem o cajueiro à resinose?
 
 O  principal  fator  que  tem  se  relacionado  com  a  elevada 
@@ -5858,7 +5841,7 @@ PPH caracteriza-se pelo escurecimento dos tecidos da haste terminal
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 do cajueiro, com sintomas leves iniciais, necrose dos tecidos apicais 
 em estádio mais avançado e com eventuais exsudações de goma em 
 pontos específicos. Este sintoma progride até a necrose total, com 
@@ -5899,7 +5882,7 @@ observada pela primeira vez.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 339 
 
 Qual é a medida de controle para a mancha de Xantho­
@@ -5944,7 +5927,7 @@ castanhas tão logo atinjam a maturidade, eliminando qualquer resto
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 de  pedúnculo  aderido;  colocá-las  para  secar  em  terreno  batido  ou 
 secador de cimento durante pelo menos 3 dias; armazená-las em sacos 
 de aniagem, sobre estrados de madeira, em local seco e ventilado.
@@ -5989,7 +5972,7 @@ frutos e pedúnculos. É provável que, no futuro, a implantação de
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 programas de manejo integrado consiga manter ou mesmo elevar 
 a  produtividade  do  cajueiro  com  o  uso  mínimo  de  defensivos  e 
 a utilização de métodos alternativos de controle, principalmente o 
@@ -5999,7 +5982,7 @@ indutores de resistência.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 10 Pós-colheita e 
 
 Conservação do 
@@ -6027,7 +6010,7 @@ Quélzia Maria Silva Melo
 Francisco das Chagas Oliveira Freire
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 347 
 
  Quais são as desvantagens da comercialização in natura 
@@ -6071,7 +6054,7 @@ dos lotes comercializados.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 349  O caju é uma fruta? 
 
 Botanicamente, o verdadeiro fruto do cajueiro é a castanha, 
@@ -6116,7 +6099,7 @@ e de açúcares.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 351  Qual é a composição do pedúnculo por ocasião da colheita?
 
 O pedúnculo maduro constitui cerca de 90% do caju. Pesa de 
@@ -6172,7 +6155,7 @@ taninos.  Os  taninos  de  menor
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 tamanho  molecular  ou  pouco  polimerizados  formam  complexos 
 com a proteína da saliva, dando a sensação de secura na boca. Não 
 só no pedúnculo do caju, mas quando qualquer fruto amadurece, o 
@@ -6215,7 +6198,7 @@ na senescência, tende a diminuir.
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 354 
 
 O  pedúnculo  pode  ser  colhido  “de  vez”  e  amadurecido 
@@ -6257,7 +6240,7 @@ e coloração característica do clone
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 356 
 
 Existe diferença entre o ponto de colheita do pedúnculo 
@@ -6300,7 +6283,7 @@ apresentar  um  teor  de  amido  superior  a  1,5%,  que  pode  ser
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 transformado em açúcares por meio de reações enzimáticas. O sabor 
 doce do caju pode acentuar-se também pelo aumento na proporção 
 de glicose e frutose durante o armazenamento, atribuído à quebra da 
@@ -6342,7 +6325,7 @@ por atrito, e doenças.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 360 
 
 Quais são os principais fatores que afetam a qualidade do 
@@ -6400,7 +6383,7 @@ possível. Se não houver alternativa, as caixas devem ser mantidas
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 à  sombra,  sob  a  copa  do  próprio 
 cajueiro ou de estrutura de proteção 
 para  essa  finalidade,  no  caso  de 
@@ -6443,7 +6426,7 @@ também, entre a última caixa de caju e a cobertura.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 É  importante  que,  em  pomares  extensos,  o  galpão  esteja 
 localizado  no  centro  da  propriedade  e  as  vias  de  acesso  sejam 
 mantidas em boas condições. Ao chegar ao galpão, recomenda-se 
@@ -6488,7 +6471,7 @@ e, por isso, atingem maior preço.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 365 
 
 Todo  pedúnculo  produzido  em  plantios  comerciais  de 
@@ -6533,7 +6516,7 @@ todo o cuidado para evitar contaminação. Deve-se trabalhar com
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 recipientes  e  utensílios  completamente  limpos  e  sob  refrigeração. 
 Caso  contrário,  pode  ocorrer  a  perda  de  suco,  fermentação  e, 
 consequentemente, a perda do produto.
@@ -6577,7 +6560,7 @@ plástico,  por  ser  pouco  permeável  à  água,  aumenta  a  umidade
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 relativa dentro da embalagem, reduzindo o murchamento por perda 
 de umidade e mantendo os frutos firmes.
 
@@ -6625,7 +6608,7 @@ produto durante a distribuição.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 372 
 
 Quais  falhas  devem  ser  evitadas  na  apresentação  das 
@@ -6674,7 +6657,7 @@ pensável no preparo do caju para comercialização in natura, porque
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 diminui a diferença de tempera-
 tura entre o produto e a câmara 
 de  armazenamento,  reduzindo 
@@ -6717,7 +6700,7 @@ sem apresentar “queima” pelo frio. Para os pedúnculos alaranjados
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 376 
 
 Por que a perda de massa do pedúnculo do caju armazenado 
@@ -6763,7 +6746,7 @@ nas), a permanência na fazenda não deve ultrapassar 5 dias, pois
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 as operações de transporte e comercialização requerem entre 6 e 
 8 dias. Para que o caju não fique estocado na fazenda por tempo 
 prolongado, ao planejar o pomar é necessário que se considere a 
@@ -6810,7 +6793,7 @@ degenerativas, tais como arteriosclerose, mal de Parkinson, etc.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 381 
 
 Os pedúnculos dos clones de cajueiro-anão-precoce para 
@@ -6825,9 +6808,9 @@ pedúnculos dos diferentes clones.
 185
 
 
- 500pr_pgnumber186
-
  500pr_pgnumber187
+
+ 500pr_pgnumber188
 11 Aproveitamento 
 
 Industrial
@@ -6853,7 +6836,7 @@ Men de Sá Moreira de Souza Filho
 Renata Tieko Nassu
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 382 
 
 Qual é a diferença entre castanha-de-caju e amêndoa de 
@@ -6910,7 +6893,7 @@ Valor
 570
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 384 
 
 Qual é a composição em ácidos graxos do óleo da amêndoa 
@@ -6966,7 +6949,7 @@ com densidade de 0,905 a 0,915 (a 20 °C),
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 cor amarelo-clara e índice de refração 82 a 85 (a 40 °C). Ele pode 
 ser utilizado da mesma forma que os demais óleos comerciais; no 
 entanto, por possuir elevado teor de ácidos graxos insaturados e sabor 
@@ -7020,7 +7003,7 @@ castanhas para se obter um alto rendimento industrial são:
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 •	 Rendimento: castanhas cuja casca corresponda a uma baixa 
 porcentagem do peso total, resultando em alto rendimento 
 de amêndoas.
@@ -7065,7 +7048,7 @@ prima de pequenos produtores vizinhos.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 Desde o início do desenvolvimento desse modelo, a Embrapa 
 Agroindústria  Tropical  participou  diretamente  da  implantação 
 de  cerca  de  80  minifábricas  nos  seguintes  estados:  Ceará,  Piauí, 
@@ -7110,7 +7093,7 @@ pelo sistema de classificação, vasa na peneira de furos circulares de
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 392 
 
 Quais  são  as  vantagens 
@@ -7158,7 +7141,7 @@ Miúda: 221 a 300 frutos/kg.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 394 
 
 Existe vantagem no uso de castanhas dos clones de cajueiro 
@@ -7204,7 +7187,7 @@ nhas previamente limpas e selecionadas são submetidas à umidi-
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 ficação por imersão em água em grandes silos, por 5 minutos. Em 
 seguida, são drenadas e ficam em repouso por até 72 horas, quando 
 devem  estar  com  11%  de  umidade.  Logo  após,  são  levadas  para 
@@ -7251,7 +7234,7 @@ corte/quebra, ela não fique presa na casca e saia inteira.
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 •	 A  colagem  dos  cotilédones  entre  si,  assegurando  maior 
 
 percentual de amêndoas inteiras.
@@ -7297,7 +7280,7 @@ separam as duas metades da casca. Colocado à sua frente, o outro
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 operário (tirador) separa a amêndoa da casca, com o uso de faca ou 
 canivete com ponta.
 
@@ -7342,7 +7325,7 @@ da película, as amêndoas são desidratadas em estufas, durante 8 a
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 um teor de umidade de cerca de 3%. Nessa condição, a película 
 fica quebradiça, o que facilita sua soltura.
 
@@ -7387,7 +7370,7 @@ o despeliculador de escovas para a remoção da película. O rolador
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 consiste  em  um  cilindro  de  tela  metálica,  movido  manual  ou 
 mecanicamente, onde as amêndoas são parcialmente despeliculadas 
 ao serem atritadas na parte interna do cilindro quando ele é acionado 
@@ -7431,7 +7414,7 @@ reduzido.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 408  Como é feita a seleção das amêndoas da castanha-de-caju?
 
 A seleção é feita manu-
@@ -7492,7 +7475,7 @@ Continua...
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 Tabela 4. Continuação.
 
 Tipo
@@ -7550,7 +7533,7 @@ as quais são feitas por amostragem. Para o tamanho, uma amostra
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 de amêndoas inteiras de um menor grau não deve conter mais de 
 10% de amêndoas do grau superior. Isso justifica os intervalos de 
 número de amêndoas entre classes consecutivas.
@@ -7641,7 +7624,7 @@ Fonte: Association of Food Industries (2013).
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 410 
 
 Existe  algum  equipamento  que  faça  a  classificação  da 
@@ -7684,7 +7667,7 @@ semimecanizado, o rendimento sobe para mais de 85% no corte e
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 413 
 
 Em que etapa do beneficiamento da castanha ocorre maior 
@@ -7731,7 +7714,7 @@ um processo de torração ou fritura, podendo ser salgada ou não.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 416 
 
 Qual  é  o  teor  de  umidade  ideal  para  a  embalagem  da 
@@ -7776,7 +7759,7 @@ polipropileno biorientado (BOPP) metalizado, que proporciona boa
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 barreira contra gases, vapor de água e, por causa da metalização, 
 reduz a penetração de luminosidade; b) internamente – polietileno, 
 que  fornece  boa  barreira  contra  vapor  de  água  e  possui  ótima 
@@ -7819,7 +7802,7 @@ chocolates e como ingrediente na elaboração de sorvetes, picolés,
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 flãs e gelados artesanais, bolos, tortas e uma variedade de outros 
 produtos. Especial atenção tem sido dada à elaboração de produtos 
 a partir das amêndoas quebradas, como a pasta de amêndoa e o 
@@ -7870,7 +7853,7 @@ de  uma  mistura  de  fenóis  vegetais,  dos  quais  os  principais  são  o
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 um fenol, é popularmente conhecido como “óleo da castanha”. Esse 
 líquido representa de 12% a 25% do peso da castanha in natura.
 
@@ -7913,7 +7896,7 @@ formação de CO2 pela decomposição do ácido anacárdico.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 423 
 
 Em que consiste e como é realizada a descarboxilação do 
@@ -7957,7 +7940,7 @@ são  produzidos  doce  em  massa,  doce  em  calda,  compota,  caju-
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 426 
 
 Quais  são  os  produtos  de  maior  potencial  para  a  diver-
@@ -8003,7 +7986,7 @@ das castanhas foi feita no campo. Na recep-
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 ção, retiram-se amostras de pedúnculo para o controle de qualidade 
 da matéria-prima, principalmente no que se refere ao teor de sólidos 
 solúveis (°Brix) e à acidez.
@@ -8052,7 +8035,7 @@ geralmente  por  meio  de  uma  enchedeira  dosadora.  Os  sacos
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 são termicamente selados e imediatamente enviados para conge-
 lamento.
 
@@ -8094,7 +8077,7 @@ consequente alteração de cor (a polpa vai ficando escura).
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 431  O que é polpa de caju preservada quimicamente? 
 
 A polpa de caju pode ser preservada pela adição de elevadas 
@@ -8134,7 +8117,7 @@ e composição descritas a seguir:
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 Tabela 7. Padrões de identidade e qualidade fixados para polpa de fruta.
 
 Padrão de identidade
@@ -8202,7 +8185,7 @@ sódio, metabissulfito de sódio e ácido cítrico, homogeneização em
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 homogeneizador de pistão a 150 kg/cm para garantir a distribuição 
 uniforme das partículas da polpa, diminuindo a separação de fases 
 durante  a  estocagem,  e  desaeração  do  suco  em  sistema  a  vácuo 
@@ -8249,7 +8232,7 @@ outras embalagens possíveis de serem usadas.
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 437  Qual é a principal causa de deterioração do suco de caju?
 
 A acidez dos sucos de frutas inibe o crescimento da maioria 
@@ -8291,7 +8274,7 @@ minação das matérias-primas e dos equipamentos.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 439 
 
 Por que o nível de dióxido de enxofre permitido no suco de 
@@ -8337,7 +8320,7 @@ aquecimento excessivo do suco também deve ser evitado.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 441 
 
 No que se refere ao teor de vitamina C, o suco feito da 
@@ -8381,7 +8364,7 @@ um  teor  de  sólidos  solúveis  entre  30  °Brix  e  35  °Brix,  e  o  suco
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 clarificado  sem  polpa,  concentrado,  com  teor  de  sólidos  solúveis 
 entre 60 °Brix e 65 °Brix. Ambos os produtos são conservados em 
 câmaras frigoríficas.
@@ -8422,7 +8405,7 @@ e obtenção da cor amarelo-âmbar.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 446 
 
 Qual  é  o  princípio  da  clarificação  do  suco  de  caju  com 
@@ -8471,7 +8454,7 @@ ou, ao contrário, a quantidade insuficiente para a total clarificação.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 Deve-se adicionar a solução de gelatina 10% aos poucos e ir 
 agitando fortemente (sem causar aeração!). No momento exato da 
 clarificação, ocorrerá uma forte e imediata formação de flóculos de 
@@ -8517,7 +8500,7 @@ substâncias de coloração escura:
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 •	 Oxidação  do  ácido  ascórbico  (vitamina  C),  em  razão  da 
 
 presença de oxigênio no interior das garrafas.
@@ -8563,7 +8546,7 @@ açúcar da cana (sacarose), pois, no nosso organismo, a sacarose é
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 fracionada em glicose e frutose (em partes iguais). Assim, a cajuína 
 não deve ser tomada por diabéticos.
 
@@ -8610,7 +8593,7 @@ de 50 °C a 60 °C.
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 455 
 
 Em termos nutricionais, qual é a diferença entre o suco de 
@@ -8655,7 +8638,7 @@ mínimo, 5% de suco de caju.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 458  O que é néctar de caju?
 
 Néctar  de  caju  é  uma  bebida  não  fermentada  e  não  gasei-
@@ -8701,7 +8684,7 @@ manual. Inicialmente, é feita a digestão alcalina mediante imersão
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 do  pedúnculo  em  solução  de  hidróxido  de  sódio  (NaOH)  2,0%, 
 em ebulição. Em seguida, faz-se a lavagem em água corrente para 
 remoção dos restos de película queimada e a imediata neutralização 
@@ -8746,7 +8729,7 @@ puro, utilizando-se as quantidades necessárias para atingir o teor de
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 sólidos solúveis (°Brix) desejado, conforme indicado na Tabela 8. 
 O  açúcar  é  adicionado  à  água  e  a  solução  é  aquecida  para  sua 
 completa dissolução. Após resfriar, o xarope deve ser filtrado (em 
@@ -8798,7 +8781,7 @@ os frutos são colocados nos potes para, em seguida, se adicionar o
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 xarope em uma temperatura de 85 °C. O tratamento térmico é feito 
 inicialmente  com  os  potes  colocados  em  banho-maria,  com  suas 
 tampas apenas colocadas no lugar (e não apertadas), para remoção 
@@ -8840,7 +8823,7 @@ sua cor clara.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 466  O que é xarope de caju? Quais são suas características?
 
 O  xarope,  também  chamado  de  mel 
@@ -8889,7 +8872,7 @@ Fonte: Souza Filho et al. (2000).
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 468  Como deve-se elaborar a geleia de caju?
 
 A formulação de geleia de caju está apresentada na Tabela 10. 
@@ -8938,7 +8921,7 @@ do tacho, está terminada a concentração. Retira-se, então, o produto
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 do tacho e bate-se com uma colher de madeira, por mais ou menos 
 5 minutos. Essa massa é colocada em fôrmas de madeira, e cada 
 batelada deve render cerca de 20 unidades de 300 g.
@@ -8977,7 +8960,7 @@ engarrafamento e estocagem.
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 472  É possível produzir aguardente e vinagre de caju?
 
 Sim, a aguardente é feita a partir da destilação do fermentado 
@@ -9019,7 +9002,7 @@ grande potencial de uso pelo setor alimentício, em substituição aos
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 corantes  amarelos  artificiais,  como  a  tartrazina,  que  confere  aos 
 alimentos uma cor semelhante ao suco de tangerina.
 
@@ -9060,7 +9043,7 @@ aquoso  e  com  posterior  prensagem  das  fibras  para  liberação  dos
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 carotenoides  na  forma  de  uma  emulsão.  Após  uma  etapa  de 
 concentração, o material segue para a purificação, aumentando-se 
 seu poder corante em mais de 20 vezes em relação ao valor inicial. 
@@ -9103,7 +9086,7 @@ presentes na composição do pedúnculo de cajueiro.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 479 
 
 É possível aproveitar ainda o resíduo final do processo de 
@@ -9146,7 +9129,7 @@ Ingredientes
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 4 tomates grandes picados
 2 cebolas médias picadas
 1/2 colher (sopa) de corante (colorau)
@@ -9194,7 +9177,7 @@ cabelo nos equipamentos e produtos.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 •	 Cuidar da aparência pessoal (cabelo, barba, etc.).
 •	 Não  permitir  que  pessoas  que  apresentem  ferimentos  ou 
 enfermidades  trabalhem  diretamente  com  produtos  e 
@@ -9246,7 +9229,7 @@ trabalhados, a castanha-de-caju e o pedúnculo exigem deferentes
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 materiais  e  normas  de  construção  a  serem  adotadas.  Para  a 
 castanha, a maioria dos equipamentos são construídos em chapas 
 de aço carbono devido ao efeito do LCC como uma proteção contra 
@@ -9280,7 +9263,7 @@ consultados para a regulamentação de produtos perante a Anvisa.
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 12 Economia
 
 Pedro Felizardo Adeodato de Paula Pessoa
@@ -9292,7 +9275,7 @@ José Ednilson de Oliveira Cabral
 Carlos Roberto Machado Pimentel
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 484 
 
 Que  produtos  derivados  do  cajueiro  são  explorados 
@@ -9335,7 +9318,7 @@ responsáveis por mais de 90% da geração de renda e emprego.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 485 
 
 O  segmento  agrícola  de  produção  de  caju  gera  quantos 
@@ -9382,7 +9365,7 @@ caju e/ou do caju para consumo in natura é uma expressiva fonte
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 de  receita.  Assim,  a  sua  sustentação  econômica  é  obtida  com  a 
 comercialização da castanha-de-caju, do pedúnculo do caju e/ou 
 do caju para consumo in natura.
@@ -9423,7 +9406,7 @@ insumos (calcáreo, adubos, inseticidas, fungicidas e formicidas) com
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 488 
 
 Qual  é  a  composição  dos  gastos  na  manutenção  de  um 
@@ -9466,7 +9449,7 @@ caju (castanha do caju, pedúnculo do caju e caju para consumo in
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 natura) varia de acordo com o nível tecnológico e com a estratégia 
 de inserção no mercado utilizada.
 
@@ -9514,7 +9497,7 @@ marcante a presença de pequenos comerciantes que adquirem as
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 castanhas dos pequenos produtores e as repassam para os grandes 
 intermediários, que, por sua vez, as vendem para a indústria.
 
@@ -9562,7 +9545,7 @@ quais se encontram distribuídas da seguinte forma: 15 mil pessoas
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 no processamento da castanha-de-caju e 3 mil no processamento 
 do pedúnculo.
 
@@ -9606,7 +9589,7 @@ participavam com mais de 70%.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 496 
 
 Como é feita a comercialização da amêndoa de castanha- 
@@ -9652,7 +9635,7 @@ conteinerizadas.
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 498 
 
 Quais são os principais importadores mundiais de amêndoa 
@@ -9698,113 +9681,4 @@ de  Informações  Tecnológicas  e  Comerciais  (Ceinfo)4,  da  Embrapa
 
 248
 
-
- 500pr_pgnumber249
-Agroindústria  Tropical,  em  que  estão  disponíveis  para  download 
-muitos documentos sobre o agronegócio caju.
-
-Referências
-
-ASSOCIATION OF FOOD INDUSTRIES. Especificações para amêndoas de 
-castanha-de-caju. Disponível em: <http://www.afius.org/sections/nut>. Acesso 
-em: 12 set. 2013.
-
-BRASIL. Decreto nº 5.153, de 23 de julho de 2004. Aprova o Regulamento da 
-Lei nº 10.711, de 5 de agosto de 2003, que dispõe sobre o Sistema Nacional de 
-Sementes e Mudas - SNSM, e dá outras providências. 2004. Disponível em: 
-<http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5153.
-htm>. Acesso em: 15 fev. 2015.
-
-BRASIL. Ministério da Agricultura e do Abastecimento. Instrução normativa 
-nº 01, de 7 de janeiro de 2000. Regulamento técnico geral para fixação dos 
-padrões de identidade e qualidade para polpa de fruta. 2000. Disponível em: 
-<http://webcache.googleusercontent.com/search?q=cache:R92wUbtBQ5gJ:w
-ww2.agricultura.rs.gov.br/uploads/126989581629.03_enol_in_1_00_mapa.
-doc+&cd=1&hl=pt-BR&ct=clnk&gl=br>. Acesso em: 9 set. 2013.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Instrução 
-normativa nº 62, de 15 de dezembro de 2009. Aprova o Regulamento Técnico 
-da amêndoa da castanha de caju, definindo o seu POC com os requisitos de 
-identidade e qualidade, amostragem, modo de apresentação e a marcação ou 
-rotulagem. Revoga parcialmente a Portaria nº 644 de 11 de setembro de 1975. 
-2009. Disponível em: <http://www.ivegetal.com.br/cvegetal/>. Acesso em: 
-12 set. 2013.
-
-BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Portaria nº 644, 
-de 11 de setembro de 1975, aprova as especificações anexas para 
-padronização, classificação e comercialização da amêndoa e castanha de caju. 
-Diário Oficial [da] República Federativa do Brasil, Poder Executivo, Brasília, 
-DF, 4 nov. 1975, seção I, p. 3977.
-
-KERNOT, I. (Coord.). Cashew information kit. Queensland: Department of 
-Primary Industries, 1998. Paginação irregular. (Agrilink: your growing guide of 
-better farming. Series QLA 9806).
-
-249
-
-
- 500pr_pgnumber250
-LIMA, J. R. Orientações para elaboração de pasta de amêndoa de castanha- 
--de-caju. Fortaleza: Embrapa Agroindústria Tropical, 2006. 3 p. (Embrapa 
-Agroindústria Tropical. Comunicado técnico, 115).
-
-LIMA, J. R.; GARRUTI, D. dos S.; ARAUJO, I. M. S.; NOBRE, A. C. O.; 
-GARCIA, L. G. S. Elaboração de doce tipo paçoca a partir do resíduo da 
-extração do óleo da amêndoa de castanha-de-caju. Fortaleza: Embrapa 
-Agroindústria Tropical, 2012. 4 p. (Embrapa Agroindústria Tropical. 
-Comunicado técnico, 189).
-
-SOUZA FILHO, M. S. M.; ARAGÃO, A. O.; ALVES, R. E.; FILGUEIRAS, H. A. C. 
-Aspectos da colheita, pós-colheita e transformação industrial do pedunculo 
-do caju (Anacardium occidentale L.). [2000] Disponível em: <http://www.
-ceinfo.cnpat.embrapa.br/arquivos/artigo_3097.pdf>. Acesso em: 2 set. 2013
-
-TABELA brasileira de composição de alimentos: TACO. 2. ed. Campinas: 
-Nepa-Unicamp, 2006. Disponível em: <http://www.unicamp.br/nepa/taco/
-contar/taco_versao2.pdf>. Acesso em: 10 fev. 2015.
-
-Literatura recomendada
-
-ARAÚJO, J. P. P. de; RODRIGUES, S. C. Sistemas de seleção de sementes de 
-cajueiro para o plantio: fator de produtividade. Fortaleza: EMBRAPA-CNPCa, 
-1988. 5 p. (EMBRAPA-CNPCa, Caju Informativo, v. 1, n. 1).
-
-250
-
-
- 500pr_pgnumber251
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta preencha
-nosso formulário de atendimento na internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?
-
-id=90000031
-
-•••
-
-
- 500pr_pgnumber252
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber253
-
- 500pr_pgnumber254
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber255
 

@@ -16,11 +16,11 @@ basepath = os.path.dirname(__file__)
 
 
 #FUNÇÕES:
-def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os parâmetros padrão da biblioteca pdfminer
+def getText(pdfname,pageZero,pageEnd): #Função que extrai o texto do pdf, usando os parâmetros padrão da biblioteca pdfminer
     global basepath
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
-    codec = 'latin-1'
+    codec = 'utf-8'
     laparams = LAParams()
 
     filepath = os.path.abspath(os.path.join(basepath, "..", "pdf", "500pr","500pr_"+pdfname+".pdf"))
@@ -33,13 +33,13 @@ def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os pa
     pagenos=set()
     #Roda um loop, usando todos os atributos anteriores, interpretando o pdf por página e realizando a conversão
     for pagenumber, page in enumerate(PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True)):
-        if pagenumber < pageZero -1: #Pula as primeiras 16 páginas, que não possuem nenhuma pergunta/resposta
+        if (pagenumber < pageZero -1) or (pagenumber >= pageEnd): #Pula as primeiras 16 páginas, que não possuem nenhuma pergunta/resposta
             pass
         else:
             if pagenumber >= 100:
-                retstr.write("\n 500pr_pgnumber" + str(pagenumber) +"\n")
+                retstr.write("\n 500pr_pgnumber" + str(pagenumber + 1) +"\n")
             else:
-                retstr.write("\n 500pr_pgnumber0" + str(pagenumber) +"\n")
+                retstr.write("\n 500pr_pgnumber0" + str(pagenumber + 1) +"\n")
             interpreter.process_page(page)
 
 
@@ -53,9 +53,9 @@ def getText(pdfname,pageZero): #Função que extrai o texto do pdf, usando os pa
         with open(filepath, "w") as textFile:
             textFile.write(text)
     except UnicodeEncodeError:
-        with open(filepath, "w",encoding='latin-1') as textFile:
+        with open(filepath, "w",encoding='utf-8') as textFile:
             textFile.write(text)
-
+    print(pdfname+ " - ok")
 
 
 def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respostas do texto minerado do pdf
@@ -69,16 +69,18 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         file = open(filepath,"r")#Abre o arquivo de texto
         file = file.read()
     except UnicodeDecodeError:
-        file = open(filepath, "r",encoding='latin-1')  # Abre o arquivo de texto
+        file = open(filepath, "r",encoding='utf-8')  # Abre o arquivo de texto
         file = file.read()
 
     rgx = re.compile('(?<=\.)[^.]*$')  # Compilação do regex a ser utilizado no loop
     rgxPage = re.compile('(?<=500pr_pgnumber)\w{3}')
+    rgxSplit = '(?=\?\n)'
 
     i = 0
     while True:
         try:
-            splitString = file.split("?")[i]
+            #splitString = file.split("?")[i]
+            splitString = re.split(rgxSplit, file)[i]
         except IndexError:
             break
 
@@ -105,6 +107,7 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
             lastTrue = paginas[i]
 
     respostas = limpaTexto(respostas)
+    respostas = limpaRespostas(respostas)
     perguntas = limpaTexto(perguntas)
     perguntas = limpaPergunta(perguntas)
 
@@ -114,7 +117,6 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
     filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + filename + ".txt"))
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
-
 
 
 def run(perguntaUser, livro):
@@ -179,6 +181,18 @@ def limpaPergunta(listaentrada):
                 listasaida.append(item.lstrip('0123456789.- '))
             elif isinstance(item, list):
                 listasaida.append(item[0].lstrip('0123456789.- '))
+        except IndexError:
+            pass
+    return listasaida
+
+def limpaRespostas(listaentrada):
+    listasaida = []
+    for item in listaentrada:
+        try:
+            if isinstance(item, str):
+                listasaida.append(item.lstrip('?'))
+            elif isinstance(item, list):
+                listasaida.append(item[0].lstrip('?'))
         except IndexError:
             pass
     return listasaida

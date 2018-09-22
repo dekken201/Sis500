@@ -1,21 +1,5 @@
 
- 500pr_pgnumber015
-1 
-
-Satélites e Produtos1 
-
-André Luiz dos Santos Furtado
-
-Cristina Aparecida Gonçalves Rodrigues
-
-Sérgio Gomes Tôsto
-
-1 Colaborou  na  elaboração  deste  capítulo,  Bibiana  Teixeira  de  Almeida,  analista  da 
-
-Embrapa Monitoramento por Satélite.
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  O que é um satélite artificial?
 
 É um equipamento produzido por humanos, o qual segue a 
@@ -60,7 +44,7 @@ do Sol. Titã, uma lua do planeta Saturno, e Ganímedes uma lua de
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 Júpiter, também são exemplos de satélites naturais. Assim, na nossa 
 galáxia, a Via Láctea, existem milhares de satélites naturais fora da 
 órbita terrestre.
@@ -104,7 +88,7 @@ das  Repúblicas  Socialistas  Soviéticas  (URSS),  de  uma  base  no
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 Cazaquistão, durante a Guerra 
 Fria.  O  Sputnik  media  aproxi-
 madamente 59 cm, uma massa 
@@ -143,7 +127,7 @@ radiação  (contador  Geiger)  em  torno  do  planeta  Terra,  chamado
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 Explorer 1. O resultado dessa pesquisa possibilitou a descoberta do 
 Cinturão de Van Allen. Com órbita elíptica e a 1.500 km de altitude, 
 o Explorer 1 tinha 2 m de comprimento, 16 cm de diâmetro e pesava 
@@ -188,7 +172,7 @@ transmitindo.
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 podendo ou não apresentar algum grau de inclinação em 
 relação ao Equador. Assim, um observador pode visualizar 
 o  satélite  na  mesma  posição,  no  mesmo  horário  do  dia. 
@@ -232,7 +216,7 @@ satélite está relacionada à sua velocidade e vice-versa.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 12  Quanto custa a fabricação e a manutenção de um satélite?
 
 Definir se um satélite é caro ou não é relativo, pois depende 
@@ -274,7 +258,7 @@ satélites da Embrapa são usadas:
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 •	 No	diagnóstico	e	no	monitoramento	da	produção	agrícola.
 •	 Na	análise	de	uso	e	cobertura	das	terras.
 •	 Em	estudos	do	solo.
@@ -315,7 +299,7 @@ parou de operar em 2010.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 Há  outros  dois  satélites,  em  desenvolvimento,  o  CBERS  4  e 
 o  Amazônia  1  (SSR-1),  voltados  para  pesquisas  ambientais  e  com 
 previsão  de  lançamento  para  2015;  além  dos  satélites  da  missão 
@@ -355,7 +339,7 @@ aplicações relacionadas a satélites.
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 17 
 
 Quais projetos sobre lançamentos de satélites existem no 
@@ -399,7 +383,7 @@ Americano.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 20  Quanto custam as informações produzidas por satélites?
 
 Esta é uma pergunta é complexa, pois depende de diversas 
@@ -440,7 +424,7 @@ satélites são operacionais ao mesmo tempo.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 Todos  os  satélites  estão  distribuídos  em  uma  configuração 
 homogênea a uma órbita média da Terra (20.200 km). Sua história 
 tem início no governo Nixon, no fim da década de 1960. Só em 
@@ -484,7 +468,7 @@ são responsáveis pelo controle dos satélites.
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 O sistema GLONASS é composto por 24 satélites operacionais 
 e  3  reservas.  Assim  como  o  NAVSTAR,  o  objetivo  inicial  era  a 
 utilização  por  militares.  Os  primeiros  testes  de  voo  desse  sistema 
@@ -529,7 +513,7 @@ equipamento receptor tenha suporte para os três sistemas.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 Esses sistemas de navegação global por satélite utilizam diferentes 
 satélites artificiais para definir a localização geográfica de uma pessoa 
 ou  objeto  na  superfície  terrestre  e  pertencem  a  diferentes  países 
@@ -573,7 +557,7 @@ cenário mudou, significativamente, ainda na década de 1960.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 Considerando  que  não  haja  nenhum  problema  durante 
 o  lançamento  e  durante  a  órbita,  boa  parcela  dos  atuais  satélites 
 tem vida útil estimada entre 10 e 15 anos. Contudo, há exceções 
@@ -617,7 +601,7 @@ contam  com  um  sistema  de  reentrada  controlada,  o  que  permite
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 direcioná-los  para  o  oceano.  Portanto,  mesmo  que  parte  de  um 
 foguete  não  se  desintegre  completamente,  ela  irá  cair  numa 
 área  desabitada.  Alguns  desses  objetos  são  atraídos  pela  força 
@@ -660,7 +644,7 @@ corrigir ou alterar a órbita de cada satélite. Esse combustível vem
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 sendo usado desde a Segunda Guerra Mundial, mas possui alto teor 
 de toxicidade. Por isso, busca-se a substituição desse combustível 
 por  novas  opções.  Desde  2010,  o  satélite  sueco  Prisma  utiliza  o 
@@ -704,7 +688,7 @@ imagens ou produtos para outras pessoas jurídicas ou físicas.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 31 
 
 Pode-se publicar imagens de satélites em sites pessoais, em 
@@ -750,7 +734,7 @@ dispensado para mapas e outros documentos cartográficos similares.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 33  O que é sensoriamento remoto?
 
 É a ciência e a arte de coletar dados ou informações de um 
@@ -792,7 +776,7 @@ informações parar gerar conhecimento estratégico.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 35  O que são geotecnologias?
 
 São  conjuntos  de  técnicas  e  métodos  científicos  aplicados 
@@ -813,7 +797,7 @@ manipular informações geográficas e processar imagens digitais.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 2 
 
 Panorama Atual
@@ -829,7 +813,7 @@ Davi de Oliveira Custódio
 Fabio Enrique Torresan
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 36  Quais as tecnologias incluídas nas geotecnologias?
 
 As  geotecnologias  incluem 
@@ -876,7 +860,7 @@ Dentre os desafios, destacam-se:
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 39 
 
 A Embrapa pode mapear toda a agricultura brasileira por 
@@ -923,7 +907,7 @@ atualizadas, a Embrapa Monitoramento por Satélite organizou o website
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 Satélites de Monitoramento3, com os principais satélites e sistemas de 
 sensores remotos usados em agricultura e em recursos naturais.
 
@@ -970,7 +954,7 @@ ou país pode obter e processar imagens de quaisquer localidades.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 Portanto, um país pode estudar a área agrícola e os recursos naturais 
 de outros países. Da mesma forma, o Brasil também pode mapear a 
 agricultura e os recursos naturais de outros países.
@@ -1018,7 +1002,7 @@ parâmetros  espectrais  com  parâmetros  biofísicos  da  cultura  ou
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 sistema  avaliado.  Esses  parâmetros  estão  diretamente  ligados  às 
 características  intrínsecas  ao  local  de  estudo.  Outros  métodos 
 utilizam medidas de temperatura da superfície e de reflectância da 
@@ -1059,7 +1043,7 @@ variáveis florestais como:
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 49 
 
 Quais as metodologias que a Embrapa utiliza para mapear 
@@ -1114,7 +1098,7 @@ de locais de amostragem da fauna em campo.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 •	 Análise	da	distribuição	espacial	de	espécies	em	seu	habitat	
 
 ou o apoio ao rastreamento de bovinos em tempo real.
@@ -1159,7 +1143,7 @@ ensino,  desenvolvimento  e  extensão,  vinculadas  a  organizações
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 públicas  e  privadas.  Na  esfera  governamental  (federal,  estadual  e 
 municipal), os maiores usuários são ministérios, órgãos e agências 
 reguladoras,  empresas  públicas,  institutos  e  centros  de  pesquisa, 
@@ -1207,7 +1191,7 @@ logias.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 •	 Na	otimização	do	uso	de	recursos	naturais	e	de	insumos,	
 
 pela agricultura de precisão.
@@ -1258,7 +1242,7 @@ agricola/zoneamento-agricola>.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 Nacional  de  Colonização  e  Reforma  Agrária  (Incra),  a  partir  de 
 levantamentos de campo e da elaboração de plantas georreferenciadas 
 do imóvel rural7.
@@ -1305,7 +1289,7 @@ regularizacao-fundiaria/certificacao-de-imoveis-rurais>.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 no Brasil (SOMABRASIL)8. Ele foi desenvolvido a partir do uso de 
 tecnologias de sistemas de informação geográfica para a web como: 
 Openlayers, Geoext, ExtJS e Geoserver, todas de uso livre (freeware) 
@@ -1361,7 +1345,7 @@ cliente pela rede. A resposta é feita em formato de arquivos XML,
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 encapsulados em Simple Object Access Protocol (SOAP), um padrão 
 de comunicação especificado por Serviços Web (Webservices).
 
@@ -1413,7 +1397,7 @@ a Medida Provisória no 2.166-67, de 24 de agosto de 2001; e dá outras
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 providências. Diário Oficial [da] República Federativa do Brasil, Brasília, DF, 
 28 maio 2012.
 
@@ -1424,7 +1408,7 @@ www.cnpm.embrapa.br/projetos/somabrasil/>. Acesso em: 10/02/2014.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 3 Tendências Mundiais
 
 Sérgio Gomes Tôsto
@@ -1439,7 +1423,7 @@ Mateus Batistella
 Daniel de Castro Victoria
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 66  Qual é o cenário para as geotecnologias, no futuro?
 
 Esse cenário deverá acom-
@@ -1489,7 +1473,7 @@ tura, medição do teor de umidade do solo).
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 68 
 
 Qual o volume financeiro que a indústria de satélites movi-
@@ -1533,7 +1517,7 @@ mundial desse mercado.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 71 
 
 O mercado mundial de satélites é dominado pelo segmento 
@@ -1579,7 +1563,7 @@ atual e onde se quer chegar. Para a sociedade civil, as aplicações
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 futuras  das  geotecnologias  abrem  muitas  perspectivas:  Desafios 
 atuais e futuros (aquecimento global, escassez de recursos naturais, 
 água e alimentos, urbanização descontrolada, epidemias, catástrofes 
@@ -1622,7 +1606,7 @@ de aplicação científica, militar ou outras,
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 e deve ser consi derado como uma aeronave, mesmo sendo pilota-
 do remotamente, conforme o Código Brasileiro da Aeronáutica (Lei 
 7.565/1986).  Em  inglês,  são  denominados  de  drones  ou  UAV  (un-
@@ -1665,7 +1649,7 @@ drenagem, entre outras, que em conjunto com imagens de satélite
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 e visitas de campo, permitem identificar áreas de risco (altas decli-
 vidades, deslizamentos de terra, áreas de inundação, etc.). Assim, 
 os responsáveis pela formulação da política de uso do solo urbano 
@@ -1709,7 +1693,7 @@ capazes de integrar vários instrumentos e abrigar uma tripulação no
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 espaço  durante  um  período  de  tempo.  As  estações  não  possuem 
 sistema  de  pouso  e  decolagem,  por  isso  a  carga  e  os  tripulantes 
 são  transportados  por  outros  veículos.  As  estações  espaciais  são 
@@ -1755,7 +1739,7 @@ velocidade do fluxo de dados e informações na web.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 83 
 
 A  comunidade  de  usuários  dos  sistemas  de  informação 
@@ -1803,7 +1787,7 @@ de SIG e dos equipamentos de solo (p.ex. GNSS).
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 Como se vê, esse cenário permitiu o mapeamento e a análise 
 de  diversas  regiões  do  planeta,  o  surgimento  de  novos  estudos  e 
 aplicações, além do desenvolvimento de novas oportunidades de 
@@ -1848,7 +1832,7 @@ e  não  agrícolas,  mapeamento  do  tipo  de  solo,  mapeamento  de
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 risco agrícola e meteorológico, existem outros temas diversificados 
 voltados à pesquisa e utilização das geotecnologias. Exemplos:
 
@@ -1897,7 +1881,7 @@ e transporte.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 88 
 
 Geotecnologias acessíveis ao grande público podem afetar 
@@ -1919,7 +1903,7 @@ corretamente.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 4 
 
 Sensoriamento Remoto
@@ -1931,7 +1915,7 @@ Luiz Eduardo Vicente
 Luciana Spinelli de Araújo
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 89  O que é sensoriamento remoto?
 
 É a aquisição de informações sobre um objeto mediante análise 
@@ -1974,7 +1958,7 @@ elétrica é acelerada. Essa aceleração dá origem a uma perturbação
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 eletromagnética que se propaga através do espaço, constituída por 
 dois campos, um elétrico e um magnético, em recíprocas induções, 
 oscilando de forma harmônica em direções perpendiculares entre si.
@@ -2015,7 +1999,7 @@ detecção.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 Termos como luz visível, radiação infravermelha, micro-ondas, 
 ondas de rádio, radiação ultravioleta, raios-X e raios gama referem-
 se a regiões do espectro. Essas regiões ainda podem ser divididas 
@@ -2055,7 +2039,7 @@ naturalmente, por esse alvo.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
   Sensores ativos – Emitem a energia que irá interagir com os 
 
 alvos em estudo.
@@ -2102,7 +2086,7 @@ infravermelho próximo.
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 99 
 
 O  que  é  absorção  atmosférica  e  como  ela  interfere  na 
@@ -2146,7 +2130,7 @@ de 0,4 µm e 12 µm, na região do visível e do infravermelho e entre
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 nessa  faixa  do  visível  e  infravermelho  normalmente  são  sensores 
 passivos que utilizam a energia refletida ou emitida pela superfície 
 terrestre. Na faixa das micro-ondas, atuam sensores ativos com base 
@@ -2190,7 +2174,7 @@ estão  geograficamente  identificados,  ou  seja,  quando  possuem
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 coordenadas geográficas ou coordenadas de um sistema de projeção 
 conhecido que permita identificar a que ponto da superfície terrestre 
 eles correspondem.
@@ -2231,7 +2215,7 @@ espacial do sistema sensor. Esse diâmetro pode ser calculado pela
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 multiplicação do IFOV (campo de visada instantâneo), expresso em 
 radianos, pela altitude do sensor em relação ao terreno, expressa 
 em metros. O IFOV é definido como ângulo cônico dentro do qual 
@@ -2272,7 +2256,7 @@ sua vez, possuem centenas de bandas. Já sensores ultraespectrais,
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 possuem  a  perspectiva  futura  de  operar  em  milhares  de  bandas. 
 O CBERS e o Landsat TM5 são exemplos de sensores multiespectrais. 
 O sensor aerotransportado Aviris (Airborne Visible/Infrared Imaging 
@@ -2322,7 +2306,7 @@ remoto podem apresentar objetos em cores falsas, diferentes daquelas
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 que apresentam na natureza. Os objetos apresentarão cores próximas 
 de suas cores reais se as três imagens em níveis de cinza utilizadas para 
 formar a imagem colorida corresponderem às bandas do vermelho, 
@@ -2362,7 +2346,7 @@ As  imagens  de  NDVI  são  empregadas  em  estudos  de  medida  de
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 índice de área foliar, para determinar a porcentagem de cobertura 
 do solo e estimar a radiação fotossinteticamente ativa.
 
@@ -2404,7 +2388,7 @@ serão na discriminação e na identificação dos materiais alvo.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 As  curvas  espectrais  de  referência  de  diferentes  materiais, 
 normalmente são construídas a partir de amostras desses materiais, 
 com dados de radiância coletados por espectroradiômetros, geral-
@@ -2452,7 +2436,7 @@ Essa identificação torna-se mais fácil quando se tem conhecimento
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 da  área  estudada.  Também  é  possível  identificar  diferentes  alvos 
 nas imagens se forem conhecidos seus comportamentos espectrais 
 nas  bandas  que  compõem  a  imagem.  Dois  alvos  podem  ter 
@@ -2494,7 +2478,7 @@ Terra nos últimos anos. A primeira versão desse sensor foi instalada
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 no Landsat 4 e operou de julho de 1982 a dezembro de 1993; a 
 segunda versão foi instalada no Landsat 5 e operou de março de 
 1984 a novembro de 2012.
@@ -2539,7 +2523,7 @@ e do visível.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
   O RapidEye – Constelação de satélites que fornecem ima-
 gens multiespectrais no visível e IVP com resolução espacial 
 de até 5m e resolução temporal de até 24 horas. 
@@ -2582,7 +2566,7 @@ pelos sensores TRMM e MODIS pode auxiliar na previsão de safras
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 em nível nacional, visto que a deficiência hídrica é um fator funda-
 mental para determinação da determinar a produtividade agrícola. 
 Sensores  hiperespectrais  de  última  geração  associados  ao  uso  de 
@@ -2633,7 +2617,7 @@ grá ficos, do meio físico-biótico e de infraestrutura viária.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
  
 
 Infraestrutura e logística – Mapeamento de linhas elétricas, 
@@ -2678,7 +2662,7 @@ LiDAR adquire uma nuvens de pontos georreferenciados associados
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 aos dados de altitude a altura de todas as feições situadas acima da 
 superfície do terreno como árvores, prédios, torres, etc.
 
@@ -2719,9 +2703,9 @@ para levantamentos batimétricos.
 79
 
 
- 500pr_pgnumber080
-
  500pr_pgnumber081
+
+ 500pr_pgnumber082
 5 
 
  
@@ -2736,7 +2720,7 @@ Celina Maki Takemura
 Debora Pignatari Drucker
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 125  O que é uma imagem?
 
 É  uma  função  intensidade 
@@ -2781,7 +2765,7 @@ total).
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 128  O que é amostragem e quantização?
 
 Tanto a amostragem quanto a quantização são processos de 
@@ -2826,7 +2810,7 @@ passos:
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 •	 Reconhecimento.
 •	 Interpretação.
 
@@ -2867,7 +2851,7 @@ polígonos e regiões delimitadoras.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 •	 Representação	por	transformação	da	imagem	–	Transforma-
 
 ções lineares como fourier; e não lineares como Hough.
@@ -2912,7 +2896,7 @@ Estatística e da própria Teoria da Informação.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 138  O que são dados e informações geoespaciais?
 
 São aqueles dados que associam a cada entidade ou fenômeno 
@@ -2953,7 +2937,7 @@ temático.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 142  O que são dados temáticos?
 
 São aqueles que tratam de determinado fenômeno ou temática 
@@ -2993,7 +2977,7 @@ lhamento de informações por meio da internet.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 146  Qual a importância do uso de padrões de metadados?
 
 O uso de um padrão comum de metadados provê um con-
@@ -3032,7 +3016,7 @@ produtoras e mantenedoras desse tipo de dado.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 150  O que é o Diretório Brasileiro de Dados Geoespaciais?
 
 De conformidade com o Decreto 6.666/2008, Diretório Bra-
@@ -3070,7 +3054,7 @@ e Bases da Cartografia Brasileira e dá outras providências.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 153  O que é OGC?
 
 É  a  sigla  para  Open  Geospatial  Consortium10  ou  Consórcio 
@@ -3111,7 +3095,7 @@ República Federativa do Brasil, Brasília, DF, 4 ago. 2008.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 BRASIL. Decreto nº 6.666 de 27 de novembro de 2008. Institui, no âmbito do 
 Poder Executivo federal, a Infra-Estrutura Nacional de Dados Espaciais - INDE, 
 e dá outras providências. Diário Oficial [da] República Federativa do Brasil, 
@@ -3125,9 +3109,9 @@ República Federativa do Brasil, Brasília, DF, 28 fev. 1967. Retificação em
 91
 
 
- 500pr_pgnumber092
-
  500pr_pgnumber093
+
+ 500pr_pgnumber094
 6 
 
 Geoprocessamento
@@ -3143,7 +3127,7 @@ Gustavo Bayma Silva
 Daniel Gomes
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 156  O que é geoprocessamento?
 
 Consiste no uso de ferra-
@@ -3187,7 +3171,7 @@ de água, temperatura, precipitação).
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 •	 Estradas.
 •	 Mapas	de	solo.
 •	 Delimitações	de	municípios.
@@ -3228,7 +3212,7 @@ permita a usuários consultar, visualizar e modificar mapas disponíveis.
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 162  Quais tipos de análise podem ser feitos em num SIG?
 
 Uma das principais análises feitas num SIG é a análise espacial. 
@@ -3272,7 +3256,7 @@ informações com que trabalham. Grande parte desses dados pode
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 ser  acessada  pela  internet,  tomando-se  os  devidos  cuidados  para 
 dar crédito às fontes de forma correta e de se verificar a qualidade 
 das informações.
@@ -3320,7 +3304,7 @@ cidade, rios, estradas):
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
   Dados com variáveis contínuas – Distribuídas numa área 
 determinada são mais bem representados por meio de matri-
 zes  (ex.:  precipitação,  temperatura,  imagens  de  sensores 
@@ -3366,7 +3350,7 @@ gerado  de  diferentes  formas,  usando-se  imagens  estereoscópicas,
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 perfilamento a laser (LiDAR - Light Detection and Ranging) e a partir 
 de cartas topográficas, interpolando as curvas de nível e utilizando, 
 ou não, os pontos cotados e cursos d’água no processo.
@@ -3413,7 +3397,7 @@ de ler e escrever nesse formato. Um shapefile é composto por mais
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 de  um  arquivo,  todos  com  o  mesmo  nome,  mas  com  extensões 
 diferentes, incluindo:
 
@@ -3454,7 +3438,7 @@ aproxima da forma da Terra, o geoide.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 174  O que é um datum?
 
 É  um  modelo  de  representação  da  Terra  ou  parte  dela, 
@@ -3499,7 +3483,7 @@ projeção  de  mercator,  principalmente  nos  sistemas  WebGIS,  mas
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 ela resulta em fortes distorções nos polos. Já em trabalhos em áreas 
 menores, como um município, usa-se muito a projeção transversa 
 de mercator (UTM), nos respectivos fusos.
@@ -3544,7 +3528,7 @@ possível calcular as coordenadas do aparelho receptor do usuário.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 180 
 
 Quantos satélites são necessários para compor um sistema 
@@ -3586,7 +3570,7 @@ que degradam a precisão do receptor, estão a presença de nuvens
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 e a existência de obstáculos entre o receptor e os satélites, como 
 prédios ou árvores.
 
@@ -3627,7 +3611,7 @@ Podem ser obtidas12:
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 188 
 
 Quais  os  requisitos  para  um  levantamento  topográfico 
@@ -3674,9 +3658,9 @@ alterado, levando ao lugar errado ou escolhendo piores rotas.
 105
 
 
- 500pr_pgnumber106
-
  500pr_pgnumber107
+
+ 500pr_pgnumber108
 7 
 
 Agrometeorologia
@@ -3688,7 +3672,7 @@ Antônio Heriberto de Castro Teixeira
 Ricardo Guimarães Andrade
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 191  O que é agrometeorologia?
 
 É o estudo da relação entre os parâmetros meteorológicos e 
@@ -3733,7 +3717,7 @@ que permite o armazenamento, a recuperação, a manipulação e a
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 análise  espacial  de  dados  agrometeorológicos  com  aplicação  em 
 estudos de diferentes escalas de produção agropecuária.
 
@@ -3778,7 +3762,7 @@ decisão de irrigação e incidência de granizo.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 199 
 
 Quais os tipos de monitoramento da cobertura vegetal que 
@@ -3825,7 +3809,7 @@ interanuais das atividades agrícolas e do desenvolvimento da vegetação.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 203  Quais os principais índices de vegetação?
 
 Os principais índices de vegetação são os seguintes:
@@ -3864,7 +3848,7 @@ vegetação. Vários autores sugerem que o EVI apresenta substancial
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 melhora  na  sensibilidade  às  alterações  do  dossel  em  relação  ao 
 NDVI, principalmente em áreas de maior densidade de biomassa, 
 como florestas.
@@ -3915,7 +3899,7 @@ cas  de  interpolação  de  dados  e  espacialização  dos  valores  de
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 evapotranspiração  (ET)  obtidos  para  cada  estação  agrometeoro-
 lógica. Nesse caso, a escala espaço-temporal dos mapas de ET vai 
 depender:
@@ -3966,7 +3950,7 @@ em vários países incluem:
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 212  O que é albedo?
 
 É razão da radiação solar refletida pela incidente. É obtido a 
@@ -4010,7 +3994,7 @@ baixo e em curto prazo.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 215 
 
 As  técnicas  de  sensoriamento  remoto  podem  auxiliar  no 
@@ -4056,7 +4040,7 @@ excedente se P/ET>1 e a deficiência hídrica, quando o indicador for
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 menor que 1. Outro índice seria a relação ET/ETo. Elevados valores 
 desse índice indicam que maior conteúdo de umidade do solo.
 
@@ -4105,7 +4089,7 @@ solar de estação agrometeorológica.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 a nuvens de grande desenvolvimento vertical e, consequentemente, 
 maior precipitação.
 
@@ -4151,7 +4135,7 @@ nentes do balanço de energia em cultivos agrícolas tanto em escala
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 local quanto regional. Por meio das componentes do balanço de 
 energia podemos inferir a partição de energia que é utilizada para os 
 processos de fotossíntese, aquecimento do ar e do solo, bem como a 
@@ -4163,7 +4147,7 @@ componentes do balanço de energia.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 8 
 
 Hidrologia
@@ -4173,7 +4157,7 @@ Sérgio Galdino
 Daniel de Castro Victoria
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 225  O que é hidrologia?
 
 A  hidrologia  é  a  ciência  que  trata  da  água  na  terra,  sua 
@@ -4217,7 +4201,7 @@ hidrográficas de maneira rápida, por meio de mapas de uso do solo,
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 juntamente com dados topográficos, possibilitam o desenvolvimento 
 de  modelos  hidrológicos  mais  acurados,  que  subsidiam  tomadas 
 de  decisões.  Um  exemplo  é  o  estudo  da  estimativa  do  valor  do 
@@ -4262,7 +4246,7 @@ equipamento denominado linígrafo.
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 Águas	 (ANA),	 por	 meio	 do	 portal	 HidroWeb	 ou	 do	 portal	 do	
 Sistema Nacional de Informações sobre Recursos Hídricos. A rede 
 hidrometeorológica da ANA reúne:
@@ -4306,7 +4290,7 @@ contribui para o escoamento no exutório considerado.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 232 
 
 Qual a importância da bacia hidrográfica no planejamento 
@@ -4350,7 +4334,7 @@ cursos  d’água  usando-se  imagens  de  sensores  remotos  orbitais,
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 principalmente quando os produtos são considerados mais recentes, 
 com  elevada  resolução  espacial.  Outra  maneira  de  identificar 
 as  drenagens  é  por  meio  de  métodos  de  geoprocessamento  que 
@@ -4394,7 +4378,7 @@ de fluxo do terreno, um procedimento que identifica o sentido do
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 escoamento da água na superfície, de acordo com a declividade e 
 orientação das encostas.
 
@@ -4442,7 +4426,7 @@ utilizadas.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 239  Como obter a área e o perímetro de uma bacia hidrográfica?
 
 Caso a bacia tenha sido delimitada dentro de um sistema de 
@@ -4489,7 +4473,7 @@ devem ser usadas.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 •	 No	transporte	e	deposição	de	sedimentos	e	poluentes.
 •	 Na	predição	de	inundações,	contribuindo	assim	no	plane-
 
@@ -4538,7 +4522,7 @@ de parâmetros da USLE sofreram alterações, dando origem a Eups.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 Novas  pesquisas  e  experiências  continuaram  sendo  conduzidas 
 nos Estados Unidos, com o propósito de melhorar as estimativas 
 das perdas de solo pela utilização da USLE, originando um novo 
@@ -4584,7 +4568,7 @@ seu entorno. Usando-se o SIG, interpolam-se esses dados para gerar
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 o mapa de erosividade das chuvas. A krigagem é um dos métodos 
 de interpolação espacial mais usado, entretanto para sua aplicação 
 deve-se proceder a alguns testes preliminares. Outro interpolador 
@@ -4627,7 +4611,7 @@ necessários a modelagem da perda de solo.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 249 
 
 Qual a diferença entre perda de solo e produção de sedi-
@@ -4672,7 +4656,7 @@ denominada de ArcSWAT.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 251 
 
 Como se elaboram mapas de área de risco de inundação a 
@@ -4720,7 +4704,7 @@ tivo, incluindo ferramentas em Sistemas de Informação Geográfica
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 com o modelo digital de elevação (MDE) e da rede de drenagem da 
 área de construção da represa.
 
@@ -4768,7 +4752,7 @@ Instituto Nacional de Meteorologia e o sistema Agritempo.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 256 
 
 É possível detectar crescimento de vegetação aquática por 
@@ -4809,7 +4793,7 @@ consideração sua variabilidade espacial.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 Referência
 
 BRASIL. Lei nº 9.433, de 8 de janeiro de 1997. Institui a Política Nacional de 
@@ -4822,7 +4806,7 @@ do Brasil, Brasília, DF, 9 de janeiro de 1997.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 9 
 
 Agricultura
@@ -4838,7 +4822,7 @@ Luiz Eduardo Vicente
 Daniel de Castro Victoria
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 259 
 
 Quais as aplicações das geotecnologias e da geoinformação 
@@ -4890,7 +4874,7 @@ abordagem espectro-temporal.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 261 
 
 No Brasil, quais as culturas agrícolas de larga escala que 
@@ -4941,7 +4925,7 @@ mentos feitos para a cultura da cana-de-açúcar e do café.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 264 
 
 Qual o procedimento que deve ser feito para diminuir esse 
@@ -4986,7 +4970,7 @@ ordem de 50 cm a 5 m, já permitem identificar áreas com pequenas
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 propriedades rurais, geralmente paisagens com estrutura mais com-
 plexa, e mosaicos diversificados de uso e cobertura das terras. No 
 entanto, a aquisição e o processamento dessas imagens para extensas 
@@ -5031,7 +5015,7 @@ de  interesse  da  agricultura.  Por  exemplo,  Sistemas  de  Informação
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 Geográfica  (SIGs)  podem  ser  usados  para  identificar  áreas  de 
 interesse agrícola, com baixa declividade, tipos específicos de solo 
 e condições climáticas. Assim, pode-se obter o zoneamento da área 
@@ -5076,7 +5060,7 @@ manejo diferenciado no espaço e no tempo, como exemplo, o uso
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 racional de insumos na lavoura, garantindo a otimização do lucro, 
 sustentabilidade e proteção do ambiente.
 
@@ -5123,7 +5107,7 @@ permite  uma  visão  espacial  útil  ao  planejamento  e  ao
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 controle das informações de produção que variam de um 
 local para outro, com algum grau de continuidade.
 
@@ -5171,7 +5155,7 @@ ou medido por:
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 •	 Sensores.
 •	 Imagens	de	satélite.
 •	 Fotografias	aéreas.
@@ -5218,7 +5202,7 @@ por exemplo, para automação da aplicação de insumos nas lavouras
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 com taxas variadas, focada na dose certa de insumo proveniente da 
 leitura do sensor.
 
@@ -5268,7 +5252,7 @@ como na gestão e na logística da produção que acarretam:
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 284  O que é variabilidade espacial?
 
 É a variação de algum fenômeno em estudo, considerando o 
@@ -5312,7 +5296,7 @@ seguintes passos:
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 •	 Identificar	a	dependência	espacial.
 •	 Interpolar	 os	 dados	 a	 partir	 dos	 parâmetros	 de	 ajuste	 do	
 
@@ -5357,7 +5341,7 @@ sensores, e controladores da dosagem do insumo a ser aplicado.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 291 
 
 A  agricultura  de  precisão  pode  ser  aplicada  a  pequenas 
@@ -5403,7 +5387,7 @@ dos produtos agropecuários e a sustentabilidade ambiental, ao adotar
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 a  agricultura  de  precisão  o  produtor  se  beneficia  pelo  adequado 
 gerenciamento da sua propriedade agropecuária Maior controle das 
 informações de produção, maior eficiência na utilização de insumos, 
@@ -5438,7 +5422,7 @@ sobreviver no ambiente mais competitivo e sustentável.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 10 
 
 Pecuária
@@ -5452,7 +5436,7 @@ Janice Freitas Leivas
 Antônio Heriberto de Castro Teixeira
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 297 
 
 Quais as principais aplicações das geotecnologias na pe-
@@ -5500,7 +5484,7 @@ espectral, bem como de inúmeras ferramentas de geoprocessamento
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 tanto gratuitas quanto comercias, ressalta-se que as geotecnologias 
 podem contribuir para tomadas de decisões sobre a produção para 
 aliar produção com sustentabilidade econômica e ambiental.
@@ -5540,7 +5524,7 @@ em curto prazo.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 303 
 
 É possível mapear pastagens degradadas por meio de geo-
@@ -5591,7 +5575,7 @@ por Satélite: <www.cnpm.embrapa.br/projetos.php>.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 da vegetação. Inúmeras informações podem ser extraídas a partir 
 da  análise  das  bandas  espectrais  dos  diferentes  sensores  orbitais. 
 Apoiam,  por  exemplo,  o  governo  (municipal,  estadual  e  federal) 
@@ -5634,7 +5618,7 @@ dessas  áreas.  As  geotecnologias  têm  potencial  para  caracterizar
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 diferentes componentes vegetais das culturas agrícolas, pastagens e 
 florestas consorciadas por meio da utilização de sensores remotos 
 com diversas resoluções espectrais, temporais e espaciais.
@@ -5681,7 +5665,7 @@ depender de questões como:
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 •	 Relevo.
 •	 Clima.
 •	 Sistema	de	manejo	das	pastagens,	entre	outros.
@@ -5723,7 +5707,7 @@ de produtividade e qualidade do mercado.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 316  O que é georrastreabilidade?
 
 É  um  termo  recente,  derivado  da  rastreabilidade.  Rastreabi-
@@ -5771,7 +5755,7 @@ pastagens.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 318  Por que se deve georrastrear a produção de alimentos?
 
 Porque através do contro-
@@ -5816,7 +5800,7 @@ Técnico sobre as Condições Higiênico-sanitárias e de Boas
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 Práticas de Elaboração para Estabelecimentos Elaboradores/
 Industrializadores de Alimentos, aprovado pela Portaria 368 
 de 1997, do Ministério da Agricultura, Pecuária e Abasteci-
@@ -5862,7 +5846,7 @@ minando as seguintes exigências principais:
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 •	 Cadastro	do	produtor	e	da	propriedade.
 •	 Protocolo	básico	de	produção.
 •	 Termo	de	adesão	ao	SISBOV.
@@ -5911,7 +5895,7 @@ sequência de eventos.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 324 
 
 O que o produtor deve comprovar para que o certificado 
@@ -5962,7 +5946,7 @@ Na bovinocultura, as técnicas de identificação mais usadas são:
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 •	 Brincos	plásticos.
 •	 Marcação	a	ferro	quente	no	couro,	entre	outras.
 •	 Etiquetas	com	código	de	barras.
@@ -6009,7 +5993,7 @@ A utilização da TI contribui para:
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 •	 Gerenciar	programas	de	qualidade.
 •	 Apoiar	o	uso	de	novas	tecnologias.
 •	 Inovar	com	produtos	adequados	ao	mercado.
@@ -6049,7 +6033,7 @@ origem animal nos âmbitos federal, estadual e municipal.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 332 
 
 Quais as tecnologias voltadas à rastreabilidade dos produ-
@@ -6096,7 +6080,7 @@ priados e específicos.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 de regulamentação de mercado, fixando claramente as medidas e 
 os métodos que definem as novas diretrizes a serem adotadas e são 
 evidentes as referências que concernem à abertura dos mercados 
@@ -6142,7 +6126,7 @@ Sim. O Tratado de Amsterdã, em vigor desde 1º de maio de
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 bem-estar dos animais (Protocol on the Protection and Welfare of 
 Animals), nova regra básica relacionada ao bem-estar animal para 
 as  ações  da  União  Europeia  (UE).  Esse  documento  reconhece  os 
@@ -6186,7 +6170,7 @@ de Animais Mantidos para Produção (European Convention for the
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 Protection  of  Animals  kept  for  Farming  Purposes),  e  refletem  as 
 Cinco Liberdades adotadas pelo Conselho de Bem-estar de Animais 
 de Produção (Farm Animal Welfare Council):
@@ -6239,7 +6223,7 @@ com base em conhecimento científico e na experiência prática.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 A primeira Diretiva do Conselho, 74/577/CE, sobre o atordo-
 amento  de  animais  antes  do  abate  foi  substituída,  em  1993,  pela 
 Diretiva do Conselho 93/119/CEE, que abrange maior variedade de 
@@ -6285,7 +6269,7 @@ barras para identificar animais, e que permitem:
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 •	 A	captura	de	informação	por	meio	de	leitores	eletrônicos.
 •	 A	transmissão	de	arquivos	de	dados	pela	internet.
 Esses sistemas funcionam a partir de uma antena que transmite 
@@ -6326,7 +6310,7 @@ informações e descarregá-las na sede da fazenda.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 344 
 
 Existe, no mercado brasileiro, algum chip ou algo similar 
@@ -6357,9 +6341,9 @@ georastro/>.
 169
 
 
- 500pr_pgnumber170
-
  500pr_pgnumber171
+
+ 500pr_pgnumber172
 11 
 
 Silvicultura
@@ -6369,7 +6353,7 @@ Carlos Cesar Ronquim
 Ivan André Alvarez
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 345 
 
 É  possível  identificar  áreas  de  silvicultura  com  o  uso  de 
@@ -6415,7 +6399,7 @@ por grandes áreas contínuas plantadas. Como resposta ao nível de
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 tecnologia e manejo empregado no cultivo dessa matéria-prima, para 
 uso comercial, os talhões têm alta simetria e uniformidade, podendo 
 assumir  formas  geométricas  como  quadrados  ou  retângulos  bem 
@@ -6458,7 +6442,7 @@ diretamente o vigor vegetativo, expresso pelo índice de vegetação.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 Nesses casos, supõe-se que as áreas onde é identificado estresse 
 estejam sofrendo algum tipo de infestação por formigas, fungos ou 
 outras pragas.
@@ -6501,7 +6485,7 @@ das plantas. A deficiência mineral pode trazer alterações nas con-
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 centrações de clorofila e afetar também a estrutura interna das folhas. 
 Essas modificações foliares são percebidas na resposta espectral da 
 vegetação.  Alguns  nutrientes  –  que  fazem  parte  da  molécula  de 
@@ -6544,7 +6528,7 @@ quais se extrai a produção futura.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 358 
 
 O  Light  Detection  and  Ranging  (LiDAR)  pode  ser  uma 
@@ -6591,7 +6575,7 @@ e  análise  de  informações  geoespaciais,  viabilizando  intervenções
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 na  floresta,  com  acurácia  e  precisão  adequada.  As  técnicas  de 
 geoprocessamento fornecem subsídios para a identificação e corre-
 lação das variáveis que afetam a produtividade florestal, através da 
@@ -6635,7 +6619,7 @@ incêndios florestais são fundamentais para viabilizar:
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 •	 A	redução	dos	custos	nas	operações	de	combate	e	atenuação	
 
 dos danos.
@@ -6684,7 +6668,7 @@ entre os gradientes térmicos.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 367 
 
 No Brasil, desde quando os satélites são usados para detec-
@@ -6734,7 +6718,7 @@ informações contidas nas imagens como:
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 •	 Vigor	da	vegetação.
 •	 Coloração	e	formato	dos	talhões.
 
@@ -6783,7 +6767,7 @@ com as seguintes vantagens associadas:
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 •	 Ao	baixo	custo	por	área	específica.
 •	 Aos	aspectos	diacrônicos	(alta	frequência	de	repetitividade	
 da  tomada  de  imagens)  e  sincrônicos  da  captação  das 
@@ -6830,7 +6814,7 @@ manente.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 377 
 
 Atualmente,  qual  a  importância  das  geotecnologias  nas 
@@ -6880,7 +6864,7 @@ diretamente relacionado com a produtividade e a evapotranspiração
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 de ecossistemas florestais. Para estimar a produtividade e a evapo-
 transpiração existem modelos de interface floresta-solo-atmosfera, 
 nos quais o IAF é a principal variável descritora do dossel vegetal. 
@@ -6924,7 +6908,7 @@ o uso de bandas hiperespectrais a identificação seria possível.
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 382 
 
 Inventários florestais podem ser aprimorados com base no 
@@ -6974,7 +6958,7 @@ exemplo),  e  assim  gera  imagens  tridimensionais  da  superfície  por
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 meio de pulsos de laser disparados em direção aos alvos de interesse. 
 Os dados gerados permitem, por exemplo, observar falhas de plantio 
 e estimar biomassa/produção a partir de validações de campo.
@@ -7021,7 +7005,7 @@ dados,  por  meio  das  geotecnologias,  é  possível  avaliar  quais  as
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 necessidades de aumentar fragmentos e as possibilidades de uni-los 
 por meio de corredores. Muitas espécies animais dependem de um 
 determinado espaço para se locomover.
@@ -7067,7 +7051,7 @@ com o plantio comercial de espécies.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 12 
 
  
@@ -7082,7 +7066,7 @@ André Luiz dos Santos Furtado
 Sérgio Gomes Tôsto
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 392 
 
 Como as geotecnologias podem apoiar a adequação ambi-
@@ -7126,7 +7110,7 @@ com baixa aptidão agrícola e orientação para aplicação de
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 tecnologias nas áreas com elevada aptidão agrícola. Ambas 
 as  adequações  podem  valer-se  de  geotecnologias  como 
 ferramentas de diagnóstico e de planejamento.
@@ -7173,7 +7157,7 @@ nº  12.651,  de  25  de  maio  de  2012  (BRASIL,  2012b),  artigo  29,  e
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 regulamentado pelo Decreto nº 7.830, de 17 de outubro de 2012 
 (BRASIL, 2012a).
 
@@ -7213,7 +7197,7 @@ sobre o imóvel rural, conforme o disposto no Art. 21.
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 399 
 
 O Cadastro Ambiental Rural (CAR) faz parte da adequação 
@@ -7262,7 +7246,7 @@ Recuperação	de	Áreas	Alteradas	ou	Degradadas	(Prada).
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 402 
 
 Todas as propriedades rurais devem estar adequadas ambi-
@@ -7308,7 +7292,7 @@ Sim. De conformidade com a legislação supracitada, há distin-
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 acordo com seu tamanho em área, determinado pelo número de 
 módulos fiscais.
 
@@ -7359,7 +7343,7 @@ as geotecnologias entram como:
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 407 
 
 O que é resiliência ecológica e por que ela deve ser consi-
@@ -7404,7 +7388,7 @@ terras da propriedade rural.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 Após  a  delimitação  e  zoneamento,  faz-se  o  diagnóstico,  a 
 caracterização ambiental e a obtenção das áreas a serem restauradas. 
 Elabora-se	 então	 o	 Plano	 de	 Recuperação	 de	 Áreas	 Alteradas	 ou	
@@ -7447,7 +7431,7 @@ localização,  histórico  de  uso  da  área  e  composição  dos  padrões
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 espaciais da paisagem diferenciados. Assim, as ações de restauração 
 florestal devem ser apropriadas às condições ambientais encontra-
 das em cada área, visando o sucesso ambiental (plantio e autorre-
@@ -7498,7 +7482,7 @@ em módulo fiscal do município e de conformidade com as RLs.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 415 
 
 Os governos federal, estadual e municipal são responsáveis 
@@ -7544,7 +7528,7 @@ bilidade com o sistema operacional do hardware do usuário,
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 disponibilidade do software trabalhar com processamento 
 digital das imagens a serem utilizadas para mapeamento da 
 propriedade rural.
@@ -7593,7 +7577,7 @@ técnicos responsáveis.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 420 
 
 Quais  ações  devem  ser  executadas  numa  propriedade 
@@ -7641,7 +7625,7 @@ delimitar APPs e RLs de uma propriedade rural.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 423 
 
 E o que dizer da identificação das situações ambientais de 
@@ -7687,7 +7671,7 @@ de Desenvolvimento Agrário (MDA) para a gestão de informações
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 fundiárias  do  meio  rural  brasileiro,  no  qual  serão  efetuadas  a 
 recepção,  a  regularização  e  a  disponibilização  das  informações 
 georreferenciadas de limites dos imóveis rurais, públicos e privados, 
@@ -7733,7 +7717,7 @@ ecológicos nas áreas de conexão entre Unidades de Conservação
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 •	 O	fluxo	gênico.
 •	 A	viabilidade	de	populações	que	demandam	mais	do	que	
 o  território  de  uma  Unidade  de  Conservação  (UC),  para 
@@ -7775,7 +7759,7 @@ de Janeiro, 2004. 27 p.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 BRASIL. Decreto nº 7.830, de 17 de outubro de 2012. Dispõe sobre o Sistema 
 de Cadastro Ambiental Rural, o Cadastro Ambiental Rural, estabelece normas 
 de caráter geral aos Programas de Regularização Ambiental, de que trata a Lei 
@@ -7824,7 +7808,7 @@ BRASIL. Lei nº 12.727, de 17 de outubro de 2012. Altera a Lei no 12.651, de
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 as Leis nos 6.938, de 31 de agosto de 1981, 9.393, de 19 de dezembro de 
 1996, e 11.428, de 22 de dezembro de 2006; e revoga as Leis nos 4.771, de 15 
 de setembro de 1965, e 7.754, de 14 de abril de 1989, a Medida Provisória no 
@@ -7836,7 +7820,7 @@ DF, 18 out. 2012c.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 13 
 
  
@@ -7850,7 +7834,7 @@ Sandra Furlan Nogueira
 Gustavo Bayma Silva
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 429 
 
 Os satélites e seus sensores podem auxiliar em temáticas 
@@ -7894,7 +7878,7 @@ temperatura global.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 432 
 
 Existem sensores orbitais que monitoram a concentração 
@@ -7942,7 +7926,7 @@ terra, que incluem o mapeamento de desmatamentos, queimadas,
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 expansão de áreas agrícolas; e no contexto das atividades agrope-
 cuárias,  mapeamento  de  culturas  agrícolas,  estimativa  de  safras, 
 identificação  de  intensificação  agrícola  (por  exemplo,  número  de 
@@ -7990,7 +7974,7 @@ ramento a cada dois dias com imagens do sensor MODIS, a bordo da
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 plataforma Terra ou Aqua. Este sensor é capaz de imagear uma área 
 mínima de 6,25ha. Caso seja necessário monitorar áreas menores, 
 pode ser utilizado o satélite Landsat-8 que possui 16 dias de revisita 
@@ -8037,7 +8021,7 @@ de  sua  resposta  espectral,  essas  áreas  aparecem  com  tonalidade
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 próxima da cor preta, e isso permite que o intérprete ou o algoritmo 
 as discrimine de outros alvos da imagem.
 
@@ -8083,7 +8067,7 @@ entre outros.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 442 
 
 Quais as consequências das mudanças climáticas na pro-
@@ -8127,7 +8111,7 @@ reflorestamento,  para  gerar  créditos  de  carbono,  uma  área  pode
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 ser dimensionada por meio de imagens de satélite. Contudo, mais 
 importante do que dimensionar, as imagens de satélite são usadas 
 para comprovar a não existência de floresta anterior ou identificar a 
@@ -8172,7 +8156,7 @@ da aquisição de dados usando-se Laser Scanner Aerotransportado
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 (LSA), sistemas baseados na tecnologia Light Detection and Ranging 
 (LiDAR), que usa a energia laser para medir distâncias dos alvos.
 
@@ -8193,9 +8177,9 @@ permitindo que outros modelos sejam acoplados.
 213
 
 
- 500pr_pgnumber214
-
  500pr_pgnumber215
+
+ 500pr_pgnumber216
 14 Ordenamento 
 
 Territorial 
@@ -8208,7 +8192,7 @@ Carlos Fernando Quartaroli
 Luciana Spinelli de Araújo
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 448  O que é ordenamento territorial?
 
 O  termo  “ordenamento  territorial“  é  usado  para  definir  a 
@@ -8257,7 +8241,7 @@ zona.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 450  O que são diretrizes de um zoneamento?
 
 As diretrizes de um zoneamento podem ser entendidas como 
@@ -8302,7 +8286,7 @@ ao zoneamento.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 452  O que é zoneamento agrícola de risco climático (ZARC)?
 
 É um instrumento técnico-científico de política agrícola e de 
@@ -8345,7 +8329,7 @@ ocupação  espacial  pelas  diversas  atividades  produtivas  (BRASIL,
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 A delimitação das zonas agroecológicas é baseada em com-
 binações  similares  de  limitações  e  potencialidades  do  solo,  do 
 clima  e  do  relevo  para  determinada  cultura  agrícola  ou  atividade 
@@ -8393,7 +8377,7 @@ e conservação ambiental.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 Os  SIG  também  podem  auxiliar  na  previsão  de  impactos 
 futuros, mediante análise com cenários de possíveis alterações nas 
 variáveis do meio físico e de uso da terra. A capacidade dos SIG 
@@ -8437,7 +8421,7 @@ Isso inclui:
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 •	 Os	serviços	públicos.
 •	 Os	pontos	turísticos.
 •	 O	uso	do	solo.
@@ -8482,7 +8466,7 @@ podem  ser  usadas  para  a  elaboração  ou  atualização  dessa  base.
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 Um  Sistema  de  Informação  Geográfica  (SIG)  poderá  integrar  os 
 dados  geográficos  e  por  meio  de  análises  geográficas  auxiliar  na 
 delimitação  e  caracterização  das  zonas  e  na  proposição  de  suas 
@@ -8522,7 +8506,7 @@ executado em quatro fases de trabalho:
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 •	 Fase	de	planejamento	–	Consiste	em	planejar	a	execução	
 dos trabalhos de acordo com os objetivos propostos e com 
 os problemas a serem resolvidos.
@@ -8568,7 +8552,7 @@ nizar e integrar a grande base de dados geográficos necessários para
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 o diagnóstico dos meios físico-biótico, socioeconômico e jurídico- 
 institucional. Por meio de suas ferramentas de análise geográfica, os 
 SIG também são usados para gerar produtos síntese do diagnóstico 
@@ -8612,7 +8596,7 @@ com  o  Decreto  nº  4.297/02,  a  potencialidade  natural  é  definida
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 pelos serviços ambientais dos ecossistemas e pelos recursos naturais 
 disponíveis, incluindo-se, entre outros:
 •	 A	aptidão	agrícola	das	terras.
@@ -8660,7 +8644,7 @@ pode  indicar  áreas  de  interesse  para  conservação.  Com  o  auxílio
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 de geotecnologias, pode-se cruzar, as informações de uso da terra, 
 incluindo-se os remanescentes florestais, com informações oficiais de 
 tipologias da vegetação, e avaliar quais dessas tipologias necessitam 
@@ -8703,7 +8687,7 @@ percentual destinado à Reserva Legal, não determinada pelo ZEE,
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 mas também condicionada à existência de um ZEE estadual. Nesse 
 caso,  quando  indicado  pelo  zoneamento  ecológico-econômico  - 
 ZEE  estadual,  realizado  segundo  metodologia  unificada,  o  poder 
@@ -8753,7 +8737,7 @@ quando observadas discrepâncias.
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 Por  meio  de  suas  ferramentas  de  modelagem  e  simulação, 
 os  SIGs  também  podem  ser  usados  na  atualização  de  cenários 
 prospectivos frente à nova situação observada. Já os WebGIS, SIG 
@@ -8797,7 +8781,7 @@ mapeamento atualizado dos recursos hídricos.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 466 
 
 O  que  é  avaliação  ou  classificação  das  terras  para  fins 
@@ -8842,7 +8826,7 @@ ao  uso  (fertilidade,  impedimentos  à  mecanização,  deficiência
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 de  água,  deficiência  de  oxigênio,  susceptibilidade  à  erosão,  etc.), 
 eventualmente  considerando  diferentes  níveis  de  manejo.  Essa 
 avalição é baseada nos atributos das unidades de mapeamento e 
@@ -8884,7 +8868,7 @@ ou silvicultura é avaliada apenas para manejo de nível tecnológico
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 médio. A aptidão para pastagens naturais é avaliada apenas para o 
 nível tecnológico baixo.
 
@@ -8930,7 +8914,7 @@ Hídricos, regulamenta o inciso XIX do art. 21 da Constituição Federal, e altera
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 o art. 1º da Lei nº 8.001, de 13 de março de 1990, que modificou a Lei nº 
 7.990, de 28 de dezembro de 1989. Diário Oficial [da] República Federativa 
 do Brasil, Brasília, DF, 9 jan. 1997. Disponível em: <http://www.planalto.gov.
@@ -8972,7 +8956,7 @@ fev. 2014.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 15 
 
  
@@ -8986,7 +8970,7 @@ Cristina Criscuolo
 Claudio Bragantini
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 469  Quando a tecnologia se transforma em geotecnologia?
 
 Quando a tecnologia se relacionar com a forma de aquisição, 
@@ -9029,7 +9013,7 @@ cobertura  das  terras  por  satélite  numa  determinada  área,  quando
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 nela forem detectadas as principais mudanças ocorridas no espaço, 
 por meio de levantamentos feitos em duas ou mais datas diferentes, 
 a partir da interpretação de imagens de satélites.
@@ -9072,7 +9056,7 @@ no monitoramento da agricultura e na geração de conhecimento.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 474 
 
 Como um mapa de uso e cobertura das terras pode auxiliar 
@@ -9116,7 +9100,7 @@ mudanças ocorram no futuro.
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 476 
 
 Como as geotecnologias podem auxiliar na agricultura de 
@@ -9161,7 +9145,7 @@ interesse para auxiliá-los na tomada de decisão.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 •	 Ordenar	o	espaço,	com	base	em	componentes	de	interesse	
 
 espacialmente identificáveis.
@@ -9209,7 +9193,7 @@ particular que ela tenha recebido, tal como um regime de irrigação
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 ou uma adubação diferenciada. As diferenças podem ainda estar 
 relacionadas  com  a  data  de  plantio  e,  nesse  caso,  também  se 
 apresentarão em estádios de desenvolvimento diferentes.
@@ -9256,7 +9240,7 @@ existem técnicas diferenciadas de interpretação.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 483 
 
 Por que existe tanto interesse na identificação das diversas 
@@ -9303,7 +9287,7 @@ em  tonalidades  de  verde  são  fáceis  de  ser  distinguidas  a  olho  nu.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 As imagens operam com outras faixas de comprimento de onda, que 
 vão além das faixas observadas pela visão humana. O uso de imagens 
 obtidas por outras bandas ou canais vem sendo pesquisado, com o 
@@ -9349,7 +9333,7 @@ imagens de diferentes aplicações, com
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 melhor  custo-benefício,  quando  comparadas  às  imagens  obtidas 
 por sobrevoos.
 
@@ -9390,7 +9374,7 @@ a  15%.  Além  disso,  a  clorofila  é  absorvida  pelo  vermelho  e  sua
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 concentração geralmente é relacionada com a saúde da planta, com 
 a quantidade de biomassa. Por isso, é usada no cálculo do índice 
 de vegetação.
@@ -9432,7 +9416,7 @@ aprendizado em sintonia com as expectativas de seu público.
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 491 
 
 Quais as vantagens de se trabalhar com geotecnologia na 
@@ -9479,7 +9463,7 @@ e as condições atuais do trânsito. Alunos e professores identificarão,
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 no mapa, as regiões que apresentam problemas e, na sequência, o 
 grupo pode propor ações de melhoria, envolver a comunidade e o 
 poder público para que sejam estudadas as propostas com vistas à 
@@ -9524,7 +9508,7 @@ como ecossistemas, bacias hidrográficas, matas ciliares, áreas verdes
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 urbanas, entre outros. Com o apoio de geotecnologias, os alunos 
 podem  observar  como  o  conceito  se  materializa  no  espaço,  as 
 diferenças  que  existem  entre  as  paisagens,  entre  o  seu  lugar  de 
@@ -9566,7 +9550,7 @@ qualidade.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 498 
 
 O uso de imagens de satélites na escola pode substituir o 
@@ -9612,7 +9596,7 @@ plantas, de patologias ou necessidades diferenciadas de insumos nos
 247
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 cultivos,  entre  outros.  Na  verdade,  trata-se  das  metodologias  que 
 fazem uso de determinado dado e de seu atributo espacial, os quais – 
 com apoio de ferramentas computadorizadas de análise – podem 
@@ -9638,42 +9622,4 @@ e poderá gerar outros dados que melhor atenda aos seus propósitos.
 
 248
 
-
- 500pr_pgnumber249
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta preencha
-nosso formulário de atendimento na internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000028
-
-•••
-
-
- 500pr_pgnumber250
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber251
-
- 500pr_pgnumber252
-
- 500pr_pgnumber253
-
- 500pr_pgnumber254
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber255
 

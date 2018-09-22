@@ -1,18 +1,5 @@
 
- 500pr_pgnumber015
-1 Importância 
-
-Socioeconômica 
-e Cultural do Maracujá
-
-Fábio Gelape Faleiro
-
-Nilton Tadeu Vilela Junqueira
-
-Ana Maria Costa
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  Qual a origem da palavra maracujá?
 
 Maracujá é uma denominação geral dada ao fruto e à planta 
@@ -54,7 +41,7 @@ passion.
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 3 
 
 Qual a importância econômica e comercial dos maracu­
@@ -100,7 +87,7 @@ também é muito grande, tendo em vista que, nesse país, existem
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 cadeias produtivas bem estabelecidas para seis diferentes espécies 
 de maracujá: Passiflora (P. ligularis, P. edulis f. edulis, P. tripartita, 
 P. maliformis, P. edulis e P. quadrangularis), que são exportadas para 
@@ -150,7 +137,7 @@ Até  o  momento,  somente  a  polpa  do  maracujazeiro-azedo
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 estabelecida.  A  principal  utilização  da  polpa  é  na  fabricação  de 
 néctares,  de  sucos  concentrados  ou  prontos  para  consumo,  além 
 do seu aproveitamento na formulação mista com outras polpas de 
@@ -192,7 +179,7 @@ Existem  vários  exemplos  de  sucesso  econômico  na  produção  de
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 maracujá,  principalmente  quando  o  fruticultor  adota  práticas 
 adequadas de manejo da cultura.
 
@@ -236,7 +223,7 @@ micro e pequenos agricultores é sua organização em associações e
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 cooperativas para se tornarem competitivos na compra de insumos 
 e na venda de sua produção.
 
@@ -271,9 +258,9 @@ consequência a melhoria da qualidade de vida no campo.
 21
 
 
- 500pr_pgnumber022
-
  500pr_pgnumber023
+
+ 500pr_pgnumber024
 2 Classificação Botânica 
 
 e Biodiversidade
@@ -282,7 +269,7 @@ Onildo Nunes de Jesus
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 9  Qual a classificação botânica do maracujazeiro?
 
 O maracujazeiro pertence à família Passifloraceae e ao gênero 
@@ -328,7 +315,7 @@ grandes, vistosas e protegidas na base por brácteas foliares. A corona,
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 formada por vários filamentos ou fímbrias, é a marca característica 
 do gênero Passiflora. A depender da espécie, a abertura da flor pode 
 ocorrer  no  período  matutino,  vespertino  ou  noturno,  sendo  que 
@@ -371,7 +358,7 @@ podem ser adotadas são a criopreservação (em nitrogênio líquido)
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 e  a  conservação  in  vitro  (cultura  de  tecidos).  Nesses  casos,  os 
 protocolos  de  conservação  também  necessitam  ser  otimizados  e 
 ajustados, de acordo com as características das diferentes espécies.
@@ -420,7 +407,7 @@ programas  de  melhoramento  do  maracujazeiro-azedo  e  doce,
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 visando  ao  desenvolvimento  de  novos  híbridos  comerciais  com 
 características agronômicas desejáveis como, resistência às principais 
 doenças.
@@ -465,7 +452,7 @@ em  condições  de  campo  e  em  condições  controladas  de  casa
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 de  vegetação,  visando  identificar,  entre  elas,  as  que  apresentam 
 resistência  às  principais  doenças  (bacteriose,  fusariose,  verrugose, 
 virose, etc.). A caracterização molecular com base em análises do 
@@ -512,7 +499,7 @@ fundos de quintal. Entre elas, as mais comuns são:
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 •  Passiflora alata Curtis (maracujá-doce).
 •  Passiflora maliformis L. (maracujá-maçã).
 •  Passiflora quadrangularis L. (maracujá-melão).
@@ -557,7 +544,7 @@ ajustes do sistema de produção que consiste de:
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 •  Adubação.
 •  Podas.
 •  Polinização.
@@ -600,7 +587,7 @@ usos a partir de uma biodiversidade essencialmente brasileira.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 23 
 
 A Embrapa já desenvolveu e registrou cultivares de espécies 
@@ -639,9 +626,9 @@ resistência a patógenos e maior tolerância à seca.
 31
 
 
- 500pr_pgnumber032
-
  500pr_pgnumber033
+
+ 500pr_pgnumber034
 3 Clima
 
 Cristina de Fátima Machado
@@ -651,7 +638,7 @@ Eduardo Augusto Girardi
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 24 
 
 Considerando­se as variações no clima, em quais regiões 
@@ -696,7 +683,7 @@ frutos.
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 26 
 
 É possível produzir maracujá, em regime de sequeiro, em 
@@ -742,7 +729,7 @@ desenvolvimento do maracujazeiro, mas, se coincidir com os picos
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 de florescimento e de desenvolvimento inicial dos frutos, acarretará 
 maiores prejuízos com redução do potencial produtivo. Durante a 
 fase vegetativa, a deficiência hídrica pode resultar na redução da 
@@ -788,7 +775,7 @@ danos  até  a  destruição  do  pomar  de  maracujazeiro.  Os  prejuízos
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 causados  pelo  vento  são  proporcionais  à  sua  intensidade.  Ventos 
 secos  podem  resultar  em  ramos,  folhas  e  frutos  machucados  e 
 partidos, sendo que tais lesões são portas de entrada de fitopatógenos. 
@@ -832,7 +819,7 @@ da planta.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 O maracujá granadilla da espécie Passiflora ligularis, normal-
 mente é cultivado em altitudes acima de 1.500 m, onde as condições 
 climáticas favorecem o desenvolvimento da cultura.
@@ -878,7 +865,7 @@ luz)  diminui  na  época  de  inverno,  e  as  plantas  interrompem  o
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 florescimento nesse período (junho a setembro). Nesse caso, nem 
 mesmo  a  irrigação  estimulará  a  emissão  de  flores  e  produção 
 de  frutos.  Isso  dificulta  ou  impede  a  produção  de  maracujá  na 
@@ -902,9 +889,9 @@ as plantas emitem flores e frutos continuamente.
 39
 
 
- 500pr_pgnumber040
-
  500pr_pgnumber041
+
+ 500pr_pgnumber042
 4 Sementes e Mudas
 
 Tatiana Góes Junghans
@@ -914,7 +901,7 @@ Eduardo Augusto Girardi
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 39 
 
 Quais as formas de propagação do maracujazeiro e qual o 
@@ -961,7 +948,7 @@ são necessárias 1.600 mudas.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 42 
 
 Existem sementes ou mudas de cultivares de maracujazeiro 
@@ -1006,7 +993,7 @@ sementes.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 45 
 
 Pode­se usar sementes de frutos comerciais para produzir 
@@ -1051,7 +1038,7 @@ como:
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 •  Alta produtividade.
 •  Resistência-tolerância às principais doenças.
 •  Alto vigor vegetativo e reprodutivo.
@@ -1102,7 +1089,7 @@ hélices protegidas com fita adesiva.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 49 
 
 Qual a desvantagem de se usar o liquidificador para remo­
@@ -1152,7 +1139,7 @@ de espécie para espécie.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 As  ações  de  pesquisa  e  desenvolvimento  estão  avançando 
 para  determinar  a  melhor  forma  de  armazenamento  de  sementes 
 das principais espécies de maracujazeiro com potencial comercial.
@@ -1202,7 +1189,7 @@ superior a 1 cm.
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 55 
 
 Qual a característica do substrato usado para produção de 
@@ -1247,7 +1234,7 @@ características agronômicas desejáveis como:
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 58 
 
 A estaquia tem sido usada, comercialmente, na produção 
@@ -1294,7 +1281,7 @@ frutos.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 Para  se  obter  sucesso  na  enxertia,  é  essencial  escolher 
 porta-enxerto  (cavalo)  resistente  à  fusariose  e  que  promova  o 
 desenvolvimento adequado da copa.
@@ -1337,7 +1324,7 @@ mudas obtidas por sementes. Além disso, novos estudos estão sendo
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 conduzidos para selecionar cultivares de porta-enxerto que, além de 
 apresentarem resistência à fusariose, favoreçam o desenvolvimento 
 mais rápido da copa.
@@ -1384,7 +1371,7 @@ Preferencialmente, deve ser sombreado e com piso impermeabilizado
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 com  pedrisco,  ráfia  ou  concreto.  Para  se  evitar  que  as  mudas 
 sejam contaminadas por viroses transmitidas por vetores (pulgões), 
 recomenda-se que as laterais sejam cobertas com telas antiafídeos e 
@@ -1428,7 +1415,7 @@ devem ser desinfestados antes do uso.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 A água da irrigação deve ser limpa e proveniente de fonte livre 
 de contaminantes. As pessoas que trabalham e transitam no viveiro 
 devem  usar  roupas  e  calçados  limpos,  manter  as  mãos  limpas  e 
@@ -1472,7 +1459,7 @@ muito tempo nos viveiros, o que pode provocar estiolamento, queda
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 de folhas, seca de ramos e raízes enoveladas que vão prejudicar o 
 crescimento das plantas após o transplante no campo.
 
@@ -1506,7 +1493,7 @@ da Embrapa Produtos e Mercado5.
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 5 Biotecnologia e 
 
 Melhoramento Genético
@@ -1519,7 +1506,7 @@ Eder Jorge de Oliveira
 Onildo Nunes de Jesus
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 71 
 
 O que é biotecnologia e quais as principais aplicações na 
@@ -1570,7 +1557,7 @@ silvestres  de  maracujá  estão  sendo  usadas,  com  sucesso,  como
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 porta-enxertos  visando  à  resistência  a  fungos  de  solo  e  à  morte 
 precoce.
 
@@ -1618,7 +1605,7 @@ vimento  de  cultivares  geneticamente
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 superiores, principalmente no aumento da produtividade, da resis-
 tência a doenças e na melhoria das características físicas e químicas 
 de frutos. Esses métodos são:
@@ -1666,7 +1653,7 @@ disponível  para  uso  em  melhoramento  genético,  visando  obter
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 variedades mais produtivas, com alta qualidade de frutos e até mesmo 
 com propriedades funcionais, alguns dos principais problemas da 
 cultura  ainda  não  foram  resolvidos,  por  meio  do  melhoramento 
@@ -1710,7 +1697,7 @@ vantagens de se usar micorriza arbuscular em mudas são:
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 •  Aumento da capacidade das plantas de absorver nutrientes 
 
 do solo, principalmente o fosfato.
@@ -1762,7 +1749,7 @@ programa  foi  o  lançamento  da  cultivar  BRS  Pérola  do  Cerrado
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 (BRS  PC),  da  espécie  Passiflora  setacea1.  Em  2016,  também  foi 
 lançada a cultivar BRS Sertão Forte (BRS SF) da espécie Passiflora 
 cincinnata2.  Outras  cultivares  das  espécies  P.  cincinnata,  P.  alata, 
@@ -1783,9 +1770,9 @@ uso da polpa, sementes, casca, folhas, ramos e flores.
 61
 
 
- 500pr_pgnumber062
-
  500pr_pgnumber063
+
+ 500pr_pgnumber064
 6 Cultivares
 
 Keize Pereira Junqueira
@@ -1797,7 +1784,7 @@ Ciro Scaranari
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 79  O que é uma cultivar?
 
 Uma  cultivar  é  o  resultado  de  melhoramento  genético  de 
@@ -1840,7 +1827,7 @@ nacional-cultivares>.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 outros). Para inscrever nova cultivar no RNC, é preciso preencher e 
 enviar a documentação exigida ao Mapa.
 
@@ -1884,7 +1871,7 @@ outras espécies de maracujá, permitindo a proteção de cultivares de
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 maracujá no Brasil. Tais informações podem ser obtidas na página 
 do Serviço Nacional de Proteção de Cultivares (SNPC)2 do Mapa.
 
@@ -1935,7 +1922,7 @@ nacional-cultivares>.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 protegido de insetos polinizadores, para evitar contaminação com 
 pólens externos.
 
@@ -1987,7 +1974,7 @@ e  amarelo,  de  formato  oblongo,  com  base  e  ápice  ligeiramente
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 achatados. Nas condições do Distrito Federal, irrigado e plantado de 
 maio a julho, no espaçamento de 2,5 m x 2,5 m, sua produtividade 
 tem ficado em torno de 42 t/ha no primeiro ano, sem polinização 
@@ -2032,7 +2019,7 @@ frutos  possuem  média  de  15,0  °Brix,  frutos  com  média  de  120  g
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 e cor da polpa amarelo-alaranjada. Apresenta potencial produtivo 
 médio  de  50  t/ha/ano  (respeitadas  as  recomendações  técnicas)  e 
 alto rendimento de suco (cerca de 42%).
@@ -2082,7 +2069,7 @@ relacionado  ao  uso  da  polpa  para  fabricação  de  sucos,  sorvetes,
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 doces  e  vários  outros  alimentos  doces  e  salgados.  Suas  belas 
 flores  brancas  e  sua  rami ficação  densa  evidenciam  seu  potencial 
 ornamental para paisagismos de grandes áreas. Sua indicação como 
@@ -2127,7 +2114,7 @@ naturais, BRS Rubiflora produz poucos frutos.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 BRS  Roseflora  –  Destinada  ao  mercado  de  plantas  orna-
 mentais,  produz  grande  quantidade  de  flores  com  diâmetro  de 
 aproximadamente 14 cm e pétalas com coloração variando de rosa- 
@@ -2174,7 +2161,7 @@ php>.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 Para  informações  sobre  as  cultivares  –  e  onde  adquirir 
 sementes e mudas –, o produtor deve consultar as empresas que 
 as  desenvolveram  ou  solicitar  informações  nas  revendas  mais 
@@ -2221,7 +2208,7 @@ preferencialmente  amarelos  e  mais  alongados,  embora  os  frutos
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 arroxeados  já  tenham  conquistado  algum  espaço  nesse  mercado. 
 Caso o mercado seja para frutas especiais ou ornamentais, também 
 há cultivares específicas. É importante verificar, também, as regiões 
@@ -2272,7 +2259,7 @@ ciado na Europa).
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 •  Passiflora quadrangularis L. (badea).
 No  mercado  internacional,  a  fruta  de  maracujá  in  natura  é 
 considerada  uma  fruta  exótica  especial.  Assim,  como  a  fruta  in 
@@ -2317,7 +2304,7 @@ o cuidado de extrair o excesso do ar dos sacos plásticos e vedá-los.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 99 
 
 Como garantir a origem genética e fitossanitária das semen­
@@ -2344,15 +2331,15 @@ adequado para seu tamanho.
 75
 
 
- 500pr_pgnumber076
-
  500pr_pgnumber077
+
+ 500pr_pgnumber078
 7 Implantação do Pomar
 
 Raul Castro Carriello Rosa
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 100 
 
 O que se deve saber antes de se implantar um pomar de 
@@ -2400,7 +2387,7 @@ técnica, existem:
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 a) Instituições públicas: 
 •  Empresa de Assistência Técnica e Extensão Rural (Emater).
 •  Agência Nacional de Assistência Técnica e Extensão Rural 
@@ -2447,7 +2434,7 @@ devem ser projetados para que as linhas de plantio, em espaldeiras,
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 não ultrapassem 100 m. Além disso, os carreadores devem dividir 
 talhões subsequentes, para facilitar a remoção das colheitas. 
 
@@ -2490,7 +2477,7 @@ o período chuvoso e com tempe-
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 raturas mais elevadas. O que deve ser evitado, principalmente no 
 Centro-Sul, é o plantio em época de clima mais ameno associado 
 à elevada umidade, pois isso favorece a incidência de doenças da 
@@ -2534,7 +2521,7 @@ Cultivo com elevado nível tecnológico, em que a mecanização
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 3,0 m e 4,0 m nas entrelinhas e de 1,6 m a 5,0 m entre plantas na 
 linha de cultivo. 
 
@@ -2580,7 +2567,7 @@ certificado pelo Ministério da Agricultura Pecuária e Abastecimento
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 O  material  genético  (cultivar)  adquirido  deve  ser  reconhe-
 cidamente produtivo para a região em questão, apresentar frutos que 
 atendam as exigências do mercado de fruta fresca, haja vista que 
@@ -2622,7 +2609,7 @@ importância é manter todo o caule da muda sem contato com o
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 solo, ou seja, com o auxílio da mão, enterrar a muda apenas até a 
 superfície do seu torrão, de forma que este fique no mesmo nível ou 
 levemente superior à superfície do solo. 
@@ -2668,7 +2655,7 @@ cultivo  de  maracujazeiro  é  a  espaldeira  com  um  fio  de  arame  a
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 aproximadamente  1,80  m  de  altura  da  superfície  do  terreno. 
 O espaçamento entre as estacas pode variar entre 4 m e 10 m, a 
 depender do nível tecnológico do cultivo. 
@@ -2716,7 +2703,7 @@ de madeira de reflorestamento, tratamento específico contra insetos
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 e microrganismos, com diâmetro entre 8 cm e 12 cm para as estacas 
 centrais e maiores diâmetros para as estacas de extremidades, que 
 receberão a tensão do arame. A faixa de tamanho ideal é entre 2,3 m 
@@ -2762,7 +2749,7 @@ expressiva diminuição do potencial produtivo.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 Mudas  produzidas  com  solo  sem  tratamento  na  mistura 
 do  substrato  também  devem  ser  evitadas,  pois  pode  acarretar 
 disseminação de patógenos de podridão-radicular. 
@@ -2808,7 +2795,7 @@ a  exemplo  de  algumas  leguminosas,  ou  então  são  hospedeiras
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 de  insetos  disseminadores  de  viroses,  a  exemplo  de  pulgões  e 
 mosca-branca, que podem ser favorecidos por meio do cultivo de 
 cucurbitáceas (melancia, abóbora, melão, etc.). 
@@ -2820,7 +2807,7 @@ relatado no Capítulo 23.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 8 Preparo, Manejo e 
 
 Conservação do Solo
@@ -2831,7 +2818,7 @@ Luciano da Silva Souza
 Cristina de Fátima Machado
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 116 
 
 Quais as características do solo consideradas ideais para o 
@@ -2876,7 +2863,7 @@ presença de camadas de cascalho ou rochas a pelo menos 1,5 m de
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 profundidade, nem em decorrência da oscilação do lençol freático, 
 que deve estar a 2,0 m da superfície. 
 
@@ -2919,7 +2906,7 @@ antes da abertura das covas.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 A  análise  física  em  laboratório  determina  o  teor  de  argila  e 
 de  silte  e  das  diversas  frações  da  areia,  além  da  estabilidade  de 
 agregados  e  a  capacidade  de  retenção  de  água  no  solo,  o  que 
@@ -2963,7 +2950,7 @@ práticas manuais e/ou tração animal para se conter a erosão.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 120 
 
 Quais as características dos solos e as vantagens e desvan­
@@ -3008,7 +2995,7 @@ o que as conserva úmidas por maior período de tempo.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 Outro aspecto a ressaltar é o declive pouco acentuado que 
 permite a construção das espaldeiras quase em linhas retas, pois os 
 problemas de conservação do solo e da água são mínimos, mas os 
@@ -3052,7 +3039,7 @@ não se recuperar.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 Solos  com  baixa  aeração  necessariamente  devem  padecer 
 de  problemas  referentes  à  compactação,  adensamento,  pouca 
 profundidade efetiva ou são muito argilosos, pois dispõem de pouco 
@@ -3100,7 +3087,7 @@ de  0  m  a  0,2  m;  0,2  m  a  0,4  m  e,  seguindo  as  recomendações,
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 calcular as doses para cada área. 
 Além  disso,  substituir  20%  da 
 quantidade de calcário por gesso.
@@ -3152,7 +3139,7 @@ básicas de preparo da área a ser plantada são a correção do solo em
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 relação à acidez, plantio de leguminosas e roçadeira com 50% da 
 floração, semelhantes ao descrito na questão anterior.
 
@@ -3197,7 +3184,7 @@ no ciclo da cultura.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 •  Elevar a taxa de infiltração e a armazenagem de água no 
 solo em níveis que satisfaçam às necessidades das plantas. 
 A  estabilização  desses  parâmetros  resulta  em  melhoria  das 
@@ -3242,7 +3229,7 @@ o escarificador na profundidade de 0,35 m. Por sua vez, a aração
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 profunda deve ser evitada, quando o subsolo apresentar problemas, 
 como,  por  exemplo,  excessivamente  duro  ou  excessivamente 
 plástico, e sua inversão não for benéfica para a superfície do solo. 
@@ -3294,7 +3281,7 @@ O  uso  de  máquinas  deve  ser  mínimo  em  qualquer  tipo  de
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 compactação do solo, e também reduz custos de mão de obra e de 
 combustível. 
 
@@ -3341,7 +3328,7 @@ partículas e os riscos de erosão, o que aumenta a infiltração da água
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 no solo, diminui a temperatura na superfície e as perdas de água 
 por  evaporação.  Nessa  prática,  geralmente  são  usados  estercos, 
 compostagens, resíduos de culturas ou de indústrias. 
@@ -3387,7 +3374,7 @@ roçadeira ou com herbicida.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 •  O solo também deve ser mantido coberto com vegetação e 
 o uso da grade deve ser mínimo. Deve-se fazer correção da 
 acidez do solo antes do plantio. 
@@ -3404,7 +3391,7 @@ para o plantio do ano seguinte.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 9 Exigência de Nutrientes, 
 
 Correção da Acidez do 
@@ -3415,7 +3402,7 @@ Ana Lúcia Borges
 Raul Castro Carriello Rosa
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 135 
 
 Quais  nutrientes  são  exigidos  pelo  maracujazeiro  para 
@@ -3467,7 +3454,7 @@ pomar.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 No  caso  do  maracujazeiro,  a  maior  importância  do  K 
 está  associada  à  qualidade  dos  frutos  e  ao  rendimento  em  suco; 
 portanto, sua adequada disponibilidade no período de frutificação 
@@ -3515,7 +3502,7 @@ e  na  frutificação.  Participa  no  metabolismo  e  facilita  o  transporte
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 de  açúcares  através  das  membra-
 nas;  além  disso,  participa  do  me-
 tabolismo  de  ácidos  nucleicos  e 
@@ -3560,7 +3547,7 @@ por  meio  de  fertilizantes  que  possuem  em  sua  formulação  todos
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 esses elementos e são aplicados na cova ou no sulco de plantio, 
 juntamente  com  a  matéria  orgânica  e  o  fósforo  (P).  A  aplicação 
 dessa  forma  é  mais  eficiente  do  que  aplicações  por  meio  foliar, 
@@ -3608,7 +3595,7 @@ ou  talhões  de  no  máximo  10  ha,  homogêneos  quanto  à  cor  do
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 solo (amarela, vermelha, cinza ou preta), topografia (topo, encosta 
 ou  baixada),  textura  (argilosa,  média  ou  arenosa),  condições  de 
 drenagem,  grau  de  erosão,  tipo  de  vegetação  ou  cultura  anterior, 
@@ -3654,7 +3641,7 @@ da área.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 143 
 
 Quais as recomendações para análise química do solo num 
@@ -3703,7 +3690,7 @@ solo para 70%, pela fórmula:
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 (V2 – V1)CTC
 NC = –––––––––––––
 
@@ -3752,7 +3739,7 @@ toda a área a ser plantada e é a primeira prática a ser adotada.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 Em pomares a serem implantados, quando houver necessidade 
 de calagem, definida em função dos resultados da análise química 
 do solo, deve-se aplicar primeiro a dose de calcário recomendada 
@@ -3804,7 +3791,7 @@ e energia).
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 149 
 
 Qual a quantidade de adubo orgânico a ser aplicado por 
@@ -3852,7 +3839,7 @@ inferior a 0,07 cmolc/dm3, na dose de 20 kg/ha de K2O.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 151 
 
 Quais as quantidades de NPK recomendadas para mara­
@@ -3897,7 +3884,7 @@ e, se o teor de B for ≤ 0,20 mg/dm3, aplicar 2 kg/ha.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 O  fornecimento  de  micronutrientes  também  pode  ser  feito 
 por  meio  de  pulverizações  foliares  a  cada  15  dias.  Essa  prática  é 
 bastante  usada  diante  da  necessidade  pulverizações  para  tratos 
@@ -3938,7 +3925,7 @@ de determinado elemento.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 156 
 
 Quais os teores considerados ótimos em folhas de mara­
@@ -4112,7 +4099,7 @@ de nutrientes em maracujazeiro.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 Tabela 2. Sintomas visuais de deficiência de nutrientes em maracujazeiro.
 
 Nutriente
@@ -4219,7 +4206,7 @@ Causa: baixo teor no solo, calagem e fósforo em excesso.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 158 
 
 Quando é necessário se fazer uso da análise foliar e como 
@@ -4239,9 +4226,9 @@ vez que vários fatores podem atuar simultaneamente.
 117
 
 
- 500pr_pgnumber118
-
  500pr_pgnumber119
+
+ 500pr_pgnumber120
 10 Sistemas de 
 
 Condução e Podas
@@ -4255,7 +4242,7 @@ Fábio Gelape Faleiro
 Lívia Pereira Junqueira
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 159  O maracujazeiro necessita de sistema de condução?
 
 O  maracujazeiro  é  uma  planta  semilenhosa  (trepadeira  e 
@@ -4300,7 +4287,7 @@ de 10 m um do outro.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 Em  regiões  onde  ocorrem  ventos  fortes,  recomenda-se  usar 
 dois fios de arame. Entre esses mourões, devem-se colocar estacas 
 de materiais mais baratos, como bambu, ripões e madeira branca, 
@@ -4347,7 +4334,7 @@ adubação, irrigação, polinização manual, podas e colheita.
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 164  Quais as vantagens do sistema de condução do tipo latada?
 
 A condução no tipo latada é ideal para pequenas áreas, como 
@@ -4388,7 +4375,7 @@ tesouras, deixando-se apenas a guia principal, mais vigorosa.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 167  Como conduzir a guia principal depois da primeira poda?
 
 A guia ou ramo principal deve ser conduzido por um barbante 
@@ -4434,7 +4421,7 @@ fitossanitários.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 Essa poda deve ser feita após o pico de safra, no momento em 
 que os ramos começarem a tocar o solo. Deve-se evitar fazer essa 
 poda quando a planta estiver em picos de floração e de produção.
@@ -4483,7 +4470,7 @@ demanda muita mão de obra.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 172 
 
 A  poda  do  maracujazeiro  pode  recuperar  plantas  debili­
@@ -4504,9 +4491,9 @@ Nota: essa aplicação deve ser repetida após 10 dias.
 125
 
 
- 500pr_pgnumber126
-
  500pr_pgnumber127
+
+ 500pr_pgnumber128
 11 Irrigação e 
 
 Fertirrigação
@@ -4514,7 +4501,7 @@ Fertirrigação
 Valdemício Ferreira de Sousa
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 174 
 
 Quais os principais critérios a serem considerados na tomada 
@@ -4574,7 +4561,7 @@ produtividades que podem ser superiores a 50 t/ha no primeiro ano
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 e a 30 t/ha no segundo ano de produção, dependendo da cultivar e 
 do nível tecnológico do sistema de produção adotado.
 
@@ -4619,7 +4606,7 @@ irrigar o maracujazeiro em praticamente todas as regiões do Brasil.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 178 
 
 Qual a demanda hídrica do maracujazeiro­azedo e qual a 
@@ -4671,7 +4658,7 @@ ocorrem  entre  240  e  360  dias,  com  demanda  hídrica  acima  de
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 Durante  o  ano,  o  período  de  maior  consumo  de  água  pelo 
 maracujazeiro-amarelo ocorre entre setembro e janeiro, nas regiões 
 de  clima  com  temperaturas  elevadas  e  seco,  e  de  novembro  a 
@@ -4718,7 +4705,7 @@ e  de  produção,  sendo  mais  intensos  no  início  da  primavera,
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 estendendo-se até o final do outono. Esse comportamento requer 
 que  as  plantas  estejam  sempre  sob  ótimo  estado  de  umidade  no 
 solo em todas as fases do processo produtivo, pois, desde o início 
@@ -4764,7 +4751,7 @@ visual dos sintomas provocados pelo déficit hídrico.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 Assim, as plantas podem se recuperar parcialmente após forte 
 período de estresse hídrico. Entretanto o desenvolvimento vegetativo 
 e o potencial produtivo serão afetados, diminuindo a produtividade 
@@ -4807,7 +4794,7 @@ melhor eficiência da irrigação.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 186 
 
 Quais os critérios que devem ser considerados na escolha 
@@ -4855,7 +4842,7 @@ menos por 2 horas. Assim, recomenda-se que as irrigações sejam
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 feitas no período da manhã, no final da tarde ou à noite. O objetivo 
 é evitar que a água, ao entrar em contato com os grãos de pólen, 
 provoque  o  estouro  desses  grãos,  reduzindo  a  possibilidade  de 
@@ -4906,7 +4893,7 @@ Nota: é importante sempre observar a faixa de pressão definida pelo fabricante
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 190 
 
 Qual  a  disposição  e  a  distância  entre  os  gotejadores  em 
@@ -4955,7 +4942,7 @@ dos ramos entre 40 cm a 50 cm acima do solo.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 192 
 
 Como definir e qual o nível de tolerância de déficit de água 
@@ -5005,7 +4992,7 @@ as  plantas  e  que,  no  planejamento  da  irrigação  e  no  manejo  de
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 água disponível no solo. Para determinar a água disponível no solo, 
 é preciso conhecer: 
 
@@ -5055,7 +5042,7 @@ podendo haver casos de perdas por escoamento superficial.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 O  balanço  é  feito  partindo-se  de  um  déficit  nulo,  conta-
 bilizando-se  diariamente  as  entradas  e  saídas  de  água  no  solo. 
 Os déficits são acumulados e, quando atinge um valor máximo per-
@@ -5100,7 +5087,7 @@ de água (L/planta/dia) a ser aplicada pela irrigação, e a vazão total
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 dos gotejadores por cada planta. Assim, dividindo-se a quantidade 
 de água pela vazão total tem-se o tempo de irrigação em horas.
 
@@ -5148,7 +5135,7 @@ com  presença  de  patógenos,  principalmente  fungos  de  solo,  sua
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 disseminação  e/ou  infestação  nas  plantas  de  maracujazeiro  têm 
 sido maior quanto maiores os teores de umidade no solo. Assim, 
 é muito importante conduzir as plantas sob adequado manejo de 
@@ -5195,7 +5182,7 @@ medidas:
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 •  Evitar solos pesados e compactados.
 •  Procurar corrigir o pH do solo, elevando para uma condição 
 
@@ -5242,7 +5229,7 @@ pela manhã.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 203 
 
 No  cultivo  do  maracujazeiro  irrigado  por  gotejamento, 
@@ -5290,7 +5277,7 @@ no maracujazeiro.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 205  O que é a fertirrigação e como funciona?
 
 A  fertirrigação  é  uma  prática  de  adubação  em  que  os 
@@ -5344,7 +5331,7 @@ condições do agricultor, da propriedade e da cultura.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 Os métodos de fertirrigação são os seguintes: 
 •  Diferencial de pressão.
 •  Transformação de energia.
@@ -5390,7 +5377,7 @@ as bombas injetoras com acionamento hidráulico).
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 209 
 
 Quais os critérios que devem ser considerados na tomada 
@@ -5453,7 +5440,7 @@ que  a  produtividade  aumenta  com  a  quantidade  de  nutrientes  e
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 de fertilizantes, mas, até certo nível, depois tendem a decrescer à 
 medida que as quantidades são aumentadas.
 
@@ -5506,7 +5493,7 @@ potássio.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 214 
 
 Como definir as quantidades de adubos ou de fertilizantes 
@@ -5561,7 +5548,7 @@ Entre outros fatores, a frequência da fertirrigação depende:
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 •  Da cultura.
 •  Do índice de salinidade.
 •  Do sistema de irrigação.
@@ -5607,7 +5594,7 @@ Qff = Qfr x (%f)/nf.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 Em se tratando do maracujazeiro-amarelo, o ciclo fenológico 
 (base do primeiro ano) foi dividido em 12 períodos de 30 dias, com 
 as  respectivas  distribuições  percentuais  de  N  e  de  K  (Tabela  1). 
@@ -5695,7 +5682,7 @@ cultura.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 •  Quantidade de nutrientes na água de irrigação.
 •  Eficiência da absorção de nutrientes nos diferentes métodos 
 
@@ -5741,9 +5728,9 @@ hortaliças. Brasília, DF: Embrapa Informação Tecnológica, 2011. p. 499-522.
 151
 
 
- 500pr_pgnumber152
-
  500pr_pgnumber153
+
+ 500pr_pgnumber154
 12 Polinização Natural 
 
 e Manual
@@ -5758,7 +5745,7 @@ Lívia Pereira Junqueira
 Fernando Correa Campos Neto
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 220  Quais as principais partes da flor do maracujá? 
 
 As 
@@ -5800,7 +5787,7 @@ pelo vento).
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 223  O que é polinização?
 
 Polinização é a transferência de grãos de pólen das estruturas 
@@ -5846,7 +5833,7 @@ como  abelha-mamangaba,  abelha-mangangá  ou  mangangos,  é  o
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 principal  polinizador  do  maracujá-azedo  e  do  maracujá-doce,  e 
 tem hábito diurno. Assim, o percentual de vingamento de frutos vai 
 depender  do  número  de  mamangavas  presentes  no  pomar.  Com 
@@ -5890,7 +5877,7 @@ menor frequência e as abelhas-europa (Apis mellifera) predominam
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 sobre as flores do maracujazeiro, retirando todo o pólen. Dependendo 
 das condições ambientais e da habilidade do trabalhador, a prática 
 da polinização manual pode elevar esse índice de vingamento de 
@@ -5936,7 +5923,7 @@ dotadas  de  morfologia  diferenciada  (mais  achatada  e  com  quatro
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 estigmas). Nessas flores, é possível a polinização por insetos menores 
 que as abelhas-mamangavas (Xylocopa sp.), inclusive abelhas sem 
 ferrão (Melipona sp. e Trigona sp.). Entretanto, as abelhas são menos 
@@ -5977,7 +5964,7 @@ bilidade, característica que não permite a autofecundação. Assim,
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 o pólen produzido por determinada flor não é capaz de polinizar 
 essa flor, bem como as demais flores da mesma planta. Por isso, na 
 polinização manual, deve se misturar as anteras contendo os grãos 
@@ -6019,7 +6006,7 @@ por  se  desenvolverem  durante  a  seca  –  quando  a  incidência  de
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 doenças é menor –, os frutos adquirem melhor aparência. Assim, 
 recomenda-se proceder à polinização manual a partir de maio, para 
 se obter frutos de boa qualidade no período da entressafra.
@@ -6061,7 +6048,7 @@ após o fechamento das flores.
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 238 
 
 Como  minimizar  o  impacto  negativo  da  abelha  comum, 
@@ -6105,9 +6092,9 @@ sejam feitas preferencialmente à noite.
 161
 
 
- 500pr_pgnumber162
-
  500pr_pgnumber163
+
+ 500pr_pgnumber164
 13 Manejo de 
 
 Plantas Invasoras
@@ -6119,7 +6106,7 @@ Nilton Tadeu Vilela Junqueira
 Lívia Pereira Junqueira
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 240 
 
 Por que se deve controlar as plantas invasoras no pomar 
@@ -6164,7 +6151,7 @@ da  enxada,  esse  tipo  de  capina  é  importante  para  se  remover  as
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 invasoras próximas ao coleto das plantas, evitando-se, assim, danos 
 que podem causar a morte dessa planta.
 
@@ -6209,7 +6196,7 @@ planta altamente sensível aos herbicidas à base de glifosato e 2-4,D.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 Esses  são  altamente  prejudiciais,  mesmo  quando  aplicados  com 
 protetores de derivas. Esses herbicidas provocam:
 
@@ -6256,7 +6243,7 @@ previamente  determinados,  com  preferência  para  espaçamentos
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 mais  adensados.  As  mangueiras  de  irrigação,  assim  como  os 
 gotejadores, devem ficar sobre o mulching (faixa de filme de plástico) 
 para facilitar a manutenção dos gotejadores e das mangueiras.
@@ -6301,7 +6288,7 @@ de frutos.
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 248 
 
 O uso de latadas ou caramanchão é suficiente para con­
@@ -6347,7 +6334,7 @@ se desenvolverem sob a latada.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 14 Doenças
 
 Nilton Tadeu Vilela Junqueira
@@ -6359,7 +6346,7 @@ Ana Beatriz Zacaroni
 Marcelo Fideles Braga
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 249  Quais as principais doenças do maracujazeiro?
 
 As  principais  doenças  do  maracujazeiro  do  tipo  azedo  ou 
@@ -6414,7 +6401,7 @@ plantações com mais de 1 ano de idade.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 Verrugose 
 
 (Cladosporium  spp.)  –  Caracteriza-se  pela 
@@ -6461,7 +6448,7 @@ efetuar os plantios vai de maio a setembro (período menos chuvas
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 do  ano).  Nesse  caso,  a  irrigação  das  mudas  recém-plantadas  é 
 necessária, pelo menos até atingirem o fio de arame.
 
@@ -6505,7 +6492,7 @@ em  mudas  no  campo  demanda  muita  mão  de  obra  e  defensivos
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 agrícolas,  além  de  riscos  de 
 contaminação  ambiental.  Além 
 disso, com o “mudão”, podem-
@@ -6548,7 +6535,7 @@ pulgões e de outras pragas.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 Esse telado deve ser coberto com plástico transparente, para 
 evitar que as mudas fiquem expostas a chuvas. Por sua vez, a porta 
 do telado deve permanecer permanentemente fechada e a estrutura 
@@ -6598,7 +6585,7 @@ a 180 cm em altura.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 Com  relação  ao  controle  de  pragas  e  doenças,  geralmente 
 mudas produzidas em estufas ou em telados podem ser atacadas 
 por:
@@ -6639,7 +6626,7 @@ chuvas  e  durante  todo  o  período  das  chuvas  em  plantios  das
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 regiões Centro-Oeste e Sul. Os tratamentos dessas mudas devem 
 ser iniciados em outubro.
 
@@ -6682,7 +6669,7 @@ não há um tratamento curativo eficaz.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 260 
 
 Como  não  há  ainda  cultivar  resistente  à  virose,  qual  a 
@@ -6734,7 +6721,7 @@ cultivares cultivadas no Distrito Federal:
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 •  BRS Gigante Amarelo (BRS GA1).
 •  BRS Sol do Cerrado (BRS SC1).
 •  BRS Rubi do Cerrado (BRS RC).
@@ -6783,7 +6770,7 @@ original. Após 3 a 5 dias, a planta murcha totalmente e as folhas
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 continuam presas a ela. Ao analisar as raízes da planta que acabou 
 de  murchar,  não  se  observa  nenhum  sinal  externamente,  mas 
 cortando-se  essas  plantas  na  base  do  caule,  constata-se  que  os 
@@ -6829,7 +6816,7 @@ regiões do Brasil.
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 264 
 
 Qual  o  melhor  horário  para  se  pulverizar  o  pomar  com 
@@ -6873,13 +6860,13 @@ temperaturas dificultam o desenvolvimento dos fitopatógenos.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 15 Pragas
 
 Charles Martins de Oliveira
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 266 
 
 Quais  as  principais  pragas  da  cultura  do  maracujá,  no 
@@ -6929,7 +6916,7 @@ folhas mais largas, no caule e nos ramos. São alongados e apresentam
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 coloração amarelada, chegando a medir 1 mm. As lagartas pequenas 
 medem  3  mm  e  exibem  coloração  creme,  e  as  maiores  medem 
 40 mm, têm coloração clara com pontuações e uma faixa amarelada 
@@ -6974,7 +6961,7 @@ número máximo de 10, exibem coloração vermelho-clara-brilhante,
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 são alongados com a base achatada e medem 3 mm. Os adultos 
 apresentam  coloração  verde-escura  e  medem  20  mm,  com  duas 
 linhas alaranjadas que vão da cabeça ao escutelo. As asas têm uma 
@@ -7016,7 +7003,7 @@ chos e enrugados.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 273  Como controlar as populações de percevejos?
 
 O  controle  cultural  pode  ser  feito  por  meio  da  catação  e 
@@ -7060,7 +7047,7 @@ var os polinizadores, representados, principalmente, pela abelhas-
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 inimigos  naturais  das  pragas  e  para  a  segurança  ambiental  e  dos 
 aplicadores.
 
@@ -7102,7 +7089,7 @@ as  sépalas  na  região  do  nectário,  causando  a  queda  das  flores.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 Danificam  também  o  caule  e  os  ramos  das  plantas  em  busca  de 
 substâncias resinosas para construir seu ninho. Sua presença pode 
 inibir a visita dos polinizadores (mamangavas). Provocam, também, 
@@ -7145,7 +7132,7 @@ como produtoras de mel, de própolis e de cera.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 280 
 
 Além das folhas, das flores e dos frutos, outras partes da 
@@ -7188,7 +7175,7 @@ seca,  os  inseticidas  em  forma  de  pó,  aplicados  diretamente  nos
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 “olheiros”  (buracos  de  entrada  e  saída  das  formigas),  ou  iscas 
 formicidas, colocadas próximas aos carreadores.
 
@@ -7241,15 +7228,15 @@ e destruídos.
 189
 
 
- 500pr_pgnumber190
-
  500pr_pgnumber191
+
+ 500pr_pgnumber192
 16 Nematoides
 
 Dimmy Herllen Silveira Gomes Barbosa
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 286  O que são nematoides?
 
 Os nematoides fitoparasitas ou fitonematoides são organismos 
@@ -7293,7 +7280,7 @@ de outros patógenos como Fusarium.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 289 
 
 Quais  os  principais  nematoides  que  atacam  o  maracu­
@@ -7338,7 +7325,7 @@ patógenos.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 292  O que fazer para controlar os nematoides na área?
 
 Existem diferentes medidas de manejo que podem ser adotadas 
@@ -7381,7 +7368,7 @@ dendo da fonte de matéria orgânica usada (esterco, torta, resíduos),
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 esse tipo de adubação pode apresentar efeito direto e indireto no 
 controle dos nematoides.
 
@@ -7427,9 +7414,9 @@ outras estratégias de controle, com menores danos ao ambiente.
 195
 
 
- 500pr_pgnumber196
-
  500pr_pgnumber197
+
+ 500pr_pgnumber198
 17 Colheita e 
 
 Pós­colheita
@@ -7440,7 +7427,7 @@ Sergio Agostinho Cenci
 Maria Madalena Rinaldi
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 299 
 
 Que  critérios  devem  ser  priorizados  pelo  produtor,  ao 
@@ -7489,7 +7476,7 @@ para não deixar que os frutos se deteriorem no campo.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 Em algumas espécies, como maracujá-doce (Passiflora alata), 
 silvestre (P. tenuifila) e granadilla (Passiflora ligularis), os frutos não si 
 desprendem, facilmente, da planta e podem ser colhidos direto da 
@@ -7536,7 +7523,7 @@ de supermercados, é importante que os frutos cheguem com boa
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 aparência,  isentos  de  sinais  de  sujeiras, 
 manchas  graves,  ataque  de  pragas,  po-
 dridão  e  murchamento.  Por  isso,  devem 
@@ -7580,7 +7567,7 @@ sacos de 12 kg (em menor volume, evita-se danos no transporte)
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 e  levados  para  local  limpo,  fresco,  arejado  e  protegido  do  sol, 
 para limpeza e seleção. Esse local pode ser uma instalação bem 
 simples, como um barracão ou mesmo uma packing house (casa 
@@ -7624,7 +7611,7 @@ armazenamento refrigerado.
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 307 
 
 Quais as instalações e os equipamentos que uma packing 
@@ -7667,7 +7654,7 @@ final da jornada.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 O regulamento de boas práticas deve prever que os funcionários 
 responsáveis  pela  higienização  das  instalações  sanitárias  usem 
 uniformes apropriados e diferenciados daqueles da manipulação dos 
@@ -7715,7 +7702,7 @@ resultando  em  depreciação  e  perda  de  características  sensoriais
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 310 
 
 Quais  os  principais  defeitos  provocados  por  pragas  de 
@@ -7759,7 +7746,7 @@ mais elevado.
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 313 
 
 Como  classificar  os  frutos  para  embalagem  e  comercia­
@@ -7791,9 +7778,9 @@ podem ser consultadas na Central de Abastecimento mais próxima.
 205
 
 
- 500pr_pgnumber206
-
  500pr_pgnumber207
+
+ 500pr_pgnumber208
 18 Comercialização e 
 
 Agregração de Valor
@@ -7804,7 +7791,7 @@ Daniel Trento do Nascimento
 André Luis Bonnet Alvarenga
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 314  Quais os possíveis canais de comercialização do maracujá?
 
 Os principais canais de comercialização do maracujá são:
@@ -7848,7 +7835,7 @@ Quando a fruta se destinar a grandes centrais de abastecimento
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 normalmente  aparece  outro  agente  de  comercialização  que  é  o 
 intermediário ou “atravessador”. Nesse caso, quando o volume e a 
 quantidade de fruta do produtor não são suficientes para garantir o 
@@ -7892,7 +7879,7 @@ reconhecida.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 •  Criar embalagens mais adequadas é outra forma de agregar 
 valor,  pois  proporciona  maior  cuidado  e  qualidade  ao 
 produto.
@@ -7939,7 +7926,7 @@ apenas  pela  importância  econômica  e  social,  mas  também  pelas
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 vantagens  ambientais  que  isso  acarreta.  Por  exemplo,  a  casca  e 
 as  sementes  dessa  fruta  têm  se  revelado  como  boas  opções  de 
 agregação de valor e de renda, pois, além de resolver problemas 
@@ -7986,7 +7973,7 @@ coprodutos de alto valor agregado.
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 Em  linhas  gerais,  no  caso  da  semente  suja  –  que  sai  da 
 extração da polpa do maracujá – o primeiro cuidado é evitar que 
 essa “massa” seja exposta por muito tempo ao ambiente com altas 
@@ -8029,7 +8016,7 @@ usadas para secar café.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 Após  a  secagem,  as  sementes  devem  ser  armazenadas  em 
 locais adequados, em ambiente seco. O ideal é armazená-las em 
 silos,  principalmente  quando  se  requer  longos  períodos  de  esto-
@@ -8078,7 +8065,7 @@ consistem  na  purificação  dessa  farinha  pela  trituração  prévia  da
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 casca, formando uma pasta e posteriormente é feita a purificação 
 pela separação da parte externa da casca (película não desejável) 
 da parte interna (parte branca), em equipamentos que separam por 
@@ -8121,7 +8108,7 @@ Nas seguintes instituições e empresas:
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 19 Uso Múltiplo 
 
 do Maracujá
@@ -8129,7 +8116,7 @@ do Maracujá
 Ana Maria Costa
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 329  O que se entende por uso múltiplo de uma cultura?
 
 É o aproveitamento da planta em diversas finalidades. Ou seja, 
@@ -8170,7 +8157,7 @@ ser aproveitadas, inclusive para comercialização.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 As folhas são utilizadas pela indústria de alimentos, no preparo 
 de  chás,  além  de  servirem  de  matéria-prima  para  extração  de 
 bioativos para uso na indústria cosmética e fitoterápica. Da mesma 
@@ -8215,7 +8202,7 @@ para a saúde humana, da série ômega 3 e 6.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 333 
 
 Como se deve preparar casca de maracujá­amarelo para 
@@ -8261,7 +8248,7 @@ e  a  higiene,  de  acordo  com  a  Portaria  nº  326  de  30  de  julho  de
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 requisitos gerais sobre as condições higiênico-sanitárias e as boas 
 práticas  de  fabricação  (BPF)  para  estabelecimentos  produtores/
 industrializadores de alimentos.
@@ -8303,7 +8290,7 @@ do Mapa.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 335 
 
 No  caso  de  alguém  querer  comercializar  a  semente  do 
@@ -8349,7 +8336,7 @@ cosméticos.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 As grandes indústrias farmacêuticas têm interesse nesse tipo de 
 matéria-prima. Entretanto, os plantios são conduzidos para que se 
 obtenham ramas e folhas e com manejo diferenciado para garantir 
@@ -8395,7 +8382,7 @@ característico mais doce e menos ácido. São mais nutritivos, além
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 de conterem maiores teores de compostos benéficos para a saúde. 
 Assim como o maracujá-azedo, trata-se de uma planta muito versátil. 
 O fruto se presta ao consumo in natura e ao preparo de sucos, de 
@@ -8439,7 +8426,7 @@ as flores podem persistir abertas até o início da tarde. Os frutos são
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 verde-amarelados com listras escuras, do tamanho aproximado de 
 um limão-tahiti ou pouco maior, que se distribui entre as folhagens.
 A planta pode ser incluída em projetos paisagísticos, compondo 
@@ -8465,9 +8452,9 @@ farmacopeia/pdf/volume2.pdf>. 15 set. 2016.
 223
 
 
- 500pr_pgnumber224
-
  500pr_pgnumber225
+
+ 500pr_pgnumber226
 20 Processamento 
 
 Industrial do 
@@ -8478,7 +8465,7 @@ Sonia Maria Costa Celestino
 Klecius Renato Silveira Celestino
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 340  Como extrair óleo das sementes de maracujá?
 
 Primeiramente, os frutos devem ser cortados para extração da 
@@ -8525,7 +8512,7 @@ goma formada pela parte inferior da centrífuga, recuperando-se o
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 Na neutralização, adiciona-se um álcali (2% de soda cáustica 
 ou  barrilha)  ao  óleo  degomado,  para  remover  os  ácidos  graxos 
 livres, glicerol, carboidratos, resinas e metais. Assim, o óleo e o álcali 
@@ -8571,7 +8558,7 @@ dos ácidos graxos insaturados.
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 344 
 
 O farelo obtido na extração do óleo das sementes de mara­
@@ -8616,7 +8603,7 @@ ou áreas emboloradas. Uma vez selecionados, os frutos são lavados
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 com detergente neutro, enxaguados com água potável e sanitizados 
 em  solução  de  cloro  a  100  ppm  por  10  minutos.  Depois,  são 
 novamente enxaguados em água potável corrente, para remover os 
@@ -8662,7 +8649,7 @@ caso seja a opção do produtor.
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 Os  conservantes  permitidos  para  sucos  de  frutas  são  os 
 benzoatos,  os  sorbatos  e  os  sulfitos,  sendo  que  para  o  maracujá, 
 normalmente prepara-se uma mistura dos três. O teor máximo de 
@@ -8706,7 +8693,7 @@ tura.
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 •  Mudanças de cor, de sabor e aroma.
 •  Alterações microbiológicas.
 
@@ -8752,7 +8739,7 @@ etapas:
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 •  Limpeza dos frutos.
 •  Despolpa.
 •  Concentração.
@@ -8797,7 +8784,7 @@ cada 6 horas para a retirada de amargor.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 O  albedo  deve  ser  fervido  por  20  minutos  em  água,  numa 
 proporção de 1 kg de albedo para 1 L de água, depois retirado da 
 água e triturado em liquidificador semi-industrial, com água potável 
@@ -8839,7 +8826,7 @@ telas e secas durante 3 dias, a 55 °C.
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 Uma vez secas, as cascas devem ser moídas em moinho tipo 
 faca/martelo, com peneira de 0,5 mm ou 0,25 mm, para se obter 
 menor  granulometria.  A  farinha  pode  ser  embalada  em  material 
@@ -8876,7 +8863,7 @@ verdade, trata-se de uma seleção para melhor rendimento.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 21 Produção de Maracujá 
 
 em Sistemas Orgânicos 
@@ -8885,7 +8872,7 @@ e Agroecológicos
 Raul Castro Carriello Rosa
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 355 
 
 O  cultivo  em  sistema  orgânico  já  é  comprovadamente 
@@ -8931,7 +8918,7 @@ sistema orgânico de produção conduzido na Chapada Diamantina,
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 BA, o híbrido BRS Sol do Cerrado apresentou rendimentos de até 
 37  t/ha  no  ciclo  de  produção  de  18  meses.  Infelizmente,  até  o 
 momento,  nenhuma  cultivar  de  maracujazeiro-azedo  demonstrou 
@@ -8977,7 +8964,7 @@ crotalárias, mucunas, feijão-de-porco, girassol, lab lab, entre outras.
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 Além disso, possibilita o aumento dos níveis de matéria orgânica do 
 solo. Para essa prática, primeiramente deve-se buscar no mercado 
 plantas que sejam adaptadas à região de interesse. Essa informação 
@@ -9022,7 +9009,7 @@ animais, na proporção de duas partes de solo para uma parte da fonte
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 orgânica bem curtida, para evitar problemas com fermentação. Após 
 esse procedimento, deve-se umedecer o substrato moderadamente 
 a pleno sol, distribuindo-o numa camada de no máximo 20 cm.
@@ -9071,7 +9058,7 @@ desenvolvimento-sustentavel/organicos/legislacao/Nacional>.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 As tortas vegetais – com teor total de nutrientes mais elevado 
 – como, por exemplo, torta de mamona e outras de origem animal, 
 no caso do esterco de galinhas de postura, devem ser tratadas como 
@@ -9115,7 +9102,7 @@ fornecimento de fósforo – por meio das fontes orgânicas ou também
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 fosfato de rocha natural, são essenciais na ocasião do plantio das 
 mudas  em  covas  ou  em  sulco,  como  já  discutido  anteriormente, 
 para facilitar a formação de um sistema radicular vigoroso.
@@ -9160,7 +9147,7 @@ agroecológico  deve  possuir  uma  área  de  plantio  de  espécies
 241
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 arbóreas  que  podem  ser  cortadas,  racionalmente,  para  fornecer 
 estacas  vivas  para  novos  cultivos.  A  espécie  mais  indicada  para 
 estacas  é  a  gliricídia  (Gliricidia    sp.),  que  permite  corte  de  hastes 
@@ -9205,7 +9192,7 @@ elevada, principalmente na região de
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 atuação  do  sistema  radicular,  apresentam  elevada  diminuição  na 
 produção de frutos.
 
@@ -9250,7 +9237,7 @@ insetos pragas.
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 Um ponto importante quanto à atratividade de pragas à cultura 
 é evitar o excesso de nitrogênio no tecido foliar, o que pode ocorrer 
 quando  se  aplicam  quantidades  elevadas  de  fontes  fertilizantes 
@@ -9295,7 +9282,7 @@ na  propriedade.  Na  elaboração  de  um  biofertilizante,  o  objetivo
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 e  de  microrganismos  benéficos  para  que,  após  o  processo  de 
 fermentação,  que  pode  durar  um  pouco  mais  de  1  semana,  seja 
 possível aumentar a população inicial de microrganismos benéficos. 
@@ -9340,7 +9327,7 @@ desenvolvimento-sustentavel/organicos/legislacao/Nacional.
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 368 
 
 Como promover a comercialização de maracujá orgânico 
@@ -9376,7 +9363,7 @@ regiões produtoras brasileiras.
 246
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 22 Produção de 
 
 Maracujá em Estufa
@@ -9389,7 +9376,7 @@ Felipe Camargo de Paula Cardoso
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 369  Por que plantar maracujá em estufa?
 
 O  cultivo  de  maracujá  em  estufa  se  justifica  pela  maior 
@@ -9443,7 +9430,7 @@ média  tem  chegado  a  níveis  bastante  elevados,  superiores  a
 248
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 373 
 
 Quais  as  desvantagens  do  plantio  de  maracujazeiro  em 
@@ -9490,7 +9477,7 @@ O suporte do arame entre os mourões pode ser feito com ripões de
 249
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 2 cm a 4 cm que servem de apoio para o arame e suportam o peso 
 da planta.
 
@@ -9540,7 +9527,7 @@ de diversas doenças.
 250
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 380 
 
 Quando plantado em estufa, quanto tempo o maracujazeiro 
@@ -9587,7 +9574,7 @@ maracujá a céu aberto.
 251
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 O  tempo  para  recuperar  o  custo  do  investimento,  conside-
 rando-se a maior produtividade em estufa, é de 3 anos em média, 
 que  seria  o  mesmo  tempo  quando  comparado  com  o  cultivo  de 
@@ -9607,7 +9594,7 @@ dano econômico.
 252
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 23 Produção de 
 
 Maracujá em Sistemas 
@@ -9617,7 +9604,7 @@ Policultivos
 Tadeu Graciolli Guimarães
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 385  O que significa o termo policultivos?
 
 Esse termo pode ser definido como a produção de duas ou 
@@ -9668,7 +9655,7 @@ maracujá em sistemas de cultivos consorciados devem ser simila-
 254
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 res  àqueles  adotados  para  sua 
 instalação em cultivos tradicio-
 nais, considerando-se:
@@ -9721,7 +9708,7 @@ na adoção dos tratos culturais necessários à condução do pomar.
 255
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 389 
 
 Quais os benefícios esperados quando se cultiva maracujá 
@@ -9777,7 +9764,7 @@ ou outras fruteiras. Para a escolha, devem-se considerar:
 256
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 •  A aptidão do local.
 •  O nível tecnológico do produtor.
 Dentre os cultivos de grãos, podem-se produzir arroz, feijão, 
@@ -9828,7 +9815,7 @@ na  questão  anterior,  a  cultura  da  abóbora  poderá  ser  instalada
 257
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 seguindo diversos arranjos possíveis, os quais deverão ser ajustados, 
 localmente, pelo produtor.
 
@@ -9868,7 +9855,7 @@ consigam se estabelecer e crescer nos ramos das árvores.
 258
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 24 Maracujá Cultivado 
 
 em Ambiente Urbano
@@ -9876,7 +9863,7 @@ em Ambiente Urbano
 Tadeu Graciolli Guimarães
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 396  Em quais ambientes urbanos pode­se cultivar maracujá?
 
 O  maracujá  pode  ser  cultivado  em  diversos  ambientes  do 
@@ -9922,7 +9909,7 @@ e parceiros como:
 260
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 •  BRS Rosea Púrpura (BRS RP).
 •  BRS Céu do Cerrado (BRS CC).
 A  maioria  das  espécies  e  cultivares  de  maracujá  apresenta 
@@ -9968,7 +9955,7 @@ que estes consigam se estabelecer e crescer nos ramos das árvores.
 261
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 Essa  forma  de  cultivo  também  pode  ser  feita  em  vasos  de 
 tamanho  adequado,  posicionados  próximos  às  árvores,  de  forma 
 que os ramos do maracujazeiro possam ser conduzidos em direção 
@@ -10015,7 +10002,7 @@ sem orientação técnica.
 262
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 402 
 
 Existe algum inconveniente de se permitir que os ramos do 
@@ -10064,7 +10051,7 @@ patíveis, ou seja, precisam necessariamente de pólen proveniente de
 263
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 flores de outra planta de maracujá, para que ocorra a fecundação e a 
 formação de frutos. Assim, caso exista outra planta nas proximidades, 
 talvez esteja faltando o inseto polinizador.
@@ -10089,7 +10076,7 @@ são visitadas, principalmente, por beija-flores.
 264
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 25 Produção Integrada 
 
 e Boas Práticas 
@@ -10101,7 +10088,7 @@ André Luis Bonnet Alvarenga
 Sérgio Agostinho Cenci
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 405  O que são boas práticas agropecuárias (BPA)?
 
 Boas  práticas  agropecuárias  (BPA)  é  parte  fundamental  das 
@@ -10146,7 +10133,7 @@ contaminação dos alimentos, por exemplo.
 266
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 407 
 
 Existem exemplos a serem seguidos na implementação de 
@@ -10194,7 +10181,7 @@ agronômico.
 267
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 •  Respeitar a declividade do terreno e estudar como a água 
 
 vai se infiltrar no solo, durante as chuvas.
@@ -10242,7 +10229,7 @@ com informações que contenham ao menos:
 268
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 •  A praga-alvo.
 •  A dosagem.
 •  O tempo de carência.
@@ -10284,7 +10271,7 @@ Entretanto, para tal adesão, o produtor deve se comprometer com
 269
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 a  implementação  e  a  manutenção  dos  requisitos  normativos  que 
 serão auditados por empresas acreditadas para obter a certificação 
 por meio do selo Produção Integrada-PI Brasil. Esse selo significa 
@@ -10334,7 +10321,7 @@ agregação de valor ao produto final, além de:
 270
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 •  Ganhos de competitividade.
 •  Rastreabilidade de produtos e processos.
 •  Maior limite de crédito rural a menores taxas de juros.
@@ -10380,7 +10367,7 @@ questões como:
 271
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 414 
 
 Quais as exigências para que o produtor adote o sistema 
@@ -10428,7 +10415,7 @@ foram  aprovadas  pelo  Mapa  e  definem  as  exigências  para  seu
 272
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 cultivo dentro dos preceitos da produção integrada. Esse conjunto 
 de  normas  está  disponível  na  página  da  internet  do  Inmetro1  e 
 aborda os seguintes componentes:
@@ -10479,7 +10466,7 @@ alizarAtoPortalMapa&chave=1362489091>.
 273
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 parcelas,  sob  o  regime  da  produção  integrada.  No  caderno,  o 
 produtor deve preencher:
 
@@ -10522,7 +10509,7 @@ fiscalização  e  operacional.  a  auditoria  da  qualidade  é  um  exame
 274
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 sistemático  e  independente  para  determinar  se  as  atividades  da 
 qualidade  e  seus  resultados  estão  de  acordo  com  as  disposições 
 planejadas,  se  estas  foram  implementadas  com  eficácia,  e  se  são 
@@ -10575,7 +10562,7 @@ técnico  e  dos  auxiliares  no  manejo  adequado  da  cultura  de
 275
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 maracujá e inclui os diferentes itens abordados na Normas Técnicas 
 Específicas para Produção Integrada de Maracujá, como:
 
@@ -10632,7 +10619,7 @@ dos  frutos  embalados  e  colhidos;  adequação  e  dimensionamento
 276
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 das  instalações  e  dos  equipa-
 mentos  em  relação  à  capaci-
 dade de processamento; proto-
@@ -10670,9 +10657,9 @@ integrada de frutas do Brasil. Brasília, DF: Mapa-SARC, 2002. Disponível em:
 277
 
 
- 500pr_pgnumber278
-
  500pr_pgnumber279
+
+ 500pr_pgnumber280
 26 Maracujás­azedos 
 
 Espécies Comerciais 
@@ -10686,7 +10673,7 @@ Fábio Gelape Faleiro
 Nilton Tadeu Vilela Junqueira
 
 
- 500pr_pgnumber280
+ 500pr_pgnumber281
 424 
 
 Qual a espécie de maracujazeiro­azedo com maior impor­
@@ -10730,7 +10717,7 @@ dutos  obtidos  a  partir  dos  maracujás-azedos,  destacando-se  os
 280
 
 
- 500pr_pgnumber281
+ 500pr_pgnumber282
 sucos em geral, sucos concentrados e partici-
 pação em bebidas diversas. Merece destaque, 
 também,  o  uso  na  gastronomia  (sobremesas, 
@@ -10774,7 +10761,7 @@ e de produção são essenciais para o aumento da produtividade e
 281
 
 
- 500pr_pgnumber282
+ 500pr_pgnumber283
 da qualidade dos frutos. No caso da espécie P. cincinnata, a prática 
 de  uma  poda  “drástica”  de  regeneração,  após  o  primeiro  ano  de 
 produção, é de grande importância no sistema de produção.
@@ -10827,7 +10814,7 @@ nos como abelhas.
 282
 
 
- 500pr_pgnumber283
+ 500pr_pgnumber284
 •  Melhores características físicas e químicas dos frutos.
 •  Maior longevidade.
 Outra  utilidade  das  espécies  silvestres  é  a  possibilidade  de 
@@ -10872,7 +10859,7 @@ rais fazem sua visitação de
 283
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 acordo com o horário de abertura das flores, o qual é característico 
 de  cada  espécie  de  maracujá.  As  espécies  que  apresentam 
 abertura diurna de flores recebem grande quantidade de visitantes 
@@ -10919,7 +10906,7 @@ fecundação e o vingamento dos frutos.
 284
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 A prática da polinização manual é recomendada para todos os 
 produtores de maracujá, principalmente em grandes áreas de plantio 
 e quando não há polinizadores naturais suficientes na região.
@@ -10966,7 +10953,7 @@ de flores e de folhas, com diferentes propriedades e composições
 285
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 como o óleo proveniente das sementes, seja para fins alimentares e/
 ou cosméticos.
 
@@ -11015,7 +11002,7 @@ condições comerciais, estão sendo obtidos. Destaque para Passiflora
 286
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 alata, usada como porta-enxerto em plantios comerciais no Estado 
 do Rio de Janeiro, coordenado pela Pesagro-Rio, em parceria com 
 a Embrapa.
@@ -11064,7 +11051,7 @@ de  extrema  relevância  para  o  País,  não  apenas  para  uso  no
 287
 
 
- 500pr_pgnumber288
+ 500pr_pgnumber289
 melhoramento genético, mas também pelo uso múltiplo de algumas 
 espécies  como  plantas  ornamentais,  medicinais  e  na  indústria 
 de  cosméticos  no  aproveitamento  de  substâncias  da  polpa,  das 
@@ -11088,7 +11075,7 @@ polinização da espécie comercial por volta de meio dia.
 288
 
 
- 500pr_pgnumber289
+ 500pr_pgnumber290
 27 Maracujá­doce
 
 Marcelo Fideles Braga
@@ -11098,7 +11085,7 @@ Nilton Tadeu Vilela Junqueira
 Lívia Pereira Junqueira
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 439 
 
 Qual  a  diferença  entre  o  maracujá­doce  e  o  maracujá­
@@ -11141,7 +11128,7 @@ problemas de compatibilidade, quando polinizadas entre si.
 290
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 Tanto  para  mudas  produzidas  por  estaquia  quanto  mudas 
 produzidas por sementes, o substrato-base e o volume de recipiente 
 formador das mudas é o mesmo. O substrato deve ser preparado 
@@ -11187,7 +11174,7 @@ alta  produtividade  e,  de  preferência,  livres  de  pragas  e  doenças,
 291
 
 
- 500pr_pgnumber292
+ 500pr_pgnumber293
 principalmente  virose  e  bacteriose.  Para  se  produzir  mudas  por 
 estaquia, deve-se preparar as estacas e os recipientes com substrato. 
 A  estaca  deve  ser  tirada  de  ramo  novo,  do  ano,  ainda  tenro  e 
@@ -11233,7 +11220,7 @@ as sementes na horizontal em profundidade de 1 cm.
 292
 
 
- 500pr_pgnumber293
+ 500pr_pgnumber294
 443  Podem­se armazenar sementes de maracujazeiro­doce?
 
 O  armazenamento  das  sementes  pode  ser  feito,  mas  sob 
@@ -11281,7 +11268,7 @@ amarela começa a predominar.
 293
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 445  Quais as principais pragas e doenças do maracujá­doce?
 
 A  principal  doença  do 
@@ -11325,7 +11312,7 @@ mais isolados que estejam, acabam adquirindo a doença.
 294
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 Geralmente, as doenças causadas por fitobactérias são de difícil 
 controle. É praticamente impossível curar uma planta infectada com 
 bactérias fitopatogênicas, pois não há produtos químicos capazes de 
@@ -11349,9 +11336,9 @@ promissora contra a bacteriose.
 295
 
 
- 500pr_pgnumber296
-
  500pr_pgnumber297
+
+ 500pr_pgnumber298
 28 Maracujá para 
 
 Fins Ornamentais
@@ -11363,7 +11350,7 @@ Keize Pereira Junqueira
 Fábio Gelape Faleiro
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 447 
 
 Quando surgiu o cultivo do maracujá como planta orna­
@@ -11407,7 +11394,7 @@ cultivados com duplo propósito: podem ser encontrados em quin-
 298
 
 
- 500pr_pgnumber299
+ 500pr_pgnumber300
 tais, cobrindo pérgulas e caramanchões, ou formando cercas-vivas, 
 com  fins  ornamentais  ou  para  sombreamento,  mas  também  para 
 produção de frutos para consumo doméstico.
@@ -11450,7 +11437,7 @@ bastante responsivos às podas de formação e regeneração.
 299
 
 
- 500pr_pgnumber300
+ 500pr_pgnumber301
 452  Como se maneja o plantio do maracujá 
 
 ornamental?
@@ -11495,7 +11482,7 @@ devem ser levados para uma câmara de nebulização (ambiente que
 300
 
 
- 500pr_pgnumber301
+ 500pr_pgnumber302
 mantenha a umidade em no mínimo 90%), para evitar a desidrata-
 ção. Em seguida, são cortados em estacas, contendo ao menos uma 
 folha adulta e bem formada.
@@ -11542,7 +11529,7 @@ e também com base na maior resistência a pragas e doenças.
 301
 
 
- 500pr_pgnumber302
+ 500pr_pgnumber303
 Apesar do maior nível de resistência, a ocorrência de pragas 
 e doenças pode causar danos, dependendo da cultivar. As doenças 
 mais comuns são a bacteriose e a antracnose. As principais pragas 
@@ -11590,7 +11577,7 @@ formam cortinas volumosas que trazem uma sensação de frescor.
 302
 
 
- 500pr_pgnumber303
+ 500pr_pgnumber304
 Quando  conduzidas  em  caramanchões,  fornecem  sombre-
 amento  intenso,  além  de  floração  abundante.  As  flores  atraem 
 pássaros  e  insetos,  com  destaque  para  beija-flores  e  borboletas 
@@ -11625,9 +11612,9 @@ php>.
 303
 
 
- 500pr_pgnumber304
-
  500pr_pgnumber305
+
+ 500pr_pgnumber306
 29 Maracujá 
 
 Funcional­medicinal
@@ -11637,7 +11624,7 @@ Ana Maria Costa
 Sonia Maria Costa Celestino
 
 
- 500pr_pgnumber306
+ 500pr_pgnumber307
 459 
 
 O maracujá tem sido usado como planta funcional­medi­
@@ -11688,7 +11675,7 @@ de contribuir na manutenção da saúde e não o de curar doenças,
 306
 
 
- 500pr_pgnumber307
+ 500pr_pgnumber308
 como é o caso dos fitoterápicos. Já a IDR define qual a quantidade de 
 proteína, vitaminas e minerais que deve ser consumida, diariamente, 
 para atender às necessidades nutricionais dos indivíduos sadios.
@@ -11731,7 +11718,7 @@ diárias de um indivíduo adulto, segundo valores de IDR.
 307
 
 
- 500pr_pgnumber308
+ 500pr_pgnumber309
 463 
 
 A polpa do maracujá­azedo (Passiflora edulis) e das demais 
@@ -11778,7 +11765,7 @@ de cuia, com sementes na polpa, dispersas de forma característica.
 308
 
 
- 500pr_pgnumber309
+ 500pr_pgnumber310
 Cada espécie apresenta frutos e folhas com formato e cores pró-
 prias, polpa com propriedade físico-química peculiar e composição 
 nutricional e não nutricional características, sendo essa diversidade 
@@ -11823,7 +11810,7 @@ Já na polpa do maracujá pérola foram encontrados:
 309
 
 
- 500pr_pgnumber310
+ 500pr_pgnumber311
 •  Trans-beta-caroteno.
 •  13 cis-beta-caroteno.
 
@@ -11868,7 +11855,7 @@ cada 100 g de polpa desidratada, aproximadamente:
 310
 
 
- 500pr_pgnumber311
+ 500pr_pgnumber312
 •  1,55 g sacarose.
 •  0,6 g de glicose.
 •  6 g de frutose.
@@ -11911,7 +11898,7 @@ níveis sanguíneos normais de glicose e de colesterol. Essa alegação
 311
 
 
- 500pr_pgnumber312
+ 500pr_pgnumber313
 pode ser considerada desde que a porção do produto pronto para 
 consumo forneça no mínimo 3 g de fibras se o alimento for sólido 
 ou 1,5 g de fibras se o alimento for líquido. Os estudos com farinha 
@@ -11958,7 +11945,7 @@ tos benéficos para a saúde, como o ácido ascórbico, o betacaroteno
 312
 
 
- 500pr_pgnumber313
+ 500pr_pgnumber314
 e os flavonoides. Apresentam propriedades antioxidantes e podem 
 ser  considerados  fonte  de  ácidos  graxos  poli-insaturados  da  série 
 ômega  6.  São  óleos  que,  em  decorrência  da  sua  composição, 
@@ -12001,7 +11988,7 @@ insaturados.
 313
 
 
- 500pr_pgnumber314
+ 500pr_pgnumber315
 Referências
 
 ANGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA (Brasil). (2015). 
@@ -12012,7 +11999,7 @@ ais+e+ou+de+Saude/Alegacoes+de+propriedade+funcional+aprovadas>.
 Acesso em: 8 jul. 2015.
 
 
- 500pr_pgnumber315
+ 500pr_pgnumber316
 30 Arranjos Produtivos 
 
 Locais de Maracujá
@@ -12023,7 +12010,7 @@ Daniel Trento do Nascimento
 André Luis Bonnet Alvarenga
 
 
- 500pr_pgnumber316
+ 500pr_pgnumber317
 473  O que significa arranjo produtivo local (APL)?
 
 O termo arranjo produtivo local (APL) é conjunção de empresas, 
@@ -12064,7 +12051,7 @@ mento local.
 316
 
 
- 500pr_pgnumber317
+ 500pr_pgnumber318
 Assim, novos atores vão sendo inseridos no sistema de produ-
 ção, com a visão de articular atores/parceiros para somar forças na 
 solução dos problemas e atingir objetivos comuns. Mesmo sendo 
@@ -12110,7 +12097,7 @@ riência desenvolvida no Estado do Rio de Janeiro foi o resgate da
 317
 
 
- 500pr_pgnumber318
+ 500pr_pgnumber319
 credibilidade dos técnicos e pro-
 dutores  em  relação  ao  cultivo 
 do maracujá, ajudando inclusive 
@@ -12155,7 +12142,7 @@ onde a inovação tecnológica tem servido de base para alavancar o
 318
 
 
- 500pr_pgnumber319
+ 500pr_pgnumber320
 desenvolvimento de um arranjo produtivo local, que antes estava 
 desarticulado  e  com  pouca  interação  e  cooperação  entre  seus 
 agentes.
@@ -12198,7 +12185,7 @@ e compromisso das pessoas e atores. Com isso, quando se diz que
 319
 
 
- 500pr_pgnumber320
+ 500pr_pgnumber321
 uma das principais barreiras à inovação é o horizonte de curto prazo 
 das  empresas,  conta  também  como  fator  limitante  a  abordagem 
 pontual para um produto ou projeto específico, sem privilegiar um 
@@ -12246,7 +12233,7 @@ de novos mercados.
 320
 
 
- 500pr_pgnumber321
+ 500pr_pgnumber322
 483 
 
 Qual o papel de um APL na solução de problemas técnicos 
@@ -12294,7 +12281,7 @@ produção e da redução momentânea da demanda.
 321
 
 
- 500pr_pgnumber322
+ 500pr_pgnumber323
 Na  maioria  das  vezes,  não  há  justificativa  para  essa  queda 
 de preços, pois o mercado para fruta in natura e a indústria ainda 
 tem demanda suficiente para absorver a produção. O que ocorre 
@@ -12312,7 +12299,7 @@ produtores e ainda não dispõem de estrutura ou de cultura para o
 associativismo e o cooperativismo.
 
 
- 500pr_pgnumber323
+ 500pr_pgnumber324
 31 Associativismo e 
 
 Cooperativismo e sua 
@@ -12322,7 +12309,7 @@ Produtiva do Maracujá
 Luciano Mansor de Mattos
 
 
- 500pr_pgnumber324
+ 500pr_pgnumber325
 485  O que é uma associação e associativismo?
 
 De  acordo  com  o  Código  Civil  Brasileiro  (BRASIL,  2002),  o 
@@ -12366,7 +12353,7 @@ o certificado de Oscip.
 324
 
 
- 500pr_pgnumber325
+ 500pr_pgnumber326
 diferenciar a forma jurídica de cada tipo de associação são os obje-
 tivos que se pretendem alcançar.
 
@@ -12411,7 +12398,7 @@ para promover atividades produtivas, defesa de interesses comuns
 325
 
 
- 500pr_pgnumber326
+ 500pr_pgnumber327
 e representação política), as que atuam na defesa dos direitos das 
 pessoas (representam os interesses de distintas causas sociais), as que 
 representam classes específicas de trabalhadores e/ou empresários 
@@ -12456,7 +12443,7 @@ sócios e manter sua autonomia.
 326
 
 
- 500pr_pgnumber327
+ 500pr_pgnumber328
 Princípio  da  educação,  da  formação  e  da  informação  – 
 As  associações  devem  proporcionar  educação  e  formação  aos 
 sócios, dirigentes eleitos e administradores, de modo a contribuir, 
@@ -12500,7 +12487,7 @@ sobre  legalização,  e  outro  grupo  para  se  responsabilizar  sobre
 327
 
 
- 500pr_pgnumber328
+ 500pr_pgnumber329
 estudos  de  viabilidade  econômica  e  demanda  de  infraestrutura  e 
 recursos financeiros.
 
@@ -12550,7 +12537,7 @@ equipamentos, contratação de funcionários e contadores, abertura
 328
 
 
- 500pr_pgnumber329
+ 500pr_pgnumber330
 de conta bancária, retirada de licenças e alvarás, e outras eventuais 
 exigências locais.
 
@@ -12599,7 +12586,7 @@ ro máximo.
 329
 
 
- 500pr_pgnumber330
+ 500pr_pgnumber331
 •  Limitação do valor da soma de quotas do Capital Social que 
 
 cada sócio poderá tomar.
@@ -12653,7 +12640,7 @@ melhores condições em relação àquelas que os indivíduos teriam
 330
 
 
- 500pr_pgnumber331
+ 500pr_pgnumber332
 isoladamente  para a realização dos seus objetivos. Portanto,  uma 
 associação tem como finalidade a defesa e/ou a promoção dos inte-
 resses comuns das pessoas físicas e/ou jurídicas que a constituíram 
@@ -12698,7 +12685,7 @@ pessoa humana e a integração social dos cidadãos.
 331
 
 
- 500pr_pgnumber332
+ 500pr_pgnumber333
 Cooperativas  de  consumo  –  Com  foco  no  abastecimento, 
 compram  bens  de  consumo  e  os  revendem  a  seus  associados  a 
 preços mais baratos que os praticados no mercado. Praticamente, 
@@ -12744,7 +12731,7 @@ Passo 1 – Constituir comissão organizadora da cooperativa
 332
 
 
- 500pr_pgnumber333
+ 500pr_pgnumber334
 deve  ser  publicado  um  edital  de  convocação  (assinado  por  um 
 representante da comissão) para constituição desta, com no mínimo, 
 10  dias  de  antecedência,  em  pelo  menos  num  jornal  de  grande 
@@ -12793,7 +12780,7 @@ Estadual (OCE), será efetuar a requisição de registro da cooperativa
 333
 
 
- 500pr_pgnumber334
+ 500pr_pgnumber335
 na Junta Comercial do seu Estado, sendo demandados os seguintes 
 documentos:
 
@@ -12856,7 +12843,7 @@ documentos:
 334
 
 
- 500pr_pgnumber335
+ 500pr_pgnumber336
 •  Ficha Cadastral fornecida pela OCE, preenchida e assinada.
 •  Certidão  de  arquivamento  dos  documentos  de  sua 
 
@@ -12906,7 +12893,7 @@ atividade comercial em média ou grande escala, de forma coletiva.
 335
 
 
- 500pr_pgnumber336
+ 500pr_pgnumber337
 Nas cooperativas, seus cooperados são os donos do patrimônio. 
 Uma cooperativa de trabalho beneficia os próprios cooperados, e o 
 mesmo também ocorre numa cooperativa de produção. As receitas 
@@ -12951,7 +12938,7 @@ que regem o modelo em nosso País e que embasam sua organização.
 336
 
 
- 500pr_pgnumber337
+ 500pr_pgnumber338
 Em  algumas  Unidades  da  Federação,  podem-se  encontrar 
 legislação  específica  para  atender  uma  ou  outra  especificidade 
 estadual, mas qualquer que seja a legislação deverá estar subordinada 
@@ -12997,7 +12984,7 @@ associativismo rural, participando:
 337
 
 
- 500pr_pgnumber338
+ 500pr_pgnumber339
 •  Da melhoria da qualidade de vida das comunidades rurais 
 
 e urbanas.
@@ -13043,7 +13030,7 @@ Brasileiro de Cooperativismo. A entidade veio substituir a Associação
 338
 
 
- 500pr_pgnumber339
+ 500pr_pgnumber340
 Brasileira  de  Cooperativas  (Abcoop)  e  a  União  Nacional  de 
 Cooperativas (Unasco).
 
@@ -13089,7 +13076,7 @@ atenderá aos filiados em suas dificuldades.
 339
 
 
- 500pr_pgnumber340
+ 500pr_pgnumber341
 499 
 
 Uma  associação  ou  cooperativa  é  legível  para  concorrer 
@@ -13134,47 +13121,4 @@ consumidores.
 
 340
 
-
- 500pr_pgnumber341
-Referências
-BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília, DF, 
-1988. Disponível em: <http://www.planalto.gov.br/ccivil_03/constituicao/
-constituicaocompilado.htm>. Acesso em: 21 set. 2016.
-
-BRASIL. Lei no 10.406, de 10 de janeiro de 2002. Institui o Código Civil. 
-Brasília, DF, 2002. Disponível em: <http://www.planalto.gov.br/ccivil_03/
-leis/2002/L10406.htm>. Acesso em: 21 set. 2016.
-
-341
-
-
- 500pr_pgnumber342
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, entre em contato com o Serviço de
-Atendimento ao Cidadão no link:  www.embrapa.br/fale-conosco/sac/
-
-
- 500pr_pgnumber343
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber344
-
- 500pr_pgnumber345
-
- 500pr_pgnumber346
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber347
 

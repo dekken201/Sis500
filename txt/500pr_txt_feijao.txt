@@ -1,18 +1,5 @@
 
- 500pr_pgnumber015
-1 
-
- 
-
-O Feijão na 
-
-  Alimentação Humana
-
-Michela Okada Chaves
-Priscila Zaczuk Bassinello
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  O que é um feijão? 
 
 Feijão é um vegetal que pertence à família das leguminosas. Todas 
@@ -66,7 +53,7 @@ Cada 100 g de feijão cru contêm, em média:
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 4 
 
 Como é classificado o feijão no Brasil?
@@ -108,7 +95,7 @@ amassados, danificados, imaturos, quebrados e partidos (bandinha).
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 7  O que é “bandinha de feijão”?
 
 Esse termo é popularmente utilizado para classificar os grãos 
@@ -150,7 +137,7 @@ taninos (compostos fenólicos) e, portanto, a sua qualidade proteica
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 fibras e minerais, também podem variar conforme o tipo de feijão. 
 Essa  variação  nos  macronutrientes  pode  ser  menos  expressiva 
 do  que  nos  micronutrientes.  Por  isso,  todos  os  feijões  podem  ser 
@@ -193,7 +180,7 @@ enzimáticas  (responsáveis  pela  digestão  de  proteínas).  A  lectina  é
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 uma proteína que tem a capacidade de aglutinar as hemácias (formar 
 coágulos)  de  muitos  animais,  incluindo  as  do  ser  humano.  Esses 
 fatores antinutricionais são inativados ou atenuados pelo cozimento 
@@ -233,7 +220,7 @@ dos gases intestinais.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 13  O que é feijão biofortificado?
 
 O  feijão  biofortificado  é  aquele 
@@ -272,7 +259,7 @@ minerais, que migram dos grãos para a água de cocção durante o
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 processo. Neste caso, o consumo dos grãos cozidos junto com o 
 caldo  retém  esses  minerais  perdidos  e  garante  o  aproveitamento 
 mais completo dos nutrientes do alimento.
@@ -314,7 +301,7 @@ e umidade durante o armazenamento.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 A cor do grão é um atributo externo de grande importância na 
 aceitação comercial de uma cultivar, tanto no mercado atacadista 
 (onde  pode  influenciar  o  preço  do  produto),  como  no  varejista. 
@@ -332,9 +319,9 @@ critério de escolha a coloração do tegumento do grão.
 23
 
 
- 500pr_pgnumber024
-
  500pr_pgnumber025
+
+ 500pr_pgnumber026
 2 
 
 Clima
@@ -344,7 +331,7 @@ Agostinho Dirceu Didonet
 Alessandra da Cunha Morais
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 17 
 
 Quais são os elementos climáticos que mais influenciam a 
@@ -386,7 +373,7 @@ crescimento  vegetativo  exagerado,  autossombreamento,  aumento
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 no  tamanho  do  entrenó,  maturação  desuniforme  com  vagens 
 maduras e vagens em formação na mesma planta, grãos com menor 
 massa seca e distribuição desuniforme das vagens na planta. Além 
@@ -429,7 +416,7 @@ autossombreamento na cultura.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 23 
 
 A soma térmica pode ser utilizada na cultura do feijoeiro 
@@ -474,7 +461,7 @@ reprodutiva.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 27 
 
 Do  ponto  de  vista  agroclimático,  é  possível  minimizar  o 
@@ -516,7 +503,7 @@ que 0,60, a cultura do feijoeiro está exposta a baixo risco climático.
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 30 
 
 Qual  é  a  importância  do  zoneamento  agroclimático  do 
@@ -538,7 +525,7 @@ climático e da tecnologia empregada.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 3 
 
 Fisiologia
@@ -548,7 +535,7 @@ Agostinho Dirceu Didonet
 Milene Alves de Figueiredo Carvalho
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 31 
 
 Qual é a diferença entre potencial de rendimento e rendi­
@@ -594,7 +581,7 @@ nos grãos. Deve-se manejar a cultura de modo a permitir o acúmulo
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 máximo de biomassa e o “desvio” da maior proporção possível desta 
 biomassa para os grãos. Por exemplo, se o acúmulo de biomassa total 
 é limitado por algum fator (água, luz, nutrientes, etc.), seguramente 
@@ -638,7 +625,7 @@ mais o percentual de abortamento de flores, de vagens e de grãos. De
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 maneira geral, a planta autorregula o número de vagens e de grãos 
 que  ela  pode  ter  basicamente  pela  disponibilidade  de  nutrientes 
 e, principalmente, pela disponibilidade de carboidratos. Assim, se 
@@ -683,7 +670,7 @@ A ocorrência de grãos mais leves significa que houve falta de
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 timas vagens formadas, provenientes das 
 últimas floradas, pelo fato de as primeiras 
 vagens  formadas  serem  abastecidas  de 
@@ -727,7 +714,7 @@ em grãos.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 39 
 
 Pode­se  manejar  o  ambiente  para  potencializar  o  rendi­
@@ -772,7 +759,7 @@ momento. Por esse motivo, quanto maior for o tempo de duração da
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 41 
 
 Por que a fotossíntese sempre é o principal fator a ser maxi­
@@ -817,7 +804,7 @@ nessa fase, haverá redução do potencial de rendimento de grãos, e
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 nada poderá ser feito para aumentá-lo. No máximo, pode-se manter 
 esse potencial, sem jamais aumentá-lo.
 
@@ -886,7 +873,7 @@ imediatamente acima não mais se tocam.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 Para a classificação da fase vegetativa, são consideradas folhas 
 do  caule  principal.  Plantas  de  feijão  em  um  dado  campo  e/ou 
 parcela não estarão na mesma fase de desenvolvimento ao mesmo 
@@ -927,7 +914,7 @@ emissão de novos nós, ramos e folhas.
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 47 
 
 Quais são os diferentes tipos de hábitos de crescimento do 
@@ -958,7 +945,7 @@ I, II e III.
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 4 
 
  
@@ -975,7 +962,7 @@ Cleber Morais Guimarães
 José Aloísio Alves Moreira
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 48 
 
 Quais métodos de preparo do solo são mais empregados 
@@ -1023,7 +1010,7 @@ preparo profundo do solo.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 50 
 
 O que ocorre quando o preparo é feito com o solo muito 
@@ -1068,7 +1055,7 @@ e mais de 130 kg de massa sobre cada disco, respectivamente.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 Um tipo de preparo consiste de uma aração com arado de disco 
 para revirar a leiva do solo e incorporar restos de culturas e plantas 
 daninhas,  seguida  de  duas  gradagens  leves,  uma  imediatamente 
@@ -1112,7 +1099,7 @@ compactação  localiza-se  superficialmente,  porque  as  grades  têm
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 baixa  capacidade  de  penetrar  no  solo  em  relação  aos  arados. 
 A soleira compactada impede a infiltração de água no perfil do solo 
 e dificulta ou impede o desenvolvimento radicular do feijão abaixo 
@@ -1156,7 +1143,7 @@ vegetal ao solo, visando a sua decomposição. A gradagem deve ser
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 realizada logo após a colheita ou com antecedência de 10 a 15 dias 
 em relação à aração.
 
@@ -1208,7 +1195,7 @@ processo  de  produção  do  feijoeiro.  Presença  de  torrões  grandes,
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 superfície do solo irregular, ajuntamento de restos vegetais e incor-
 poração  deficiente  do  material  vegetal  são  fatores  que  podem 
 afetar  a  operação  de  semeadura  mecanizada,  comprometendo  a 
@@ -1252,7 +1239,7 @@ O  arado  escarificador  rompe  o  solo  numa  profundidade  de
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 superfície, o que auxilia na proteção do solo contra erosões. Além 
 dessa vantagem, o escarificador permite o preparo de solo seco e 
 proporciona maior rendimento operacional e maior economia de 
@@ -1297,7 +1284,7 @@ experiências em que se alcançam altas produtividades. Entretanto, o
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 cultivo do feijoeiro no SPD pode ser comprometido se o solo estiver 
 compactado, for pobre em nutrientes e não houver disponibilidade 
 de água, o que prejudica o crescimento radicular.
@@ -1343,7 +1330,7 @@ sorgo, milho, arroz e aveia, entre outras.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 70 
 
 A palhada do feijoeiro pode provocar mudanças nas pro­
@@ -1388,7 +1375,7 @@ o volume de macroporos e, consequentemente, armazenam menos
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 água nesta camada revolvida do que em outra camada idêntica sem 
 revolvimento.
 
@@ -1433,7 +1420,7 @@ o cultivo.
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 76  No SPD em condução, o calcário precisa ser incorporado?
 
 Não, desde que o solo da área escolhida para condução do 
@@ -1483,7 +1470,7 @@ da maior limpeza dos grãos.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 79 
 
 Por  quanto  tempo  a  palhada  deve  ficar  na  superfície  do 
@@ -1528,7 +1515,7 @@ os de gramíneas.
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 81 
 
 Qual é a época ideal para semear a cultura de cobertura 
@@ -1575,7 +1562,7 @@ mostram que a deficiência de nitrogênio, que pode ocorrer no início
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 do desenvolvimento do feijoeiro, com baixos valores de saturação 
 por bases (ao redor de 35%), não ocorre quando a saturação por 
 bases situa-se na faixa de 60% a 75%.
@@ -1618,7 +1605,7 @@ adubo e de semente.
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 88 
 
 Qual deve ser a velocidade ideal do trator para uma boa 
@@ -1664,7 +1651,7 @@ pode  ser  diferente  se  não  estiverem  bem  regulados  ou  ajustados,
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 principalmente o de disco perfurado. O dosador de disco perfurado 
 é mais sensível à variação de tamanho e forma das sementes que o 
 dosador pneumático. Entretanto, com boa preparação da máquina, 
@@ -1706,7 +1693,7 @@ penetrar no solo.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 95 
 
 Quais são os problemas provocados por regulagens incor­
@@ -1744,7 +1731,7 @@ afetam a emergência das plântulas).
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 5 Calagem e Adubação
 
 Nand Kumar Fageria (In memoriam)
@@ -1753,7 +1740,7 @@ Maria da Conceição Santana Carvalho
 Itamar Pereira de Oliveira
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 96 
 
 Em que situações a calagem é recomendada para a cultura 
@@ -1804,7 +1791,7 @@ com o teor de cálcio:
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 •  Magnesiano tem 31%­39% de óxido de cálcio ou 22%­28% 
 
 de cálcio.
@@ -1854,7 +1841,7 @@ abaixo de 5,5. O valor ideal de pH para o desenvolvimento do fei-
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 joeiro situa-se em torno de 
 6,0. Neste nível de pH, to-
 dos os nutrientes essenciais 
@@ -1897,7 +1884,7 @@ baixa separadamente.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 105  Como deve ser realizada a calagem? 
 
 No  sistema  de  plantio  convencional,  o  calcário  deve  ser 
@@ -1937,7 +1924,7 @@ solo, a reação do calcário com o solo é quase completa. Depois de
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 3 meses, mais de 60% do calcário mais fino já reagiu com o solo. 
 Porém, a reação do calcário com o solo ou, em outras palavras, o 
 sucesso da calagem, depende da disponibilidade de água. Sem água 
@@ -1983,7 +1970,7 @@ valor neutralizante, que expressa o grau de finura do calcário e sua
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 reatividade no solo, é calculado em relação ao valor neutralizante 
 do carbonato de cálcio puro tomado como valor 100. Entretanto, 
 considerando-se  que,  quanto  maior  for  o  valor  do  PRNT,  melhor 
@@ -2029,7 +2016,7 @@ entre uma das seguintes fórmulas:
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 NC = Al x 2 x (100/PRNT)  
 
 ou 
@@ -2080,7 +2067,7 @@ Correlaciona-se esse pH com o pH encontrado em uma curva de
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 incubação construída com doses crescentes de carbonato de cálcio 
 ou hidróxido de cálcio. Verifica-se a quantidade de carbonato que 
 equivalha ao calcário de uso agrícola que eleva o pH a 6,0.
@@ -2126,7 +2113,7 @@ molibdênio.
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 118 
 
 Quais são as quantidades de nutrientes exportadas pelos 
@@ -2178,7 +2165,7 @@ além de formar alguns componentes importantes no grão, como os
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 aminoácidos e as proteínas. As plantas de feijoeiro devem apresentar 
 um vigoroso crescimento vegetativo para expressar o seu potencial 
 produtivo.
@@ -2225,7 +2212,7 @@ de irrigação próprio para esse fim.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 •  Pulverização:  distribuição  de  adubo  utilizando­se  fontes 
 nitrogenadas solúveis em água por meio de equipamentos 
 de pulverização factíveis.
@@ -2269,7 +2256,7 @@ do preço do produto.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 126 
 
 No sistema de plantio direto, podem ocorrer sintomas de 
@@ -2312,7 +2299,7 @@ fontes solúveis são as mais indicadas, como os adubos formulados
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 comerciais,  o  fosfato  monoamônico  (MAP),  o  fosfato  diamônico 
 (DAP) e os superfosfatos triplo e simples.
 
@@ -2355,7 +2342,7 @@ tássio (60% de K2O).
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 133 
 
 Quando e como deve ser feita a adubação potássica em 
@@ -2399,7 +2386,7 @@ subsequente (principalmente o nitrogênio).
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 136 
 
 Como é feita a coleta de material para a análise foliar do 
@@ -2449,7 +2436,7 @@ brotos exibem murchamento. As vagens ficam deformadas.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 •  Magnésio: amarelecimento fraco, generalizado, com nervu­
 ras verdes, que progride das folhas mais velhas para as mais 
 novas.
@@ -2499,7 +2486,7 @@ lança.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 140  O feijoeiro responde à adubação foliar?
 
 Sim.  A  adubação  com  micronutrientes  via  foliar  pode  ser 
@@ -2514,7 +2501,7 @@ concentrações de sal.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 6 Cultivares
 
 Helton Santos Pereira
@@ -2525,7 +2512,7 @@ Maria José Del Peloso
 Geraldo Estevam de Souza Carneiro
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 141 
 
 Que  aspectos  devem  ser  considerados  na  escolha  da 
@@ -2572,7 +2559,7 @@ de registro das cultivares no site1).
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 142 
 
 Quais são as principais cultivares de feijão desenvolvidas 
@@ -2797,7 +2784,7 @@ Carioca
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 Tabela 1. Continuação.
 
 Carioca
@@ -3047,7 +3034,7 @@ S
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 Tabela 2. Continuação.
 
 MR
@@ -3175,7 +3162,7 @@ patógeno em novas regiões.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 Todos  esses  fatores  contribuem  para  o  aumento  da  pressão 
 de  seleção  de  novas  raças  de  patógenos  e,  consequentemente, 
 aumentam as chances de quebra de resistência em novas cultivares.
@@ -3311,7 +3298,7 @@ Continua...
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 Tabela 3. Continuação.
 
 Cultivar
@@ -3783,7 +3770,7 @@ TO RO AC
 Continua...
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 Tabela 3. Continuação.
 
 Cultivar
@@ -4375,7 +4362,7 @@ PI
 Continua...
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 Tabela 4. Continuação.
 
 Cultivar
@@ -4617,7 +4604,7 @@ de armazenamento.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 149  A Embrapa desenvolve cultivares para agricultura familiar?
 
 Sim.  Todas  as  cultivares  da  Embrapa  são  testadas  nas  três 
@@ -4656,7 +4643,7 @@ legalmente.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 151  Por que utilizar cultivares de feijão melhoradas?
 
 As  cultivares  melhoradas  são  testadas  junto  com  as 
@@ -4697,7 +4684,7 @@ obtentoras.  No  caso  do  feijoeiro-comum,  a  grande  diversidade
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 de  ambientes  em  que  a  espécie  é  cultivada  faz  com  que  a  não 
 adaptação  em  alguns  ambientes  específicos  seja  um  fato  muito 
 comum  e,  dessa  forma,  deve-se  utilizar  as  cultivares  apenas  nos 
@@ -4707,14 +4694,14 @@ recomendadas.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 7 Consórcio
 
 Dino Magalhães Soares
 Tomás de Aquino Portes
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 153  Desde quando o consórcio é utilizado no Brasil?
 
 O cultivo em consórcio é empregado, na prática, no Brasil, 
@@ -4757,7 +4744,7 @@ cultivos:
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 •  Cultivos  mistos:  semeadura  simultânea  de  duas  ou  mais 
 culturas na mesma área, sem organizá-las em fileiras distintas.
 •  Cultivos intercalares: semeadura simultânea de duas ou mais 
@@ -4803,7 +4790,7 @@ outros não.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 Tradicionalmente, o feijão e o milho são semeados na mesma 
 data,  mas  existem  produtores  que  preferem  semear  as  culturas 
 em datas diferentes. Como uma cultura interfere na produtividade 
@@ -4850,7 +4837,7 @@ Q = E x D/10000
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 Em que: 
 Q = quantidade de sementes por metro.
 E = espaçamento, em metros.
@@ -4894,7 +4881,7 @@ deve receber maior atenção quanto à adubação.
 93
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 166 
 
 Como se faz o controle de plantas daninhas em lavouras 
@@ -4936,7 +4923,7 @@ menor perda de água em relação ao plantio solteiro.
 94
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 168 
 
 Há algum resultado de pesquisa sobre cultivo consorciado 
@@ -4981,7 +4968,7 @@ direcionada  para  sementes)  e  melhor  preço  de  comercialização
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 171  O que é o índice de equivalência de área (IEA)?
 
 O  IEA  é  um  índice  utilizado 
@@ -5017,7 +5004,7 @@ produtividade das culturas e não ao aspecto financeiro.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 8 Irrigação
 
 Luís Fernando Stone
@@ -5026,7 +5013,7 @@ Pedro Marques da Silveira
 José Aloísio Alves Moreira
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 173  O que deve ser considerado no cultivo irrigado do feijoeiro?
 
 Para se ter êxito no cultivo irrigado do feijoeiro, é necessário 
@@ -5069,7 +5056,7 @@ e no Espírito Santo.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 176  O que é gestão da irrigação?
 
 A gestão da irrigação compreende estabelecer práticas que 
@@ -5113,7 +5100,7 @@ faixa de 250 mm a 400 mm.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 178 
 
 A utilização dos dados de requerimento de água durante o 
@@ -5157,7 +5144,7 @@ irrigâmetro ou os métodos que combinam o uso de tensiômetro com
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 a curva de retenção da água do solo ou o tanque USWB Classe A 
 com a curva de retenção da água do solo. Todos esses métodos, se 
 bem manejados, são igualmente eficientes no controle da irrigação 
@@ -5199,7 +5186,7 @@ existentes na propriedade agrícola.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 184  Como o irrigâmetro é instalado?
 
 Para  facilitar  o  acompanhamento  diário  do  irrigâmetro 
@@ -5237,7 +5224,7 @@ efetuar cálculos, usar gráficos ou programas computacionais.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 186  De que são constituídos os tensiômetros? 
 
 Os  tensiômetros  são  aparelhos  que 
@@ -5280,7 +5267,7 @@ não ultrapasse a faixa de 30 kPa - 40 kPa.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 189 
 
 O  manejo  da  irrigação  para  o  feijoeiro  no  sistema  de 
@@ -5324,7 +5311,7 @@ tanque USWB Classe A, que pode ser instalado ao lado da área de
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 cultivo, multiplicados pelo coeficiente de cultura, podem estimar a 
 demanda de água para a cultura do feijoeiro.
 
@@ -5370,7 +5357,7 @@ sistema de plantio direto).
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 195 
 
 É verdade que, com a utilização de palhada sobre o solo, é 
@@ -5464,7 +5451,7 @@ Coeficiente de cultura (Kc)
 Continua...
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 Tabela 1. Continuação.
 
 Dias após a 
@@ -5537,7 +5524,7 @@ estações agrometeorológicas convencionais situadas próximas dela.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 199 
 
 Existe outra maneira de calcular a quantidade de água a 
@@ -5581,7 +5568,7 @@ tem sido utilizada a irrigação por sulcos e a subirrigação.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 202 
 
 Que método de irrigação propicia maior produtividade do 
@@ -5626,7 +5613,7 @@ solo a ser irrigado.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 De  modo  geral,  têm-se  empregado  sulcos  espaçados  de 
 0,90 m a 1,00 m, com duas fileiras de plantas entre eles. Em áreas 
 de várzeas, sistematizadas e drenadas, em que o tabuleiro apresenta 
@@ -5664,7 +5651,7 @@ estabelecidos a profundidade e o espaçamento entre os drenos.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 207 
 
 Em que condições o método de aspersão é recomendado 
@@ -5711,7 +5698,7 @@ agroclimatológicas, irrigâmetro) ou na tensiometria.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 210  Como avaliar a distribuição de água no pivô central?
 
 e s t a ç ã o 
@@ -5758,7 +5745,7 @@ de área pelo número de ordem do coletor.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 9 Quimigação
 
 Rogério Faria Vieira
@@ -5766,7 +5753,7 @@ Rogério Faria Vieira
 José Aloísio Alves Moreira
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 213  O que é quimigação? 
 
 Quimigação é a técnica de aplicação de produtos químicos 
@@ -5811,7 +5798,7 @@ aplicação de água de maneira uniforme e à facilidade de manejo.
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 Na irrigação por sulcos, a desuniformidade de distribuição da 
 
 água e do produto químico limita o uso da quimigação.
@@ -5860,7 +5847,7 @@ tradicional de pulverização no caso de alguns poucos herbicidas.
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 A grande maioria dos herbicidas é ineficiente via água de irrigação, 
 especialmente os formulados como solução.
 
@@ -5907,7 +5894,7 @@ mais eficiente quando a doença atinge alta severidade no campo.
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 222 
 
 Existe alguma praga do feijoeiro que possa ser controlada 
@@ -5948,7 +5935,7 @@ com alta solubilidade em água, e o nitrogênio é móvel no solo.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 225 
 
 Há  diferença  de  eficiência  entre  as  diversas  fontes  de 
@@ -5991,7 +5978,7 @@ móvel  no  solo.  Se  o  objetivo  for  aumentar  o  teor  de  fósforo  do
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 solo  a  médio  ou  longo  prazo  e  suprir  as  plantas  com  nitrogênio, 
 a fertigação pode ser uma opção de distribuição do fertilizante na 
 lavoura.
@@ -6033,7 +6020,7 @@ o perigo da concentração salina alta próxima às sementes de feijão.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 229 
 
 Quais  são  as  fontes  de  potássio  mais  adequadas  para  a 
@@ -6075,7 +6062,7 @@ irrigação em recipiente transparente. A observação de precipitado
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 no  fundo  do  recipiente  no  prazo  de  1  a  2  horas  após  a  mistura 
 indica incompatibilidade.
 
@@ -6120,7 +6107,7 @@ agricultores brasileiros, é um risco real para o ambiente, pois pode
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 haver retorno da água (juntamente com o defensivo) para a fonte de 
 captação de água.
 
@@ -6167,7 +6154,7 @@ polipropileno, polietileno, teflon, nylon ou viton.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 •  Utilizar  uma  segunda  válvula  de  retenção  (uma  já  vem 
 instalada  na  adutora)  próxima  ao  ponto  de  injeção  do 
 produto, juntamente com válvulas e drenos.
@@ -6203,7 +6190,7 @@ No entanto, essa influência, em geral, é pequena.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 241 
 
 Como a matéria orgânica do solo influencia os produtos 
@@ -6249,7 +6236,7 @@ e Mg++ originados de carbonatos, bicarbonatos, cloretos e sulfatos.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 A  água  dura  interfere  na  qualidade  da 
 calda de defensivos das seguintes maneiras: 
 1)  muitas  formulações  têm  surfactantes 
@@ -6286,9 +6273,9 @@ de apenas US$ 1,22/ha/ano.
 125
 
 
- 500pr_pgnumber126
-
  500pr_pgnumber127
+
+ 500pr_pgnumber128
 10 Doenças com 
 
 Origem no Solo
@@ -6299,7 +6286,7 @@ Adriane Wendland
 Jefferson Luis da Silva Costa
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 245 
 
 Quais são as principais doenças causadas por fungos que 
@@ -6338,7 +6325,7 @@ impossíveis de serem erradicadas.
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 247  Apenas o feijoeiro­comum é atacado por estes patógenos?
 
 Não.  Quase  todas  as  espécies  (S.  sclerotiorum,  R.  solani, 
@@ -6380,7 +6367,7 @@ ocorrência de ambiente favorável às doenças. A duração da rotação
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 quantidade de inóculo disponível no solo e o uso de outras práticas 
 de controle de doenças.
 
@@ -6427,7 +6414,7 @@ de-fusário preferem temperaturas amenas (18 ºC – 20 ºC) para se
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 desenvolverem.  A  mela,  a  murcha-de-esclerócio  e  a  podridão-
 cinzenta-da-haste são predominantes em temperaturas quentes.
 
@@ -6473,7 +6460,7 @@ que  se  expandem  de  uma  lesão  em  direção  a  partes
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 sadias  da  mesma  planta  ou  a  plantas  vizinhas,  fato  visto 
 principalmente nas primeiras horas do dia. A teia micélica 
 pode impedir a desfolha total porque ela interliga as folhas 
@@ -6515,7 +6502,7 @@ manejo  da  mela  no  feijoeiro,  como  o  uso  de  sementes  sadias  e
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 tratadas, a nutrição adequada de plantas e a rotação de culturas. Não 
 há, atualmente, fungicidas registrados no Ministério da Agricultura, 
 Pecuária e Abastecimento para o controle dessa doença.
@@ -6558,7 +6545,7 @@ produtividade da lavoura.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 255 
 
 Que condições ambientais favorecem a podridão­radicular­
@@ -6604,7 +6591,7 @@ o cultivador, deslocar o solo para a base da planta, estimulando
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 seu  enraizamento  lateral  acima  dos  tecidos  lesionados.  A 
 descompactação  do  solo  com  subsolador  também  reduz  a 
 severidade da doença. Em clima tropical, espécies de braquiária 
@@ -6645,7 +6632,7 @@ aumentando a infestação da área a cada ciclo da doença.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 258  Em que fase da cultura o mofo­branco ocorre?
 
 Na grande maioria dos casos, a doença se manifesta a partir da 
@@ -6688,7 +6675,7 @@ de manejo integrado da doença.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 •  Proibição do tráfego de pessoas e equipamentos (tratores, 
 semeadoras, colhedoras e implementos em geral) proveni-
 entes de áreas infestadas.
@@ -6733,7 +6720,7 @@ de apotécios na superfície do solo. Para conseguir uma palhada que
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 cubra totalmente o solo, coberturas mortas obtidas de palhada de 
 braquiária e Panicum spp. têm sido mais eficientes que as obtidas das 
 culturas de milheto, milho e sorgo no Cerrado. Sob clima subtropical 
@@ -6779,7 +6766,7 @@ sp.), falsa-serralha (Emilia sonchifolia), amendoim-bravo (Euphorbia
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 heterophyIla),  corda-de-viola  (Ipomoea  sp.),  erva-quente  (Borreria 
 alata) e colza (Brassica napus).
 
@@ -6823,7 +6810,7 @@ da cultura, indicando a necessidade de irrigação. O mapeamento
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 das  áreas  quanto  a  sua  estrutura  física  também  é  recomendado 
 para  evitar  a  compactação,  que  favorece  o  empoçamento  e  as 
 dificuldades à infiltração de água no solo.
@@ -6868,7 +6855,7 @@ condições climáticas.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 267 
 
 A  irrigação  de  lavouras  com  mofo­branco  deve  ser 
@@ -6913,7 +6900,7 @@ resistência  a  vários  desses  mecanismos  de  ataque).  Variedades
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 consideradas  resistentes  em  outros  países  se  comportaram  como 
 suscetíveis no Brasil, principalmente em áreas altamente infestadas.
 A prevalência de condições favoráveis à doença no centro-sul 
@@ -6954,7 +6941,7 @@ nídios do fungo.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 271 
 
 Além do ambiente, que condições favorecem a murcha­de­
@@ -7002,7 +6989,7 @@ gramíneas  como  braquiárias  e  milheto,  o  aumento  da  atividade
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 microbiana no solo e a descompactação e o revolvimento do solo 
 com  arado  de  aiveca.  Da  mesma  forma  como  é  recomendado 
 para  controle  do  mofo-branco,  este  conjunto  de  medidas  deve 
@@ -7048,7 +7035,7 @@ solos compactados.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 275 
 
 Como pode ser feito o controle da podridão­cinzenta­do­ 
@@ -7093,7 +7080,7 @@ rolfsii incluem o emprego de sementes sadias, a aplicação de fun-
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 gicidas na semente e no sul-
 co de semeadura e a adoção 
 de práticas culturais como a 
@@ -7137,7 +7124,7 @@ da-raiz.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 279  Como pode ser feito o manejo do tombamento no feijoeiro?
 
 As recomendações para manejo dessa doença (causada por 
@@ -7180,7 +7167,7 @@ solani.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 281 
 
 Quais  são  as  medidas  recomendadas  para  controlar  os 
@@ -7228,7 +7215,7 @@ produção do feijoeiro-comum.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 283 
 
 O que é o controle biológico de doenças e qual é a sua 
@@ -7272,7 +7259,7 @@ solo úmido e parasitar um maior número de escleródios.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 Cada microrganismo exige condições ambientais específicas 
 para que tenha os efeitos esperados, como temperatura e umidade de 
 solo adequadas. Formulações também devem ter alta concentração 
@@ -7315,7 +7302,7 @@ os nutrientes, reduzindo a eficiência do uso de adubos.
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 287 
 
 É possível estimar a qualidade sanitária 
@@ -7337,9 +7324,9 @@ rentes patógenos em sementes.
 151
 
 
- 500pr_pgnumber152
-
  500pr_pgnumber153
+
+ 500pr_pgnumber154
 11  Doenças da 
 
 Parte Aérea
@@ -7354,7 +7341,7 @@ Aloísio Sartorato
 Carlos Agustín Rava Seijas (in memoriam)
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 288 
 
 Quais são as doenças fúngicas da parte aérea mais comuns 
@@ -7397,7 +7384,7 @@ cotilédones.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 290  Como se faz o controle da antracnose?
 
 O  controle  da  antrac-
@@ -7442,7 +7429,7 @@ lesões alongadas de cor castanho-escura.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 Em condições de alta umidade, pode ser observada, na face 
 inferior  das  folhas,  nas  vagens,  nos  caules  e  nos  pecíolos,  uma 
 eflorescência de cor cinza-escura a negra formada pela frutificação 
@@ -7482,7 +7469,7 @@ e controle da época de semeadura.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 295  Quais são os principais sintomas da sarna no feijoeiro­comum?
 
 A doença começa com uma descoloração da base do caule, 
@@ -7525,7 +7512,7 @@ não se conhecem as medidas de controle. Entretanto, como o fungo
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 pode ser transmitido pelas sementes, recomenda-se o emprego de 
 sementes de boa qualidade e a não semeadura do feijão em áreas 
 de plantio direto com restos culturais de milho e sorgo, onde tenha 
@@ -7575,7 +7562,7 @@ pequenas manchas de cor pardo-avermelhada rodeadas por um
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 bordo  mais  escuro  e  que  crescem  lentamente,  formando  anéis 
 concêntricos. Posteriormente, tornam-se quebradiças, e o centro 
 da lesão se desprende.
@@ -7623,7 +7610,7 @@ enrugadas ou simplesmente não apresentar sintomas visíveis.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 305 
 
 Como pode ser feito o controle do crestamento­bacteriano­
@@ -7674,7 +7661,7 @@ efetiva,  porque  o  patógeno  sobrevive  em  restos  de  cultura.  Além
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 disso,  devem  ser  empregadas  sementes  de  cultivares  resistentes, 
 de  reconhecida  sanidade,  produzidas  por  instituições  idôneas  e 
 provenientes de lavouras onde não tenha sido constatada a doença.
@@ -7693,9 +7680,9 @@ Pecuária e Abastecimento2.
 161
 
 
- 500pr_pgnumber162
-
  500pr_pgnumber163
+
+ 500pr_pgnumber164
 12 
 
  
@@ -7710,7 +7697,7 @@ Flávia Rabelo Barbosa Moreira
 Massaru Yokoyama
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 309 
 
 Em que fase da cultura do feijoeiro pode ocorrer ataque 
@@ -7731,7 +7718,7 @@ R7 – Formação das vagens; R8 – Enchimento das vagens; R9 – Maturação.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 310  Quais são as principais pragas que atacam o feijoeiro no Brasil?
 
 • Pragas das sementes, plântulas e raízes:
@@ -7780,7 +7767,7 @@ Caruncho (Acanthoscelides obtectus e Zabrotes subfasciatus)
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 311  Em que consiste o manejo integrado de pragas (MIP)?
 
 Esta é uma prática que busca o controle das pragas de forma 
@@ -7823,7 +7810,7 @@ cultivo:
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 Áreas com até 30 ha: 8 amostragens.
 Áreas com até 100 ha: 10 amostragens.
 No caso de áreas maiores que 100 ha, as parcelas deverão ser 
@@ -7866,7 +7853,7 @@ tamanho da área de plantio, conforme descrito anteriormente. Cada
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 ponto amostrado deve possuir 1 m de largura, 1 m de comprimento 
 e 5 cm de profundidade.
 
@@ -7914,7 +7901,7 @@ em 1 m2/ponto de amostragem.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 Após o estádio de 3 a 4 folhas trifolioladas, as amostragens 
 devem  ser  realizadas  com  o  pano  de  batida  branco,  com  1  m 
 de comprimento por 0,5 m de largura, com um suporte de cada 
@@ -7963,7 +7950,7 @@ nas flores, coletando 25 flores/ponto de amostragem.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 321 
 
 Quais são os danos provocados pelas principais pragas do 
@@ -8036,7 +8023,7 @@ Continua...
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 Tabela 1. Continuação.
 
 Pragas das folhas
@@ -8124,7 +8111,7 @@ Continua...
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 Tabela 1. Continuação.
 
 Pragas das hastes e axilas
@@ -8193,7 +8180,7 @@ principais pragas do feijoeiro estão listados na Tabela 2.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 Tabela 2. Período de ocorrência de pragas. 
 
 Praga ou dano
@@ -8287,7 +8274,7 @@ Continua...
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 Tabela 2. Continuação.
 
 Praga ou dano
@@ -8370,7 +8357,7 @@ de estiagem no início de desenvolvimento da cultura. Plantas com
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 mais de 20 dias raramente são atacadas, e os ataques normalmente 
 ocorrem em padrões irregulares. A manutenção da cultura livre de 
 plantas daninhas, a incorporação dos restos culturais e a irrigação 
@@ -8413,7 +8400,7 @@ atingir a praga.
 175
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 327 
 
 Qual estádio é considerado crítico no caso de ataque por 
@@ -8454,7 +8441,7 @@ cultivar.
 176
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 330  É possível identificar a olho nu um adulto da mosca­branca?
 
 Sim.  Os  adultos  da 
@@ -8495,7 +8482,7 @@ armadilha.
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 333 
 
 O  sintoma  do  vírus  transmitido  pela  mosca­branca  só 
@@ -8538,7 +8525,7 @@ do  mosaico-dourado  do  feijoeiro.  A  definição  de  épocas  de
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 semeadura e/ou regionalização da época de semeadura do feijoeiro 
 tem reduzido significativamente as perdas devidas à transmissão do 
 vírus do mosaico-dourado pela mosca-branca.
@@ -8585,7 +8572,7 @@ vivas  por  folha  trifoliolada.  Na  amostragem  da  larva-minadora,
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 não devem ser consideradas as folhas primárias, pois, quando o 
 dano pela larva aparece nelas, o feijoeiro já emitiu a primeira e 
 segunda folhas trifolioladas, não precisando das folhas primárias 
@@ -8629,7 +8616,7 @@ flores cimento,  pois  pode  ocorrer  queda  prematura  dos  botões
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 florais devido ao fato de que os tripes se alimentam das flores. 
 É  importante  amostrar  os  tripes  nos  15  primeiros  dias  de 
 florescimento,  pois  são  estas  flores  que  irão  formar  as  vagens 
@@ -8670,7 +8657,7 @@ quando  completamente  desenvolvida,  mede  cerca  de  40  mm  de
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 comprimento,  com  a  cabeça  de  coloração  avermelhada,  corpo 
 esverdeado, tendo, de cada lado, uma linha mais clara. A lagarta-
 da-soja ou falsa-medideira, quando completamente desenvolvida, 
@@ -8713,7 +8700,7 @@ menores.  Os  percevejos  provocam  ainda  redução  no  poder
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 germinativo das sementes, e algumas espécies transmitem o fungo 
 Nematospora corylli, que causa mancha-de-levedura nos grãos.
 
@@ -8759,7 +8746,7 @@ monitoramento da população de percevejos, indicando quando os
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 insetos estão entrando na lavoura. As estacas devem ser localizadas 
 de  preferência  nas  margens  das  lavouras,  onde  normalmente  a 
 infestação é iniciada.
@@ -8805,7 +8792,7 @@ evitando eliminar os inimigos naturais.
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 351 
 
 Como  diferenciar  os  danos  provocados  por  vaquinhas, 
@@ -8846,7 +8833,7 @@ doença  denominada  angiostrongilose  abdominal.  Para  evitar
 185
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 a  transmissão  do  verme,  não  se  deve  tocar  as  lesmas  ou  entrar 
 em contato com a secreção do muco. As lesmas podem também 
 ser vetores de patógenos de plantas, por exemplo, Phytophthora 
@@ -8886,7 +8873,7 @@ ao solo são menos eficientes que as iscas.
 186
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 355 
 
 A  presença  de  carunchos  está  restrita  a  alguma  região 
@@ -8928,7 +8915,7 @@ excrementos.
 187
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 358 
 
 Quais medidas são recomendadas para controlar o ataque 
@@ -8975,7 +8962,7 @@ ciclo vital, que mata a presa, normalmente é maior do que ela
 188
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 e, para completar o seu desenvolvimento, precisa atacar mais de 
 um indivíduo. Exemplos: tesourinha, joaninha.
 
@@ -9019,15 +9006,15 @@ um manejo eficiente das pragas.
 189
 
 
- 500pr_pgnumber190
-
  500pr_pgnumber191
+
+ 500pr_pgnumber192
 13  Plantas Daninhas
 
 Tarcísio Cobucci
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 363 
 
 Qual é o período crítico de competição das plantas dani­
@@ -9072,7 +9059,7 @@ As principais espécies de plantas daninhas são:
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 •  Euphorbia heterophylla (leiteiro).
 •  Amaranthus spp. (caruru).
 •  Cenchrus echinatus (timbete).
@@ -9123,7 +9110,7 @@ solo, a velocidade correta de semeadura,
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 o manejo de adubação, o arranjo espacial das plantas e a época 
 adequada de plantio, dentre outros. A utilização de sequência de 
 cultivos  (sucessão  ou  rotação),  em  que  os  restos  culturais  de  um 
@@ -9170,7 +9157,7 @@ por amostra.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 •  Aeschynomene rudis (angiquinho). 
 •  Bidens pilosa (caruru, bredo). 
 •  Borreria alata (língua-de-vaca, poiaia-do-campo). 
@@ -9220,7 +9207,7 @@ físicas, químicas e biológicas do solo. Entretanto, muitas destas
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 plantas, como Stizolobium aterrimum (mucuna), Crotalaria juncea 
 (crotalária),  Crotalaria  paulinea 
 (crotalária-paulinea),  Cajanus 
@@ -9265,7 +9252,7 @@ a sua emergência e favorecendo o seu apodrecimento.
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 373 
 
 Quando  deve  ser  feita  a  capina  manual  de  plantas 
@@ -9308,7 +9295,7 @@ ao encobrimento de plantas.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 376 
 
 Que tipos de cultivador de tração animal são o mais e o 
@@ -9351,7 +9338,7 @@ custos reduzidos e com o mínimo de impacto ambiental.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 379 
 
 Que fatores podem interferir na eficiência dos herbicidas 
@@ -9396,7 +9383,7 @@ para a superfície, acarretando perdas por volatilização.
 199
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 382 
 
 Qual é a relação entre a umidade do ar e a aplicação de 
@@ -9443,7 +9430,7 @@ pulverização, tanto em pré-emergência quanto em pós-emergência.
 200
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 384  Qual é a importância do vento na aplicação de herbicidas?
 
 Além de causar o deslocamento do produto, o vento aumenta 
@@ -9488,7 +9475,7 @@ ao  do  feijoeiro,  de  tal  forma  que,  quando  se  propicia  uma
 201
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 germinação mais rápida da cultura e ocorre atraso na emergência 
 das plantas daninhas, a competição é menor. Uma maneira de 
 promover  o  atraso  da  emergência  ou  crescimento  das  plantas 
@@ -9531,7 +9518,7 @@ necessidade de período de espera antes do plantio do feijoeiro.
 202
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 390 
 
 Pode­se  efetuar  a  semeadura  do  feijoeiro  imediatamente 
@@ -9574,7 +9561,7 @@ estar presentes na área.
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 393 
 
 Qual é a diferença do uso de paraquat e paraquat+diuron 
@@ -9619,7 +9606,7 @@ sua  população
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 395 
 
 Pode­se recomendar herbicidas pré­emergentes em sistema de 
@@ -9666,7 +9653,7 @@ bentazon e paraquat (controle do desmódio) em dose baixa apresenta
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 ação sinérgica com as plantas daninhas e antagônicas em relação 
 à  fitotoxicidade  à  cultura.  O  bentazon  parece  proteger  a  cultura 
 contra  a  fitotoxicidade  provocada  pelo  paraquat.  Entretanto,  essa 
@@ -9709,7 +9696,7 @@ de imazamox de 30 g i.a./ha a 40 g i.a./ha não
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 afetou  a  produtividade  do  feijoeiro  das  variedades  Carioca  e  FT 
 Bonito. Imazamox a 40 g i.a./ha, 50 g i.a./ha e 60 g i.a./ha, aplicado 
 em  cultivos  das  variedades  Eté  e  Aruã,  não  provocou  sinais  que 
@@ -9755,7 +9742,7 @@ florescimento.
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 403 
 
 Em  plantas  como  milheto,  sorgo  e  crotalária,  é  preciso 
@@ -9795,14 +9782,14 @@ emergentes com efeito residual.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 14  Colheita
 
 José Geraldo da Silva
 Jaime Roberto Fonseca
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 406  Quando o feijão está no ponto para ser colhido?
 
 Para  evitar  perdas  e  obter  produtos  de  boa  qualidade,  o 
@@ -9843,7 +9830,7 @@ Carioca  mostraram  ser  possível  colher  as  sementes  com  20  dias
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 de  antecedência,  quando  elas  têm  cerca  de  40%  de  umidade, 
 sem prejuízos à qualidade e à produtividade. Para tanto, devem-se 
 arrancar as plantas com as vagens na mudança de cor, de verde para 
@@ -9887,7 +9874,7 @@ com  elevado  potencial  de  produção,  influi  no  desenvolvimento
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 das plantas e na operacionalidade da colheita. Quando a época é 
 inadequada, a colheita pode ser prejudicada pelos períodos chuvosos 
 com  a  intensificação  das  perdas  por  patógenos,  acamamento  e 
@@ -9929,7 +9916,7 @@ de perda de grãos pela pesagem tem a desvantagem de demandar
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 o uso de balança e, pela contagem de grãos, exige muito trabalho 
 e tempo para avaliação. A quantificação pelo uso de um copo com 
 escala  de  medição  torna  a  operação  mais  simplificada,  rápida  e 
@@ -9974,7 +9961,7 @@ de cultivo (monocultivo ou consorciação com outras culturas como
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 o milho), o hábito de crescimento das plantas e a disponibilidade de 
 mão de obra e de equipamentos na propriedade. Geralmente, nas 
 pequenas lavouras (menores que 5 ha) cultivadas em monocultivo 
@@ -10007,7 +9994,7 @@ alcança o máximo poder de germinação e de vigor.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 420 
 
 Na colheita manual, após o arranquio, as plantas poderão 
@@ -10051,7 +10038,7 @@ ou mais operações.
 215
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 424  Em que consiste o processo direto de colheita?
 
 O  processo  direto  consiste  no  emprego  da  colhedora 
@@ -10093,7 +10080,7 @@ pelas recolhedoras-trilhadoras.
 216
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 427 
 
 Por que a colheita mecanizada do feijão tem sido empregada 
@@ -10138,7 +10125,7 @@ inserção  da  primeira  vagem.  Normalmente,  o  feijoeiro  apresenta
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 plantas prostradas e com baixa altura de inserção de vagens, o que 
 dificulta a operação com colhedora.
 
@@ -10181,7 +10168,7 @@ grãos após a trilha; h) extensão das hélices no centro do caracol,
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 que substitui parte dos dedos retráteis que devem ser retirados do 
 caracol, pois estes provocam embuchamento de plantas e abertura 
 de vagens do feijão na plataforma de corte.
@@ -10222,7 +10209,7 @@ as recolhedoras-trilhadoras e as colhedoras automotrizes.
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 434  Como opera uma ceifadora­enleiradora de feijoeiro?
 
 A  ceifadora  opera  acoplada  a  uma  colhedora  automotriz, 
@@ -10266,7 +10253,7 @@ dispostos  em  forma  heli-
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 coidal na sua periferia e um côncavo circular perfurado. Nos dois 
 modelos, o cilindro trilha as plantas contra o côncavo para retirar 
 as sementes das vagens e conduz, tangencialmente ou axialmen-
@@ -10307,7 +10294,7 @@ ou a granel.
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 440  Como são acionadas as recolhedoras­trilhadoras?
 
 Algumas são acopladas nos tratores pelo sistema de engate de 
@@ -10334,7 +10321,7 @@ a usada para sementes pequenas.
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 15 
 
  
@@ -10353,7 +10340,7 @@ Jaime Roberto Fonseca
 Edson Herculano Neves Vieira
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 442  Por que o grão/semente de feijão deve ser secado? 
 
 O  grão/semente  deve  ser  secado  para  reduzir  a  umidade. 
@@ -10394,7 +10381,7 @@ espessura da camada de grãos.
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 445  O feijão colhido manualmente pode ser secado no campo?
 
 Sim. As plantas arrancadas devem ser colocadas em forma de 
@@ -10437,7 +10424,7 @@ ocorre nas vagens de leiras formadas de três ou mais fileiras de plantas.
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 449 
 
 Quando se deve proceder à secagem artificial do feijoeiro 
@@ -10482,7 +10469,7 @@ medida que a secagem se processa, pode-se aumentar a temperatura.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 453 
 
 Qual deve ser a tempera­
@@ -10530,7 +10517,7 @@ de eliminar impurezas, como torrões, pedriscos e fragmentos dos
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 próprios  grãos,  detritos  vegetais,  folhas  e  vagens.  Os  grãos  poste-
 riormente passam por classificação e aprimoramento para melhorar 
 sua aparência e pureza física. No caso de sementes, o beneficiamento 
@@ -10575,7 +10562,7 @@ visa separar misturas de grãos/sementes com base tão somente na
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 coloração do tegumento. Esse equipamento tem a capacidade de 
 separar, por exemplo, grãos roxinhos misturados entre os pretos por 
 meio  de  uma  célula  fotoelétrica,  proporcionando  um  produto  de 
@@ -10618,7 +10605,7 @@ desprezíveis, em torno de 0,01%.
 229
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 464 
 
 A abanadora manual serve apenas 
@@ -10668,7 +10655,7 @@ não  provocarem  danos  às  sementes.  Estudos  têm  mostrado
 230
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 que, por meio da catação, retirando-se as sementes manchadas 
 do  lote,  foi  possível  reduzir  a  percentagem  de  infecção  das 
 sementes por alguns fungos, dentre eles o fungo Colletotrichum 
@@ -10714,7 +10701,7 @@ relativa é muito baixa.
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 471 
 
 Qual é a recomendação da 
@@ -10763,7 +10750,7 @@ de fosfina.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 476 
 
 Quais são os métodos de armazenamento de feijão e qual 
@@ -10812,7 +10799,7 @@ do feijão.
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 479 
 
 O que pode ser feito para minimizar a perda de qualidade 
@@ -10826,7 +10813,7 @@ uma secagem adequada; e controlar insetos e roedores.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 16  Produção de 
 
 Sementes e 
@@ -10844,7 +10831,7 @@ Cláudio Bragantini
 Lídia Pacheco Yokoyama
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 480  Qual é o tipo de grão mais comercializado no Brasil?
 
 O tipo de grão mais comercializado no Brasil é o Carioca, que 
@@ -10888,7 +10875,7 @@ produtoras  de  sementes  ou  que  exerçam  qualquer  atividade
 236
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 relacionada a beneficiamento, embalagem, armazenamento, análise, 
 comércio  e  importação  e  exportação  de  sementes  e  mudas  (na 
 condição  de  pessoa  jurídica)  também  ficam  obrigados  à  inscrição 
@@ -10933,7 +10920,7 @@ pesquisa que desenvolveu uma determinada cultivar. Deve ser uma
 237
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 semente  extremamente  pura,  principalmente  do  ponto  de  vista 
 genético.  A  semente  básica  é  obtida  a  partir  da  multiplicação  da 
 semente genética. É preciso fazer isso para que a instituição consiga 
@@ -10980,7 +10967,7 @@ de  feijão,  que  podem  variar  de  acordo  com  a  categoria  de
 238
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 sementes  a  que  o  lote  pertence,  são:  apresentar  no  mínimo  80% 
 de  germinação  (categorias  C1,  C2,  S1  e  S2),  apresentar  pureza  de 
 98% (todas as sementes de um lote devem ser da mesma cultivar –  
@@ -11025,7 +11012,7 @@ ciclo, coloração e forma das vagens e dos grãos.
 239
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 Referências
 
 BRASIL. Decreto n. 5.153, de 23 de julho de 2004. Aprova o Regulamento da 
@@ -11045,7 +11032,7 @@ Federativa do Brasil, Brasília, DF, 10 jul. 2005.
 240
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 17  Produção Integrada 
 
 do Feijoeiro­comum
@@ -11057,7 +11044,7 @@ Flávia Rabelo Barbosa Moreira
 Augusto César de Oliveira Gonzaga
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 488  O que é produção integrada (PI)?
 
 A PI é um sistema baseado nas boas práticas agropecuárias, 
@@ -11098,7 +11085,7 @@ tecnologias,  organização  da  base  produtiva,  viabilidade  técnico-
 242
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 econômica,  oferta  de  produtos  de  melhor  qualidade,  valorização 
 de  produto,  diminuição  dos  custos  de  produção,  sustentabilidade 
 dos processos de produção, pós-colheita e rastreabilidade.
@@ -11137,7 +11124,7 @@ saber  como  proceder  para  adotar  esse  sistema  de  produção  e
 243
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 verificar se o produto que deseja produzir tem as normas técnicas 
 publicadas.
 
@@ -11179,7 +11166,7 @@ produção.  Com  base  em  suas  diretrizes,  os  comitês  técnicos  de
 244
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 cada  cadeia  produtiva  definem  as  instruções  normativas  sobre 
 as certificações da PI e valida normas técnicas específicas para o 
 produtor receber o selo oficial de certificação relativo a produtos de 
@@ -11222,7 +11209,7 @@ cinco UPTs, localizadas em Cristalina, GO, e Unaí, MG, municípios
 245
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 que  se  destacam  no  cenário  nacional  na  produção  do  feijão.  As 
 tecnologias  propostas  para  a  PI  foram  comparadas,  lado  a  lado, 
 com  as  da  produção  convencional  realizada  pelo  produtor.  Em 
@@ -11254,1631 +11241,4 @@ trabalhadores rurais.
 
 246
 
-
- 500pr_pgnumber247
- 
-
-m
-e
- 
-e
- 
-)
-
-4
- 
-e
- 
-3
-
- 
-,
-
-2
-
- 
-,
-
-1
- 
-s
-e
-d
-a
-d
-n
-u
-
-i
-
-(
- 
-
-O
-G
-
- 
-,
-a
-n
-
-i
-l
-a
-t
-s
-i
-r
-
- 
-
-C
-m
-e
- 
-o
-ã
-j
-i
-e
-f
- 
-e
-d
-
- 
-I
-
-P
- 
-a
-n
- 
-s
-o
-m
-u
-s
-n
-
- 
-
- 
-
- 
-
-i
- 
-e
-d
-o
-s
-u
-o
-d
-o
-ã
-ç
-a
-z
-i
-l
-a
-n
-o
-i
-c
-a
-r
- 
-e
-d
- 
-s
-e
-r
-o
-d
-a
-c
-i
-d
-n
-
-I
- 
-.
-
-1
- 
-a
-l
-e
-b
-a
-T
-
-5
- 
-e
-d
-a
-d
-n
-U
-
-i
-
-4
- 
-e
-d
-a
-d
-n
-U
-
-i
-
-3
- 
-e
-d
-a
-d
-n
-U
-
-i
-
-2
- 
-e
-d
-a
-d
-n
-U
-
-i
-
-1
- 
-e
-d
-a
-d
-n
-U
-
-i
-
-.
-
-/
-
- 
-
-0
-1
-0
-2
-9
-0
-0
-2
-o
-d
-o
-í
-r
-e
-p
-o
-n
-
- 
-
- 
-)
-
-5
- 
-e
-d
-a
-d
-n
-u
-
-i
-
-(
- 
-,
-
-G
-M
-
- 
-,
-í
-a
-n
-U
-
- 
-/
-o
-ã
-ç
-u
-d
-e
-R
-
- 
-
-o
-m
-i
-c
-s
-é
-r
-c
-A
-
-)
-
-%
-
-(
-
-,
-
-9
-6
-2
-
-1
-9
-
-,
-
- 
-
-,
-
-3
-3
-3
-
-0
-0
-1
-
--
-
--
-
--
-
-0
-0
-1
-
-0
-6
-
- 
-
--
-
-I
-P
-
-C
-P
-
-7
-
- 
-
-7
-6
-
- 
-
- 
-
-7
-
- 
-
-2
-9
-
- 
-
- 
-
-8
-0
-1
-
-9
-1
-1
-
-8
-5
-
- 
-
-7
-8
-
- 
-
- 
-/
-o
-ã
-ç
-u
-d
-e
-R
-
- 
-
-o
-m
-i
-c
-s
-é
-r
-c
-A
-
-)
-
-%
-
-(
-
--
-
-,
-
-8
-4
-1
-
-,
-
-1
-7
-6
-
-,
-
-3
-3
-3
-
-0
-
- 
-
- 
-
-1
-
- 
-
- 
-
--
-
--
-
--
-
--
-
--
-
-2
-
- 
-
- 
-
--
-
--
-
--
-
--
-
-2
-
-5
-
- 
-
- 
-
- 
-
- 
-
--
-
-0
-0
-1
-
-0
-0
-1
-
-0
-0
-1
-
--
-
-0
-5
-
- 
-
-0
-0
-1
-
-I
-P
-
-C
-P
-
-6
-
- 
-
-0
-9
-
- 
-
- 
-
-7
-1
-1
-
-4
-2
-
- 
-
--
-
-0
-
-0
-
- 
-
- 
-
- 
-
- 
-
-0
-
- 
-
- 
-
--
-
-6
-
- 
-
- 
-
-5
-0
-1
-
-0
-7
-
-6
-3
-
- 
-
- 
-
--
-
-1
-
-2
-
- 
-
- 
-
-1
-
--
-
-(
-
-)
-)
-4
-S
-T
-
-(
- 
-
-3
-
-6
-
- 
-
- 
-
-0
-
- 
-
- 
-
-1
-
-,
-
-8
-0
-3
-
-9
-
- 
-
- 
-
-3
-1
-
- 
-
-,
-
-7
-6
-6
-
-(
-
-)
-)
-4
-S
-T
-
-(
- 
-
-3
-
-9
-
- 
-
- 
-
- 
-/
-o
-ã
-ç
-u
-d
-e
-R
-
- 
-
-o
-m
-i
-c
-s
-é
-r
-c
-A
-
-)
-
-%
-
-(
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-I
-P
-
-C
-P
-
-5
-
- 
-
-9
-8
-
-9
-9
-
-0
-5
-
-5
-
- 
-
-9
-8
-
-9
-9
-
-0
-5
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-0
-6
-
- 
-
-,
-
-7
-6
-6
-
-,
-
-5
-4
-5
-
-4
-
-1
-
- 
-
- 
-
-6
-
- 
-
-0
-1
-
-3
-
- 
-
-1
-1
-
- 
-/
-o
-ã
-ç
-u
-d
-e
-R
-
- 
-
-o
-m
-i
-c
-s
-é
-r
-c
-A
-
-)
-
-%
-
-(
-
--
-
-,
-
-1
-7
-2
-
-8
-1
-
-,
-
- 
-
-,
-
-9
-0
-6
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-,
-
-3
-4
-1
-
-I
-P
-
-C
-P
-
-5
-
- 
-
-4
-0
-1
-
-7
-8
-
-7
-2
-
--
-
-5
-
- 
-
-1
-8
-
-9
-8
-
-2
-4
-
--
-
-3
-
- 
-
-3
-
- 
-
--
-
--
-
--
-
-3
-
- 
-
--
-
-6
-
- 
-
--
-
--
-
--
-
-3
-
- 
-
--
-
-7
-
- 
-
-0
-0
-1
-
-1
-
- 
-
- 
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-1
-
- 
-
-1
-
- 
-
-0
-0
-1
-
--
-
-8
-
- 
-
- 
-
-0
-0
-1
-
-0
-
- 
-
- 
-
-2
-1
-
- 
-
-0
-0
-1
-
-0
-
- 
-
-5
-
- 
-
-0
-0
-1
-
-0
-
- 
-
-4
-
- 
-
- 
-/
-o
-ã
-ç
-u
-d
-e
-R
-
- 
-
-o
-m
-i
-c
-s
-é
-r
-c
-A
-
-)
-
-%
-
-(
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
-
-1
-1
-1
-1
-
-,
-
--
-
--
-
-)
-2
-(
-I
-P
-
-)
-1
-(
-
-C
-P
-
-o
-m
-u
-s
-n
-I
-
-5
-
- 
-
-9
-9
-
-7
-8
-
-7
-8
-
--
-
--
-
--
-
--
-
--
-
-4
-
-1
-
- 
-
- 
-
-8
-
- 
-
-5
-
- 
-
-9
-9
-
-7
-8
-
-7
-8
-
--
-
--
-
--
-
--
-
--
-
-4
-
-1
-
- 
-
- 
-
-9
-
- 
-
-)
-g
-k
-(
- 
-
-i
-
-o
-n
-ê
-g
-o
-r
-t
-i
-
-N
-
-a
-d
-i
-c
-i
-b
-r
-e
-H
-
-)
-g
-k
-(
- 
-
-o
-r
-o
-f
-s
-ó
-F
-
-)
-g
-k
-(
- 
-
-o
-i
-s
-s
-á
-t
-o
-P
-
- 
-e
-t
-n
-e
-i
-r
-t
-u
-n
-o
-r
-c
-i
-M
-
-)
-e
-t
-n
-e
-m
-e
-s
-(
-
- 
-e
-d
- 
-r
-o
-d
-a
-l
-u
-m
-
-i
-t
-s
-E
-
-)
-
-(
-
-3
-r
-o
-d
-a
-z
-i
-a
-r
-n
-E
-
-)
-
-(
-
-3
-r
-o
-d
-a
-l
-u
-d
-o
-N
-
-247
-
-)
-
-(
-
-t
-
-3
-o
-n
-e
-m
-i
-c
-s
-e
-r
-c
-
-)
-
-(
-
-3
-o
-d
-i
-c
-á
-o
-n
-m
-A
-
-i
-
-)
-
-(
-
-3
-a
-d
-i
-c
-i
-t
-e
-s
-n
-
-I
-
-)
-
-(
-
-3
-a
-d
-i
-c
-i
-r
-a
-c
-A
-
-(
-
- 
-)
-3
-a
-d
-i
-c
-i
-g
-n
-u
-F
-
-)
-
-o
-c
-i
-m
-u
-q
-
-í
-
-(
-
-1
-
- 
-
-1
-
- 
-
- 
-a
-d
-i
-c
-i
-g
-n
-u
-
-f
-(
- 
-)
-3
-p
-s
-
-(
-
- 
-a
-m
-r
-e
-d
-o
-h
-c
-i
-r
-T
-
-)
-
-o
-c
-i
-g
-ó
-o
-b
-
-i
-
-l
-
--
-
--
-
-)
-
-(
-
-3
-r
-a
-i
-l
-
-o
-
-f
- 
-
-o
-b
-u
-d
-A
-
-.
-s
-e
-t
-n
-e
-m
-e
-s
- 
-e
-d
-o
-n
-e
-m
-a
-t
-a
-r
-T
-
-t
-
- 
-
- 
-)
-4
-(
- 
-;
-s
-e
-õ
-ç
-a
-c
-i
-l
-
- 
-
-p
-a
- 
-e
-d
-o
-r
-e
-m
-ú
-N
-
- 
-)
-3
-(
- 
-;
-a
-d
-a
-r
-g
-e
-t
-n
-
-i
- 
-
-o
-ã
-ç
-u
-d
-o
-r
-p
- 
--
- 
-I
-
-P
-
- 
-)
-
-2
-(
- 
-;
-l
-a
-n
-o
-i
-c
-n
-e
-v
-n
-o
-c
- 
-o
-ã
-ç
-u
-d
-o
-r
-p
- 
--
- 
-
-C
-P
-
- 
-)
-
-1
-
-(
-
-
- 500pr_pgnumber248
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o formulário de atendimento
-na Internet
-
-Clique no link para acessar o formulário:
-
-http://mais500p500r.sct.embrapa.br/view/form.php?id=90000030
-
-
- 500pr_pgnumber249
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber250
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber251
 

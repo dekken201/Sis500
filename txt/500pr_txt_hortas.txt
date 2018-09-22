@@ -1,7 +1,5 @@
 
- 500pr_pgnumber016
-
- 500pr_pgnumber017
+ 500pr_pgnumber018
 1
 
 O que são hortaliças?
@@ -48,7 +46,7 @@ ainda a couve-flor e o brócolis (flores) e o alho-porró (hastes).
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 5
 
 O que são legumes?
@@ -99,7 +97,7 @@ disponíveis nos mercados. A lista é longa, e inclui hortaliças da
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 letra “A”, de abobrinha, à “Y”, de yacón. As mais importantes em 
 termos  de  área  cultivada  e  volume  comercializado  são  batata, 
 tomate, melão, melancia, cebola, alho, batata-doce e cenoura.
@@ -149,7 +147,7 @@ murupi (Amazonas).
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 13
 
 Como podem ser classificadas as hortaliças?
@@ -199,7 +197,7 @@ e confusões.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 16
 
 Qual a importância de se saber os nomes científicos e as 
@@ -260,7 +258,7 @@ Continua...
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 Tabela 1. Continuação
 
 Família botânica
@@ -334,7 +332,7 @@ mostarda, repolho, rúcula, salsa, salsão, serralha e taioba.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 21
 
 O que são hortaliças-flor e hortaliças-legume?
@@ -396,7 +394,7 @@ chamados  sistemas  de  produção  –  sistema  convencional,
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 hidroponia,  cultivo  orgânico,  agroecológico,  cultivo  protegido, 
 produção  integrada  e  cultivo  intensivo  em  larga  escala,  entre 
 outros. O sistema de produção depende do objetivo da produção 
@@ -446,7 +444,7 @@ certificação.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 29
 
 Qual  a  diferença  entre  a  agroecologia  e  o  sistema 
@@ -482,18 +480,18 @@ produzidos.
 25
 
 
- 500pr_pgnumber026
-
  500pr_pgnumber027
+
+ 500pr_pgnumber028
 2 Hortas
 
 Dione Melo da Silva
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber028
-
  500pr_pgnumber029
+
+ 500pr_pgnumber030
 31
 
 O que é uma horta?
@@ -544,7 +542,7 @@ As hortas servem para:
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 •  Produção para consumo próprio.
 •  Fins didáticos e educativos.
 •  Fins recreativos e ocupacionais.
@@ -591,7 +589,7 @@ além de ter uma atividade física e de lazer.
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 39
 
 De  que  modo  as  hortas  domésticas  podem  melhorar  a 
@@ -638,7 +636,7 @@ várias disciplinas, como ciências, matemática e geografia.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 43
 
 Quem deve ser o responsável pela horta escolar?
@@ -692,7 +690,7 @@ nutricional.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 46
 
 Quais atividades recreativas podem ser feitas em hortas 
@@ -743,7 +741,7 @@ prefeitura, por exemplo.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 49
 
 Como funcionam as hortas comunitárias?
@@ -792,7 +790,7 @@ comunicação. Em geral, as pessoas devem estar organizadas em
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 algum tipo de associação civil ou cooperativa para se habilitar a 
 receber esses recursos. 
 
@@ -844,7 +842,7 @@ mais exigentes e mais difíceis de ser produzidas nesse sistema.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 Para um grande número de hortaliças, como as folhosas, a 
 produtividade e o preço de venda no mercado são similares para 
 os dois sistemas de produção, o convencional e o orgânico.
@@ -894,7 +892,7 @@ transmitem doenças – roedores e mosquitos.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 •  Incremento da reutilização e reciclagem de alguns tipos 
 
 de resíduos.
@@ -943,17 +941,17 @@ ocupacional, entre outros pontos positivos.
 37
 
 
- 500pr_pgnumber038
-
  500pr_pgnumber039
+
+ 500pr_pgnumber040
 3 Planejamento
 
 Ronaldo Setti de Liz
 
 
- 500pr_pgnumber040
-
  500pr_pgnumber041
+
+ 500pr_pgnumber042
 60
 
 O que é planejamento de uma horta?
@@ -1003,7 +1001,7 @@ ros problemas.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 63
 
 O planejamento da horta é feito uma única vez?
@@ -1053,7 +1051,7 @@ se  construir  cercas  com  3
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 a 5 fios de arame farpado, fixados em palanques de madeira ou 
 concreto fincados no chão a cada 2 m. 
 
@@ -1109,7 +1107,7 @@ namento e comércio das hortaliças colhidas.
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 69
 
 Como deve ser o planejamento da horta?
@@ -1156,7 +1154,7 @@ destinada ao lazer.
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 72
 
 É preciso conhecimento técnico para planejar as atividades 
@@ -1202,7 +1200,7 @@ de hortaliças.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 75
 
 Quais são as recomendações para a escolha do terreno 
@@ -1254,7 +1252,7 @@ ATH (m2) = largura x comprimento
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 78
 
 Como planejar o uso da área?
@@ -1302,7 +1300,7 @@ a  largura  das  ruas  pela  largura  efetiva  do  canteiro  e
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 multiplicar  o  valor  obtido  por  100,  para  transformar  o 
 resultado em percentual: 
 
@@ -1352,7 +1350,7 @@ de hortas.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 •  Grama verde ou seca.
 •  Formigueiros.
 •  Mato alto, arbusto, água acumulada.
@@ -1401,7 +1399,7 @@ também se ocorreram melhorias no solo da horta.
 49
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 85
 
 Como planejar a amostragem do solo da horta?
@@ -1456,7 +1454,7 @@ química podem ser vistos no Capítulo 10 (Adubação).
 50
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 86
 
 Existe  uma  regra  para  planejar  a  data  de  realização  da 
@@ -1505,7 +1503,7 @@ na horta podem ser registrados em fichas semelhantes àquelas para
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 registrar os gastos com a horta. No mínimo, a ficha deve conter uma 
 coluna para descrever a origem da receita, por exemplo, a venda 
 ou o consumo de 12 pés de alface, e uma coluna correspondente 
@@ -1559,7 +1557,7 @@ básicas e simplificadas para o planejamento de uma horta. Existem
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 informações e programas bem mais completos e complexos sobre 
 esse tema.
 
@@ -1578,18 +1576,18 @@ potencializar os pontos que estão dando certo na horta.
 53
 
 
- 500pr_pgnumber054
-
  500pr_pgnumber055
+
+ 500pr_pgnumber056
 4 Manejo do Solo
 
 Flávia Aparecida de Alcântara
 Nuno Rodrigo Madeira
 
 
- 500pr_pgnumber056
-
  500pr_pgnumber057
+
+ 500pr_pgnumber058
 92
 
 Qual a importância do solo para a horta?
@@ -1641,7 +1639,7 @@ ser contaminadas por microrganismos provenientes das pocilgas.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 95
 
 O que é manejo do solo?
@@ -1691,7 +1689,7 @@ mecanizados, com implementos, como o arado para abertura do
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 terreno, a grade para destorroamento e nivelamento e, por vezes, 
 o subsolador para descompactação em maiores profundidades. 
 
@@ -1741,7 +1739,7 @@ pequeno.
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 102
 
 Qual a maneira certa de preparar canteiros?
@@ -1795,7 +1793,7 @@ espaçamentos mais amplos, não há necessidade de preparo de solo
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 em área total, visto que grande parte 
 de  sua  superfície  não  é  utilizada. 
 Assim,  o  plantio  em  covas  permite 
@@ -1842,7 +1840,7 @@ nas linhas.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 Quando se trata de culturas que não toleram encharcamento 
 ou  que  exigem  solo  solto  em  profundidade  para  o  pleno 
 desenvolvimento, o plantio é feito em leiras. Para preparar as leiras, 
@@ -1897,7 +1895,7 @@ que promova o bom desenvolvimento das raízes ou tubérculos.
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 Pode haver dificuldade de manter um bom volume de palhada 
 permanentemente na horta, mas isso pode ser conseguido com a 
 escolha adequada da rotação de culturas e com o manejo correto 
@@ -1948,7 +1946,7 @@ de cobertura.
 63
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 113
 
 Que materiais podem ser usados para a cobertura morta?
@@ -2006,7 +2004,7 @@ solo – como forma de cobertura morta – quanto incorporada.
 64
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 117
 
 Como  deixar  o  solo  mais  solto  sem  máquinas  e 
@@ -2028,9 +2026,9 @@ matéria orgânica do solo, tornando-o mais leve e poroso.
 65
 
 
- 500pr_pgnumber066
-
  500pr_pgnumber067
+
+ 500pr_pgnumber068
 5 Insumos e Materiais
 
 ADUBO
@@ -2046,9 +2044,9 @@ ADUBO
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber068
-
  500pr_pgnumber069
+
+ 500pr_pgnumber070
 118
 
 Onde comprar os insumos e materiais necessários para 
@@ -2101,7 +2099,7 @@ do, de marcas conhecidas.
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 121
 
 Quais os cuidados no uso das ferramentas?
@@ -2151,7 +2149,7 @@ ou lavação. Devem ser guardadas secas, para evitar ferrugem.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 De  tempos  em  tempos,  é  preciso  usar  óleo  nas  partes 
 metálicas  para  evitar  corrosão.  Algumas  ferramentas,  como 
 enxadas,  pás,  facas  e  tesouras  de  corte,  também  devem  ser 
@@ -2199,7 +2197,7 @@ casa.
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 127
 
 Que outros materiais são necessários em uma horta?
@@ -2250,7 +2248,7 @@ proteção contra obstrução.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 130
 
 Quais  são  os  cuidados  que  devem  ser  adotados  na 
@@ -2305,7 +2303,7 @@ tampa para evitar o acesso de animais domésticos ao local.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 Em  todos  os  casos,  deve-se  colocar  uma  camada  de  terra 
 por  cima,  molhar  bem  e  esperar  um  tempo  até  que  ocorra  a 
 fermentação da matéria orgânica e a formação do composto. O 
@@ -2356,7 +2354,7 @@ ajuda o meio ambiente.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 136
 
 O que é um minhocário doméstico?
@@ -2404,7 +2402,7 @@ disponíveis para compra em minhocários ou pela internet.
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 139
 
 Qual  a  diferença  entre  as  minhocas  comuns  e  as  de 
@@ -2456,7 +2454,7 @@ próprias  minhocas.  Diversas  universidades  públicas,  institutos
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 de  pesquisa  e  empresas  de  extensão  rural  também  oferecem 
 informações  e  tecnologias  sobre  a  criação  de  minhocas  por 
 meio de publicações – como livros e apostilas – e a organização 
@@ -2472,9 +2470,9 @@ um grande número de fontes de informações.
 77
 
 
- 500pr_pgnumber078
-
  500pr_pgnumber079
+
+ 500pr_pgnumber080
 6 Escolhas das Hortaliças
 
 Paulo Eduardo de Melo
@@ -2482,9 +2480,9 @@ Paulo Eduardo de Melo
 Gilmar Paulo Henz
 
 
- 500pr_pgnumber080
-
  500pr_pgnumber081
+
+ 500pr_pgnumber082
 143
 
 O que plantar em uma horta?
@@ -2531,7 +2529,7 @@ tropical.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 145
 
 Quais hortaliças impõem certa dificuldade?
@@ -2577,7 +2575,7 @@ em hortas.
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 147
 
 Quantos tipos de tomate existem?
@@ -2622,7 +2620,7 @@ saborosos.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 148
 
 De  acordo  com  o  crescimento,  como  se  dividem  as 
@@ -2670,7 +2668,7 @@ e uma caixa é suficiente para plantar cerca de 150 m2.
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 Embora  Santa  Catarina  seja  o  principal  estado  produtor  de 
 batata-semente, no Brasil há produção desde a Bahia até o Rio Grande 
 do Sul. A melhor maneira de encontrar o fornecedor mais próximo é 
@@ -2720,7 +2718,7 @@ que, em virtude da seleção aplicada pelo homem com o propósito
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 de  cultivá-las,  são  semelhantes  entre  si,  tanto  na  aparência 
 (fenótipo) quanto na constituição genética (genótipo), e distintas, 
 por uma ou mais características, de outros grupos de plantas da 
@@ -2770,7 +2768,7 @@ cruzamento  entre  uma  planta  de
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 pimentão com frutos cônicos, vermelhos e pequenos e outra plan-
 ta de pimentão de frutos quadrados, amarelos e grandes são todas 
 híbridas. De modo geral, as sementes de híbridos são mais caras, 
@@ -2820,7 +2818,7 @@ geração de plantas melhores, mas a eficiência desse procedimento
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 157
 
 Quais hortaliças são autopolinizadas ou de autofecundação?
@@ -2872,7 +2870,7 @@ microclimas de altitude das regiões Centro-Oeste e Nordeste.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 Entre as hortaliças adaptadas ao inverno, incluem-se acelga, 
 alcachofra,  alface,  alho,  alho-porró,  aipo,  aspargo,  batata, 
 beterraba, cenoura, chicória, couve-brócolos, couve-de-Bruxelas, 
@@ -2920,7 +2918,7 @@ inhame,  jiló,  maxixe,  pimenta,  quiabo  e  taioba,  entre  outras.
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Certamente, algumas hortaliças são bem mais difíceis de produzir 
 em  temperaturas  mais  altas,  como  é  o  caso  de  batata  e  tomate, 
 principalmente por causa das doenças. Uma alternativa eficiente 
@@ -2967,7 +2965,7 @@ vêm com solo. O solo pode ser um veículo carreador de microrganismos
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 causadores de doenças (nematoides, fungos e bactérias), e de pragas 
 (insetos, lagartas, larvas e sementes de plantas espontâneas). 
 
@@ -2985,9 +2983,9 @@ e doenças tornam-se difíceis de ser controladas.
 91
 
 
- 500pr_pgnumber092
-
  500pr_pgnumber093
+
+ 500pr_pgnumber094
 7 Semeadura
 
 Romério José de Andrade
@@ -2995,9 +2993,9 @@ Romério José de Andrade
 Nozomu Makishima
 
 
- 500pr_pgnumber094
-
  500pr_pgnumber095
+
+ 500pr_pgnumber096
 165
 
 Onde comprar sementes de hortaliças?
@@ -3048,7 +3046,7 @@ sementes, tais como:
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 168
 
 Quais as características de uma boa semente?
@@ -3102,7 +3100,7 @@ cultura, identificando plantas que se destacam pelo vigor e sanidade.
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 É  importante,  ainda,  que  apresentem  certas  características 
 diferenciadas,  como  precocidade,  produtividade  e  resistência 
 a  pragas  e  doenças,  e  que  a  parte  comestível  (folha,  fruto,  raiz, 
@@ -3152,7 +3150,7 @@ semeação manual ou mecânica.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 175
 
 Por quanto tempo é possível armazenar as sementes que 
@@ -3206,7 +3204,7 @@ e os consecutivos órgãos utilizados:
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 •  Alho: bulbilho.
 •  Batata: tubérculo.
 •  Batata-doce: rama.
@@ -3254,7 +3252,7 @@ produtor de material propagativo.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 No caso da aquisição de grandes quantidades, é recomendável 
 visitar  a  cultura  em  desenvolvimento  para  constatar  o  vigor  e  a 
 sanidade das plantas-mães e, se possível, celebrar um contrato. 
@@ -3306,7 +3304,7 @@ aos espaçamentos de acordo com a hortaliça a ser plantada:
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 •  Plantio no sulco: a seme-
 adura deve ser feita dire-
 tamente  no  sulco,  em 
@@ -3357,7 +3355,7 @@ entre outros.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 187
 
 Por que usar mais sementes do que é necessário?
@@ -3426,7 +3424,7 @@ encharcado.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 •  Cobrir o canteiro semeado, 
 por  2  a  3  dias  após  a 
 semeadura,  com 
@@ -3448,9 +3446,9 @@ formigas, vaquinhas e outros insetos.
 103
 
 
- 500pr_pgnumber104
-
  500pr_pgnumber105
+
+ 500pr_pgnumber106
 8 Produção de Mudas
 
 Nozomu Makishima
@@ -3458,9 +3456,9 @@ Nozomu Makishima
 Romério José de Andrade
 
 
- 500pr_pgnumber106
-
  500pr_pgnumber107
+
+ 500pr_pgnumber108
 190
 
 O que é uma muda?
@@ -3518,7 +3516,7 @@ de altura, e ser bem enraizadas.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 Mudas muito altas e finas, com caule tenro e folhas grandes, são 
 muito sensíveis e podem sofrer danos no transplantio.
 
@@ -3574,7 +3572,7 @@ desmoronamento da sementeira.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 197
 
 O  que  é  preciso  fazer  para  melhorar  a  fertilidade  da 
@@ -3630,7 +3628,7 @@ acelere e favoreça a germinação.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 200
 
 Quais os tratos culturais a serem realizados na sementeira 
@@ -3687,7 +3685,7 @@ adequadamente.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 Assim, existem bandejas para espécies de porte pequeno, 
 como alface; de porte médio, como tomateiro; e de porte grande, 
 para abóbora, pepino e outras espécies de hortaliças.
@@ -3737,7 +3735,7 @@ nivelando a superfície com uma régua.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 206
 
 Quais  os  tratos  culturais  a  serem  feitos  nas  bandejas 
@@ -3798,7 +3796,7 @@ impressão, por causa da contaminação de metais pesados na tinta,
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 e um molde ou forma, que pode ser garrafa, tubo de PVC ou lata 
 de conserva. 
 
@@ -3853,7 +3851,7 @@ plantadas.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 212
 
 Como semear no copo?
@@ -3908,7 +3906,7 @@ No plantio da muda, é preciso:
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 •  No  caso  de  mudas  em  copo  plástico,  retirar  o  copo, 
 
 evitando a quebra do torrão. 
@@ -3963,18 +3961,18 @@ propagação, o plantio é feito da seguinte forma:
 115
 
 
- 500pr_pgnumber116
-
  500pr_pgnumber117
+
+ 500pr_pgnumber118
 9 Tratos culturais
 
 Francisco Vilela Resende
 Nuno Rodrigo Madeira
 
 
- 500pr_pgnumber118
-
  500pr_pgnumber119
+
+ 500pr_pgnumber120
 218
 
 O que são tratos culturais?
@@ -4025,7 +4023,7 @@ vegetativo das culturas.
 119
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 As  podas  são  utilizadas 
 para formação, frutificação, lim- 
 peza e tratamento fitossanitário 
@@ -4076,7 +4074,7 @@ microrganismos.
 120
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 225
 
 O que é capação ou desponta?
@@ -4127,7 +4125,7 @@ flores, frutos, brotos, rebentos, etc., para permitir maior e melhor
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 desenvolvimento  daqueles  que  são  deixados,  obtendo-se  assim 
 cultivos  mais  eficientes  e  maior  rendimento  econômico.  É 
 recomendado ao tomate tipo salada, ao melão e à melancia.
@@ -4176,7 +4174,7 @@ ou barbante, muito usadas em pepino e melão.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 232
 
 O que é amarração?
@@ -4230,7 +4228,7 @@ juntas, uma espécie interfere no desenvolvimento da outra.
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 O  processo  de  antagonismo  entre  espécies  ocorre 
 principalmente por interações bioquímicas, em que substâncias 
 são liberadas pelas raízes, folhas ou restos em decomposição de 
@@ -4274,7 +4272,7 @@ possível, incluir intervalos para descanso e recuperação do solo
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 237
 
 O que é adubação verde?
@@ -4326,7 +4324,7 @@ sustentabilidade da produção no longo prazo.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 Baseia-se em três princípios básicos: 
 •  Revolvimento  localizado  do  solo,  restrito  às  linhas  ou 
 
@@ -4382,7 +4380,7 @@ exemplo, evitando a emergência de plantas invasoras.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 244
 
 Quais  coberturas  mortas  podem  ser  utilizadas  em 
@@ -4436,7 +4434,7 @@ tomate, brássicas, feijão-vagem, morango e berinjela.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 A cobertura viva tem de ser plantada com antecedência para 
 que haja tempo para cobertura total e uniforme do solo. Após o 
 estabelecimento das plantas de cobertura, as hortaliças podem ser 
@@ -4449,7 +4447,7 @@ competição por espaço. Essa operação libera massa vegetal, que
 rapidamente assimilados pela cultura de interesse. 
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 10 Adubação
 
 ADUBO
@@ -4458,9 +4456,9 @@ Flávia Aparecida de Alcântara
 Ronessa Bartolomeu de Sousa
 
 
- 500pr_pgnumber130
-
  500pr_pgnumber131
+
+ 500pr_pgnumber132
 247
 
 O que é adubação? 
@@ -4511,7 +4509,7 @@ resultados da análise em mãos.
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 252
 
 O que é a análise química do solo?
@@ -4560,7 +4558,7 @@ aleatória para coletar as amostras em pontos diferentes. Em
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 cada um desses pontos, limpe o local, com auxílio de 
 uma enxada, retirando folhas, galhos, restos de culturas, 
 pedras e sujeiras. Depois, cave um buraco com 20 cm 
@@ -4604,7 +4602,7 @@ armazene em local seco.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 254
 
 De  quanto  em  quanto  tempo  é  preciso  fazer  análise 
@@ -4654,7 +4652,7 @@ tratamento químico os mais solúveis.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 258
 
 O que são adubos orgânicos?
@@ -4709,7 +4707,7 @@ economicamente viável preparar um composto na própria horta.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 Quando não há, pode ser mais viável, em termos econômicos, 
 
 adquirir o adubo pronto (orgânico ou químico).
@@ -4759,7 +4757,7 @@ Os mais conhecidos são os formulados à base de NPK, como
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 Alguns  fertilizantes  simples, 
 como  o  superfosfato  simples  e  o 
 superfosfato  triplo  (fontes  de  P),  o 
@@ -4812,7 +4810,7 @@ do nutriente que está em excesso.
 137
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 Além  disso,  o  excesso  de  um  nutriente  pode  causar  a 
 deficiência  de  outro,  pois  eles  podem  competir  tanto  no  solo 
 quanto dentro da planta. 
@@ -4862,7 +4860,7 @@ necessária para que as plantas iniciem seu crescimento.
 138
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 273
 
 O que é adubação de cobertura?
@@ -4911,7 +4909,7 @@ relação à semeadura ou ao plantio.
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 277
 
 Quais são os materiais usados na calagem?
@@ -4945,16 +4943,16 @@ de calcário necessária.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 11 Irrigação
 
 Waldir Aparecido Marouelli
 Henoque Ribeiro da Silva
 
 
- 500pr_pgnumber142
-
  500pr_pgnumber143
+
+ 500pr_pgnumber144
 280
 
 Por que as hortaliças são exigentes em água?
@@ -5002,7 +5000,7 @@ aeração do solo, prejudicando a respiração das raízes.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 283
 
 É necessário irrigar as hortaliças na época de chuvas?
@@ -5050,7 +5048,7 @@ são recomendados apenas para a irrigação de áreas acima de
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 285
 
 O que é aspersão?
@@ -5100,7 +5098,7 @@ sensíveis.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 288
 
 Quais os equipamentos necessários para se instalar um 
@@ -5158,7 +5156,7 @@ por sulco.
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 •  Interferência do vento.
 •  Maior perda de água por evaporação, sob climas secos, 
 
@@ -5207,7 +5205,7 @@ fora da área cultivada.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 •  Possibilidade de se irrigar de forma localizada e de não 
 
 molhar a folhagem de hortaliças tutoradas.
@@ -5257,7 +5255,7 @@ as bombas de água movidas por roda d’água ou cata-
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 vento. O fundamental, neste caso, é que o reservatório 
 esteja numa altura mínima suficiente para descarregar 
 água com pressão suficiente nos aspersores.
@@ -5302,7 +5300,7 @@ pode ser superior a 100 m.
 149
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 295
 
 Quais as principais vantagens e desvantagens da irrigação 
@@ -5350,7 +5348,7 @@ de  areia,  de  discos  ou  tela),  tubulação  de  condução  (principal
 150
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 e  secundária)  e  mangueiras  com  os  gotejadores  (geralmente 
 denominadas de tubo gotejador ou fita gotejadora). 
 
@@ -5404,7 +5402,7 @@ cultura.
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 •  Favorecimento  de  algumas  doenças  de  solo,  como  a 
 
 murcha-bacteriana.
@@ -5454,7 +5452,7 @@ tubo gotejador.
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 •  O comprimento e diâmetro das tubulações e mangueiras 
 dependem  do  tamanho  da  área  a  ser  irrigada  e  da 
 quantidade e vazão dos gotejadores. As tubulações, que 
@@ -5504,7 +5502,7 @@ murchamento ocorre, a produtividade já pode ter sido prejudicada.
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 Por sua vez, em solos arenosos e condições de clima quente e seco, 
 as plantas podem apresentar sintoma de murcha temporária nas horas 
 mais quentes do dia mesmo quando a umidade no solo é adequada.
@@ -5557,7 +5555,7 @@ forma de lâmina ao ser comprimido.
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 304
 
 A avaliação superficial da umidade do solo é suficiente 
@@ -5607,7 +5605,7 @@ milho-doce, pepino, pimenta, quiabo, repolho e tomate.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 abóboras, alface, alho, batata, berinjela, cebola, cenoura, 
 feijão-vagem, melancia, melão, pimentão; e o de 40 kPa 
 para  batata-doce,  beterraba,  brócolo,  couve-flor,  milho-
@@ -5659,7 +5657,7 @@ evapotranspiração  (em  milímetros  por  dia)  para  hortaliças  em
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 geral, conforme a temperatura e a umidade relativa média do ar na 
 região. Tais valores devem ser usados com reserva, pois dependem 
 também  do  tipo  de  hortaliça,  das  fases  de  desenvolvimento  das 
@@ -5739,7 +5737,7 @@ as características de retenção de água do solo a ser irrigado. Para a
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 determinação da quantidade total de água a ser aplicada, deve-se 
 levar em conta a eficiência do sistema de irrigação. 
 
@@ -5789,7 +5787,7 @@ devem ser realizadas em horários sem vento ou de baixa intensidade.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 Irrigações durante períodos de 
 ventos intensos e temperatura 
 elevada, além de favorecerem 
@@ -5840,7 +5838,7 @@ bombeamento de água e de irrigação.
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 •  Usar cobertura (mulching) do solo com plástico ou resíduos 
 
 vegetais.
@@ -5892,7 +5890,7 @@ e  da  hortaliça  cultivada.  Em  solos  argilosos  e  em  clima  ameno
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 ser paralisadas bem antes do que em solos arenosos e regiões de 
 clima quente e seco.
 
@@ -5942,7 +5940,7 @@ tanques e pequenas represas.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 Para  armazenamen-
 to  em  pequenos  reserva- 
 tórios,  pode  ser  coleta-
@@ -5989,7 +5987,7 @@ aumento do teor de matéria orgânica e da adoção de práticas que
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 permitam maior aprofundamento das raízes das plantas. Esse tipo 
 de armazenamento não será suficiente para abastecer de água as 
 plantas durante todo o ciclo de desenvolvimento, mas contribuirá 
@@ -6006,9 +6004,9 @@ vazões de minas de água.
 163
 
 
- 500pr_pgnumber164
-
  500pr_pgnumber165
+
+ 500pr_pgnumber166
 12 Pragas
 
 Marina Castelo Branco
@@ -6016,9 +6014,9 @@ Marina Castelo Branco
 Ronaldo Setti de Liz
 
 
- 500pr_pgnumber166
-
  500pr_pgnumber167
+
+ 500pr_pgnumber168
 320
 
 O que são pragas?
@@ -6067,7 +6065,7 @@ tios são mais novos. Plantas cortadas
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 rente ao solo podem indicar a presença de lagarta rosca e grilos. 
 Plantas que “desaparecem” podem indicar a presença de lesmas.
 
@@ -6116,7 +6114,7 @@ ao aplicador.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 327
 
 Como controlar as formigas em uma horta?
@@ -6162,7 +6160,7 @@ aplicada nas plantas.
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 330
 
 O que são cochonilhas?
@@ -6213,7 +6211,7 @@ Tempo quente e seco favorece o desenvolvimento dos ácaros.
 170
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 334
 
 Como controlar os ácaros?
@@ -6264,7 +6262,7 @@ Uma delas é colocar um prato fundo, com as bordas no mesmo
 171
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 nível do solo, e dentro dele pôr sal grosso misturado com chuchu e 
 deixar de um dia para outro. As lesmas e os caracóis são atraídos pelo 
 chuchu, depois basta recolhê-los e colocá-los em uma solução de  
@@ -6313,7 +6311,7 @@ novas.
 172
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 342
 
 Como controlar as vaquinhas?
@@ -6363,7 +6361,7 @@ alguns vírus que causam doenças graves em hortaliças.
 173
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 Os  tripes  atacam,  principalmente,  o  alho  e  o  tomate. 
 Em  alho,  localizam-se  na  dobra  das  folhas  e  secam-nas;  e  no 
 tomateiro, podem transmitir o vírus da doença conhecida como 
@@ -6409,7 +6407,7 @@ de fonte de energia para a sua sobrevivência e reprodução.
 174
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 13 Doenças
 
 Carlos Alberto Lopes
@@ -6419,9 +6417,9 @@ Ailton Reis
 Alice Maria Quezado-Duval
 
 
- 500pr_pgnumber176
-
  500pr_pgnumber177
+
+ 500pr_pgnumber178
 351
 
 Como saber se uma planta está doente?
@@ -6470,7 +6468,7 @@ de livros especializados, em sítios na internet, por agrônomo ou
 177
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 técnico agrícola. Casos mais complicados devem ser encaminhados 
 a  especialistas  em  doenças  de  plantas  (fitopatologistas),  que 
 dispõem  de  facilidades  de  laboratório  em  universidades  e  em 
@@ -6524,7 +6522,7 @@ a maneira mais simples de se prevenir doenças.
 178
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 358
 
 O que é um distúrbio fisiológico?
@@ -6575,7 +6573,7 @@ patógeno e ao desenvolvimento da doença, em regra, os sintomas
 179
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 serão  mais  precoces  quanto  mais  cedo  o  patógeno  entrar  em 
 contato com a planta. 
 
@@ -6627,7 +6625,7 @@ brados.
 180
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 364
 
 É possível controlar as doenças sem uso de agrotóxicos?
@@ -6680,7 +6678,7 @@ de solo e restos de plantas contaminados.
 181
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 368
 
 Como evitar o aparecimento de doenças nas mudas?
@@ -6734,7 +6732,7 @@ vírus  transmitidos  por  insetos
 182
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 alados  (com  asas)  e  por  fungos  e  bactérias  disseminados  pelo 
 vento. 
 
@@ -6787,7 +6785,7 @@ existe um conjunto de medidas de controle.
 183
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 Por isso, é essencial que se conheça bem a doença e o agente 
 causador, para que as medidas de controle sejam otimizadas. Ou 
 seja,  é  necessário  identificar  os  pontos  fracos  da  doença  e  do 
@@ -6846,7 +6844,7 @@ são  muito  atacadas  por  diferentes  grupos  de  patógenos.  Como
 184
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 o  uso  de  agrotóxicos  não  é  permitido  em  cultivos  orgânicos,  é 
 essencial que as medidas preventivas do controle integrado sejam 
 observadas com mais rigor e por produtores mais especializados 
@@ -6861,17 +6859,17 @@ Tecnológica, e em outras publicações.
 185
 
 
- 500pr_pgnumber186
-
  500pr_pgnumber187
+
+ 500pr_pgnumber188
 14 Plantas Invasoras
 
 Werito Fernandes de Melo
 
 
- 500pr_pgnumber188
-
  500pr_pgnumber189
+
+ 500pr_pgnumber190
 378
 
 O que são plantas invasoras?
@@ -6927,7 +6925,7 @@ O que vai definir a importância de cada planta invasora na
 189
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 horta são as características de cada local, o tipo de cultivo realizado, 
 as espécies de hortaliças plantadas e as condições climáticas. 
 
@@ -6975,7 +6973,7 @@ carrapicho e o picão.
 190
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 384
 
 Quais os prejuízos causados pelas plantas invasoras?
@@ -7029,7 +7027,7 @@ reduzindo principalmente o ataque de pragas e doenças.
 191
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 Outras vantagens da presença das plantas invasoras são: 
 •  Conservação do solo, porque servem como cobertura viva.
 •  Atração de insetos polinizadores e de inimigos naturais 
@@ -7085,7 +7083,7 @@ aquelas que não são da hortaliça desejada.
 192
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 390
 
 Produzir mudas em bandejas ou sementeiras pode ajudar 
@@ -7141,7 +7139,7 @@ surgimento das plantas invasoras.
 193
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
  Essa cobertura pode ser feita com filme plástico de polietileno 
 preto ou com restos vegetais, como palha de capim. Neste último 
 caso, deve-se tomar cuidado para não levar sementes de plantas 
@@ -7188,7 +7186,7 @@ doce.
 194
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 Quando  o  efeito  é  negativo,  denominam-se  “plantas 
 antagônicas”, cujo desenvolvimento é prejudicado pela presença 
 de outras plantas,  por exemplo, a abóbora e a batata, e a beterraba 
@@ -7237,7 +7235,7 @@ hortaliças plantadas. Dessa forma, as sementes de plantas invasoras
 195
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 ficam impedidas de germinar e as plantas já existentes reduzem 
 seu crescimento. 
 
@@ -7288,7 +7286,7 @@ Capina seletiva é a eliminação de algumas plantas invasoras
 196
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 maior  potencial  de  dano  às  hortaliças  –,  e  das  plantas  que 
 estão no final da fase vegetativa. Assim, evita-se a produção de 
 sementes que venham a competir com as hortaliças na área.
@@ -7340,7 +7338,7 @@ pragas, doenças e plantas invasoras.
 197
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 É um método físico de controle, 
 que  consiste  na  cobertura  do  solo 
 com plástico por um período entre 
@@ -7394,7 +7392,7 @@ dias, dependendo da incidência de plantas invasoras.
 198
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 406
 
 Como aproveitar as plantas invasoras que são retiradas 
@@ -7447,9 +7445,9 @@ resultados de controle.
 199
 
 
- 500pr_pgnumber200
-
  500pr_pgnumber201
+
+ 500pr_pgnumber202
 15 Pós-Colheita
 
 Neide Botrel Gonçalves
@@ -7458,9 +7456,9 @@ Roberto Guimarães Carneiro
 Edson Ferreira do Nascimento
 
 
- 500pr_pgnumber202
-
  500pr_pgnumber203
+
+ 500pr_pgnumber204
 409
 
 O que é tecnologia pós-colheita de hortaliças?
@@ -7517,7 +7515,7 @@ inhame, cebola e alho, necessitam passar pelo processo
 203
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 de  “cura”,  armazenamento  à  sombra  de  até  3  dias  que 
 proporciona a cicatrização de ferimentos e a secagem das 
 escamas externas dos bulbos.
@@ -7567,7 +7565,7 @@ constante, com um pico de alta próximo ao amadurecimento. Nesse
 204
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 caso, os frutos podem ser colhidos com pleno desenvolvimento, 
 mesmo não estando prontos para o consumo, e amadurecerem em 
 separado da planta-mãe, como é o caso do tomate e da banana. 
@@ -7637,7 +7635,7 @@ Ervilha e vagem
 205
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 416
 
 Quais  os  tipos  de 
@@ -7685,7 +7683,7 @@ caso do tomate colhido em estádio meio maduro.
 206
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 419
 
  Por que os produtos hortícolas estragam mais rapidamente 
@@ -7737,7 +7735,7 @@ inferiores a 4–5 dias.
 207
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 423
 
 Que hortaliças são menos sensíveis ao frio?
@@ -7809,7 +7807,7 @@ dos bulbos de cebola.
 208
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 425
 
 Por  que  a  redução  da  temperatura  de  armazenamento 
@@ -7858,7 +7856,7 @@ inclusive no caso de eventuais problemas.
 209
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 428
 
 Como a perda de água pode comprometer a qualidade de 
@@ -7919,7 +7917,7 @@ o pedúnculo, a região exposta perde água.
 210
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 •  Presença  de  cera  natural:  reduz  a  transpiração  do 
 
 produto.
@@ -7974,7 +7972,7 @@ O mais recomendado é consumir alimento seguro.
 211
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 434
 
 O que é alimento seguro?
@@ -8031,7 +8029,7 @@ minimizar a contaminação de hortaliças durante o cultivo.
 212
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 Tabela 5. Formas de prevenir a contaminação de hortaliças durante o cultivo.
 
 Riscos de contaminação
@@ -8104,7 +8102,7 @@ Para armazenar as hortaliças em casa, deve-se:
 213
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 •  Acondicionar  as  hortaliças  em  sacolas  de  plástico  com 
 
 pequenos furos, e conservá-las na gaveta da geladeira.
@@ -8115,15 +8113,15 @@ processadas, como conserva, congelamento ou desidratação.
 214
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 16 Processamento
 
 Cristina Maria Monteiro Machado
 
 
- 500pr_pgnumber216
-
  500pr_pgnumber217
+
+ 500pr_pgnumber218
 439
 
 Quais são os métodos para preservar as hortaliças? 
@@ -8176,7 +8174,7 @@ contaminação do produto.
 217
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 Deve ser feita com água 
 potável  e,  se  necessário,  o 
 produto deve ficar de molho 
@@ -8227,7 +8225,7 @@ os mais uniformes.
 218
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 445
 
 Quais as desvantagens do branqueamento?
@@ -8281,7 +8279,7 @@ se  um  alimento  enlatado  é  esterilizado,  deve  ficar  dentro  do
 219
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 equipamento sob pressão a 121  oC, por tempo suficiente para o 
 calor ser transferido ao ponto central do sistema por 15 minutos. 
 Alimentos esterilizados de acordo com as boas práticas de 
@@ -8332,7 +8330,7 @@ cebola, mandioquinha e brócolos, entre outras.
 220
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 Devem ser tomados os seguintes cuidados:
 •  as hortaliças devem ser colhidas no ponto adequado de 
 
@@ -8394,7 +8392,7 @@ desenvolvimento.
 221
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 455
 
 Quais os métodos utilizados para a retirada de água dos 
@@ -8453,7 +8451,7 @@ A  fritura  é  uma  forma  de  concentração  em  que  há  a
 222
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 A  evaporação  da  água  se  dá  pela  utilização  de  uma 
 temperatura muito superior ao seu ponto de ebulição, usualmente 
 próxima a 180 ˚C. Durante o processo poderá ocorrer a formação 
@@ -8509,7 +8507,7 @@ e morango.
 223
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 Outro modo de usar o açúcar é no preparo de chutney, comida 
 originária  da  Índia,  picante  e  adocicada,  feita  com  hortaliças, 
 frutas, temperos e especiarias.
@@ -8560,7 +8558,7 @@ alcançar  essa  concentração,  é  usada  uma  quantidade  de  6%  a
 224
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
   Na  fabricação  de  picles,  são  adicionados  sal  (2%–3%)  e 
 açúcar (2%–5%). O principal produto obtido por essa tecnologia é 
 o pepino em conserva; também é comum o seu uso em conservas 
@@ -8610,7 +8608,7 @@ prima por imersão em água quente, e a temperatura da mistura deve
 225
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 ser elevada a 45 ˚C e 55 ˚C. A mistura deve ser deixada nessa solução 
 por 10 a 14 horas. Essa operação é repetida mais uma ou duas vezes. 
 O fermentado é normalmente embalado em frascos de vidro 
@@ -8663,7 +8661,7 @@ pasteurizados, que podem ser conservados por vários meses.
 226
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 471
 
 É possível aplicar a defumação em hortaliças?
@@ -8714,7 +8712,7 @@ necessários:
 227
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 •  Distribuição do processo sem fluxo cruzado.
 •  Higiene correta dos manipuladores.
 •  Programa  de  limpeza  e  de  desinfecção  da  área  de 
@@ -8726,7 +8724,7 @@ processamento e equipamentos.
 228
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 17 Valor Nutricional
 
 Vitamina A
@@ -8738,9 +8736,9 @@ Vitamina C
 Patrícia Gonçalves B. de Carvalho
 
 
- 500pr_pgnumber230
-
  500pr_pgnumber231
+
+ 500pr_pgnumber232
 474
 
 Qual  a  importância  da  alimentação  para  a  saúde 
@@ -8793,7 +8791,7 @@ formado em vitamina A pelo organismo humano após a ingestão.
 231
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 479
 
 Quais são as hortaliças mais ricas em pró-vitamina A?
@@ -8845,7 +8843,7 @@ almeirão, couve, lentilha, alho e feijão-vagem.
 232
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 484
 
 Quais são as funções da vitamina B2?
@@ -8898,7 +8896,7 @@ geno,  na  cicatrização  de  feridas  e  na  recuperação  de  fraturas  e
 233
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 contusões. Age no aumento da resistência a doenças, principal-
 mente respiratórias – gripes e resfriados –, pois protege a função 
 pulmonar, bem como na síntese de serotonina, que dá sensação 
@@ -8949,7 +8947,7 @@ e feijão-vagem.
 234
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 494
 
 Qual a importância das fibras na alimentação humana?
@@ -8998,7 +8996,7 @@ rias antes que a criança aceite a hortaliça.
 235
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 498
 
 Como fazer para que as crianças consumam hortaliças?
@@ -9035,60 +9033,4 @@ diariamente.
 
 236
 
-
- 500pr_pgnumber237
-Referências
-
-EMBRAPA SEMI-ÁRIDO. Melhoria da qualidade e segurança de frutas e 
-verduras frescas: curso para multiplicadores. Petrolina: Embrapa Semi-
-Árido; U.S. Food and Drug Administration; Joint Institute for Food Safety 
-and Applied Nutrition, 2001. 189 p.
-
-FILGUEIRA, F. A. R. Novo manual de olericultura. Viçosa: UFV, 2000. 402 p.
-
-KADER, A. A. Postharvest biology and technology. In: KADER, A. A. (Ed.). 
-Postharvest  technology  of  horticultural  crops.  Oakland:  University  of 
-Califórnia, 1985. p. 3-7.
-
-237
-
-
- 500pr_pgnumber238
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000006
-
-•••
-
-
- 500pr_pgnumber239
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber240
-
- 500pr_pgnumber241
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-O papel utilizado nesta publicação foi produzido conforme 
-
-a certificação da Bureau Veritas Quality International (BVQI) de Manejo Florestal.
-
-
- 500pr_pgnumber242
 

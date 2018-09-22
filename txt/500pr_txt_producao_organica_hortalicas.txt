@@ -1,5 +1,5 @@
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 1
 
 O que é agroecologia?
@@ -43,7 +43,7 @@ da atuação de micorrizas na produtividade e “saúde das culturas”.
 18
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 4
 
 Como surgiu o termo ‘agricultura orgânica’  usado  hoje ?
@@ -87,7 +87,7 @@ princípios estabelecidos na Lei no 10.831.
 19
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 6
 
 O que é agricultura biodinâmica?
@@ -137,7 +137,7 @@ Em  1935,  o  japonês  Mokiti  Okada  criou  uma  religião  que
 20
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 tinha  como  um  dos  seus  alicerces  a  agricultura  natural,  cujo
 princípio  é o respeito  das leis da natureza pelas atividades agrícolas.
 Praticamente  na  mesma  época,  em  1938,  Masanobu  Fukuoka
@@ -182,7 +182,7 @@ Os princípios dos sistemas orgânicos de produção são:
 21
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 desenvolvimento local, social e econômico sustentável.
 
 • Manutenção de esforços contínuos da rede de produção
@@ -234,7 +234,7 @@ vitais do produto em todas as etapas.
 22
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 templem o uso saudável do solo, da água e do ar de modo
 a reduzir ao mínimo todas as formas de contaminação e
 desperdício desses elementos.
@@ -287,7 +287,7 @@ de intoxicações químicas, do uso exagerado de produtos químicos
 23
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 sintéticos e  de estresse hídrico, provocado por excesso ou falta de
 água.  As  pragas  não  possuem  a  capacidade  de  decompor  e
 aproveitar  substâncias complexas e insolúveis, mas são capazes
@@ -331,7 +331,7 @@ num dado espaço e o conseqüente surgimento e manutenção de
 24
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 espécies  que  sustentam  outras  formas  de  vida  e  modificam  o
 ambiente, tornando-o apropriado e seguro para a vida.
 
@@ -378,7 +378,7 @@ independentemente das formas de contrato de trabalho.
 25
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 17
 
 O que são as boas práticas da
@@ -424,7 +424,7 @@ maior período possível.
 26
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 19
 
 Quais as boas práticas no manejo orgânico
@@ -475,7 +475,7 @@ humana.
 27
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 21
 
 Quais as boas práticas no manejo de insetos-praga?
@@ -492,7 +492,7 @@ armazenamento.
 28
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 2 Legislação e Certificação
 
 Tereza Cristina de Oliveira Saminêz
@@ -507,7 +507,7 @@ Jorge Ricardo de Almeida Gonçalves
 29
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 22
 
 Por que é importante uma legislação
@@ -554,7 +554,7 @@ vigor até que a regulamentação da Lei no 10.831 seja publicada.
 30
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 25
 
 A Lei no 10.831, do Ministério da Agricultura,
@@ -599,7 +599,7 @@ regulamentação da Lei no 10.831, que contará com uma Instrução
 31
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 Normativa exclusiva para regulamentar sua estrutura, composição
 e suas atribuições.
 
@@ -644,7 +644,7 @@ está  adequado  às  exigências  específicas  da  produção  orgânica.
 32
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 A avaliação da conformidade orgânica é  feita pela certificação por
 auditoria e pelos mecanismos de organização com controle social.
 
@@ -689,7 +689,7 @@ social, normalmente em forma de rede, de abrangência regional,
 33
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 com  o  envolvimento  de  produtores,  técnicos  e  consumidores.
 A rede é organizada em núcleos que reúnem grupos de produtores,
 consumidores  e  entidades  de  uma  região  com  características
@@ -730,7 +730,7 @@ utilizados para a avaliação da conformidade orgânica.
 34
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 35
 
 O que é certificação por auditoria?
@@ -776,7 +776,7 @@ próprio. A Lei no 10.831 prevê a criação de um selo para o sistema
 35
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 brasileiro de avaliação da conformidade orgânica, que será o selo
 oficial  do  governo  brasileiro  para  os  produtos  avaliados  por
 entidades  (certificadoras  e  outros  organismos  de  avaliação  da
@@ -822,7 +822,7 @@ de produção da unidade,  de acordo com suas normas específicas.
 36
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 Ao assinar um contrato ou termo de compromisso com determinada
 entidade, o produtor deve cumprir as exigências previstas, mas as
 normas devem obrigatoriamente atender às exigências contidas nos
@@ -867,7 +867,7 @@ diferente  entre  as  entidades  que
 37
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 prestam  esse  serviço.  Na    certificação  por  auditoria,  o  valor  é
 composto pela taxa de adesão,  pelo custo do serviço de inspeção
 (semestral ou anual), resultante de diárias e passagens do inspetor e
@@ -913,7 +913,7 @@ Para fazer a conversão, a unidade de produção deve adotar
 38
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 as técnicas agropecuárias preconizadas nos regulamentos oficiais
 para a produção orgânica e procurar se adequar às especificidades
 das normas de produção da certificadora que pretende contratar.
@@ -961,7 +961,7 @@ vegetal de culturas perenes, para que a colheita subseqüente
 39
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 seja considerada  orgânica.
 
 • Mínimo de 12  meses de manejo orgânico ou pousio na
@@ -1009,7 +1009,7 @@ social,  técnica,  política  e  ecológica),  pode-se  considerar  que  as
 40
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 unidades  de  produção  no  período  de  conversão  apresentam
 desequilíbrios, principalmente  nas dimensões econômica e técnica.
 Em  relação  à  dimensão  técnica,  a  menor  produtividade
@@ -1051,7 +1051,7 @@ econômicos  por causa do aumento de custos com insumos.
 41
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 Na dimensão ecológica, analisando os aspectos internos do
 sistema,  percebe-se  que  as  unidades  com  maior  dificuldade  no
 processo de conversão são  as que apresentam os recursos naturais
@@ -1068,7 +1068,7 @@ favorável ao agricultor, ao consumidor e ao meio ambiente.
 42
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 Organização
 da Propriedade
 
@@ -1080,7 +1080,7 @@ Mariane Carvalho Vidal
 43
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 53
 
 Por que na agricultura orgânica a propriedade
@@ -1125,7 +1125,7 @@ as formas de matéria e de energia presentes na propriedade para se
 44
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 aproximar do equilíbrio do ambiente natural. Prioriza-se a utilização
 dos elementos orgânicos produzidos na propriedade agrícola,  pois
 nela todas as atividades devem estar de alguma forma integradas.
@@ -1170,7 +1170,7 @@ O produtor orgânico deve se preocupar prioritariamente com
 45
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 a diversificação da paisagem geral de sua propriedade de forma a
 restabelecer  o  equilíbrio  entre  todos  os  seres  vivos  da  cadeia
 alimentar, desde microrganismos até pequenos animais, pássaros e
@@ -1219,7 +1219,7 @@ irrigação.
 46
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 A fonte de biomassa determinará o tipo de infra-estrutura de
 armazenagem  e  o  método  de  processamento  e  de  aplicação  do
 material fertilizante. A localização dessa infra-estrutura,  bem como
@@ -1263,7 +1263,7 @@ esquemas de rotação de culturas, cultivos seqüenciais, consórcios
 47
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 e  estabelecimento  de  áreas  de  pousio  ou  para  adubação  verde.
 Cartazes  e  lousa  para  anotações  das  tarefas  a  serem  executadas
 podem ajudar. A finalidade desses procedimentos é criar uma rotina
@@ -1307,7 +1307,7 @@ dimensões de 30 cm de largura, no máximo, para permitir apenas
 48
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 o trânsito de pessoas e carrinhos de mão. Os carreadores principais
 devem ser dimensionados com 1,5 m a 2 m, permitindo a entrada
 de  máquinas  e  equipamentos  para  transporte  de  insumos  e
@@ -1352,7 +1352,7 @@ propriedade  orgânica  voltada  para  a  produção  de  hortaliças.
 49
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 Apresentam  múltiplas  finalidades  como  o  funcionamento  como
 barreiras fitossanitárias, dificultando a livre circulação de pragas e
 doenças entre propriedades vizinhas e entre os talhões de cultivo;
@@ -1396,7 +1396,7 @@ destacar, como exemplo, a banana, o café, o mamão, outras espécies
 50
 
 
- 500pr_pgnumber050
+ 500pr_pgnumber051
 frutíferas,  plantas  melíferas,  condimentares,  medicinais  e
 ornamentais ou  uma combinação  dessas espécies.
 
@@ -1441,7 +1441,7 @@ como leucena, grevilia, gliricidia e sansão do campo, por exemplo.
 51
 
 
- 500pr_pgnumber051
+ 500pr_pgnumber052
 Uma vez estabelecido o quebra-vento, associam-se a ele extratos
 mais baixos com plantas arbustivas e herbáceas, completando-se o
 cordão de contorno.
@@ -1484,7 +1484,7 @@ os recursos do solo, essa prática é fundamental.
 52
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 68
 
 Qual a importância da rotação de culturas para
@@ -1530,7 +1530,7 @@ verão,  reserva-se  uma  área  maior  para  o  plantio  de  espécies  de
 53
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 adubo verde que se adaptam bem ao cultivo nessa estação. Dessa
 forma, pratica-se a recuperação anual das áreas de produção.
 
@@ -1576,7 +1576,7 @@ nômicos.
 54
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 A  consorciação  permite  otimizar  a  produção  pelo  melhor
 aproveitamento  da  área  explorando  a  combinação  de  espécies
 eficientes  na  utilização  dos  recursos  de  produção  como  espaço,
@@ -1621,7 +1621,7 @@ Embora  existam  muitas  possibilidades  de  combinação  de
 55
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 hortaliças em consórcio,  são mais comuns os consórcios em faixas
 e em linhas.
 
@@ -1662,7 +1662,7 @@ tomate x guandu, crotalária x berinjela e crotalária x taro (inhame).
 56
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 75
 
 Qual  o objetivo de se associar plantas repelentes e/ou
@@ -1713,7 +1713,7 @@ de coentro.
 57
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 • Arruda (Ruta graveolens) – Ação repelente. Evita a lagarta
 
 em folhosas, como o repolho.
@@ -1764,7 +1764,7 @@ deixando-se  uma  estreita  faixa  de  vegetação  nas  entrelinhas  de
 58
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 plantio. Em culturas como berinjela, jiló, abóbora, quiabo e outras,
 deve-se  fazer apenas o coroamento das plantas e  roçadas leves no
 restante da área.
@@ -1802,7 +1802,7 @@ cobertura, fazendo-se apenas uma leve incorporação superficial.
 59
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 4 Propagação de Plantas
 
 Jacimar Luis de Souza
@@ -1812,7 +1812,7 @@ Ricardo H. Silva Santos
 Mariane Carvalho Vidal
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 79
 
 Quais os cuidados necessários na instalação
@@ -1857,7 +1857,7 @@ puro  peneirado  ou  em  mistura  com  terra  na  proporção  de  1:1.
 62
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 Menores  quantidades  de  composto  comprometem  significa-
 tivamente a qualidade e o padrão das mudas.
 
@@ -1902,7 +1902,7 @@ patógenos do solo. Essa prática tem sido empregada em pequenas
 63
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 solo, desenvolvem-se  microrganismos anaeróbicos e a produção
 de ácidos e gases tóxicos, que vão atuar  sobre os microrganismos
 fitopatogênicos. A falta de oxigênio e nutrientes e a dessecação do
@@ -1945,7 +1945,7 @@ bactérias e algumas sementes de plantas. Normalmente, em um
 64
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 dia de sol, a temperatura dentro do aparelho chega a 90 oC, o que
 é suficiente para inativar os fungos de solo mais comuns, como
 Sclerotinia sp., Sclerotium sp., Verticillium sp. e Rhizoctonia sp.,
@@ -1989,7 +1989,7 @@ técnicas  de  produção  e  podem  ser  utilizados.  Entretanto,  é
 65
 
 
- 500pr_pgnumber064
+ 500pr_pgnumber065
 fundamental uma análise técnica que comprove  essa necessidade,
 pois o uso de vermiculita em substratos 100 % orgânicos, como
 compostos,  mostrou-se  dispensável  na  prática.  Seu  uso  apenas
@@ -2032,7 +2032,7 @@ legislação em vigor.
 66
 
 
- 500pr_pgnumber065
+ 500pr_pgnumber066
 90
 
 Na propagação de  hortaliças, quais  os cuidados
@@ -2081,7 +2081,7 @@ outros.
 67
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 agrícolas, a fim de eliminar o solo e os restos de cultura
 aderidos.
 
@@ -2125,7 +2125,7 @@ de cebola, cenoura, tomate, pimentão, abóboras e pepino, entre
 68
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 outras. Algumas empresas tradicionais na venda de sementes de
 hortaliças  já oferecem sementes orgânicas de algumas espécies,
 como alface lisa, alface-crespa, alface-americana, cenoura, coentro,
@@ -2168,7 +2168,7 @@ leito do canteiro. Pelo fato de não sofrerem quebra de radicelas e
 69
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 estarem  sujeitas  a    menor  estresse  no  transplantio,    têm  melhor
 pegamento  e iniciam  a produção mais cedo.
 
@@ -2208,7 +2208,7 @@ de plástico  que comportem, pelo menos, 200 mL de substrato.
 70
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 Como fazer para evitar o esgotamento do substrato?
 
 97
@@ -2256,7 +2256,7 @@ suportar os copos de plástico.
 71
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 2o.  Preparo  dos  copos:  os  copos  devem  ser  perfurados  no
 fundo, utilizando-se um cano ou ferro aquecido com diâmetro  de
 2  a 3  cm,  para possibilitar  a “poda aérea das raízes”. Para maior
@@ -2300,7 +2300,7 @@ los em  local mais próximo  de coleta seletiva de lixo.
 72
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 101
 
 Existem outras opções de recipientes  mais adequados
@@ -2340,7 +2340,7 @@ mendações técnicas para cada espécie.
 73
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 103
 
 Quais as vantagens de produzir mudas
@@ -2392,7 +2392,7 @@ leucena e guandu) ou telas de plástico  e sombrites. Um
 74
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 bom  quebra-vento    pode  fornecer  proteção  (zona  de
 calmaria) a uma distância proporcional a 10–20 vezes sua
 altura.
@@ -2437,7 +2437,7 @@ quantidade de água por vez.
 75
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 Que cuidados deve-se ter com a irrigação das mudas?
 
 106
@@ -2483,7 +2483,7 @@ pela  própria  construção  (plástico,  telas),  seja  pelas  bancadas
 76
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 suspensas  e  o  desenvolvimento  da  maioria  dos  patógenos  é
 reduzido. Entretanto, havendo incidência que justifique o controle,
 pode-se lançar mão de métodos alternativos de proteção de plantas
@@ -2527,7 +2527,7 @@ quando as mudas estão  com  tamanho médio  de 7 cm a 15 cm de
 77
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 altura. Quando as mudas estiverem próximas do ponto de trans-
 plantio, a freqüência de irrigação deve ser diminuída para que ocorra
 o “endurecimento” da muda e esta sofra menos com o transplante.
@@ -2535,7 +2535,7 @@ o “endurecimento” da muda e esta sofra menos com o transplante.
 78
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 5 Manejo do Solo
 
 Flávia A. de Alcântara
@@ -2545,7 +2545,7 @@ Nuno R. Madeira
 79
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 111
 
 O que é solo?
@@ -2591,7 +2591,7 @@ como o plantio em curva de nível, a formação de faixas de retenção
 80
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 e cordões de contorno, são utilizadas também na agricultura orgâ-
 nica. No entanto, a agricultura orgânica vê o solo como o centro
 de todo o processo produtivo, valorizando-o como recurso-chave.
@@ -2631,7 +2631,7 @@ também no cultivo convencional.
 81
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 115
 
 O que é a matéria orgânica do solo?
@@ -2678,7 +2678,7 @@ la em pequenas partes.
 82
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
  A mineralização é o resultado do processo de decomposição
 microbiana.  Durante  a  decomposição,  elementos  químicos  que
 antes se encontravam na forma orgânica são convertidos para a
@@ -2727,7 +2727,7 @@ presentes no solo em teores acima do normal  e, por isso,
 83
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 tóxicos.
 
 b) Benefícios para o condicionamento físico do solo:
@@ -2778,7 +2778,7 @@ agregados do solo, expondo-os  mais ao ataque dos microrganismos.
 84
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 É muito mais fácil e rápido “perder” matéria orgânica do que
 “ganhar”. Portanto, para se manter o solo produtivo ao longo do
 tempo é necessário que se adicione/reponha a matéria orgânica
@@ -2826,7 +2826,7 @@ capins.
 85
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 É importante ressaltar que o produtor deve priorizar resíduos
 produzidos na propriedade ou resíduos agroindustriais da região, a
 fim de facilitar e baratear custos.  Uma alternativa prática e eficaz
@@ -2870,7 +2870,7 @@ verdes é um ótimo condicionador físico de solo.
 86
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 Os  adubos  verdes  podem  ser  utilizados  em  esquemas  de
 rotação, sucessão ou consórcio com as hortaliças. Muitos produtores
 não utilizam essa prática porque não querem ou não podem deixar
@@ -2915,7 +2915,7 @@ pudesse  aliar  um  esterco  curtido  e  de  boa  qualidade,  ou  um
 87
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 composto bem produzido, com a prática da adubação verde ou da
 cobertura vegetal. Assim, consegue-se manter os teores de matéria
 orgânica  e  propiciar  a  manutenção,  e  mesmo  a  melhoria,  da
@@ -2958,7 +2958,7 @@ safra corrente.
 88
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 126
 
 Qual a definição de sistema de plantio direto e qual
@@ -3006,7 +3006,7 @@ de  plantio  direto,  como  couve,  repolho,  couve-flor,  brócolis,
 89
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 berinjela, jiló, abobrinha, abóboras, tomate, pimentão, entre outras.
 Basicamente, podem ser cultivadas nesse sistema todas as espécies
 plantadas em espaçamento relativamente aberto, o suficiente para
@@ -3048,7 +3048,7 @@ tentabilidade, preconizado pelos sistemas orgânicos de produção,
 90
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 reduzindo a importação de insumos.
 
 A busca de palhada  em outro local  garante a cobertura do
@@ -3097,7 +3097,7 @@ de nutrientes pela cobertura morta.
 91
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 Como regra geral, se o desejado é a obtenção de cobertura
 morta  duradoura,  deve-se  optar  pelo  plantio  de  gramíneas,  de
 plantas com alta relação carbono/nitrogênio (C/N), como milho,
@@ -3141,7 +3141,7 @@ forrageiro, como descompactador.
 92
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 É preciso lembrar que, em sistemas orgânicos de produção,
 deve-se optar por plantas  com baixa capacidade de rebrota ou,
 preferencialmente, sem essa capacidade,  levando em conta tanto
@@ -3188,7 +3188,7 @@ na necessidade de irrigação.
 93
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 • Redução da mecanização, superior a 50 %  em relação a
 
 sistemas convencionais de produção.
@@ -3242,7 +3242,7 @@ quilíbrio na população e se a disponibilidade de palhada
 94
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 for insuficiente em alguns períodos do ano.
 
 • Compactação do solo, caso não ocorra o pleno estabele-
@@ -3289,7 +3289,7 @@ um fertilizante e reverter o quadro de deficiência.  Para o excesso,
 95
 
 
- 500pr_pgnumber094
+ 500pr_pgnumber095
 porém, não há solução em curto prazo.
 
 O revolvimento excessivo  provoca  a destruição dos agregados
@@ -3334,7 +3334,7 @@ colas  é  causada  principalmente  pela
 96
 
 
- 500pr_pgnumber095
+ 500pr_pgnumber096
 falta de proteção do terreno, pois o solo desprotegido fica vulnerável
 à ação da água da chuva e do vento.
 
@@ -3373,7 +3373,7 @@ possibilidades de compactação e erosão são muito reduzidas.
 97
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 140
 
 O manejo do solo no sistema
@@ -3393,7 +3393,7 @@ operação ‘manejo’.
 98
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 6 Adubação Verde
 
 Dejair Lopes de Almeida
@@ -3404,7 +3404,7 @@ José Antonio Azevedo Espindola
 99
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 O que é adubação verde?
 
 141
@@ -3450,7 +3450,7 @@ benefícios:
 100
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 • Proteção contra a erosão.
 • Melhoria  da  estrutura,  com  aumento  na  infiltração  e
 
@@ -3498,7 +3498,7 @@ características:
 101
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 • Rusticidade.
 • Crescimento  inicial  rápido,  de  modo  a  cobrir  o  solo  e
 
@@ -3544,7 +3544,7 @@ destacam-se  o  girassol,  o  guandu  e  as  crotalárias,  ao  passo  que
 102
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 para  as  condições  de  clima  subtropical  recomendam-se  nabo
 forrageiro, cornichão, alfafa, tremoço, ervilhaca e trevos.
 
@@ -3589,7 +3589,7 @@ uréia  e  sulfato  de  amônio.  Assim,  o  fornecimento  de  nitrogênio
 103
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 para as espécies cultivadas nesses sistemas de produção fica restrito
 ao uso de fontes orgânicas. Nessas condições, a prática da adubação
 verde com leguminosas é uma alternativa interessante de forne-
@@ -3630,7 +3630,7 @@ a Embrapa Agrobiologia (www.cnpab.embrapa.br) e a Embrapa Soja
 104
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 153
 
 É possível usar soja e feijão-de-corda
@@ -3673,7 +3673,7 @@ adubo verde apresentam porte arbustivo ou arbóreo.
 105
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 155
 
 Para que  tipos de hortaliças a
@@ -3723,7 +3723,7 @@ final do ciclo dessas culturas.
 106
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 157
 
 No consórcio, como decidir o melhor intervalo de tempo
@@ -3770,7 +3770,7 @@ a  semeadura  do  adubo  verde  pode  ser  realizada  em  “ruas”
 107
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 intercalares ou em todas as “ruas”, desde que o adubo verde seja
 roçado em uma delas quando se inicia o processo de colheita.
 
@@ -3811,7 +3811,7 @@ no adubo verde.
 108
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 160
 
 O que é adubação verde em
@@ -3855,7 +3855,7 @@ decorrência da competição por água e luz.
 109
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 162
 
 Que adubos verdes podem ser utilizados
@@ -3903,7 +3903,7 @@ vez, a grande maioria das espécies pode ser cultivada para a ob-
 110
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 tenção  de  sementes  na  própria
 unidade  de  produção,  o  que  é  de-
 sejável  porque torna  o agricultor in-
@@ -3953,7 +3953,7 @@ tropical são:
 111
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 • Sorgo.
 • Painço.
 • Feijão-de-porco.
@@ -3972,7 +3972,7 @@ tropical são:
 112
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 7 Adubação Orgânica
 
 Ronessa B. de Souza
@@ -3981,7 +3981,7 @@ Flávia A. de Alcântara
 113
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 166
 
 O que são fertilizantes orgânicos?
@@ -4027,7 +4027,7 @@ fertilizantes minerais.
 114
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 168
 
 Existem fertilizantes minerais de uso
@@ -4074,7 +4074,7 @@ de alimentos estão agrupados na International Federation of Organic
 115
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Agriculture Movements (Ifoam) e podem ser consultados pela internet
 no endereço <www.ifoam.org>. As normas brasileiras de produção
 orgânica  constam  da 
@@ -4116,7 +4116,7 @@ aumenta a resistência das plantas.
 116
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 174
 
 Como é feito o composto orgânico?
@@ -4161,7 +4161,7 @@ protegido do sol e da chuva (área coberta ou à sombra de uma
 117
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 Unidade  de  Produção  de  Hortaliças  Orgânicas  da  Embrapa
 Hortaliças:
 
@@ -4209,7 +4209,7 @@ para alguns.
 118
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 177
 
 Como  enriquecer o composto orgânico?
@@ -4251,7 +4251,7 @@ fertilizantes mais conhecidos destacam-se:
 119
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 179
 
 Como surgiram os biofertilizantes
@@ -4298,7 +4298,7 @@ Não há uma fórmula padrão para a produção de biofertilizante.
 120
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 Apresenta-se, a seguir,  uma receita básica de biofertilizante líquido,
 na qual podem ser feitas variações:
 
@@ -4343,7 +4343,7 @@ N, P e K.
 121
 
 
- 500pr_pgnumber120
+ 500pr_pgnumber121
 Existem diferentes formulações com duração variável de 3 a
 21  dias  para  obtenção  do  composto.  Durante  o  processo  fer-
 mentativo aeróbio, a umidade deve permanecer em torno de 50 %
@@ -4387,7 +4387,7 @@ para aquela determinada cultura.
 122
 
 
- 500pr_pgnumber121
+ 500pr_pgnumber122
 184
 
 Que tipo de análise deve ser solicitada ao laboratório?
@@ -4433,7 +4433,7 @@ manejo orgânico. Como o sistema de manejo intensivo utilizado
 123
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 na produção de hortaliças tende a favorecer a elevação dos teores
 de  nutrientes  no  solo  com  o  decorrer  do  tempo,  é  importante
 considerar o efeito residual da adubação orgânica a fim de evitar
@@ -4465,7 +4465,7 @@ quantidade de esterco necessária será:
 124
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 N = quantidade de N recomendada pela análise de solo x fc para N
 = 120 x 20 = 2.400 kg ha-1 de esterco bovino que fornece também:
 
@@ -4511,7 +4511,7 @@ das  culturas.  Pode-se  preparar  diferentes  formulações  de
 125
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 biofertilizantes enriquecidos com os diversos macro e micronutrientes.
 
 O que fazer para corrigir  a toxidez?
@@ -4556,7 +4556,7 @@ entre outros.
 126
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 • Para micronutrientes: alguns pós de rocha, estercos, fontes
 minerais permitidas (óxido de cobre e outros utilizados nos
 biofertilizantes).
@@ -4575,14 +4575,14 @@ também das normas da certificadora.
 127
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 8 Manejo da Água
 
 Henoque R. da Silva
 Waldir A. Marouelli
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 191
 
 Que problemas a água de irrigação pode apresentar?
@@ -4627,7 +4627,7 @@ concentração de sais dissolvidos totais (SDT), em miligramas por litro
 130
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 expressa em deciSiemens por metro (dS m-1).
 
 Elevadas concentrações de sódio trocável, relativamente ao cálcio
@@ -4673,7 +4673,7 @@ visualmente in loco ou por meio de informações dos agricultores.
 131
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 A turbidez é o primeiro aspecto a ser observado. Água com aparência
 turva e opaca indica a presença de partículas em suspensão e/ou
 substâncias em solução. Em geral, a presença de argila e silte dá à
@@ -4718,7 +4718,7 @@ no 357, de 17 de março de 2005, do Conama/MMA. Portanto, o
 132
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 uso de águas com grau de contaminação acima do aceitável, além
 de desrespeitar as normas vigentes, pode  não permitir a certificação
 da propriedade.
@@ -4764,7 +4764,7 @@ solo. Dentre essas práticas, podem-se destacar:
 133
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 • Proteção de nascentes.
 • Regulação  do  regime  dos  corpos  de  água  por  meio  de
 
@@ -4810,7 +4810,7 @@ selecionado deve ser  o que melhor se adapte a cada situação ou
 134
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 cultura, especialmente no que se refere ao favorecimento de doenças
 e ao custo.
 
@@ -4853,7 +4853,7 @@ Vantagens
 135
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 Desvantagens
 • Requer terrenos planos ou sistematizados.
 • Requer maior uso de água e de mão-de-obra.
@@ -4899,7 +4899,7 @@ Vantagens
 136
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 • Pouca interferência  nas práticas culturais.
 • O sistema pode ser usado em solos de diferentes texturas,
 
@@ -4950,7 +4950,7 @@ gastos extras com água e energia.
 137
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 206
 
 Na agricultura orgânica, as irrigações devem
@@ -4994,7 +4994,7 @@ ser obtidos no livro Manejo da Irrigação em Hortaliças, publicado
 138
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 pela Embrapa Hortaliças3.
 
 Na prática, a grande maioria dos agricultores avalia a umidade
@@ -5043,7 +5043,7 @@ SPI, 1994. 60 p.
 139
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 evapotranspirada  pela  cultura  desde  a  última  irrigação,  ou  seja,
 pela soma dos valores de ETc diários no período.
 
@@ -5086,7 +5086,7 @@ necessária infiltre no solo.
 140
 
 
- 500pr_pgnumber138
+ 500pr_pgnumber139
 211
 
 É verdade que no sistema orgânico
@@ -5130,7 +5130,7 @@ dutividade.
 141
 
 
- 500pr_pgnumber139
+ 500pr_pgnumber140
 213
 
 Que outros aspectos devem ser considerados
@@ -5176,7 +5176,7 @@ irrigações podem ser paralisadas bem antes que em solos arenosos
 142
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 e regiões de clima quente e seco. Em cultivos de cebola, batata e
 alho, por exemplo, as irrigações podem ser interrompidas de 5 a
 10 dias antes da colheita.  Em hortaliças do tipo fruto, como tomate
@@ -5186,7 +5186,7 @@ da última colheita.
 143
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 Manejo de Insetos-Praga
 e Artrópodes
 
@@ -5197,7 +5197,7 @@ Geni Litvin Villas Bôas
 Marina Castelo Branco
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 215
 
 O que é uma praga?
@@ -5242,7 +5242,7 @@ grande oferta de um só alimento. A retirada da vegetação nativa e o
 146
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 uso freqüente de produtos químicos são exemplos de situações que
 causam  desequilíbrio  porque  reduzem  o  número  de  algumas
 espécies, ao mesmo tempo em que favorecem o desenvolvimento
@@ -5286,7 +5286,7 @@ predadoras, além de artrópodes, como aranhas e ácaros predadores.
 147
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 Os insetos parasitóides ocorrem principalmente em duas ordens
 (Díptera e Himenóptera). Porém, por serem pequenos, dificilmente
 os  parasitóides  são  observados  no  ambiente.  Para  encontrar  o
@@ -5331,7 +5331,7 @@ ser usados como agentes de controle biológico.
 148
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 O que é  controle biológico?
 
 223
@@ -5379,7 +5379,7 @@ qualquer agricultor. Consiste simplesmente em favorecer o ambiente
 149
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 para atrair os inimigos naturais, de forma a eliminar fatores adversos
 ou fornecer itens necessários ausentes no ambiente. Essa técnica é
 comum em agricultura orgânica.  Entre as práticas que favorecem a
@@ -5427,7 +5427,7 @@ agentes de controle biológico tenha um custo inicial alto, depois
 150
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 de estabelecida torna-se cada vez mais barata. Com os inseticidas
 acontece exatamente o contrário, pois o custo do controle tende a
 encarecer ao longo dos anos.
@@ -5472,7 +5472,7 @@ são colados nas cartelas  para serem parasitados por T. pretiosum.
 151
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 Depois  de  parasitados,  podem  ser  levados  para  o  campo.
 O Trichogramma é indicado principalmente para Lepidópteros  na
 fase de ovo. Em cultivos de tomate, pode ser usado no controle
@@ -5516,7 +5516,7 @@ cristais da bactéria Bacillus thuringiensis.
 152
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 235
 
 O uso prolongado de inseticidas naturais
@@ -5561,7 +5561,7 @@ vegetação dentro e fora da área cultivada, por meio da manipulação
 153
 
 
- 500pr_pgnumber150
+ 500pr_pgnumber151
 da época de plantio, tamanho das áreas, composição de espécies
 cultivadas e de outras espécies vegetais para diversificar o ambiente.
 Com  isso  é  possível  fornecer  continuamente  alimento  aos  orga-
@@ -5607,7 +5607,7 @@ para  um  sistema  mais  diversificado,  que  sustenta  processos  e
 154
 
 
- 500pr_pgnumber151
+ 500pr_pgnumber152
 interações benéficas, envolve principalmente o reequilíbrio do solo
 e das populações de insetos, portanto requer tempo. A ausência de
 agrotóxicos  facilita o incremento gradual de inimigos naturais na
@@ -5653,7 +5653,7 @@ si  só,  já  fornece  um  ambiente  adequado  para  a  proliferação  de
 155
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 inimigos naturais. No entanto, algumas ações podem ser  tomadas
 para aumentar  essas populações, como:
 
@@ -5707,7 +5707,7 @@ botânicas não relacionadas.
 156
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 • Adotar o pousio ou a adubação verde, quando possível,
 
 para interromper o ciclo de vida de  determinado inseto.
@@ -5730,7 +5730,7 @@ necessidade  de adotar medidas de controle.
 157
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 10 Manejo de Doenças
 
 Wagner Bettiol
@@ -5738,7 +5738,7 @@ Wagner Bettiol
 Marcelo A. B. Morandi
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 245
 
 Qual a diferença entre uma planta
@@ -5784,7 +5784,7 @@ seja suscetível ao patógeno e que o patógeno esteja presente e seja
 160
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 capaz de causar doença. Uma vez que essas três condições ocorram
 simultaneamente, o processo da doença pode ter início.
 
@@ -5814,7 +5814,7 @@ aparecimento dos sintomas é denominado período de incubação.
 161
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 A extensão desse período depende do patógeno, das condições de
 ambiente  e  do  estádio  de  desenvolvimento  e  da  resistência  do
 hospedeiro. Os sinais são as estruturas do patógeno que se formam
@@ -5847,7 +5847,7 @@ natureza.  Uma  das  condições  que  favorecem  o  aumento  da
 162
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 população de patógenos e a ocorrência de  epidemias é o cultivo
 de plantas geneticamente homogêneas, no espaço (áreas contínuas)
 e no tempo (cultivos sucessivos), o que é contrário à diversidade de
@@ -5892,7 +5892,7 @@ planejadas de plantas devem ser estudados criteriosamente antes
 163
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 de  sua  aplicação  em  programas  de  manejo.  Em  diversas  pro-
 priedades que adotam o cultivo orgânico de hortaliças, os benefícios
 da diversidade são suficientes para que as doenças não  provoquem
@@ -5910,7 +5910,7 @@ listadas na Tabela 2.
 164
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 253
 
 Que bactérias provocam doenças
@@ -5945,7 +5945,7 @@ fumo (TMV) em tomateiro pelo
 165
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 atrito entre folhas de plantas doentes e sadias.
 • Solo, diretamente ou por nematóides e fungos.
 • Sementes e pólen.
@@ -5993,7 +5993,7 @@ conhecido  como  o  nematóide-das-galhas.  As  galhas  são  en-
 166
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 grossamentos,  de  diâmetros  variáveis,  quase  sempre  observados
 nas  raízes  infestadas  pelo  nematóide.  Galhas  formadas  em
 tubérculos,  como  em  batata,  são  popularmente  chamadas  de
@@ -6041,7 +6041,7 @@ preferencialmente compostado  adequadamente.
 167
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 258
 
 Que cuidados são importantes, durante o cultivo, para
@@ -6093,7 +6093,7 @@ como  deficiência  ou  toxidez  nutri-
 168
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 cional, características genéticas da planta, ação de insetos, excesso
 ou falta de água ou mudanças climáticas, podem causar sintomas
 parecidos com os das doenças.
@@ -6134,7 +6134,7 @@ doenças.
 169
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 261
 
 Qual a relação da trofobiose
@@ -6179,7 +6179,7 @@ de suas propriedades. Com a popularização do uso de  agrotóxicos,
 170
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 aqueles produtos foram quase que totalmente abandonados e, hoje,
 muitos deles são chamados de alternativos. O termo mais adequado
 é “defensivo biocompatível”,  mas é pouco  usado no Brasil, sendo
@@ -6223,7 +6223,7 @@ Alguns extratos de plantas, fungos e de matéria orgânica agem
 171
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 por indução de resistência do hospedeiro, outros por inibição do
 crescimento e da reprodução dos fitopatógenos. A ação de alguns
 desses  produtos  alternativos  é  semelhante  à  dos  agrotóxicos.
@@ -6268,7 +6268,7 @@ em 18  L  de água, em vasilhame de plástico, de cimento amianto
 172
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 ou de madeira, por 3 ou 4 horas, até que o sulfato dissolva. A cal
 virgem deve ser misturada em 2 L ou 5 L de água, de preferência na
 véspera, e despejada  na solução de sulfato de cobre, misturando
@@ -6314,7 +6314,7 @@ pecuário ou ventilado, 1 kg de cal virgem e 10 L  de água. Em uma
 173
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 lata de 20 L colocam-se aos poucos 10 L de água na cal virgem.
 Essa suspensão de cal deve ser levada ao fogo e, no início da fervura,
 coloca-se o enxofre e mistura-se  durante 1 hora, mantendo a fervura.
@@ -6353,7 +6353,7 @@ a 20 %.
 174
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 268
 
 O leite pode ser utilizado no
@@ -6398,7 +6398,7 @@ vaca é rica em potássio, cloro, enxofre, nitrogênio, sódio, fenóis,
 175
 
 
- 500pr_pgnumber171
+ 500pr_pgnumber172
 Apesar dos efeitos benéficos obtidos,  certos cuidados devem
 ser tomados com o aspecto sanitário dos animais antes de usar a
 urina  a  fim  de  não  contaminar  as  pessoas  com  microrganismos
@@ -6442,7 +6442,7 @@ Ministérios da Agricultura, do Meio Ambiente e da Saúde. Apesar
 176
 
 
- 500pr_pgnumber172
+ 500pr_pgnumber173
 disso, no mercado são encontrados antagonistas comercializados
 para  o  controle  de  doenças  à  base  dos  fungos  Trichoderma  e
 Clonostachys.
@@ -6469,7 +6469,7 @@ Agricultura. Campinas, SP: Emopi, 1998. 115 p.
 177
 
 
- 500pr_pgnumber173
+ 500pr_pgnumber174
 Plantas Espontâneas
 e Solarização
 
@@ -6480,7 +6480,7 @@ Welington Pereira
 Mírian Josefina Baptista
 
 
- 500pr_pgnumber174
+ 500pr_pgnumber175
 273
 
 O que são plantas invasoras ou ervas daninhas?
@@ -6526,7 +6526,7 @@ tempo e no espaço. Nesse contexto, a flora presente assume grande
 180
 
 
- 500pr_pgnumber175
+ 500pr_pgnumber176
 importância  quando  as  espécies  da  comunidade  atuam  como
 protetoras  do  solo,  como  hospedeiras  alternativas  de  inimigos
 naturais, pragas, patógenos ou como mobilizadoras ou cicladoras
@@ -6571,7 +6571,7 @@ fora da área cultivada comercialmente tem a vantagem de preservar
 181
 
 
- 500pr_pgnumber176
+ 500pr_pgnumber177
 ao  máximo  os  aspectos  naturais  estabelecidos  pelo  ecossistema
 local. Na divisão dos talhões de cultivo, devem ser deixadas faixas
 de vegetação espontânea de 2 m a 4 m de largura, chamadas de
@@ -6600,7 +6600,7 @@ desequilibrado estão listadas na Tabela 4.
 182
 
 
- 500pr_pgnumber177
+ 500pr_pgnumber178
 279
 
 Quais as plantas espontâneas indicadoras de solo fértil?
@@ -6612,7 +6612,7 @@ de-leão (Taraxum oficialis) e a guanxuma (Sida spp.)
 183
 
 
- 500pr_pgnumber178
+ 500pr_pgnumber179
 280
 
 A incidência de plantas espontâneas pode variar
@@ -6657,7 +6657,7 @@ na redução do banco de sementes do solo.
 184
 
 
- 500pr_pgnumber179
+ 500pr_pgnumber180
 282
 
 Qual a alternativa para reduzir a presença de plantas
@@ -6703,7 +6703,7 @@ a critério da certificadora.
 185
 
 
- 500pr_pgnumber180
+ 500pr_pgnumber181
 O que é capina seletiva?
 
 284
@@ -6746,7 +6746,7 @@ viabilidade das sementes, a temperatura requerida deve ficar acima
 186
 
 
- 500pr_pgnumber181
+ 500pr_pgnumber182
 de 46  oC, sendo o tempo de compostagem menos importante do
 que a temperatura requerida.
 
@@ -6787,7 +6787,7 @@ germinação.
 187
 
 
- 500pr_pgnumber182
+ 500pr_pgnumber183
 288
 
 Qual a importância do banco de sementes
@@ -6833,7 +6833,7 @@ ao das culturas anuais, por ser uma planta perene fisiologicamente
 188
 
 
- 500pr_pgnumber183
+ 500pr_pgnumber184
 eficiente, resistindo a muitas
 das  práticas  de  controle
 comumente usadas na ole-
@@ -6880,7 +6880,7 @@ de tiririca.
 189
 
 
- 500pr_pgnumber184
+ 500pr_pgnumber185
 produtos agrícolas contaminados com propágulos de tiririca.
 Os  tubérculos  de  tiririca  são  capazes  de  se  desenvolver
 dentro  de  tubérculos  de  batata  e  de  raízes  tuberosas,
@@ -6926,7 +6926,7 @@ O  principal  objetivo  do  cultivo  é  trazer  os  tubérculos  para  a
 190
 
 
- 500pr_pgnumber185
+ 500pr_pgnumber186
 superfície do solo, induzir a brotação e reduzir seu número pela
 dessecação  provocada  pelos  raios  solares,  principalmente  em
 regiões áridas ou em épocas de seca, ou pelo bloqueio da formação
@@ -6970,7 +6970,7 @@ infectadas  ao  campo  quando  a  população  de  tiririca  estiver
 191
 
 
- 500pr_pgnumber186
+ 500pr_pgnumber187
 aparecendo na cultura. Dessa forma, a doença alcança os níveis
 epidêmicos no início da estação de cultivo, causando a desidratação
 das raízes, reduzindo o florescimento e a formação de tubérculos,
@@ -7014,7 +7014,7 @@ formação de bolsões de ar, o que reduz a eficiência do processo e
 192
 
 
- 500pr_pgnumber187
+ 500pr_pgnumber188
 facilita o rompimento do plástico pelo vento.
 
 Recomenda-se a cobertura do solo com o plástico por 30 a
@@ -7058,7 +7058,7 @@ são mais sensíveis ou resistentes ao processo. Para garantir maior
 193
 
 
- 500pr_pgnumber188
+ 500pr_pgnumber189
 eficiência da solarização, recomenda-se não revolver o solo após o
 tratamento,  para  não  trazer  à  superfície  as  sementes  que
 sobreviveram em maiores profundidades.
@@ -7102,7 +7102,7 @@ presentes na área, intensidade de infestação, métodos de preparo
 194
 
 
- 500pr_pgnumber189
+ 500pr_pgnumber190
 do solo utilizados na propriedade, manejo da cultura, etc. O efeito
 sobre o controle de fitopatógenos do solo pode se prolongar por
 mais  de  uma  estação  de  cultivo  em  virtude  do  estímulo  que  a
@@ -7148,7 +7148,7 @@ com a Instrução Normativa no 7, sendo citada especificamente no
 195
 
 
- 500pr_pgnumber190
+ 500pr_pgnumber191
 Anexo III, que trata da produção vegetal, indicada para o manejo
 de  plantas  invasoras.  Dentre  as  certificadoras,  o  Instituto
 Biodinâmico (IBD), na 12a edição de suas Diretrizes para o Padrão
@@ -7191,7 +7191,7 @@ biológico. A extensão e a duração dos efeitos da solarização sobre
 196
 
 
- 500pr_pgnumber191
+ 500pr_pgnumber192
 diversos  grupos  de  microorganismos  estão  sendo  avaliadas  em
 trabalhos de pesquisa, mas verifica-se que, em geral, os organismos
 benéficos são pouco afetados pelo processo de solarização. Deve-
@@ -7203,7 +7203,7 @@ irrigação, as alterações climáticas, e a solarização do solo não escapa
 197
 
 
- 500pr_pgnumber192
+ 500pr_pgnumber193
 12 Pós-Colheita
 
 Celso L. Moretti
@@ -7213,7 +7213,7 @@ Neide Botrel Gonçalves
 Gilmar P. Henz
 
 
- 500pr_pgnumber193
+ 500pr_pgnumber194
 303
 
 Existem diferenças no manuseio pós-colheita
@@ -7258,7 +7258,7 @@ prateleira  do  produto.  O  ideal  é  manter  as  hortaliças  em  local
 200
 
 
- 500pr_pgnumber194
+ 500pr_pgnumber195
 sombreado e protegido no próprio campo e depois levá-las para
 um local coberto e limpo, como um galpão de beneficiamento.
 
@@ -7300,7 +7300,7 @@ cloro livre) por litro de água limpa.
 201
 
 
- 500pr_pgnumber195
+ 500pr_pgnumber196
 308
 
 Quais as principais operações realizadas
@@ -7344,7 +7344,7 @@ comum embalar hortaliças em bandejas de isopor recobertas com
 202
 
 
- 500pr_pgnumber196
+ 500pr_pgnumber197
 filme de plástico de PVC ou sacos de plástico e acondicionar essas
 embalagens em caixas.
 
@@ -7388,7 +7388,7 @@ certificação (se houver). Outras informações relevantes são:
 203
 
 
- 500pr_pgnumber197
+ 500pr_pgnumber198
 A  embalagem  dos  produtos  pode  ser  considerada  como  o
 “cartão  de  visita”  do  produtor.  A  embalagem  e  a  rotulagem  das
 hortaliças colaboram para o estabelecimento de um elo de fidelidade
@@ -7432,7 +7432,7 @@ recomendações devem ser seguidas, como:
 204
 
 
- 500pr_pgnumber198
+ 500pr_pgnumber199
 • Por exigência das certificadoras, produtos de origem orgânica
 devem ser produzidos e manipulados separadamente dos
 convencionais.
@@ -7488,7 +7488,7 @@ vivas mesmo depois da colheita e, por essa razão, devem ser bem
 205
 
 
- 500pr_pgnumber199
+ 500pr_pgnumber200
 cuidadas para que os processos de senescência e de deterioração
 não sejam acelerados.
 
@@ -7536,7 +7536,7 @@ e redução de O2). A umidade relativa e a circulação de ar também
 206
 
 
- 500pr_pgnumber200
+ 500pr_pgnumber201
 devem ser monitoradas, para evitar a perda de água causada pela
 transpiração.
 
@@ -7582,7 +7582,7 @@ por  agentes  biológicos,  como  bactérias,  fungos  e  vírus,  metais
 207
 
 
- 500pr_pgnumber201
+ 500pr_pgnumber202
 pesados e resíduos químicos. Os riscos de contaminação e as medidas
 de prevenção estão descritos na Tabela 5.
 
@@ -7627,11 +7627,11 @@ que  manipulam  alimentos  devem  tomar  a  fim  de  assegurar  que
 208
 
 
- 500pr_pgnumber202
+ 500pr_pgnumber203
 209
 
 
- 500pr_pgnumber203
+ 500pr_pgnumber204
 seus produtos e processos sejam seguros e efetivos. As BPF requerem
 que a empresa envolvida adote procedimentos de verificação de
 qualidade durante os diversos processos, o que permite minimizar
@@ -7675,7 +7675,7 @@ processos que assegurem a qualidade do alimento, como as Boas
 210
 
 
- 500pr_pgnumber204
+ 500pr_pgnumber205
 Práticas de Fabricação (BPF) e/ou Boas Práticas Agrícolas (BPA), que
 são consideradas pré-requisitos para a implantação do APPCC.
 
@@ -7700,13 +7700,13 @@ diversas regiões do País.
 211
 
 
- 500pr_pgnumber205
+ 500pr_pgnumber206
 13 Qualidade
 
 Moacir R. Darolt
 
 
- 500pr_pgnumber206
+ 500pr_pgnumber207
 326
 
 O que é  alimento orgânico?
@@ -7748,7 +7748,7 @@ especificados.
 214
 
 
- 500pr_pgnumber207
+ 500pr_pgnumber208
 328
 
 O que significa  alimento orgânico certificado?
@@ -7790,7 +7790,7 @@ forma de produção orgânica deveria ser o ideal para o consumo.
 215
 
 
- 500pr_pgnumber208
+ 500pr_pgnumber209
 331
 
 Hortaliça hidropônica é a mesma coisa que orgânica?
@@ -7832,7 +7832,7 @@ dos produtos.
 216
 
 
- 500pr_pgnumber209
+ 500pr_pgnumber210
 334
 
 As hortaliças produzidas no sistema orgânico
@@ -7853,7 +7853,7 @@ considerados mais saudáveis para o consumo. Além disso, o respeito
 217
 
 
- 500pr_pgnumber210
+ 500pr_pgnumber211
 ao meio ambiente em termos de proteção dos recursos naturais e
 um mercado justo e solidário com exigências de ordem social e
 ética também começam a ser diferenciais na escolha do consumidor.
@@ -7894,7 +7894,7 @@ consumido.
 218
 
 
- 500pr_pgnumber211
+ 500pr_pgnumber212
 337
 
 Como pode ser avaliada a qualidade
@@ -7946,7 +7946,7 @@ estudos comparando alimentos orgânicos e convencionais  quanto
 219
 
 
- 500pr_pgnumber212
+ 500pr_pgnumber213
 pesquisas  demonstraram  ligeira
 superioridade  do  produto  orgâ-
 nico, sobretudo  quanto à firmeza
@@ -7989,7 +7989,7 @@ nutritivos (vitaminas, minerais, etc.) ainda são pouco conclusivos.
 220
 
 
- 500pr_pgnumber213
+ 500pr_pgnumber214
 340
 
 A contaminação por microrganismos e
@@ -8038,7 +8038,7 @@ gástrico, ou seja, no estômago.
 221
 
 
- 500pr_pgnumber214
+ 500pr_pgnumber215
 Embora alguns cientistas  sustentem que os teores de nitrato
 em plantas cultivadas no sistema convencional e no hidropônico
 ainda permaneçam  dentro do limite permitido pela Organização
@@ -8085,7 +8085,7 @@ como  limite  de  ingestão  diária  um  máximo  de  5  mg  de  NO3
 222
 
 
- 500pr_pgnumber215
+ 500pr_pgnumber216
 (índice adotado pela  FAO). O valor estabelecido pela Organização
 Mundial da  Saúde (OMS), em 1985, é mais baixo (0,82 mg de N-
 NO3
@@ -8132,7 +8132,7 @@ a eliminação total dos resíduos de agrotóxicos.
 223
 
 
- 500pr_pgnumber216
+ 500pr_pgnumber217
 • Retire folhas externas das verduras que, em geral, concentram
 
 mais agrotóxicos.
@@ -8180,7 +8180,7 @@ mais usados, como os organofosforados, os organoclorados e os
 224
 
 
- 500pr_pgnumber217
+ 500pr_pgnumber218
 carbamatos.  Casos  de  intoxicação  aguda  exigem  cuidados
 hospitalares imediatos,  pois  colocam em risco a vida.
 
@@ -8225,7 +8225,7 @@ alegam  que  a  radiação  aumenta  o  período  de  conservação  dos
 225
 
 
- 500pr_pgnumber218
+ 500pr_pgnumber219
 produtos, destrói insetos, controla bactérias, esteriliza alimentos e
 regula a maturação.
 
@@ -8249,7 +8249,7 @@ jan. 2001.
 226
 
 
- 500pr_pgnumber219
+ 500pr_pgnumber220
 Mercado e
 Comercialização
 
@@ -8264,7 +8264,7 @@ Gilmar Paulo Henz
 227
 
 
- 500pr_pgnumber220
+ 500pr_pgnumber221
 349
 
 Qual o tamanho do mercado brasileiro
@@ -8310,7 +8310,7 @@ taxa de crescimento de 10 % ao ano. Muitas famílias já adotaram
 228
 
 
- 500pr_pgnumber221
+ 500pr_pgnumber222
 os  produtos  orgânicos  em  sua  rotina  alimentar,  o  que  implica
 mudança de hábitos e, principalmente, de atitude. Espera-se futu-
 ramente  uma  nova  e  crescente  geração  de  consumidores  mais
@@ -8356,7 +8356,7 @@ Como  grande  parte  da  produção  é  vendida  diretamente  pelos
 229
 
 
- 500pr_pgnumber222
+ 500pr_pgnumber223
 produtores aos consumidores e outros segmentos do varejo, não
 existem dados confiáveis sobre o volume produzido, ao contrário
 das hortaliças convencionais que passam por centrais atacadistas.
@@ -8399,7 +8399,7 @@ responsável ou consciente.
 230
 
 
- 500pr_pgnumber223
+ 500pr_pgnumber224
 357
 
 Que  fatores encarecem as hortaliças
@@ -8454,7 +8454,7 @@ no  sistema  orgânico,  principalmente  no  período  chuvoso.  São
 231
 
 
- 500pr_pgnumber224
+ 500pr_pgnumber225
 necessários mais investimentos em pesquisa para descobrir quais são
 as  cultivares  mais  apropriadas  para  o  sistema  orgânico,  para
 desenvolver sistemas de manejo ecológico de pragas, doenças e de
@@ -8494,7 +8494,7 @@ separadas.
 232
 
 
- 500pr_pgnumber225
+ 500pr_pgnumber226
 362
 
 Quais as vantagens de comprar
@@ -8541,7 +8541,7 @@ ou em quem está revendendo. Em outros países, é muito comum os
 233
 
 
- 500pr_pgnumber226
+ 500pr_pgnumber227
 produtores organizarem visitas guiadas, para  consumidores e demais
 interessados, às suas propriedades para mostrar como as hortaliças
 são produzidas e embaladas, criando um vínculo de confiança.
@@ -8580,7 +8580,7 @@ produtos ou de marcas próprias.
 234
 
 
- 500pr_pgnumber227
+ 500pr_pgnumber228
 367
 
 Deve-se investir em embalagem e apresentação
@@ -8625,7 +8625,7 @@ natura é o volume e a constância de oferta exigidos pelos impor-
 235
 
 
- 500pr_pgnumber228
+ 500pr_pgnumber229
 tadores para cada produto. Outra
 limitação  são  os  custos  e  os
 problemas  de  transporte  e  lo-
@@ -8669,7 +8669,7 @@ eventos.
 236
 
 
- 500pr_pgnumber229
+ 500pr_pgnumber230
 15 Custos de Produção
 
 Nirlene Junqueira Vilela
@@ -8680,7 +8680,7 @@ Roberto Guimarães Carneiro
 237
 
 
- 500pr_pgnumber230
+ 500pr_pgnumber231
 372
 
 O que são custos de produção?
@@ -8721,7 +8721,7 @@ peso sobre os custos fixos.
 238
 
 
- 500pr_pgnumber231
+ 500pr_pgnumber232
 374
 
 Existe outro tipo de distinção entre  custos fixos?
@@ -8766,7 +8766,7 @@ de tudo de um criterioso plano de levantamento de coeficientes
 239
 
 
- 500pr_pgnumber232
+ 500pr_pgnumber233
 técnicos e dos dispêndios que devem ser calculados com precisão,
 desde  a  fase  de  pré-implantação  dos  sistemas  produtivos  até  a
 entrega  aos  consumidores  finais.  Esse  procedimento  engloba
@@ -8810,7 +8810,7 @@ O  manejo  de  doenças  e  insetos  deve  ser  feito  com  defensivos
 240
 
 
- 500pr_pgnumber233
+ 500pr_pgnumber234
 naturais, por controle biológico, com calda bordalesa e sulfocálcica,
 e extratos de plantas  para não provocar desequilíbrios na natureza.
 No grupo serviços, a agricultura orgânica emprega maior quantidade
@@ -8855,7 +8855,7 @@ mercado  nacional  e  internacional  e  uma  rigidez  de  oferta  da
 241
 
 
- 500pr_pgnumber234
+ 500pr_pgnumber235
 produção  interna    insuficiente  para  atender  as  necessidades  de
 consumo.
 
@@ -8898,7 +8898,7 @@ produção.
 242
 
 
- 500pr_pgnumber235
+ 500pr_pgnumber236
 O que são coeficientes técnicos?
 
 382
@@ -8945,7 +8945,7 @@ esse ponto for inferior a 1, o produtor está incorrendo em prejuízo
 243
 
 
- 500pr_pgnumber236
+ 500pr_pgnumber237
 e não está apresentando eficiência para se manter na atividade. De
 forma análoga, no longo prazo, a eficiência econômica é avaliada
 pela análise de Benefícios/Custos que associa à fórmula uma taxa
@@ -8991,7 +8991,7 @@ culturas.
 244
 
 
- 500pr_pgnumber237
+ 500pr_pgnumber238
 O que é taxa interna de retorno?
 
 388
@@ -9026,7 +9026,7 @@ substitutos e outros preconizados pela literatura econômica.
 245
 
 
- 500pr_pgnumber238
+ 500pr_pgnumber239
 Melhoramento
 Genético
 
@@ -9035,7 +9035,7 @@ Genético
 Paulo Eduardo de Melo
 
 
- 500pr_pgnumber239
+ 500pr_pgnumber240
 390
 
 O que é melhoramento de hortaliças
@@ -9083,7 +9083,7 @@ sua capacidade de produzir sementes viáveis e que gerem
 248
 
 
- 500pr_pgnumber240
+ 500pr_pgnumber241
 indivíduos similares aos parentais.
 
 • Respeitar as barreiras reprodutivas existentes entre espécies
@@ -9129,7 +9129,7 @@ a substituição de fungicidas e inseticidas, respectivamente, é um
 249
 
 
- 500pr_pgnumber241
+ 500pr_pgnumber242
 exemplo.  Aumentar  a  eficiência  das  hortaliças  na  absorção  e
 utilização de nutrientes, para reduzir a demanda por adubação, é
 outra característica útil a qualquer sistema de cultivo.
@@ -9174,7 +9174,7 @@ produção. A variabilidade genética funciona como uma garantia
 250
 
 
- 500pr_pgnumber242
+ 500pr_pgnumber243
 de que, em safras em que as condições de cultivo não sejam tão
 favoráveis (excesso ou falta de chuvas, temperaturas muito altas ou
 muito  baixas,  etc.),  ainda  assim  haverá  alguma  produção.  Nos
@@ -9213,7 +9213,7 @@ orgânicos de produção.
 251
 
 
- 500pr_pgnumber243
+ 500pr_pgnumber244
 399
 
 A preocupação com a produtividade compromete o uso
@@ -9258,7 +9258,7 @@ da outra. Híbrido refere-se à estrutura genética da cultivar e não à
 252
 
 
- 500pr_pgnumber244
+ 500pr_pgnumber245
 hortaliças no mundo, feitos em repolho, foram produzidos na década
 de 1940, utilizando-se de uma característica presente nas Brássicas
 (a família de plantas a que pertencem o repolho, a couve, a couve-
@@ -9301,7 +9301,7 @@ produção de qualidade homogênea.
 253
 
 
- 500pr_pgnumber245
+ 500pr_pgnumber246
 403
 
 As cultivares híbridas de hortaliças são
@@ -9347,7 +9347,7 @@ controle total sobre a produção de sementes, o que é, do ponto de
 254
 
 
- 500pr_pgnumber246
+ 500pr_pgnumber247
 vista econômico, um grande trunfo.
 
 No caso das cultivares não híbridas, o produtor de hortaliças
@@ -9392,7 +9392,7 @@ híbrida é o que se chama de “quebrar o híbrido”. Essas sementes
 255
 
 
- 500pr_pgnumber247
+ 500pr_pgnumber248
 representam  a  geração  (conjunto  de  indivíduos  provenientes  de
 um  cruzamento)  de  maior  variabilidade  possível  entre  todas  as
 gerações de um cruzamento. Por isso, o uso dessas sementes gera
@@ -9440,7 +9440,7 @@ sementes  colhidas  nas  plantas  da  própria  cultivar.  Do  ponto  de
 256
 
 
- 500pr_pgnumber248
+ 500pr_pgnumber249
 vista  econômico,  esse  aspecto  é  muito  importante  porque  a
 manutenção  da  capacidade  reprodutiva  da  cultivar  garante  ao
 produtor, pelo menos do ponto de vista genético, a independência
@@ -9485,7 +9485,7 @@ No desenvolvimento de uma cultivar de planta autógama para
 257
 
 
- 500pr_pgnumber249
+ 500pr_pgnumber250
 sistemas orgânicos de produção, é especialmente importante evitar
 a  uniformidade  genética  que  naturalmente  acontece  em  virtude
 das  autofecundações  sucessivas.  Para  tanto,  a  cultivar  pode  ser
@@ -9530,7 +9530,7 @@ conhecimento e competência para tal.
 258
 
 
- 500pr_pgnumber250
+ 500pr_pgnumber251
 412
 
 Por que os sistemas orgânicos não admitem
@@ -9576,7 +9576,7 @@ ta. As seqüências de DNA
 259
 
 
- 500pr_pgnumber251
+ 500pr_pgnumber252
 inseridas em geral permitem que a planta expresse uma característica
 específica.
 
@@ -9621,7 +9621,7 @@ campos conduzidos no sistema orgânico. Há ainda as companhias
 260
 
 
- 500pr_pgnumber252
+ 500pr_pgnumber253
 que  avaliam  cultivares  já  disponíveis  no  mercado  em  campos
 conduzidos no sistema orgânico.
 
@@ -9666,7 +9666,7 @@ sistema  também  o  serão.  Porém,  se  há  duas  características  que
 261
 
 
- 500pr_pgnumber253
+ 500pr_pgnumber254
 sempre serão muito vantajosas em hortaliças desenvolvidas para
 sistemas orgânicos de produção, essas características são a esta-
 bilidade de produção e  a alta eficiência na absorção e utilização
@@ -9675,7 +9675,7 @@ de nutrientes.
 262
 
 
- 500pr_pgnumber254
+ 500pr_pgnumber255
 Produção de
 Sementes
 
@@ -9687,7 +9687,7 @@ Raquel Alves de Freitas
 263
 
 
- 500pr_pgnumber255
+ 500pr_pgnumber256
 O que são sementes orgânicas?
 
 418
@@ -9735,7 +9735,7 @@ menor. Como na maioria das vezes a produtividade de sementes
 264
 
 
- 500pr_pgnumber256
+ 500pr_pgnumber257
 orgânicas  é  inferior  à  dos  campos  de  produção  de  sementes
 convencionais, o custo de produção torna-se mais elevado, one-
 rando o preço das sementes. Soma-se a isso o maior risco durante a
@@ -9781,7 +9781,7 @@ potencial produtivo, originam plantas mais uniformes e com  maior
 265
 
 
- 500pr_pgnumber257
+ 500pr_pgnumber258
 resistência ou tolerância a fatores ambientais adversos, a pragas e
 doenças. Essas últimas características são de suma importância em
 um sistema em que não é permitida a aplicação de produtos quí-
@@ -9825,7 +9825,7 @@ das  sementes.  Para  sementes
 266
 
 
- 500pr_pgnumber258
+ 500pr_pgnumber259
 orgânicas,  o  produtor  deve  também  ser  credenciado    por  uma
 entidade  certificadora  competente.  A  certificação  assegura    ao
 produtor de hortaliças orgânicas o plantio de sementes isentas de
@@ -9869,7 +9869,7 @@ sistema orgânico, busca-se a produtividade sustentável, mantendo-
 267
 
 
- 500pr_pgnumber259
+ 500pr_pgnumber260
 se  o  equilíbrio  com  o  meio  ambiente  e  respeitando-se  especi-
 ficidades locais e características de cada produtor.
 
@@ -9915,7 +9915,7 @@ dentemente do fato de serem orgânicas ou convencionais, sendo
 268
 
 
- 500pr_pgnumber260
+ 500pr_pgnumber261
 essas diferenças de qualidade causadas por diversos fatores durante
 a produção e comercialização. As sementes podem ser enviadas
 para  laboratórios  credenciados  para  determinar  sua  qualidade
@@ -9959,7 +9959,7 @@ convencionais.  Mesmo  no  sistema  convencional,  a  maioria  das
 269
 
 
- 500pr_pgnumber261
+ 500pr_pgnumber262
 doenças não é controlada por produtos químicos (ex. fungicidas)
 nem por produtos orgânicos, pois geralmente são utilizados produtos
 de contato, que não controlam patógenos localizados no interior
@@ -10000,7 +10000,7 @@ contaminar o lote de  sementes que se pretende produzir.
 270
 
 
- 500pr_pgnumber262
+ 500pr_pgnumber263
 436
 
 Que outros fatores devem ser levados em conta
@@ -10041,7 +10041,7 @@ sementes de pimentas ardidas.
 271
 
 
- 500pr_pgnumber263
+ 500pr_pgnumber264
 438
 
 Como retirar a mucilagem de sementes
@@ -10087,7 +10087,7 @@ produzidas com materiais comprovadamente biodegradáveis e/ou
 272
 
 
- 500pr_pgnumber264
+ 500pr_pgnumber265
 recicláveis, com identificação e selo de certificação. As embalagens
 devem trazer ainda informações sobre a espécie, a cultivar, a data,
 além  de  outras  informações  úteis  como  germinação,  pureza,
@@ -10130,7 +10130,7 @@ de alface e salsão, o tratamento térmico deve ser a 45 oC durante
 273
 
 
- 500pr_pgnumber265
+ 500pr_pgnumber266
 30 minutos, e para sementes de cenoura, repolho e couve, deve ser
 a 50 oC durante 20 minutos.
 
@@ -10161,7 +10161,7 @@ químicos, mesmo depois de lavadas.
 274
 
 
- 500pr_pgnumber266
+ 500pr_pgnumber267
 18 Assistência Técnica
 
 Roberto Guimarães Carneiro
@@ -10172,7 +10172,7 @@ Francisco Vilela Resende
 275
 
 
- 500pr_pgnumber267
+ 500pr_pgnumber268
 444
 
 Existe assistência técnica especializada
@@ -10215,7 +10215,7 @@ ser conseguida nas associações, cooperativas, sindicatos, secretarias
 276
 
 
- 500pr_pgnumber268
+ 500pr_pgnumber269
 estaduais de agricultura, organizações não-governamentais (ONGs),
 programas de extensão universitária, etc.
 
@@ -10260,7 +10260,7 @@ criações, comercialização, introdução de novas tecnologias espe-
 277
 
 
- 500pr_pgnumber269
+ 500pr_pgnumber270
 cíficas  de  cada  atividade  visando  resolver  problemas  técnicos.
 O serviço de consultoria opera por meio de diagnósticos, de análise
 de processos, indicando pontos vulneráveis, de levantamento de
@@ -10303,7 +10303,7 @@ cultivares adaptadas aos sistemas orgânicos. O mercado ainda está
 278
 
 
- 500pr_pgnumber270
+ 500pr_pgnumber271
 em  formação  e  o  conhecimento  da  população  sobre  alimentos
 orgânicos ainda é superficial.
 
@@ -10348,7 +10348,7 @@ informações técnicas seguras para serem adotadas ou adaptadas.
 279
 
 
- 500pr_pgnumber271
+ 500pr_pgnumber272
 454
 
  O que é dia de campo em agricultura orgânica?
@@ -10393,7 +10393,7 @@ validação de tecnologias, pelos agentes de extensão e assistência
 280
 
 
- 500pr_pgnumber272
+ 500pr_pgnumber273
 técnica e chegando ao produtor no final da linha. Muitas vezes,
 essas etapas são concomitantes e o agente da assistência técnica se
 envolve no processo de geração da tecnologia junto com o produtor.
@@ -10437,7 +10437,7 @@ tecnológicas  perante  a  realidade  dos  sistemas  de  produção  tra-
 281
 
 
- 500pr_pgnumber273
+ 500pr_pgnumber274
 dicionais,  incluindo  aspectos  que  vão  além  das  questões
 tecnológicas.  No  decorrer  do  desenvolvimento  dos  sistemas  de
 produção,  deve  ocorrer  o  monitoramento  dos  recursos  naturais.
@@ -10481,7 +10481,7 @@ cabe  acompanhar  e  sugerir
 282
 
 
- 500pr_pgnumber274
+ 500pr_pgnumber275
 aperfeiçoamentos  na  condução  do  trabalho,  além  de  identificar
 pontos  de  estrangulamento  que  necessitem  ser  abordados  pela
 pesquisa convencional. É fundamental que o agente de assistência
@@ -10497,7 +10497,7 @@ agricultura familiar.
 283
 
 
- 500pr_pgnumber275
+ 500pr_pgnumber276
 19 Extensão Rural
 
 Dione Melo da Silva
@@ -10509,7 +10509,7 @@ Edson Guiducci Filho
 Francisco Roberto Caporal
 
 
- 500pr_pgnumber276
+ 500pr_pgnumber277
 461
 
 O que é extensão rural?
@@ -10553,7 +10553,7 @@ das famílias rurais, seus interesses e necessidades.
 286
 
 
- 500pr_pgnumber277
+ 500pr_pgnumber278
 463
 
 Quando a extensão rural foi estabelecida,
@@ -10597,7 +10597,7 @@ Como qualquer prática social, a extensão rural também tem
 287
 
 
- 500pr_pgnumber278
+ 500pr_pgnumber279
 modelos teóricos que fundamentam suas práticas. Dentre os diversos
 autores  que  pesquisaram  o  tema,  destaca-se  o  norte-americano
 Everett M. Rogers, responsável pela Teoria da Difusão de Inovações.
@@ -10640,7 +10640,7 @@ assistência técnica.
 288
 
 
- 500pr_pgnumber279
+ 500pr_pgnumber280
 467
 
 Quais as conseqüências do processo de
@@ -10690,7 +10690,7 @@ familiares.
 289
 
 
- 500pr_pgnumber280
+ 500pr_pgnumber281
  Nesse ambiente de construção de novos conhecimentos e
 práticas, a agroecologia é o enfoque científico capaz de orientar e
 apoiar essas diferentes correntes de agricultura em direção a modelos
@@ -10730,7 +10730,7 @@ educativo das comunidades rurais.
 290
 
 
- 500pr_pgnumber281
+ 500pr_pgnumber282
 471
 
 Que metodologias são preconizadas pela
@@ -10769,7 +10769,7 @@ vivenciada.
 291
 
 
- 500pr_pgnumber282
+ 500pr_pgnumber283
 473
 
 Como deve ser a participação dos produtores nas
@@ -10817,7 +10817,7 @@ desse serviço, dentro dos seguintes princípios:
 292
 
 
- 500pr_pgnumber283
+ 500pr_pgnumber284
 • Atendimento a públicos definidos como prioritários para
 
 essa política.
@@ -10866,7 +10866,7 @@ agricultores familiares, assentados por programas de reforma agrária,
 293
 
 
- 500pr_pgnumber284
+ 500pr_pgnumber285
 extrativistas,  ribeirinhos,  indígenas,  quilombolas,  pescadores
 artesanais e aqüiculturas, povos da floresta, seringueiros, e outros
 beneficiários  dos  programas  do  Ministério  do  Desenvolvimento
@@ -10893,7 +10893,7 @@ consultivos.
 294
 
 
- 500pr_pgnumber285
+ 500pr_pgnumber286
 20 Fontes de Informação
 
 Gilmar P. Henz
@@ -10904,7 +10904,7 @@ Rosane M. Parmagnani
 295
 
 
- 500pr_pgnumber286
+ 500pr_pgnumber287
 Onde conseguir informações sobre agricultura orgânica?
 
 480
@@ -10950,7 +10950,7 @@ metodologia científica e avaliado por outros especialistas da área
 296
 
 
- 500pr_pgnumber287
+ 500pr_pgnumber288
 e/ou  comissão  editorial.  O  formato  e  a  linguagem  dos  artigos
 científicos  são  padronizados.  De  outra  forma,  as  informações
 técnicas  são  obtidas  de  todas  as  outras  fontes  (livros  e  outras
@@ -11004,7 +11004,7 @@ Nobel, 1988. 75 p.
 297
 
 
- 500pr_pgnumber288
+ 500pr_pgnumber289
 • GLIESSMAN,  S.  Agroecologia:  processos  ecológicos  em
 agricultura sustentável. Porto Alegre: UFRGS, 2000. 653 p.
 • KIEHL, E. J. Fertilizantes orgânicos. Piracicaba: Ceres, 1985.
@@ -11056,7 +11056,7 @@ Brasileira de Fitopatologia.
 298
 
 
- 500pr_pgnumber289
+ 500pr_pgnumber290
 • Revista  Pesquisa  Agropecuária  Brasileira,  publicada  pela
 
 Empresa Brasileira de Pesquisa Agropecuária (Embrapa).
@@ -11102,7 +11102,7 @@ outras.
 299
 
 
- 500pr_pgnumber290
+ 500pr_pgnumber291
 Os artigos podem ser impressos no formato “pdf” (Acrobat
 Reader)  ou  copiados  para  o  computador  do  usuário.  Também
 existem revistas em outras categorias que podem trazer artigos de
@@ -11145,7 +11145,7 @@ conhecidas são:
 300
 
 
- 500pr_pgnumber291
+ 500pr_pgnumber292
 • Agriculture, Ecosystems & Environment.
 • Applied Soil Ecology.
 • Food, Agriculture & Environment.
@@ -11188,7 +11188,7 @@ apresentam textos de interesse para a agricultura orgânica, como:
 301
 
 
- 500pr_pgnumber292
+ 500pr_pgnumber293
 488
 
 Existem bases de dados organizadas
@@ -11234,7 +11234,7 @@ Tecnologia (Ibict). Várias universidades mantêm bancos de teses,
 302
 
 
- 500pr_pgnumber293
+ 500pr_pgnumber294
 que podem ser acessados diretamente pelos sítios das bibliotecas
 dessas  instituições.  Algumas  delas  disponibilizam,  inclusive,  os
 trabalhos completos, como:
@@ -11290,7 +11290,7 @@ de Pesquisa Avançada, Preferências e Ferramentas de Idioma.
 303
 
 
- 500pr_pgnumber294
+ 500pr_pgnumber295
 492
 
 Que tipo de informação sobre agricultura
@@ -11337,7 +11337,7 @@ que  definem  a  agricultura  orgânica,  como  “organic  vegetables
 304
 
 
- 500pr_pgnumber295
+ 500pr_pgnumber296
 production”. Não esquecer de colocar os termos combinados entre
 aspas duplas.
 
@@ -11389,7 +11389,7 @@ Medicinais”, entre outros.
 305
 
 
- 500pr_pgnumber296
+ 500pr_pgnumber297
 Entre as publicações listadas na seção “Livraria” estão diversos
 cadernos  técnicos  sobre  a  produção  de  hortaliças  (tomate  e
 crucíferas orgânicas), controle alternativo de pragas e doenças e
@@ -11429,7 +11429,7 @@ como alemão, francês, italiano, japonês, a segunda opção de acesso
 306
 
 
- 500pr_pgnumber297
+ 500pr_pgnumber298
 498
 
 Os sítios na internet não vivem
@@ -11475,7 +11475,7 @@ primeiro e depois os produtos adquiridos são despachados, ou seja,
 307
 
 
- 500pr_pgnumber298
+ 500pr_pgnumber299
 em muitos casos não se conhece a qualidade das publicações. Por
 essa  razão,  é  melhor  conhecer  previamente  as  publicações
 conversando com profissionais que atuam na área ou por meio de
@@ -11485,39 +11485,4 @@ sua política de devolução ou troca de produtos.
 
 308
 
-
- 500pr_pgnumber299
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta, preencha o
-
-formulário de atendimento na Internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000021
-
-•••
-
-
- 500pr_pgnumber300
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber301
-
- 500pr_pgnumber302
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber303
 

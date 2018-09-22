@@ -1,18 +1,5 @@
 
- 500pr_pgnumber015
-1 Variedades e 
-
-Características da Planta
-
-Jorge Luiz Loyola Dantas
-Antônio da Silva Souza
-Davi Theodoro Junghans
-Juliana Firmino de Lima
-
-15
-
-
- 500pr_pgnumber016
+ 500pr_pgnumber017
 1  Quais as características da família Caricaceae?
 
 Essa família de dicotiledôneas possui, atualmente, seis gêneros e 
@@ -58,7 +45,7 @@ fruto, combinada com autofecundações e endogamia de indivíduos
 16
 
 
- 500pr_pgnumber017
+ 500pr_pgnumber018
 com flores hermafroditas (com cromossomo Y não funcional), o que 
 provavelmente explica a pequena diversidade genética no mamoeiro 
 cultivado.
@@ -111,7 +98,7 @@ utilizadas.
 17
 
 
- 500pr_pgnumber018
+ 500pr_pgnumber019
 6 
 
 Quais os objetivos principais do Programa de Melhoramento 
@@ -155,7 +142,7 @@ geração F2.
 18
 
 
- 500pr_pgnumber019
+ 500pr_pgnumber020
 Nesse caso, as plantas obtidas a partir de sementes de frutos 
 híbridos  serão  muito  diferentes  entre  si  e  acarretarão  perda  de 
 produtividade.
@@ -206,7 +193,7 @@ mente mais importante:
 19
 
 
- 500pr_pgnumber020
+ 500pr_pgnumber021
 11 
 
 Por  quais  outros  nomes  a  variedade  Sunrise  Solo  é 
@@ -255,7 +242,7 @@ média está em torno de 40 t/ha/ano.
 20
 
 
- 500pr_pgnumber021
+ 500pr_pgnumber022
 14 
 
 Quais  são  as  principais  características  da  variedade 
@@ -303,7 +290,7 @@ de altura.
 21
 
 
- 500pr_pgnumber022
+ 500pr_pgnumber023
 •	 Alta tolerância ao vírus da mancha-anelar do mamoeiro e 
 
 suscetível à podridão-das-raízes.
@@ -349,7 +336,7 @@ no verão.
 22
 
 
- 500pr_pgnumber023
+ 500pr_pgnumber024
 •	 Frutos com polpa vermelho-alaranjada.
 •	 Peso médio entre 400 g e 600 g.
 •	 Formato piriforme a ovalado e cavidade interna estrelada.
@@ -393,7 +380,7 @@ As plantas mais vigorosas florescem preco-
 23
 
 
- 500pr_pgnumber024
+ 500pr_pgnumber025
 cemente e produzem frutos que amadurecem antes dos frutos pro-
 venientes de plantas mais fracas. Elas apresentam frutos em desen-
 volvimento permanente e a quantidade produzida sempre é maior, 
@@ -438,7 +425,7 @@ frutos que contêm um grande número de sementes.
 24
 
 
- 500pr_pgnumber025
+ 500pr_pgnumber026
 26  Quando são emitidas as primeiras flores no mamoeiro?
 
 As  primeiras  flores  do  mamoeiro  são  emitidas  cerca  de  3  a 
@@ -484,7 +471,7 @@ a parte inferior da corola e só apresentam órgãos femininos.
 25
 
 
- 500pr_pgnumber026
+ 500pr_pgnumber027
 30  Quais são as características das flores hermafroditas?
 
 As  flores  hermafroditas  possuem  pedúnculo  curto  e  pétalas 
@@ -530,7 +517,7 @@ froditas com formato intermediário entre a elongata e a pentândrica
 26
 
 
- 500pr_pgnumber027
+ 500pr_pgnumber028
 e  resultam  da  transformação  dos 
 estames em carpelos, de forma que 
 carpelos normais ficam suprimidos 
@@ -572,7 +559,7 @@ qualidade.
 27
 
 
- 500pr_pgnumber028
+ 500pr_pgnumber029
 37  O que causa o ovocarpismo nos frutos de mamão?
 
 O ovocarpismo ocorre quando um carpelo permanece dentro 
@@ -588,7 +575,7 @@ anormais dentro de frutos normais.
 28
 
 
- 500pr_pgnumber029
+ 500pr_pgnumber030
 2 Clima, Solo, Calagem e 
 
 Adubação
@@ -603,7 +590,7 @@ Aldo Vilar Trindade
 29
 
 
- 500pr_pgnumber030
+ 500pr_pgnumber031
 38 
 
 Qual a faixa de temperatura 
@@ -649,7 +636,7 @@ plantas,  rasgam  folhas  e  causam  a  queda  de  flores,  afetando  o
 30
 
 
- 500pr_pgnumber031
+ 500pr_pgnumber032
 crescimento e produção do mamoeiro, exigindo-se a implantação 
 de quebra-ventos.
 
@@ -704,7 +691,7 @@ baixas predispõe a cultura a um forte ataque de fungos e vírus.
 31
 
 
- 500pr_pgnumber032
+ 500pr_pgnumber033
 46 
 
 Quais  os  índices  pluviométricos 
@@ -754,7 +741,7 @@ na época de chuvas intensas.
 32
 
 
- 500pr_pgnumber033
+ 500pr_pgnumber034
 51 
 
 No  caso  de  plantio  em  locais  com  ocorrência  de  muita 
@@ -806,7 +793,7 @@ recomendações de calagem e/ou adubação.
 33
 
 
- 500pr_pgnumber034
+ 500pr_pgnumber035
 As amostras devem ser retiradas na profundidade de 0 cm a 
 20  cm.  Sendo  possível,  é  também  conveniente  a  amostragem  na 
 profundidade de 20 cm a 40 cm, para que se possa ter também 
@@ -852,7 +839,7 @@ torrão  na  profundidade  de  trabalho  dos  implementos  agrícolas,  e
 34
 
 
- 500pr_pgnumber035
+ 500pr_pgnumber036
 com uma leve pressão entre os dedos, o mesmo se desfizer sem 
 oferecer resistência.
 
@@ -902,7 +889,7 @@ radicular profundo, adaptadas à região.
 35
 
 
- 500pr_pgnumber036
+ 500pr_pgnumber037
 •	 Manter  a  área  em  pousio,  sem  entrada  de  máquinas  ou 
 
 pastoreio por 50 a 60 dias.
@@ -948,7 +935,7 @@ corretivos, conferindo-lhes diferentes poderes de neutralização.
 36
 
 
- 500pr_pgnumber037
+ 500pr_pgnumber038
 A velocidade de reação no solo é basicamente determinada 
 pela  granulação  do  material  (materiais  mais  finos  reagem  mais 
 rapidamente).
@@ -995,7 +982,7 @@ da saturação por bases para a faixa de 70% a 80%.
 37
 
 
- 500pr_pgnumber038
+ 500pr_pgnumber039
 Os diversos estados produtores contam com recomendações 
 
 específicas sobre esse tema.
@@ -1043,7 +1030,7 @@ localizada.
 38
 
 
- 500pr_pgnumber039
+ 500pr_pgnumber040
 69 
 
 Quais as quantidades de adubo a serem usadas no plantio 
@@ -1090,7 +1077,7 @@ Capítulo 5).
 39
 
 
- 500pr_pgnumber040
+ 500pr_pgnumber041
 71 
 
 Por que os adubos nitrogenados e potássicos são aplicados 
@@ -1140,7 +1127,7 @@ abortamento de flores em períodos de estiagem, com prejuízos para
 40
 
 
- 500pr_pgnumber041
+ 500pr_pgnumber042
 a  produção.  Em  plantas  deficientes,  os  frutos  são  mal  formados, 
 encaroçados e podem apresentar exsudação de látex pela casca 
 em alguns poucos pontos.
@@ -1190,7 +1177,7 @@ hídrico.
 41
 
 
- 500pr_pgnumber042
+ 500pr_pgnumber043
 77 
 
 Para que serve a análise foliar?
@@ -1247,7 +1234,7 @@ posteriormente correlacionar com a área amostrada.
 42
 
 
- 500pr_pgnumber043
+ 500pr_pgnumber044
 79 
 
 Como  são  interpretados  os  resultados  das  análises  de 
@@ -1297,7 +1284,7 @@ res indicadores de desequilíbrios nutricionais do que a concentra-
 43
 
 
- 500pr_pgnumber044
+ 500pr_pgnumber045
 Como consequência, os mencionados índices permitem uma 
 avaliação mais acurada sobre as limitações causadas pelos diversos 
 nutrientes, tanto por deficiência quanto por excesso, possibilitando 
@@ -1344,7 +1331,7 @@ Os adubos orgânicos:
 44
 
 
- 500pr_pgnumber045
+ 500pr_pgnumber046
 •	 Melhoram a capacidade de retenção de água e nutrientes 
 
 pelo solo.
@@ -1388,7 +1375,7 @@ morte de plantas.
 45
 
 
- 500pr_pgnumber046
+ 500pr_pgnumber047
 87 
 
 Quais  os  procedimentos  adotados  em  relação  a  adubos 
@@ -1440,7 +1427,7 @@ do solo.
 46
 
 
- 500pr_pgnumber047
+ 500pr_pgnumber048
 podem contribuir para o rompimento dessas camadas, em 
 função da agressividade do sistema radicular de algumas 
 plantas utilizadas nessa prática.
@@ -1487,7 +1474,7 @@ Rhizobium,  incorporando  em  seus  tecidos,  por  meio  da  fixação
 47
 
 
- 500pr_pgnumber048
+ 500pr_pgnumber049
 biológica,  o  nitrogênio  atmosférico,  que  posteriormente  é 
 aproveitado pela cultura explorada economicamente.
 
@@ -1539,7 +1526,7 @@ kudzu tropical, pois o controle é difícil e oneroso.
 48
 
 
- 500pr_pgnumber049
+ 500pr_pgnumber050
 97 
 
 O  que  são  micorrizas  e  como  elas  podem  favorecer  o 
@@ -1567,9 +1554,9 @@ associação com fungos micorrízicos.
 49
 
 
- 500pr_pgnumber050
-
  500pr_pgnumber051
+
+ 500pr_pgnumber052
 3 Propagação e Produção 
 
 de Mudas
@@ -1583,7 +1570,7 @@ Jorge Luiz Loyola Dantas
 51
 
 
- 500pr_pgnumber052
+ 500pr_pgnumber053
 99 
 
 Quais as formas de propagação do 
@@ -1630,7 +1617,7 @@ grupo Solo, haja vista que são linhas puras.
 52
 
 
- 500pr_pgnumber053
+ 500pr_pgnumber054
 103  Quem produz as sementes do híbrido F1 Tainung nº 1?
 
 As sementes do híbrido F1 Tainung nº 1 são produzidas em 
@@ -1677,7 +1664,7 @@ Para a retirada de sementes:
 53
 
 
- 500pr_pgnumber054
+ 500pr_pgnumber055
 •	 Os frutos devem ser cortados superficialmente com uma 
 
 faca não muito afiada, para não danificar as sementes.
@@ -1728,7 +1715,7 @@ cultivares  diferentes  plantadas  a  distâncias  inferiores  a  2  km  das
 54
 
 
- 500pr_pgnumber055
+ 500pr_pgnumber056
 plantas matrizes hermafroditas, utilizadas para coleta de sementes, 
 estas deverão ter suas flores protegidas.
 Nota: considera-se 2 km o correspondente à máxima dispersão do pólen do mamoeiro 
@@ -1780,7 +1767,7 @@ substrato obtido por compostagem de materiais vegetais e estrumes
 55
 
 
- 500pr_pgnumber056
+ 500pr_pgnumber057
 curtidos,  enriquecido  com  fertilizantes.  Trata-se  de  um  substrato 
 seguro  em  relação  a  contaminantes  de  solo,  equilibrado  em 
 nutrientes, com textura fina e leve.
@@ -1824,7 +1811,7 @@ fitopatogênicos, causadores de doenças nas plantas.
 56
 
 
- 500pr_pgnumber057
+ 500pr_pgnumber058
 Como alternativa, em contraposição aos produtos químicos, 
 uma boa ferramenta para tratar o solo é o solarizador que consiste, 
 basicamente, de uma caixa de madeira com tubos metálicos ou 
@@ -1872,7 +1859,7 @@ raízes.
 57
 
 
- 500pr_pgnumber058
+ 500pr_pgnumber059
 120  Onde o viveiro deve ser construído?
 
 O  viveiro  deve  ser  instalado  em  local  de  fácil  acesso,  em 
@@ -1915,7 +1902,7 @@ plantio, o que indica que coberturas fixas não são apropriadas.
 58
 
 
- 500pr_pgnumber059
+ 500pr_pgnumber060
 124  Qual deve ser o tamanho das leiras ou canteiros?
 
 As leiras ou canteiros devem ter de 1,00 m a 1,20 m de largura 
@@ -1965,7 +1952,7 @@ deve-se considerar que:
 59
 
 
- 500pr_pgnumber060
+ 500pr_pgnumber061
 aproximadamente 60 sementes.
 
 •	 Um hectare de mamoeiro no espaçamento 3,0 m x 2,0 m 
@@ -2014,7 +2001,7 @@ muda por cova, no campo.
 60
 
 
- 500pr_pgnumber061
+ 500pr_pgnumber062
 •	 Será produzido um excedente de 15% de mudas.
 •	 Aplica-se a fórmula:
 
@@ -2053,7 +2040,7 @@ vigorosa.
 61
 
 
- 500pr_pgnumber062
+ 500pr_pgnumber063
 133  Quando deve ser feito o desbaste de mudas no viveiro?
 
 O  desbaste  deve  ser  feito  quando  as  mudas  apresentarem 
@@ -2105,7 +2092,7 @@ As mudas devem:
 62
 
 
- 500pr_pgnumber063
+ 500pr_pgnumber064
 138  Com quantos dias a muda está pronta para ir ao campo?
 
 Considerando o início da semeadura, uma muda estará pronta 
@@ -2138,9 +2125,9 @@ sementes.
 63
 
 
- 500pr_pgnumber064
-
  500pr_pgnumber065
+
+ 500pr_pgnumber066
 4 Plantio, Tratos Culturais 
 
 e Culturas Intercalares
@@ -2154,7 +2141,7 @@ Marcelo Bezerra Lima
 65
 
 
- 500pr_pgnumber066
+ 500pr_pgnumber067
 141 
 
 Os  plantios  de  mamoeiro  podem  ser  realizados  em 
@@ -2198,7 +2185,7 @@ res preços.
 66
 
 
- 500pr_pgnumber067
+ 500pr_pgnumber068
 145 
 
 Todos  os  plantios  de  mamoeiro  podem  ser  planejados 
@@ -2251,7 +2238,7 @@ O espaçamento pode variar principalmente em função de:
 67
 
 
- 500pr_pgnumber068
+ 500pr_pgnumber069
 •	 Cultivar.
 
 •	 Tratos culturais.
@@ -2302,7 +2289,7 @@ manualmente ou com a utilização de teodolito, no caso de grandes
 68
 
 
- 500pr_pgnumber069
+ 500pr_pgnumber070
 151 
 
 Como  ocorre  a  distribuição  de  fileiras  no  plantio  do 
@@ -2354,7 +2341,7 @@ Devem ser utilizados os espaçamentos de:
 69
 
 
- 500pr_pgnumber070
+ 500pr_pgnumber071
 •	 4,0 m x 2,0 m x 1,8 m.
 
 •	 4,0 m x 1,8 m x 1,8 m.
@@ -2403,7 +2390,7 @@ colheita e transporte de frutos.
 70
 
 
- 500pr_pgnumber071
+ 500pr_pgnumber072
 160  Como é feito o plantio do mamoeiro?
 
 Além  do  plantio  em  covas,  o  mamoeiro  pode  também  ser 
@@ -2445,7 +2432,7 @@ no sulco, com o colo (região de transição entre o caule e as raízes)
 71
 
 
- 500pr_pgnumber072
+ 500pr_pgnumber073
 da planta ao nível do solo. Em seguida, deve-se aproximar terra às 
 mudas, comprimindo-as com cuidado.
 
@@ -2494,7 +2481,7 @@ cova apenas a muda que possuir a flor hermafrodita.
 72
 
 
- 500pr_pgnumber073
+ 500pr_pgnumber074
 169 
 
 Como é feita a identificação do sexo 
@@ -2547,7 +2534,7 @@ comuns às culturas consorciadas.
 73
 
 
- 500pr_pgnumber074
+ 500pr_pgnumber075
 173 
 
 O mamoeiro pode ser consorciado com culturas de ciclo 
@@ -2594,7 +2581,7 @@ trole das plantas daninhas.
 74
 
 
- 500pr_pgnumber075
+ 500pr_pgnumber076
 No período de deficiência de água no solo (estresse hídrico), 
 deve-se usar herbicidas pós-emergentes na linha de plantio e grade/
 herbicida e/ou roçadeira nas ruas.
@@ -2645,7 +2632,7 @@ da  planta  ou  das  folhas,  pois  o  mamoeiro  é  altamente
 75
 
 
- 500pr_pgnumber076
+ 500pr_pgnumber077
 sensível a diversos herbicidas, em especial aos sistêmicos, 
 que  se  translocam  junto  com  a  seiva  elaborada  até  os 
 sítios de ação.
@@ -2694,7 +2681,7 @@ prática sempre que necessário.
 76
 
 
- 500pr_pgnumber077
+ 500pr_pgnumber078
 183  Por que se recomenda o desbaste de frutos?
 
 Essa  prática  tem  por  finalidade  a  eliminação  de  frutos 
@@ -2741,7 +2728,7 @@ florescimento e a colheita dos frutos.
 77
 
 
- 500pr_pgnumber078
+ 500pr_pgnumber079
 Como  os  frutos  demoram  mais  tempo  para  amadurecer  no 
 outono/inverno; nesse período, eles crescerão bem mais que aqueles 
 que se desenvolvem no verão.
@@ -2755,7 +2742,7 @@ dispensados à lavoura.
 78
 
 
- 500pr_pgnumber079
+ 500pr_pgnumber080
 5 Irrigação e Fertirrigação
 
 Eugênio Ferreira Coelho
@@ -2766,7 +2753,7 @@ Luiz Francisco da Silva Souza
 79
 
 
- 500pr_pgnumber080
+ 500pr_pgnumber081
 190 
 
 O  que  tem  levado  os  produtores  de  mamão  a  adotar  a 
@@ -2815,7 +2802,7 @@ adubos via água de irrigação.
 80
 
 
- 500pr_pgnumber081
+ 500pr_pgnumber082
 193  Qual é o aumento de produtividade em áreas irrigadas?
 
 No mamoeiro ‘Sunrise Solo’, a produtividade em áreas de 
@@ -2860,7 +2847,7 @@ da maior mão de obra requerida.
 81
 
 
- 500pr_pgnumber082
+ 500pr_pgnumber083
 197 
 
 Quais  são  os  parâmetros  que  devem  ser  observados  na 
@@ -2902,7 +2889,7 @@ junto ao solo – low energy precision application (Lepa).
 82
 
 
- 500pr_pgnumber083
+ 500pr_pgnumber084
 200 
 
 Que  outro  sistema  de  irrigação  por  aspersão  pode  ser 
@@ -2949,7 +2936,7 @@ fileira de planta e emissores em faixa contínua.
 83
 
 
- 500pr_pgnumber084
+ 500pr_pgnumber085
 203 
 
 Quais as faixas de pressão e vazão de funcionamento dos 
@@ -2998,7 +2985,7 @@ textura média a argilosa para condições de clima subúmido ou
 84
 
 
- 500pr_pgnumber085
+ 500pr_pgnumber086
 úmido. No caso de clima semiárido, recomenda-se duas linhas 
 laterais de irrigação por fileira de plantas com quatro gotejadores 
 de mesma vazão sendo dois em cada linha lateral por planta.
@@ -3049,7 +3036,7 @@ entre 1.000 mm e 3.000 mm anuais.
 85
 
 
- 500pr_pgnumber086
+ 500pr_pgnumber087
 213  Qual o consumo diário de água por planta de mamoeiro?
 
 Trabalhos de pesquisa mostram que a aplicação de 20 L/planta/
@@ -3095,7 +3082,7 @@ hídrico.
 86
 
 
- 500pr_pgnumber087
+ 500pr_pgnumber088
 217 
 
 Quais  os  problemas  provocados  pelo  déficit  hídrico  no 
@@ -3142,7 +3129,7 @@ histórico da doença.
 87
 
 
- 500pr_pgnumber088
+ 500pr_pgnumber089
 220 
 
 Por que no caso de microirrigação deve-se evitar que o 
@@ -3192,7 +3179,7 @@ da produção.
 88
 
 
- 500pr_pgnumber089
+ 500pr_pgnumber090
 225 
 
 Quais os métodos usados na determinação do momento 
@@ -3241,7 +3228,7 @@ As vantagens são:
 89
 
 
- 500pr_pgnumber090
+ 500pr_pgnumber091
 •	 Redução da mão de obra e do custo de energia do sistema 
 
 de irrigação.
@@ -3291,7 +3278,7 @@ estádio fenológico e condições climáticas.
 90
 
 
- 500pr_pgnumber091
+ 500pr_pgnumber092
 •	 O  dossel  é  mantido  seco,  reduzindo  a  incidência  de 
 
 patógenos e queima das folhas.
@@ -3344,7 +3331,7 @@ O pH deve ser mantido entre 5 e 6,5.
 91
 
 
- 500pr_pgnumber092
+ 500pr_pgnumber093
 236  O que pode ocorrer em pH acima de 7,5?
 
 Pode  ocorrer  precipitação  de  elementos  antes  solúveis  na 
@@ -3397,7 +3384,7 @@ os ajustes conforme o desempenho da cultura.
 92
 
 
- 500pr_pgnumber093
+ 500pr_pgnumber094
 242 
 
 Como  tem  sido  efetuada  a  aplicação  de  fósforo  na 
@@ -3433,9 +3420,9 @@ inferior a 1,2 dS/m.
 93
 
 
- 500pr_pgnumber094
-
  500pr_pgnumber095
+
+ 500pr_pgnumber096
 6 Doenças
 
 Paulo Ernesto Meissner Filho
@@ -3454,7 +3441,7 @@ Dilson da Cunha Costa
 95
 
 
- 500pr_pgnumber096
+ 500pr_pgnumber097
 245 
 
 Quais as doenças de maior importância econômica para o 
@@ -3505,7 +3492,7 @@ As medidas gerais para controle de viroses são:
 96
 
 
- 500pr_pgnumber097
+ 500pr_pgnumber098
 de mudas, preferencialmente oriundas de pomares em 
 que não tenham ocorrido viroses.
 
@@ -3552,7 +3539,7 @@ virose.
 97
 
 
- 500pr_pgnumber098
+ 500pr_pgnumber099
 251 
 
 É possível obter plantas sadias a partir de plantas infectadas 
@@ -3600,7 +3587,7 @@ erradicação (roguing) frequente e precoce das plantas infectadas.
 98
 
 
- 500pr_pgnumber099
+ 500pr_pgnumber0100
 255 
 
 Existe alguma variedade que apresente resistência ao vírus-
@@ -3650,7 +3637,7 @@ sementes.
 99
 
 
- 500pr_pgnumber100
+ 500pr_pgnumber101
 260 
 
 Quais as principais culturas afetadas pelo vírus-da-mancha-
@@ -3702,7 +3689,7 @@ estendendo-se até o caule.
 100
 
 
- 500pr_pgnumber101
+ 500pr_pgnumber102
 263 
 
 Quando aparecem os sintomas provenientes da infecção 
@@ -3760,7 +3747,7 @@ A suscetibilidade ao vírus ocorre durante todo o ciclo da planta.
 101
 
 
- 500pr_pgnumber102
+ 500pr_pgnumber103
 267 
 
 O que acontece com plantas de mamoeiro muito jovens 
@@ -3806,7 +3793,7 @@ mosaico, por ser este um dos sintomas da doença.
 102
 
 
- 500pr_pgnumber103
+ 500pr_pgnumber104
 270 
 
 Qual  o  agente  causal  do  amarelo-letal-do-mamoeiro 
@@ -3856,7 +3843,7 @@ provocando a morte da planta.
 103
 
 
- 500pr_pgnumber104
+ 500pr_pgnumber105
 274 
 
 Quais  são  os  sintomas  das  plantas  de  variedades  do 
@@ -3914,7 +3901,7 @@ afastados de plantios velhos de mamoeiro.
 104
 
 
- 500pr_pgnumber105
+ 500pr_pgnumber106
 •	 Realizar a erradicação sistemática e precoce dos mamo-
 
 eiros infectados.
@@ -3959,7 +3946,7 @@ em andamento.
 105
 
 
- 500pr_pgnumber106
+ 500pr_pgnumber107
 283 
 
 Frutos  de  plantas  com  meleira  podem  se  tornar  mais 
@@ -4000,7 +3987,7 @@ Não. Eles só sobrevivem em plantas vivas.
 106
 
 
- 500pr_pgnumber107
+ 500pr_pgnumber108
 288 
 
 Quais são os principais métodos usados para diagnosticar 
@@ -4047,7 +4034,7 @@ considerada livre daquela virose em estudo.
 107
 
 
- 500pr_pgnumber108
+ 500pr_pgnumber109
 290  Quais as principais doenças fúngicas no mamoeiro?
 
 São o estiolamento ou tombamento das mudas, podridão-de-
@@ -4095,7 +4082,7 @@ disponível.
 108
 
 
- 500pr_pgnumber109
+ 500pr_pgnumber110
 294 
 
 Quais são as medidas que devem ser adotadas para evitar 
@@ -4144,7 +4131,7 @@ das plantas e das raízes.
 109
 
 
- 500pr_pgnumber110
+ 500pr_pgnumber111
 •	 Queda dos frutos.
 •	 Murchamento e curvatura do ápice foliar.
 •	 Na região do colo, as lesões são escuras e delimitadas por 
@@ -4190,7 +4177,7 @@ da lesão, raspar a área afetada e aplicar pasta cúprica.
 110
 
 
- 500pr_pgnumber111
+ 500pr_pgnumber112
 299  Qual o agente causal da antracnose?
 
 O fungo Colletotrichum gloeosporioides (Penz) Sacc.
@@ -4237,7 +4224,7 @@ O fungo Asperisporium caricae (Spey) Maubl.
 111
 
 
- 500pr_pgnumber112
+ 500pr_pgnumber113
 304 
 
 Quais  os  problemas  provocados  pela  varíola  ou  pinta-
@@ -4286,7 +4273,7 @@ planta.
 112
 
 
- 500pr_pgnumber113
+ 500pr_pgnumber114
 308  Como é feito o controle da varíola ou pinta-preta?
 
 Deve ser feito um monitoramento do pomar, para que sejam 
@@ -4335,7 +4322,7 @@ O fungo Corynespora cassiicola (Berk. & Curt.) Wei.
 113
 
 
- 500pr_pgnumber114
+ 500pr_pgnumber115
 Quais são os sintomas da mancha-de-Corynespora?
 
 312 
@@ -4379,7 +4366,7 @@ fúngico (Cladosporium sp. e Phoma sp.).
 114
 
 
- 500pr_pgnumber115
+ 500pr_pgnumber116
 318  Qual o tratamento para podridão-interna-do-mamão?
 
 O  tratamento  deve  ser  preventivo,  iniciando-se  na  época 
@@ -4429,7 +4416,7 @@ manchas amareladas, diminuição no tamanho das plantas
 115
 
 
- 500pr_pgnumber116
+ 500pr_pgnumber117
 •	 No 
 
 sistema 
@@ -4488,7 +4475,7 @@ Os sintomas são:
 116
 
 
- 500pr_pgnumber117
+ 500pr_pgnumber118
 •	 Clorose foliar.
 •	 Nanismo de plantas.
 •	 Murchamento durante as horas mais quentes do dia.
@@ -4538,7 +4525,7 @@ contaminadas por nematoides.
 117
 
 
- 500pr_pgnumber118
+ 500pr_pgnumber119
 •	 Construir  na  propriedade  pedilúvio  e  rodolúvio  para 
 trânsito, 
 
@@ -4590,7 +4577,7 @@ da falta de água.
 118
 
 
- 500pr_pgnumber119
+ 500pr_pgnumber120
 •	 Presença  de  espécies  de  plantas  e  ervas  daninhas 
 
 hospedeiras desses nematoides.
@@ -4623,9 +4610,9 @@ plantas do local afetado.
 119
 
 
- 500pr_pgnumber120
-
  500pr_pgnumber121
+
+ 500pr_pgnumber122
 7 Pragas
 
 Nilton Fritzons Sanches
@@ -4637,7 +4624,7 @@ Marilene Fancelli
 121
 
 
- 500pr_pgnumber122
+ 500pr_pgnumber123
 333  Quais são as principais pragas do mamoeiro?
 
 Causando danos diretos à cultura 
@@ -4676,7 +4663,7 @@ brotações laterais, se porventura existirem.
 122
 
 
- 500pr_pgnumber123
+ 500pr_pgnumber124
 338 
 
 Por que os ácaros-brancos se alojam na parte inferior das 
@@ -4726,7 +4713,7 @@ quase que somente às nervuras, o que propicia uma paralisação no
 123
 
 
- 500pr_pgnumber124
+ 500pr_pgnumber125
 crescimento (perda do ponteiro ou queda do chapéu do mamoeiro), 
 podendo levar a planta à morte.
 
@@ -4771,7 +4758,7 @@ misturas com óleos emulsionáveis ou produtos cúpricos.
 124
 
 
- 500pr_pgnumber125
+ 500pr_pgnumber126
 348  O ácaro-branco tece teias?
 
 Não.
@@ -4813,7 +4800,7 @@ populacional desses ácaros.
 125
 
 
- 500pr_pgnumber126
+ 500pr_pgnumber127
 353 
 
 Quais  são  as  características  das  fêmeas  dos  ácaros 
@@ -4856,7 +4843,7 @@ em média, 50 a 60 ovos.
 126
 
 
- 500pr_pgnumber127
+ 500pr_pgnumber128
 357 
 
 Quais  são  as  características  dos  ovos  dos  ácaros 
@@ -4899,7 +4886,7 @@ movimentação lateral.
 127
 
 
- 500pr_pgnumber128
+ 500pr_pgnumber129
 361  Qual o ciclo de vida da cigarrinha-verde? 
 
 O ciclo de vida desse inseto (de ovo a adulto) está ao redor de 
@@ -4946,7 +4933,7 @@ de importância quarentenária para países importadores de mamão,
 128
 
 
- 500pr_pgnumber129
+ 500pr_pgnumber130
 os  produtores  exportadores  dessa  fruteira  investem  no  controle 
 desse inseto. 
 
@@ -4994,7 +4981,7 @@ tipo sugador.
 129
 
 
- 500pr_pgnumber130
+ 500pr_pgnumber131
 A coloração varia de espécie para espécie: 
 •	 Aphis sp.: amarelo claro ao verde escuro. 
 •	 Toxoptera citricidus (Kirk.): marrom nas formas jovens, 
@@ -5041,7 +5028,7 @@ da Bahia, em baixa infestação.
 130
 
 
- 500pr_pgnumber131
+ 500pr_pgnumber132
 371 
 
 Quais  são  os  sintomas  provocados  pelo  ataque  da 
@@ -5088,7 +5075,7 @@ com  aspecto  vermiforme,  extremidade  anterior  afilada  e  posterior
 131
 
 
- 500pr_pgnumber132
+ 500pr_pgnumber133
 arredondada. Ela atinge 8 mm de comprimento na última fase de 
 desenvolvimento.
 
@@ -5136,7 +5123,7 @@ tornando flácida a região atacada do fruto.
 132
 
 
- 500pr_pgnumber133
+ 500pr_pgnumber134
 379 
 
 Em  que  fase  do  desenvolvimento  os  frutos  são  mais 
@@ -5186,7 +5173,7 @@ armadilhas para moscas-das-frutas.
 133
 
 
- 500pr_pgnumber134
+ 500pr_pgnumber135
 383 
 
 Como  fazer  o  monitoramento  das  moscas-das-frutas  no 
@@ -5235,7 +5222,7 @@ do system approach desenvolvido no Brasil.
 134
 
 
- 500pr_pgnumber135
+ 500pr_pgnumber136
 385  O que é o system approach?
 
 O  system  approach  pode  ser  traduzido  como  uma  análise 
@@ -5280,7 +5267,7 @@ de mamão.
 135
 
 
- 500pr_pgnumber136
+ 500pr_pgnumber137
 389  Quais são as características do mandarová? 
 
 É uma mariposa cujas asas são estreitas e podem chegar a até 
@@ -5327,7 +5314,7 @@ infestação intensa e generalizada.
 136
 
 
- 500pr_pgnumber137
+ 500pr_pgnumber138
 392  A lagarta-rosca é uma praga comum em mamoeiros? 
 
 Não. Ela não ocorre com muita frequência na cultura.
@@ -5376,9 +5363,9 @@ manchas que aparecem no local da picada.
 137
 
 
- 500pr_pgnumber138
-
  500pr_pgnumber139
+
+ 500pr_pgnumber140
 8 Colheita e Pós-Colheita
 
 Marcio Eduardo Canto Pereira
@@ -5388,7 +5375,7 @@ Valdique Martins Medina
 139
 
 
- 500pr_pgnumber140
+ 500pr_pgnumber141
 398 
 
 Quais são as características ideais de um fruto de mamoeiro 
@@ -5438,7 +5425,7 @@ completa a maturação na planta 4 a 6 meses após a abertura da flor.
 140
 
 
- 500pr_pgnumber141
+ 500pr_pgnumber142
 402 
 
 Como  se  identifica  o  momento  certo  da  colheita  do 
@@ -5484,7 +5471,7 @@ a um desentupidor de pia.
 141
 
 
- 500pr_pgnumber142
+ 500pr_pgnumber143
 O copo é encaixado no ápice do fruto, o qual é pressionado 
 
 contra o pedúnculo até sua completa ruptura. 
@@ -5526,7 +5513,7 @@ escorre dos frutos.
 142
 
 
- 500pr_pgnumber143
+ 500pr_pgnumber144
 410 
 
 Quais  são  as  vantagens  do  tratamento  pós-colheita  no 
@@ -5575,7 +5562,7 @@ resíduos.
 143
 
 
- 500pr_pgnumber144
+ 500pr_pgnumber145
 Além  disso,  deve  ser  observado  o  período  de  carência  do 
 
 fungicida utilizado.
@@ -5622,7 +5609,7 @@ líquida.
 144
 
 
- 500pr_pgnumber145
+ 500pr_pgnumber146
 418  Como é feita a diluição da cera?
 
 A diluição da cera é feita com água, na diluição de 1:4. Ou 
@@ -5664,7 +5651,7 @@ refrigeração ou boa circulação de ar.
 145
 
 
- 500pr_pgnumber146
+ 500pr_pgnumber147
 422  Como é feita a etiquetagem?
 
 A  etiquetagem  é  efetuada  manualmente,  porém  já  existem 
@@ -5708,7 +5695,7 @@ des  das  embalagens  devem
 146
 
 
- 500pr_pgnumber147
+ 500pr_pgnumber148
 ter furos para facilitar a ventilação e evitar o acúmulo de gás carbô-
 nico e etileno, liberados pelos frutos.
 
@@ -5756,7 +5743,7 @@ alterações na palatabilidade e aceleram a deterioração do fruto.
 147
 
 
- 500pr_pgnumber148
+ 500pr_pgnumber149
 A suscetibilidade a danos pelo frio é dependente da temperatura 
 e  do  tempo  de  exposição,  isto  é,  quanto  maior  o  tempo  de 
 armazenagem, maior a possibilidade de ocorrência de danos para 
@@ -5805,7 +5792,7 @@ não é permitido para aplicação pós-colheita em mamão.
 148
 
 
- 500pr_pgnumber149
+ 500pr_pgnumber150
 434 
 
 Há  alguma  outra  tecnologia  capaz  de  controlar  o 
@@ -5820,9 +5807,9 @@ pós-colheita de mamão.
 149
 
 
- 500pr_pgnumber150
-
  500pr_pgnumber151
+
+ 500pr_pgnumber152
 9 Formas de 
 
 Processamento
@@ -5836,7 +5823,7 @@ Ronielli Cardoso Reis
 151
 
 
- 500pr_pgnumber152
+ 500pr_pgnumber153
 435 
 
 Qual  é  a  composição  química  e  quais  os  principais 
@@ -5881,7 +5868,7 @@ não fermentado e não diluído, obtido da parte comestível do mamão,
 152
 
 
- 500pr_pgnumber153
+ 500pr_pgnumber154
 mediante  utilização  de  processos  tecnológicos  adequados.  Esse 
 produto deverá obedecer as seguintes características e composição: 
 cor  amarela  a  vermelha;  sabor  próprio;  aroma  próprio;  sólidos 
@@ -5923,7 +5910,7 @@ acidificada (pH de 3,7 a 3,8), é pasteurizada e acondicionada em
 153
 
 
- 500pr_pgnumber154
+ 500pr_pgnumber155
 embalagens  adequadas  (latas,  por  exemplo)  à  temperatura  de 
 pasteurização.
 
@@ -5965,7 +5952,7 @@ ratura por um curto período de tempo seguido do enchimento as-
 154
 
 
- 500pr_pgnumber155
+ 500pr_pgnumber156
 séptico.  A esterilização, nesse caso, é a esterilização  comercial 
 do  produto,  ou  seja,  o  processo  para  eliminação  dos  microrga-
 nismos  patogênicos  e  dos  que  podem  provocar  a  deterioração 
@@ -6005,7 +5992,7 @@ secas em estufa a temperatura de 40 °C a 60 °C e embaladas.
 155
 
 
- 500pr_pgnumber156
+ 500pr_pgnumber157
 450  Qual o procedimento para a produção de geleia de mamão? 
 
 Os  frutos  completamente  maduros  são  descascados,  as 
@@ -6047,7 +6034,7 @@ estabilidade ao produto.
 156
 
 
- 500pr_pgnumber157
+ 500pr_pgnumber158
 454  Quais são os métodos de extração da pectina em mamão?
 
 Existem dois métodos que se destacam na extração de pectina: 
@@ -6091,7 +6078,7 @@ de sucos no Brasil, por exemplo, é um dos resultados dessa situação.
 157
 
 
- 500pr_pgnumber158
+ 500pr_pgnumber159
 Nesse  sentido,  além  dos  nutrientes,  o  mamão  também  contém 
 compostos funcionais, que podem trazer benefícios à saúde, como 
 os  carotenoides,  os  compostos  fenólicos  e  a  vitamina  C.  Sucos 
@@ -6113,7 +6100,7 @@ doenças cardíacas.
 158
 
 
- 500pr_pgnumber159
+ 500pr_pgnumber160
 10 Comercialização, 
 
 Aspectos Econômicos 
@@ -6124,7 +6111,7 @@ José da Silva Souza
 159
 
 
- 500pr_pgnumber160
+ 500pr_pgnumber161
 460  Qual a importância do mamão no comércio mundial?
 
 O mamão é a quarta fruta tropical em importância econômica, 
@@ -6174,7 +6161,7 @@ causados  por  ácaros  e/ou  doenças  fúngicas.  A  polpa  torna-se
 160
 
 
- 500pr_pgnumber161
+ 500pr_pgnumber162
 menos  consistente,  porém  mais  saborosa  e  com  maior  teor  de 
 sólidos solúveis totais (16% a 18%). 
 
@@ -6221,7 +6208,7 @@ que reduz seu valor comercial.
 161
 
 
- 500pr_pgnumber162
+ 500pr_pgnumber163
 467 
 
 Como é feita a comercialização dos frutos de mamão nos 
@@ -6273,7 +6260,7 @@ menos lucrativa.
 162
 
 
- 500pr_pgnumber163
+ 500pr_pgnumber164
 Em todos os casos, a colheita, o beneficiamento e o transporte 
 do  produto  são  etapas  da  comercialização  que  devem  ser 
 realizadas com alguns cuidados, para que sejam minimizadas as 
@@ -6315,7 +6302,7 @@ caixas.
 163
 
 
- 500pr_pgnumber164
+ 500pr_pgnumber165
 472 
 
 Um  caminhão  transporta  a  mesma  quantidade  de  frutos 
@@ -6363,7 +6350,7 @@ transportados tanto em caixas plásticas como a granel.
 164
 
 
- 500pr_pgnumber165
+ 500pr_pgnumber166
 476 
 
 Por  quanto  tempo  o  mamão  pode  suportar  o  transporte 
@@ -6404,7 +6391,7 @@ México.
 165
 
 
- 500pr_pgnumber166
+ 500pr_pgnumber167
 482 
 
 Quais  os  principais  estados  brasileiros  produtores  de 
@@ -6449,7 +6436,7 @@ exportado para os Estados Unidos.
 166
 
 
- 500pr_pgnumber167
+ 500pr_pgnumber168
 A partir de 1997, essa barreira foi rompida, com a autorização 
 pelo  Departamento  de  Agricultura  dos  Estados  Unidos  (Usda), 
 permitindo a entrada regular de frutos oriundos do Brasil.
@@ -6497,7 +6484,7 @@ preços mais baixos), além de aumentar a regularidade da oferta
 167
 
 
- 500pr_pgnumber168
+ 500pr_pgnumber169
 da fruta no exterior, contribuirá para reduzir a variação dos pre-
 ços no mercado interno.
 
@@ -6552,7 +6539,7 @@ portuárias.
 168
 
 
- 500pr_pgnumber169
+ 500pr_pgnumber170
 495  Qual o custo de implantação e manutenção de um mamoal? 
 
 Esse  custo  é  variável  em  função  de  diversos  fatores,  como 
@@ -6598,7 +6585,7 @@ passam a ser o segundo mais importante,
 169
 
 
- 500pr_pgnumber170
+ 500pr_pgnumber171
 pois nesse ano os gastos com insumos decrescem bastante, tendo 
 esses uma participação de apenas 8,28% dos custos totais.
 
@@ -6625,40 +6612,4 @@ integrada e produção orgânica.
 
 170
 
-
- 500pr_pgnumber171
-Mais alguma pergunta?
-
-Caso tenha mais alguma pergunta preencha
-nosso formulário de atendimento na internet.
-
-Clique no link para acessar o formulário:
-
-  http://mais500p500r.sct.embrapa.br/view/form.php?id=90000024
-
-•••
-
-
- 500pr_pgnumber172
-Conheça outros títulos da Coleção 
-
-500 Perguntas 500 Respostas
-
-Visite o site no seguinte endereço:
- www.embrapa.br/mais500p500r
-
-•••
-
-
- 500pr_pgnumber173
-172
-
-
- 500pr_pgnumber174
-Impressão e acabamento
-
-Embrapa Informação Tecnológica
-
-
- 500pr_pgnumber175
 
