@@ -11,6 +11,7 @@ from fuzzywuzzy import fuzz
 import pickle
 import os
 import json
+from core.data import *
 
 basepath = os.path.dirname(__file__)
 
@@ -65,6 +66,8 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
     respostas = []
     perguntas = []
     paginas = []
+    nomeLivro = []
+    nomeLivroTratado = ""
     try:
         file = open(filepath,"r")#Abre o arquivo de texto
         file = file.read()
@@ -106,6 +109,12 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         else:
             lastTrue = paginas[i]
 
+    x = 0
+    nomeLivroTratado = corrigeNome(filename)
+    while x != 500:
+        nomeLivro.append(nomeLivroTratado)
+        x += 1
+
     respostas = limpaTexto(respostas)
     respostas = limpaRespostas(respostas)
     perguntas = limpaTexto(perguntas)
@@ -113,20 +122,22 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
 
 
 
-    conjunto = [perguntas,respostas,paginas]
+    conjunto = [perguntas,respostas,paginas,nomeLivro]
     filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + filename + ".txt"))
     with open(filepath, 'wb') as fp:
        pickle.dump(conjunto, fp)
 
 
 def run(perguntaUser, livro):
+    if(livro) == "todos":
+        return runAll(perguntaUser)
     filepath = os.path.abspath(os.path.join(basepath, "..", "txt", "500pr_procTxt_" + livro + ".txt"))
     with open(filepath, 'rb') as file:
         lista = pickle.load(file)
-
     perguntas = lista[0]
     respostas = lista[1]
     paginas = lista[2]
+    nomeLivro = lista[3]
 
     listaRatio = []
     i = 0
@@ -138,16 +149,28 @@ def run(perguntaUser, livro):
     sortedList = sorted(listaRatio, key=lambda l: l[1],reverse=True)[:3]
 
     top3 = {"0": {"pergunta": perguntas[sortedList[0][0]], "resposta": respostas[sortedList[0][0]],
-                  "pagina": paginas[sortedList[0][0]], "ratio": sortedList[0][1]},
+                  "pagina": paginas[sortedList[0][0]], "ratio": sortedList[0][1], "nomeLivro":nomeLivro[sortedList[0][0]]},
             "1": {"pergunta": perguntas[sortedList[1][0]], "resposta": respostas[sortedList[1][0]],
-                  "pagina": paginas[sortedList[1][0]], "ratio": sortedList[1][1]},
+                  "pagina": paginas[sortedList[1][0]], "ratio": sortedList[1][1], "nomeLivro":nomeLivro[sortedList[0][0]]},
             "2": {"pergunta": perguntas[sortedList[2][0]], "resposta": respostas[sortedList[2][0]],
-                  "pagina": paginas[sortedList[2][0]], "ratio": sortedList[2][1]}
+                  "pagina": paginas[sortedList[2][0]], "ratio": sortedList[2][1], "nomeLivro":nomeLivro[sortedList[0][0]]}
             }
 
-    #0 = pergunta similar, 1 = resposta da pergunta, 2 = pagina encontrada, 3 = ratio da resposta
+    #0 = pergunta similar, 1 = resposta da pergunta, 2 = pagina encontrada, 3 = ratio da resposta, 4 nome do livro
     return top3
 
+def runAll(perguntaUser):
+    lista = []
+    listaLivros = getListaLivros()
+    newTop3 = {}
+    for i in range(0,len(listaLivros)):
+        top3 = (run(perguntaUser, listaLivros[i][0]))
+        for x in range(0,3):
+            lista.append(top3[str(x)])
+    sortedList = sorted(lista, key=lambda l: l["ratio"], reverse=True)[:3]
+    for i in range(0,3):
+        newTop3[str(i)] = sortedList[i]
+    return newTop3
 
 def checkRatio(str1, str2):
     bestRatio = 0
@@ -196,3 +219,10 @@ def limpaRespostas(listaentrada):
         except IndexError:
             pass
     return listasaida
+
+def corrigeNome(nomeLivro):
+    lista = getListaLivros()
+    for dadosLivro in lista:
+        if nomeLivro == dadosLivro[0]:
+            nomeLivroTratado = dadosLivro[5]
+    return nomeLivroTratado

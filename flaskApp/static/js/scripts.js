@@ -65,7 +65,7 @@ function exibirResp() {
                 '<div class="cxresp">',
                     '<div class="tit">Resposta Similar:</div>',
                     '{{resposta}}',
-                    '<div class="pag">Página(s) no livro: {{pagina}} - Proximidade: {{ratio}}%</div>',
+                    '<div class="pag">Página(s) no livro: {{pagina}} - Proximidade: {{ratio}}%</div> - Livro: {{nomeLivro}}</div>',
                 '</div>',
             '</div>',
         '</div>'
