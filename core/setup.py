@@ -1,11 +1,11 @@
 from core.functions import *
 from core.data import *
-import os, pickle
-#IMPORTA A LISTA DE LIVROS
+
+#Importa a lista de livros que está no arquivo "data"
 def importaLista():
     return getListaLivros()
 
-#PEGA TODOS OS PDFS E CONVERTE EM TXT
+#Itera por todos os pdfs na lista e transforma em texto
 def pdf2text():
     lista = importaLista()
     for i in range(0,len(lista)-1):
@@ -21,10 +21,4 @@ def text2answers():
 
 
 #pdf2text()
-text2answers()
-
-#getAnswers(importaLista()[0][0], importaLista()[0][3])
-
-#RICINO
-#getText("ricino",0) #EM ESPANHOL
-#getAnswers("ricino", "XXXXXXXXXXXXXXXXXXXXXXX") #EM ESPANHOL
+#text2answers()

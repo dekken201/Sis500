@@ -1,19 +1,18 @@
 #IMPORTAÇÕES:
-#PDF MINER
+#PDF MINER - pacotes necessários para realizar extração do texto dos PDFs
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
-#OUTROS
-import re
-from fuzzywuzzy import fuzz
-import pickle
-import os
-import json
-from core.data import *
+#OUTRAS IMPORTAÇÕES
+import re  #Importa o módulo interno para uso de expressões regulares
+from fuzzywuzzy import fuzz  #Importa a biblioteca "fuzzyWuzzy"(distãncia de levenshtein)
+import pickle  #importa pickle(serialização e deserialização de arquivos)
+import os  #biblioteca para comunicação com o sistema(salvamento e abertura de arquivos)
+from core.data import *  #importa as funções e dados contidos neste projeto
 
-basepath = os.path.dirname(__file__)
+basepath = os.path.dirname(__file__)  #Cria o diretório base com relação ao diretório atual deste arquivo
 
 
 #FUNÇÕES:
@@ -23,7 +22,6 @@ def getText(pdfname,pageZero,pageEnd): #Função que extrai o texto do pdf, usan
     retstr = StringIO()
     codec = 'utf-8'
     laparams = LAParams()
-
     filepath = os.path.abspath(os.path.join(basepath, "..", "pdf", "500pr","500pr_"+pdfname+".pdf"))
     device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
     fp = open(filepath, 'rb') #Pega o arquivo do pdf no caminho especificado
@@ -34,17 +32,17 @@ def getText(pdfname,pageZero,pageEnd): #Função que extrai o texto do pdf, usan
     pagenos=set()
     #Roda um loop, usando todos os atributos anteriores, interpretando o pdf por página e realizando a conversão
     for pagenumber, page in enumerate(PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True)):
-        if (pagenumber < pageZero -1) or (pagenumber >= pageEnd): #Pula as primeiras 16 páginas, que não possuem nenhuma pergunta/resposta
+        if (pagenumber < pageZero -1) or (pagenumber >= pageEnd): #Pula as primeiras páginas, que não possuem nenhuma pergunta/resposta
             pass
         else:
+            #Enquanto itera pelas páginas, adiciona ao topo de capa uma uma string reconhecível para salvarmos o número da página
             if pagenumber >= 100:
                 retstr.write("\n 500pr_pgnumber" + str(pagenumber + 1) +"\n")
             else:
                 retstr.write("\n 500pr_pgnumber0" + str(pagenumber + 1) +"\n")
             interpreter.process_page(page)
 
-
-    text = retstr.getvalue()
+    text = retstr.getvalue()  #salva o texto gerado pela iteração anterior na variável text
 
     fp.close()
     device.close()
@@ -72,7 +70,7 @@ def getAnswers(filename,perguntaZero): #Função que separa as perguntas e respo
         file = open(filepath,"r")#Abre o arquivo de texto
         file = file.read()
     except UnicodeDecodeError:
-        file = open(filepath, "r",encoding='utf-8')  # Abre o arquivo de texto
+        file = open(filepath, "r",encoding='utf-8')
         file = file.read()
 
     rgx = re.compile('(?<=\.)[^.]*$')  # Compilação do regex a ser utilizado no loop
@@ -178,7 +176,10 @@ def checkRatio(str1, str2):
               fuzz.token_set_ratio(str1, str2)]
     for ratio in ratios:
         if ratio > bestRatio:
-            bestRatio = ratio
+            if (len(str1) <= 5) or (len(str2) <=5):
+                bestRatio = 25
+            else:
+                bestRatio = ratio
     return bestRatio
 
 
